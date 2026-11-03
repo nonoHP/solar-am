@@ -2,7 +2,7 @@ window.SOLAR_ARCHIVE_DATA = {
   "total_count": 598,
   "pdf_count": 582,
   "updated_at": "2026-11-03 12:11 JST",
-  "gdrive_folder_url": "https://drive.google.com/open?id=1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z&usp=drive_fs",
+  "gdrive_folder_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
   "items": [
     {
       "id": 1,
@@ -11,9 +11,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2026年の再生可能エネルギー政策の課題_プレゼンテーション資料.pdf",
+      "display_title": "2026年の再生可能エネルギー政策の課題_プレゼンテーション資料.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/12883.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 2,
@@ -22,9 +31,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2026年の再生可能エネルギー政策の課題_続く太陽光の増加とサプライチェーンにおける中国リスク.pdf",
+      "display_title": "2026年の再生可能エネルギー政策の課題_続く太陽光の増加とサプライチェーンにおける中国リスク.pdf",
       "type": "PDF",
       "size": "193 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/12882.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 3,
@@ -33,9 +51,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2026年の電力政策の課題 ー電力需要増加に対し如何に中長期的に供給力を確保していくかー（要旨）.pdf",
+      "display_title": "2026年の電力政策の課題 ー電力需要増加に対し如何に中長期的に供給力を確保していくかー（要旨）.pdf",
       "type": "PDF",
       "size": "258 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 4,
@@ -44,9 +71,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2026年水素等・CCS政策の課題_本格社会実装への取り組み.pdf",
+      "display_title": "2026年水素等・CCS政策の課題_本格社会実装への取り組み.pdf",
       "type": "PDF",
       "size": "207 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/12884.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 5,
@@ -55,9 +91,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2026年水素等・CCS政策の課題_本格社会実装への取り組み_PPT資料.pdf",
+      "display_title": "2026年水素等・CCS政策の課題_本格社会実装への取り組み_PPT資料.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/12885.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 6,
@@ -66,9 +111,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2030年エネルギーミックス達成に向けた太陽光追加導入可能量の検証.pdf",
+      "display_title": "2030年エネルギーミックス達成に向けた太陽光追加導入可能量の検証.pdf",
       "type": "PDF",
       "size": "166 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/12520.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 7,
@@ -77,9 +131,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2050年までの世界エネルギー需給見通し_要旨.pdf",
+      "display_title": "2050年までの世界エネルギー需給見通し_要旨.pdf",
       "type": "PDF",
       "size": "629 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/13602.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 8,
@@ -88,9 +151,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2050年までの世界エネルギー需給見通し（PPT）.pdf",
+      "display_title": "2050年までの世界エネルギー需給見通し（PPT）.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 9,
@@ -99,9 +171,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2050年までの日本のエネルギーシナリオ_システムコストの低減に向けた電力システム変革.pdf",
+      "display_title": "2050年までの日本のエネルギーシナリオ_システムコストの低減に向けた電力システム変革.pdf",
       "type": "PDF",
       "size": "4.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13359.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 10,
@@ -110,9 +192,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_2050年までの日本のエネルギーシナリオ_重要鉱物の供給障害による経済影響と再エネ機器供給網.pdf",
+      "display_title": "2050年までの日本のエネルギーシナリオ_重要鉱物の供給障害による経済影響と再エネ機器供給網.pdf",
       "type": "PDF",
       "size": "6.5 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保",
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13361.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 11,
@@ -121,9 +213,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_AIとエネルギー需要の将来（PPT）.pdf",
+      "display_title": "AIとエネルギー需要の将来（PPT）.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 12,
@@ -132,9 +233,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_AIとエネルギー需要の将来（要旨）.pdf",
+      "display_title": "AIとエネルギー需要の将来（要旨）.pdf",
       "type": "PDF",
       "size": "140 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 13,
@@ -143,9 +253,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_Energy_Journal_Vol21_No2_再エネ大量導入下の電力システム改革.pdf",
+      "display_title": "Energy_Journal_Vol21_No2_再エネ大量導入下の電力システム改革.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13265.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 14,
@@ -154,9 +273,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_Energy_Journal_Vol21_No3_カーボンニュートラル社会に向けたエネルギー安全保障.pdf",
+      "display_title": "Energy_Journal_Vol21_No3_カーボンニュートラル社会に向けたエネルギー安全保障.pdf",
       "type": "PDF",
       "size": "5.7 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13456.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 15,
@@ -165,9 +293,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_FITからFIP制度への移行実績と事業者のリスクヘッジ戦略.pdf",
+      "display_title": "FITからFIP制度への移行実績と事業者のリスクヘッジ戦略.pdf",
       "type": "PDF",
       "size": "5.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "FIT/FIP"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12505.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 16,
@@ -176,9 +313,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_アジアを中心とする化石燃料・電力インフラ安全保障_要旨.pdf",
+      "display_title": "アジアを中心とする化石燃料・電力インフラ安全保障_要旨.pdf",
       "type": "PDF",
       "size": "663 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13603.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 17,
@@ -187,9 +334,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_データセンター増加がもたらす電力安全保障問題（PPT）.pdf",
+      "display_title": "データセンター増加がもたらす電力安全保障問題（PPT）.pdf",
       "type": "PDF",
       "size": "3.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 18,
@@ -198,9 +355,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_データセンター増加がもたらす電力安全保障問題（要旨）.pdf",
+      "display_title": "データセンター増加がもたらす電力安全保障問題（要旨）.pdf",
       "type": "PDF",
       "size": "600 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 19,
@@ -209,9 +376,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_再生可能エネルギー発電の拡大と安全保障の課題（PPT）.pdf",
+      "display_title": "再生可能エネルギー発電の拡大と安全保障の課題（PPT）.pdf",
       "type": "PDF",
       "size": "2.7 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 20,
@@ -220,9 +396,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_再生可能エネルギー発電の拡大と安全保障の課題（要旨）.pdf",
+      "display_title": "再生可能エネルギー発電の拡大と安全保障の課題（要旨）.pdf",
       "type": "PDF",
       "size": "707 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 21,
@@ -231,9 +416,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_化石燃料の安全保障 - アジアを中心に -（PPT）.pdf",
+      "display_title": "化石燃料の安全保障 - アジアを中心に -（PPT）.pdf",
       "type": "PDF",
       "size": "3.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 22,
@@ -242,9 +436,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_国際エネルギー情勢ヘッドライン_2026年秋季動向.pdf",
+      "display_title": "国際エネルギー情勢ヘッドライン_2026年秋季動向.pdf",
       "type": "PDF",
       "size": "29 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/news/headline/hl261030.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 23,
@@ -253,9 +456,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_大転換期の国際エネルギー秩序_第60周年記念出版企画.pdf",
+      "display_title": "大転換期の国際エネルギー秩序_第60周年記念出版企画.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13362.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 24,
@@ -264,9 +476,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_情勢変化を受けて拡大するエネルギー安全保障問題（PPT）.pdf",
+      "display_title": "情勢変化を受けて拡大するエネルギー安全保障問題（PPT）.pdf",
       "type": "PDF",
       "size": "589 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 25,
@@ -275,9 +496,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_最新エネルギーセミナー報_国際気候枠組と日本の針路.pdf",
+      "display_title": "最新エネルギーセミナー報_国際気候枠組と日本の針路.pdf",
       "type": "PDF",
       "size": "124 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/whatsnew_op/ieejenergyseminar/261203.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 26,
@@ -286,9 +516,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_最適化モデルによる2050年までのシナリオ分析_需給見通しから考える日本のエネルギーの未来.pdf",
+      "display_title": "最適化モデルによる2050年までのシナリオ分析_需給見通しから考える日本のエネルギーの未来.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13358.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 27,
@@ -297,9 +536,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_次世代型地熱発電と再エネ電源分散化の導入促進策.pdf",
+      "display_title": "次世代型地熱発電と再エネ電源分散化の導入促進策.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12621.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 28,
@@ -308,9 +556,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_欧米における再エネ支援政策の変遷と日本への示唆.pdf",
+      "display_title": "欧米における再エネ支援政策の変遷と日本への示唆.pdf",
       "type": "PDF",
       "size": "622 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12511.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 29,
@@ -319,9 +576,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_第7次エネルギー基本計画の実現に向けた電力安定供給の課題 －予見性を伴う事業環境の整備－（要旨）.pdf",
+      "display_title": "第7次エネルギー基本計画の実現に向けた電力安定供給の課題 －予見性を伴う事業環境の整備－（要旨）.pdf",
       "type": "PDF",
       "size": "115 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 30,
@@ -330,9 +597,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_第7次エネルギー基本計画の実現に向けた電力安定供給の課題_予見性を伴う事業環境の整備.pdf",
+      "display_title": "第7次エネルギー基本計画の実現に向けた電力安定供給の課題_予見性を伴う事業環境の整備.pdf",
       "type": "PDF",
       "size": "675 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": true,
+      "direct_url": "https://eneken.ieej.or.jp/data/12606.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 31,
@@ -341,9 +618,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_第7次エネ基に向けた水素・CCS政策と再エネ統合の課題.pdf",
+      "display_title": "第7次エネ基に向けた水素・CCS政策と再エネ統合の課題.pdf",
       "type": "PDF",
       "size": "156 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12609.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 32,
@@ -352,9 +638,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_第7次エネ基に向けた水素・CCS政策と再エネ統合の課題_PPT資料.pdf",
+      "display_title": "第7次エネ基に向けた水素・CCS政策と再エネ統合の課題_PPT資料.pdf",
       "type": "PDF",
       "size": "673 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12610.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 33,
@@ -363,9 +658,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_脱炭素エネルギー導入拡大と洋上風力・太陽光の立地協調.pdf",
+      "display_title": "脱炭素エネルギー導入拡大と洋上風力・太陽光の立地協調.pdf",
       "type": "PDF",
       "size": "442 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12760.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 34,
@@ -374,9 +678,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_重要鉱物の安全保障問題（PPT）.pdf",
+      "display_title": "重要鉱物の安全保障問題（PPT）.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 35,
@@ -385,9 +698,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "IEEJ_重要鉱物の安全保障問題（要旨）.pdf",
+      "display_title": "重要鉱物の安全保障問題（要旨）.pdf",
       "type": "PDF",
       "size": "660 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 36,
@@ -396,9 +718,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "JPEA_PV_OUTLOOK_2050_2024年度改訂版.pdf",
+      "display_title": "PV_OUTLOOK_2050_2024年度改訂版.pdf",
       "type": "PDF",
       "size": "12.8 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "太陽光発電協会（JPEA）による設計・施工技術および長期導入ビジョンの原本。架台強度、電気保安、品質基準の公式業界スタンダード。",
+      "is_featured": true,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/pv_outlook2050_2024ver.1.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 37,
@@ -407,9 +738,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_1_【北海道】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "1_【北海道】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 38,
@@ -418,9 +758,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_2022 年度冬季の電力需給の見通しと節電のお願いについて.pdf",
+      "display_title": "2022 年度冬季の電力需給の見通しと節電のお願いについて.pdf",
       "type": "PDF",
       "size": "149 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 39,
@@ -429,9 +778,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_2022年度の電力需給の見通しと節電のご協力のお願いについて.pdf",
+      "display_title": "2022年度の電力需給の見通しと節電のご協力のお願いについて.pdf",
       "type": "PDF",
       "size": "868 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 40,
@@ -440,9 +798,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_2023年度夏季の電力需給の見通しと節電のお願いについて.pdf",
+      "display_title": "2023年度夏季の電力需給の見通しと節電のお願いについて.pdf",
       "type": "PDF",
       "size": "113 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 41,
@@ -451,9 +818,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_2_【東北】2025年度三次調整力②の必要量に係る事後評価の結果について.pdf",
+      "display_title": "2_【東北】2025年度三次調整力②の必要量に係る事後評価の結果について.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 42,
@@ -462,9 +838,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_3_【東京】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "3_【東京】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 43,
@@ -473,9 +858,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_4_【中部】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "4_【中部】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 44,
@@ -484,9 +878,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_5_【北陸】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "5_【北陸】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 45,
@@ -495,9 +898,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6_【関西】2025年度三次調整力②の必要量に係る事後評価の結果について.pdf",
+      "display_title": "6_【関西】2025年度三次調整力②の必要量に係る事後評価の結果について.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 46,
@@ -506,9 +918,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月28日おける電力需給ひっ迫注意報の発令に伴う 節電のお願いについて（第3報）.pdf",
+      "display_title": "6月28日おける電力需給ひっ迫注意報の発令に伴う 節電のお願いについて（第3報）.pdf",
       "type": "PDF",
       "size": "97 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 47,
@@ -517,9 +939,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月28日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第4報）.pdf",
+      "display_title": "6月28日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第4報）.pdf",
       "type": "PDF",
       "size": "84 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 48,
@@ -528,9 +960,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月29日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第5報）.pdf",
+      "display_title": "6月29日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第5報）.pdf",
       "type": "PDF",
       "size": "100 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 49,
@@ -539,9 +981,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月29日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第6報）.pdf",
+      "display_title": "6月29日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第6報）.pdf",
       "type": "PDF",
       "size": "83 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 50,
@@ -550,9 +1002,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月29日における電力需給ひっ迫準備情報の発信に伴う 節電に向けた準備のお願いについて.pdf",
+      "display_title": "6月29日における電力需給ひっ迫準備情報の発信に伴う 節電に向けた準備のお願いについて.pdf",
       "type": "PDF",
       "size": "98 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 51,
@@ -561,9 +1023,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月30日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第7報）.pdf",
+      "display_title": "6月30日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第7報）.pdf",
       "type": "PDF",
       "size": "100 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 52,
@@ -572,9 +1044,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月30日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第8報）.pdf",
+      "display_title": "6月30日における電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第8報）.pdf",
       "type": "PDF",
       "size": "83 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 53,
@@ -583,9 +1065,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_6月30日における電力需給ひっ迫準備情報の発信に伴う節電に向けた準備のお願いについて.pdf",
+      "display_title": "6月30日における電力需給ひっ迫準備情報の発信に伴う節電に向けた準備のお願いについて.pdf",
       "type": "PDF",
       "size": "98 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 54,
@@ -594,9 +1086,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_7_【中国】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "7_【中国】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "2.7 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 55,
@@ -605,9 +1106,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_8_【四国】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "8_【四国】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 56,
@@ -616,9 +1126,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_9_【九州】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "9_【九州】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 57,
@@ -627,9 +1146,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_「送配電コンプライアンス委員会」の設置について.pdf",
+      "display_title": "「送配電コンプライアンス委員会」の設置について.pdf",
       "type": "PDF",
       "size": "144 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 58,
@@ -638,9 +1166,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_「送配電網投資・運用効率化委員会」の設置について.pdf",
+      "display_title": "「送配電網投資・運用効率化委員会」の設置について.pdf",
       "type": "PDF",
       "size": "227 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 59,
@@ -649,9 +1186,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_【官民連携フォーラム基調講演資料】人と技術がともに成長する2040年の送配電事業.pdf",
+      "display_title": "【官民連携フォーラム基調講演資料】人と技術がともに成長する2040年の送配電事業.pdf",
       "type": "PDF",
       "size": "4.6 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 60,
@@ -660,9 +1206,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_一般社団法人送配電網協議会 役員人事.pdf",
+      "display_title": "一般社団法人送配電網協議会 役員人事.pdf",
       "type": "PDF",
       "size": "108 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 61,
@@ -671,9 +1226,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_一般送配電事業者の行為規制等に関する行動指針 2026.5.13改定.pdf",
+      "display_title": "一般送配電事業者の行為規制等に関する行動指針 2026.5.13改定.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電網協議会（TDGC）による一般送配電事業者の行為規制等に関する行動指針原本。系統接続や情報管理の公平性担保ルールを規定。",
+      "is_featured": true,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 62,
@@ -682,9 +1246,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_一般送配電事業者の行為規制等に関する行動指針.pdf",
+      "display_title": "一般送配電事業者の行為規制等に関する行動指針.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電網協議会（TDGC）による一般送配電事業者の行為規制等に関する行動指針原本。系統接続や情報管理の公平性担保ルールを規定。",
+      "is_featured": true,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 63,
@@ -693,9 +1266,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_一般送配電事業者の行為規制等に関する行動指針_公表原本.pdf",
+      "display_title": "一般送配電事業者の行為規制等に関する行動指針_公表原本.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電網協議会（TDGC）による一般送配電事業者の行為規制等に関する行動指針原本。系統接続や情報管理の公平性担保ルールを規定。",
+      "is_featured": false,
+      "direct_url": "https://www.tdgc.jp/compliance/docs/一般送配電事業者の行為規制等に関する行動指針.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 64,
@@ -704,9 +1286,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_災害時連携計画 【別添1】 応援実施要領.pdf",
+      "display_title": "災害時連携計画 【別添1】 応援実施要領.pdf",
       "type": "PDF",
       "size": "400 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 65,
@@ -715,9 +1306,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_災害時連携計画 【別添6】 移動用変電設備の融通方法.pdf",
+      "display_title": "災害時連携計画 【別添6】 移動用変電設備の融通方法.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 66,
@@ -726,9 +1326,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_災害時連携計画 【別添8】 共同訓練実施要領.pdf",
+      "display_title": "災害時連携計画 【別添8】 共同訓練実施要領.pdf",
       "type": "PDF",
       "size": "149 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 67,
@@ -737,9 +1346,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_災害時連携計画 【別添9】 需給状況改善・系統復旧方針.pdf",
+      "display_title": "災害時連携計画 【別添9】 需給状況改善・系統復旧方針.pdf",
       "type": "PDF",
       "size": "479 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 68,
@@ -748,9 +1366,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第 7 回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第 7 回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "222 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 69,
@@ -759,9 +1386,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第10回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第10回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "200 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 70,
@@ -770,9 +1406,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第11回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第11回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "197 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 71,
@@ -781,9 +1426,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第12回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第12回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "169 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 72,
@@ -792,9 +1446,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第13回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第13回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "176 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 73,
@@ -803,9 +1466,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第14回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第14回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "162 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 74,
@@ -814,9 +1486,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第15回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第15回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "158 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 75,
@@ -825,9 +1506,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第16回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第16回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "127 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 76,
@@ -836,9 +1526,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第17回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第17回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "119 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 77,
@@ -847,9 +1546,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第18回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第18回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "94 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 78,
@@ -858,9 +1566,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第19回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第19回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "113 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 79,
@@ -869,9 +1586,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第1回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第1回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "128 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 80,
@@ -880,9 +1606,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第1回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第1回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "223 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 81,
@@ -891,9 +1626,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第20回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第20回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "154 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 82,
@@ -902,9 +1646,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第21回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第21回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "179 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 83,
@@ -913,9 +1666,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第22回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第22回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "183 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 84,
@@ -924,9 +1686,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第23回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第23回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "203 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 85,
@@ -935,9 +1706,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第24回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第24回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "161 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 86,
@@ -946,9 +1726,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第25回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第25回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "179 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 87,
@@ -957,9 +1746,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第2回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第2回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "136 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 88,
@@ -968,9 +1766,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第2回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第2回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "227 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 89,
@@ -979,9 +1786,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第3回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第3回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "167 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 90,
@@ -990,9 +1806,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第3回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第3回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "242 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 91,
@@ -1001,9 +1826,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第4回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第4回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "140 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 92,
@@ -1012,9 +1846,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第4回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第4回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "283 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 93,
@@ -1023,9 +1866,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第5回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第5回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "159 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 94,
@@ -1034,9 +1886,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第6回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第6回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "159 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 95,
@@ -1045,9 +1906,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第7回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第7回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "152 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 96,
@@ -1056,9 +1926,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第8回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第8回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "190 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 97,
@@ -1067,9 +1946,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_第9回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第9回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "183 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 98,
@@ -1078,9 +1966,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_資料0_第7回送配電網投資運用効率化委員会_議事次第、出席者.pdf",
+      "display_title": "資料0_第7回送配電網投資運用効率化委員会_議事次第、出席者.pdf",
       "type": "PDF",
       "size": "126 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 99,
@@ -1089,9 +1986,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_資料1_一般送配電事業者における保全高度化の取組みについて.pdf",
+      "display_title": "資料1_一般送配電事業者における保全高度化の取組みについて.pdf",
       "type": "PDF",
       "size": "3.5 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 100,
@@ -1100,9 +2006,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_送配電コンプライアンス行動宣言.pdf",
+      "display_title": "送配電コンプライアンス行動宣言.pdf",
       "type": "PDF",
       "size": "110 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 101,
@@ -1111,9 +2026,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_送配電網協議会_役員人事（2023年5月理事会決定）.pdf",
+      "display_title": "送配電網協議会_役員人事（2023年5月理事会決定）.pdf",
       "type": "PDF",
       "size": "83 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 102,
@@ -1122,9 +2046,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_送配電網協議会_役員人事（2023年6月総会決定）.pdf",
+      "display_title": "送配電網協議会_役員人事（2023年6月総会決定）.pdf",
       "type": "PDF",
       "size": "96 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 103,
@@ -1133,9 +2066,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_送配電網協議会の一般社団法人化について.pdf",
+      "display_title": "送配電網協議会の一般社団法人化について.pdf",
       "type": "PDF",
       "size": "104 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 104,
@@ -1144,9 +2086,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第2報）.pdf",
+      "display_title": "電力需給ひっ迫注意報の発令に伴う節電のお願いについて（第2報）.pdf",
       "type": "PDF",
       "size": "87 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 105,
@@ -1155,9 +2107,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_電力需給ひっ迫注意報の解除および節電へのご協力のお礼について（最終報）.pdf",
+      "display_title": "電力需給ひっ迫注意報の解除および節電へのご協力のお礼について（最終報）.pdf",
       "type": "PDF",
       "size": "75 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 106,
@@ -1166,9 +2128,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_需給ひっ迫注意報の発令に伴う節電のお願いについて.pdf",
+      "display_title": "需給ひっ迫注意報の発令に伴う節電のお願いについて.pdf",
       "type": "PDF",
       "size": "91 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 107,
@@ -1177,9 +2148,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "TDGC_（資料）一般送配電事業者における自然災害への対応について.pdf",
+      "display_title": "（資料）一般送配電事業者における自然災害への対応について.pdf",
       "type": "PDF",
       "size": "2.8 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 108,
@@ -1188,9 +2168,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_「一般社団法人電力データ管理協会」への参画および「認定電気使用者情報利用者等協会」の認定取得について.pdf",
+      "display_title": "公的機関_「一般社団法人電力データ管理協会」への参画および「認定電気使用者情報利用者等協会」の認定取得について.pdf",
       "type": "PDF",
       "size": "200 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 109,
@@ -1199,9 +2188,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_「電力需給調整力取引所」の法人（一般社団法人）化について.pdf",
+      "display_title": "公的機関_「電力需給調整力取引所」の法人（一般社団法人）化について.pdf",
       "type": "PDF",
       "size": "136 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 110,
@@ -1210,9 +2208,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_系統異常発生時における技術検証等の広域的協力に関する取り組みについて.pdf",
+      "display_title": "公的機関_系統異常発生時における技術検証等の広域的協力に関する取り組みについて.pdf",
       "type": "PDF",
       "size": "226 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 111,
@@ -1221,9 +2228,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_議事要旨.pdf",
+      "display_title": "公的機関_議事要旨.pdf",
       "type": "PDF",
       "size": "251 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 112,
@@ -1232,9 +2248,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_電気・ガス価格激変緩和対策事業の継続への協力について.pdf",
+      "display_title": "公的機関_電気・ガス価格激変緩和対策事業の継続への協力について.pdf",
       "type": "PDF",
       "size": "172 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 113,
@@ -1243,9 +2268,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_電気・ガス価格激変緩和対策事業への協力について.pdf",
+      "display_title": "公的機関_電気・ガス価格激変緩和対策事業への協力について.pdf",
       "type": "PDF",
       "size": "134 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 114,
@@ -1254,9 +2288,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_（参考）第３回次世代電力系統ワーキンググループ 資料３ 局地的な大規模需要に対する規律確保について.pdf",
+      "display_title": "公的機関_（参考）第３回次世代電力系統ワーキンググループ 資料３ 局地的な大規模需要に対する規律確保について.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 115,
@@ -1265,9 +2308,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "公的機関_（資料）再生可能エネルギーの最大限の利用に向けた取組み（20260427更新）.pdf",
+      "display_title": "公的機関_（資料）再生可能エネルギーの最大限の利用に向けた取組み（20260427更新）.pdf",
       "type": "PDF",
       "size": "4.7 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 116,
@@ -1276,9 +2328,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "国土交通省_盛土等の安全対策推進ガイドライン及び同解説.pdf",
+      "display_title": "国土交通省_盛土等の安全対策推進ガイドライン及び同解説.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "国土交通省"
+      "org": "国土交通省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "国土交通省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 117,
@@ -1287,9 +2348,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "林野庁_太陽光発電に係る林地開発許可基準_0.5ha基準の運用.pdf",
+      "display_title": "林野庁_太陽光発電に係る林地開発許可基準_0.5ha基準の運用.pdf",
       "type": "PDF",
       "size": "156 KB",
-      "org": "林野庁"
+      "org": "林野庁",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "林野庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 118,
@@ -1298,9 +2368,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "林野庁_太陽光発電に係る林地開発許可基準_0.5ha基準の運用通達.pdf",
+      "display_title": "林野庁_太陽光発電に係る林地開発許可基準_0.5ha基準の運用通達.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "林野庁"
+      "org": "林野庁",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "林野庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 119,
@@ -1309,9 +2388,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_CO2回収利用貯留CCUSは魔法の杖か_実用化の限界と再エネ優先論.pdf",
+      "display_title": "CO2回収利用貯留CCUSは魔法の杖か_実用化の限界と再エネ優先論.pdf",
       "type": "PDF",
       "size": "927 KB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/07/position-paper-2023-CCUS-update-20230710.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 120,
@@ -1320,9 +2408,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_COP27シャルム・エル・シェイク会議の結果と評価.pdf",
+      "display_title": "COP27シャルム・エル・シェイク会議の結果と評価.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/01/COP27evaluation.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 121,
@@ -1331,9 +2428,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_COP28ドバイ会議の結果と評価_化石燃料からの脱却と再エネ加速.pdf",
+      "display_title": "COP28ドバイ会議の結果と評価_化石燃料からの脱却と再エネ加速.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/02/COP28-report.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 122,
@@ -1342,9 +2448,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_COP29バクー会議の結果と評価_気候資金と再エネ投資の行方.pdf",
+      "display_title": "COP29バクー会議の結果と評価_気候資金と再エネ投資の行方.pdf",
       "type": "PDF",
       "size": "2.7 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2025/01/COP29-report.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 123,
@@ -1353,9 +2468,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_COP30ベレン会議の結果と評価_世界再エネ3倍目標と日本の課題.pdf",
+      "display_title": "COP30ベレン会議の結果と評価_世界再エネ3倍目標と日本の課題.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2026/01/COP30-report.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 124,
@@ -1364,9 +2488,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_GENESIS松島石炭火力計画分析レポート_英語版原本.pdf",
+      "display_title": "GENESIS松島石炭火力計画分析レポート_英語版原本.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2022/06/GENESIS_eng_230324.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 125,
@@ -1375,9 +2508,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_GENESIS松島計画とその問題点_石炭火力ガス化延命計画の経済的リスク.pdf",
+      "display_title": "GENESIS松島計画とその問題点_石炭火力ガス化延命計画の経済的リスク.pdf",
       "type": "PDF",
       "size": "2.8 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2025/09/GENESIS_revised_250829.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 126,
@@ -1386,9 +2528,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_JERAレポート_日本最大の排出事業者は本当にゼロエミッションをめざしているか.pdf",
+      "display_title": "JERAレポート_日本最大の排出事業者は本当にゼロエミッションをめざしているか.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/07/JERA-Report_0724-4.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 127,
@@ -1397,9 +2548,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_ここが問題アンモニア混焼_パリ協定目標を脅かす電力計画の検証.pdf",
+      "display_title": "ここが問題アンモニア混焼_パリ協定目標を脅かす電力計画の検証.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/11/202311_Japans-Ammonia-Co-firing-Plans-Threaten-Paris-Goals_JP.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 128,
@@ -1408,9 +2568,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_アベイトメント排出削減対策とは何か_パリ協定合致基準の厳密な定義.pdf",
+      "display_title": "アベイトメント排出削減対策とは何か_パリ協定合致基準の厳密な定義.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2026/08/Unabated_202407R2.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 129,
@@ -1419,9 +2588,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_ガス火力の1000万kW新設計画は廃止すべき_第7次エネ基での脱火力転換.pdf",
+      "display_title": "ガス火力の1000万kW新設計画は廃止すべき_第7次エネ基での脱火力転換.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/10/position_paper_2024_gas.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 130,
@@ -1430,9 +2608,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_グラスゴー気候合意_COP26で示された1.5度目標への道筋.pdf",
+      "display_title": "グラスゴー気候合意_COP26で示された1.5度目標への道筋.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2022/10/Glasgow_Climate_Pact_Kikonetwork_Introduction_202210_revised.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 131,
@@ -1441,9 +2628,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_原発再稼働とエネルギー転換に関するQ＆A解説.pdf",
+      "display_title": "原発再稼働とエネルギー転換に関するQ＆A解説.pdf",
       "type": "PDF",
       "size": "6.7 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2023/01/NL148.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 132,
@@ -1452,9 +2648,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_合成メタンはグリーンウォッシュ_1.5度目標との整合性と国民負担の懸念.pdf",
+      "display_title": "合成メタンはグリーンウォッシュ_1.5度目標との整合性と国民負担の懸念.pdf",
       "type": "PDF",
       "size": "1.3 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/10/position_paper_2024_e-methane.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 133,
@@ -1463,9 +2668,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_日本における公正な移行_現在の政策動向と市民意識に関する洞察報告書.pdf",
+      "display_title": "日本における公正な移行_現在の政策動向と市民意識に関する洞察報告書.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/05/Just-Transition-in-Japan_JPN.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 134,
@@ -1474,9 +2688,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_気候変動の損失と損害ロスアンドダメージQ＆A_途上国支援と気候正義.pdf",
+      "display_title": "気候変動の損失と損害ロスアンドダメージQ＆A_途上国支援と気候正義.pdf",
       "type": "PDF",
       "size": "7.5 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2023/05/NL150.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 135,
@@ -1485,9 +2708,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_水素・アンモニア発電に関する基本Q＆A_エネルギー効率と経済性の検証.pdf",
+      "display_title": "水素・アンモニア発電に関する基本Q＆A_エネルギー効率と経済性の検証.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/03/NL149.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 136,
@@ -1496,9 +2728,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_火力発電事業者の排出削減ロードマップの実態および1.5度目標との乖離分析.pdf",
+      "display_title": "火力発電事業者の排出削減ロードマップの実態および1.5度目標との乖離分析.pdf",
       "type": "PDF",
       "size": "593 KB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/07/karyokuhatsuden_roadmap_202407.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 137,
@@ -1507,9 +2748,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_石炭火力のアンモニア混焼に関する問題_真の気候変動対策と再エネ拡大.pdf",
+      "display_title": "石炭火力のアンモニア混焼に関する問題_真の気候変動対策と再エネ拡大.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2026/02/ammonia-report-2025.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 138,
@@ -1518,9 +2768,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "気候NW_第7次エネルギー基本計画策定に向けた市民・自治体Q＆A解説書.pdf",
+      "display_title": "第7次エネルギー基本計画策定に向けた市民・自治体Q＆A解説書.pdf",
       "type": "PDF",
       "size": "6.7 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/02/NL155.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 139,
@@ -1529,9 +2788,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_再生可能エネルギー電気の利用の促進に関する特別措置法（再エネ特措法）.pdf",
+      "display_title": "法律_再生可能エネルギー電気の利用の促進に関する特別措置法（再エネ特措法）.pdf",
       "type": "PDF",
       "size": "300 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 140,
@@ -1540,9 +2808,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_労働安全衛生法.pdf",
+      "display_title": "法律_労働安全衛生法.pdf",
       "type": "PDF",
       "size": "505 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 141,
@@ -1551,9 +2828,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_宅地造成及び特定盛土等規制法（盛土規制法）.pdf",
+      "display_title": "法律_宅地造成及び特定盛土等規制法（盛土規制法）.pdf",
       "type": "PDF",
       "size": "204 KB",
-      "org": "国土交通省"
+      "org": "国土交通省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "国土交通省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 142,
@@ -1562,9 +2848,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_建築基準法.pdf",
+      "display_title": "法律_建築基準法.pdf",
       "type": "PDF",
       "size": "764 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 143,
@@ -1573,9 +2868,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_建設工事に係る資材の再資源化等に関する法律（建設リサイクル法）.pdf",
+      "display_title": "法律_建設工事に係る資材の再資源化等に関する法律（建設リサイクル法）.pdf",
       "type": "PDF",
       "size": "181 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 144,
@@ -1584,9 +2888,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_文化財保護法.pdf",
+      "display_title": "法律_文化財保護法.pdf",
       "type": "PDF",
       "size": "405 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 145,
@@ -1595,9 +2908,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_消防法.pdf",
+      "display_title": "法律_消防法.pdf",
       "type": "PDF",
       "size": "453 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 146,
@@ -1606,9 +2928,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_環境影響評価法（環境アセス法）.pdf",
+      "display_title": "法律_環境影響評価法（環境アセス法）.pdf",
       "type": "PDF",
       "size": "274 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 147,
@@ -1617,9 +2948,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_農地法.pdf",
+      "display_title": "法律_農地法.pdf",
       "type": "PDF",
       "size": "362 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 148,
@@ -1628,9 +2968,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_電気事業法.pdf",
+      "display_title": "法律_電気事業法.pdf",
       "type": "PDF",
       "size": "637 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 149,
@@ -1639,9 +2988,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "法律_鳥獣の保護及び管理並びに狩猟の適正化に関する法律（鳥獣保護法）.pdf",
+      "display_title": "法律_鳥獣の保護及び管理並びに狩猟の適正化に関する法律（鳥獣保護法）.pdf",
       "type": "PDF",
       "size": "303 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 150,
@@ -1650,9 +3008,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "経済産業省_第6次エネルギー基本計画_閣議決定原本.pdf",
+      "display_title": "経済産業省_第6次エネルギー基本計画_閣議決定原本.pdf",
       "type": "PDF",
       "size": "690 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 151,
@@ -1661,9 +3028,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_基本法規・国家計画・土地利用規制",
       "folder": "01_法令・制度・ガイドライン\\01_基本法規・国家計画・土地利用規制",
       "title": "経産省_「第７次エネルギー基本計画」等の閣議決定について.pdf",
+      "display_title": "「第７次エネルギー基本計画」等の閣議決定について.pdf",
       "type": "PDF",
       "size": "107 KB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 152,
@@ -1672,9 +3048,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "20240207_調達価格等算定委員会_令和6年度以降の調達価格等に関する意見.pdf",
+      "display_title": "20240207_調達価格等算定委員会_令和6年度以降の調達価格等に関する意見.pdf",
       "type": "PDF",
       "size": "7.4 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "FIT/FIP"
+      ],
+      "summary": "経済産業省・調達価格等算定委員会によるFIT/FIP買取価格・基準価格の年次算定意見書。IRR設定、コスト動向、入札規模の根拠データ。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 153,
@@ -1683,9 +3068,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "20240220_説明会及び事前周知措置実施ガイドライン_改訂版.pdf",
+      "display_title": "20240220_説明会及び事前周知措置実施ガイドライン_改訂版.pdf",
       "type": "PDF",
       "size": "931 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 154,
@@ -1694,9 +3088,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "20250203_調達価格等算定委員会_令和7年度以降の調達価格等に関する意見.pdf",
+      "display_title": "20250203_調達価格等算定委員会_令和7年度以降の調達価格等に関する意見.pdf",
       "type": "PDF",
       "size": "10.7 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "FIT/FIP"
+      ],
+      "summary": "経済産業省・調達価格等算定委員会によるFIT/FIP買取価格・基準価格の年次算定意見書。IRR設定、コスト動向、入札規模の根拠データ。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 155,
@@ -1705,9 +3108,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "IEEJ_再エネ立地における地方自治体条例の動向と事業トラブル防止策.pdf",
+      "display_title": "再エネ立地における地方自治体条例の動向と事業トラブル防止策.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12509.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 156,
@@ -1716,9 +3128,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "IEEJ_営農型太陽光発電（ソーラーシェアリング）の農地保全と収益改善効果.pdf",
+      "display_title": "営農型太陽光発電（ソーラーシェアリング）の農地保全と収益改善効果.pdf",
       "type": "PDF",
       "size": "443 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12522.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 157,
@@ -1727,9 +3148,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "エネ庁_FIT制度における地域活用要件について.pdf",
+      "display_title": "エネ庁_FIT制度における地域活用要件について.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "FIT/FIP"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 158,
@@ -1738,9 +3168,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "エネ庁_事業計画策定ガイドライン_太陽光発電編.pdf",
+      "display_title": "エネ庁_事業計画策定ガイドライン_太陽光発電編.pdf",
       "type": "PDF",
       "size": "980 KB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 159,
@@ -1749,9 +3188,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "エネ庁_再生可能エネルギーの長期安定的な大量導入と事業継続に向けて.pdf",
+      "display_title": "エネ庁_再生可能エネルギーの長期安定的な大量導入と事業継続に向けて.pdf",
       "type": "PDF",
       "size": "3.4 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 160,
@@ -1760,9 +3208,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "エネ庁_太陽光発電の政策動向について.pdf",
+      "display_title": "エネ庁_太陽光発電の政策動向について.pdf",
       "type": "PDF",
       "size": "2.8 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 161,
@@ -1771,9 +3228,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "エネ庁_説明会及び事前周知措置実施ガイドライン_初版.pdf",
+      "display_title": "エネ庁_説明会及び事前周知措置実施ガイドライン_初版.pdf",
       "type": "PDF",
       "size": "758 KB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 162,
@@ -1782,9 +3248,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "気候NW_パンフレット_気候グリーンウォッシュとは何か.pdf",
+      "display_title": "パンフレット_気候グリーンウォッシュとは何か.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/11/Climate-Greenwash-leaflet-20231110.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 163,
@@ -1793,9 +3268,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "気候NW_気候グリーンウォッシュ用語集_脱炭素広告と表示の留意点.pdf",
+      "display_title": "気候グリーンウォッシュ用語集_脱炭素広告と表示の留意点.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/10/GW-dictionary.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 164,
@@ -1804,9 +3288,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "気候NW_脱炭素地域づくり推進のための中間支援組織のあり方に関する論点整理.pdf",
+      "display_title": "脱炭素地域づくり推進のための中間支援組織のあり方に関する論点整理.pdf",
       "type": "PDF",
       "size": "1.0 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2025/11/intermediary_support_booklet.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 165,
@@ -1815,9 +3308,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "気候NW_農地から食料とエネルギーの未来を_ソーラーシェアリング導入事例パンフレット.pdf",
+      "display_title": "農地から食料とエネルギーの未来を_ソーラーシェアリング導入事例パンフレット.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2022/04/20220425agrivoltaics-examples-brochure.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 166,
@@ -1826,9 +3328,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_ TPO事業の導入ガイド.pdf",
+      "display_title": " TPO事業の導入ガイド.pdf",
       "type": "PDF",
       "size": "2.3 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 167,
@@ -1837,9 +3348,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_TPOモデルによる設備導入事例.pdf",
+      "display_title": "TPOモデルによる設備導入事例.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 168,
@@ -1848,9 +3368,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_「営農地・水面を活用した太陽光設備の導入について」.pdf",
+      "display_title": "「営農地・水面を活用した太陽光設備の導入について」.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 169,
@@ -1859,9 +3388,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_はじめての再エネ活用ガイド（企業向け）.pdf",
+      "display_title": "はじめての再エネ活用ガイド（企業向け）.pdf",
       "type": "PDF",
       "size": "6.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 170,
@@ -1870,9 +3408,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_オフサイトコーポレートPPAの概要.pdf",
+      "display_title": "オフサイトコーポレートPPAの概要.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "コーポレートPPA"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 171,
@@ -1881,9 +3428,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_ソーラーカーポートの導入について（駐車場スペースの活用）.pdf",
+      "display_title": "ソーラーカーポートの導入について（駐車場スペースの活用）.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 172,
@@ -1892,9 +3448,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_ソーラーカーポートの導入事例集.pdf",
+      "display_title": "ソーラーカーポートの導入事例集.pdf",
       "type": "PDF",
       "size": "7.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 173,
@@ -1903,9 +3468,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_上水道・工業用水道部門における温室効果ガス排出抑制等指針マニュアル［PDF 3,095KB］.pdf",
+      "display_title": "上水道・工業用水道部門における温室効果ガス排出抑制等指針マニュアル［PDF 3,095KB］.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 174,
@@ -1914,9 +3488,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_下水道における地球温暖化対策マニュアル ～ 下水道部門における温室効果ガス排出抑制等指針の解説 ～.pdf",
+      "display_title": "下水道における地球温暖化対策マニュアル ～ 下水道部門における温室効果ガス排出抑制等指針の解説 ～.pdf",
       "type": "PDF",
       "size": "5.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 175,
@@ -1925,9 +3508,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_令和6年度_ストレージパリティ達成に向けた太陽光・蓄電池等価格低減促進事業_概要.pdf",
+      "display_title": "令和6年度_ストレージパリティ達成に向けた太陽光・蓄電池等価格低減促進事業_概要.pdf",
       "type": "PDF",
       "size": "1.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 176,
@@ -1936,9 +3528,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_令和7年度_民間企業等による再エネ導入及び地域共生加速化事業_概要.pdf",
+      "display_title": "令和7年度_民間企業等による再エネ導入及び地域共生加速化事業_概要.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 177,
@@ -1947,9 +3548,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_令和8年度_民間企業等による再エネ導入及び地域共生加速化事業_概要.pdf",
+      "display_title": "令和8年度_民間企業等による再エネ導入及び地域共生加速化事業_概要.pdf",
       "type": "PDF",
       "size": "717 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 178,
@@ -1958,9 +3568,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_企業の再エネ活用ガイド_2026年改訂版.pdf",
+      "display_title": "企業の再エネ活用ガイド_2026年改訂版.pdf",
       "type": "PDF",
       "size": "6.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 179,
@@ -1969,9 +3588,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_公共施設の設備制御による地域内再エネ活用モデル構築事業の事例.pdf",
+      "display_title": "公共施設の設備制御による地域内再エネ活用モデル構築事業の事例.pdf",
       "type": "PDF",
       "size": "4.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 180,
@@ -1980,9 +3608,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_再エネ調達に関する概要説明.pdf",
+      "display_title": "再エネ調達に関する概要説明.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 181,
@@ -1991,9 +3628,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_再エネ調達のための太陽光発電設備導入について_2025年最新版.pdf",
+      "display_title": "再エネ調達のための太陽光発電設備導入について_2025年最新版.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 182,
@@ -2002,9 +3648,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_営農地、ため池、廃棄物処分場等における太陽光発電の導入事例集.pdf",
+      "display_title": "営農地、ため池、廃棄物処分場等における太陽光発電の導入事例集.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル",
+        "営農型太陽光"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 183,
@@ -2013,9 +3669,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_国立・国定公園内における太陽光発電施設審査技術的ガイドライン.pdf",
+      "display_title": "国立・国定公園内における太陽光発電施設審査技術的ガイドライン.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 184,
@@ -2024,9 +3689,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_国立国定公園内における太陽光発電施設審査技術的ガイドライン.pdf",
+      "display_title": "国立国定公園内における太陽光発電施設審査技術的ガイドライン.pdf",
       "type": "PDF",
       "size": "4.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 185,
@@ -2035,9 +3709,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_地域の再エネを活用した地産地消の自営線マイクログリッドのはじめかたガイド.pdf",
+      "display_title": "地域の再エネを活用した地産地消の自営線マイクログリッドのはじめかたガイド.pdf",
       "type": "PDF",
       "size": "4.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 186,
@@ -2046,9 +3729,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_太陽光発電の環境配慮ガイドライン.pdf",
+      "display_title": "太陽光発電の環境配慮ガイドライン.pdf",
       "type": "PDF",
       "size": "4.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 187,
@@ -2057,9 +3749,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_太陽光発電の環境配慮ガイドライン_チェックシート.pdf",
+      "display_title": "太陽光発電の環境配慮ガイドライン_チェックシート.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 188,
@@ -2068,9 +3769,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_太陽光発電の環境配慮ガイドライン_本編.pdf",
+      "display_title": "太陽光発電の環境配慮ガイドライン_本編.pdf",
       "type": "PDF",
       "size": "4.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 189,
@@ -2079,9 +3789,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_太陽光発電の環境配慮ガイドライン_本編2020.pdf",
+      "display_title": "太陽光発電の環境配慮ガイドライン_本編2020.pdf",
       "type": "PDF",
       "size": "4.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 190,
@@ -2090,9 +3809,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_太陽光発電の環境配慮ガイドライン_自主チェックシート.pdf",
+      "display_title": "太陽光発電の環境配慮ガイドライン_自主チェックシート.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 191,
@@ -2101,9 +3829,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_導入事例①：太陽光発電設備及び蓄電池の導入に関する事例発表（ノリタケ株式会社）.pdf",
+      "display_title": "導入事例①：太陽光発電設備及び蓄電池の導入に関する事例発表（ノリタケ株式会社）.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 192,
@@ -2112,9 +3849,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_導入事例②：農場におけるソーラーシェアリング導入に関する事例発表（市民エネルギーちば株式会社）.pdf",
+      "display_title": "導入事例②：農場におけるソーラーシェアリング導入に関する事例発表（市民エネルギーちば株式会社）.pdf",
       "type": "PDF",
       "size": "18.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 193,
@@ -2123,9 +3869,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_導入事例③：温泉熱利用設備の導入に関する事例発表（株式会社アルプス技研）.pdf",
+      "display_title": "導入事例③：温泉熱利用設備の導入に関する事例発表（株式会社アルプス技研）.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 194,
@@ -2134,9 +3889,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_工場におけるソーラーカーポートの導入に関する事例発表（本田技研工業株式会社）.pdf",
+      "display_title": "工場におけるソーラーカーポートの導入に関する事例発表（本田技研工業株式会社）.pdf",
       "type": "PDF",
       "size": "4.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 195,
@@ -2145,9 +3909,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_工場における太陽光発電設備及び蓄電池の導入に関する事例発表（株式会社タイカ）.pdf",
+      "display_title": "工場における太陽光発電設備及び蓄電池の導入に関する事例発表（株式会社タイカ）.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 196,
@@ -2156,9 +3929,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_廃棄物処理部門における温室効果ガス排出抑制等指針マニュアル.pdf",
+      "display_title": "廃棄物処理部門における温室効果ガス排出抑制等指針マニュアル.pdf",
       "type": "PDF",
       "size": "612 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 197,
@@ -2167,9 +3949,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_建材一体型太陽光発電の導入に関する事例発表（大成建設株式会社）.pdf",
+      "display_title": "建材一体型太陽光発電の導入に関する事例発表（大成建設株式会社）.pdf",
       "type": "PDF",
       "size": "5.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 198,
@@ -2178,9 +3969,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_排出削減等指針.pdf",
+      "display_title": "排出削減等指針.pdf",
       "type": "PDF",
       "size": "603 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 199,
@@ -2189,9 +3989,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_排出抑制等指針（上水道・工業用水道部門）パンフレット.pdf",
+      "display_title": "排出抑制等指針（上水道・工業用水道部門）パンフレット.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 200,
@@ -2200,9 +4009,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_排出抑制等指針（下水道部門）パンフレット.pdf",
+      "display_title": "排出抑制等指針（下水道部門）パンフレット.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 201,
@@ -2211,9 +4029,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_排出抑制等指針（産業部門（製造業））パンフレット.pdf",
+      "display_title": "排出抑制等指針（産業部門（製造業））パンフレット.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 202,
@@ -2222,9 +4049,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_温室効果ガス排出抑制等指針パンフレット（概要版）.pdf",
+      "display_title": "温室効果ガス排出抑制等指針パンフレット（概要版）.pdf",
       "type": "PDF",
       "size": "786 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 203,
@@ -2233,9 +4069,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_温室効果ガス排出抑制等指針パンフレット（詳細版）.pdf",
+      "display_title": "温室効果ガス排出抑制等指針パンフレット（詳細版）.pdf",
       "type": "PDF",
       "size": "4.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 204,
@@ -2244,9 +4089,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_環境省幹部等職員名簿.pdf",
+      "display_title": "環境省幹部等職員名簿.pdf",
       "type": "PDF",
       "size": "256 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 205,
@@ -2255,9 +4109,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_環境省補助事業の説明.pdf",
+      "display_title": "環境省補助事業の説明.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 206,
@@ -2266,9 +4129,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_窓・壁一体型太陽光発電の導入事例.pdf",
+      "display_title": "窓・壁一体型太陽光発電の導入事例.pdf",
       "type": "PDF",
       "size": "873 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 207,
@@ -2277,9 +4149,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_自営線の導入事例.pdf",
+      "display_title": "自営線の導入事例.pdf",
       "type": "PDF",
       "size": "860 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 208,
@@ -2288,9 +4169,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_自家消費型太陽光発電・蓄電池の導入事例集.pdf",
+      "display_title": "自家消費型太陽光発電・蓄電池の導入事例集.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 209,
@@ -2299,9 +4189,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_自家消費型太陽光設備の導入について（初期費用ゼロでの導入手段～オンサイトPPA、リース～）.pdf",
+      "display_title": "自家消費型太陽光設備の導入について（初期費用ゼロでの導入手段～オンサイトPPA、リース～）.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "コーポレートPPA"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 210,
@@ -2310,9 +4209,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_離島における再エネ主力化に向けた運転制御設備導入構築事業の事例.pdf",
+      "display_title": "離島における再エネ主力化に向けた運転制御設備導入構築事業の事例.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 211,
@@ -2321,9 +4229,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "環境省_離島における再エネ自給率向上ガイド.pdf",
+      "display_title": "離島における再エネ自給率向上ガイド.pdf",
       "type": "PDF",
       "size": "3.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 212,
@@ -2332,9 +4249,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_「再生可能エネルギー設備の設置に係る農業振興地域制度及び農地転用許可制度の適正かつ円滑な運用について」（2農振第3854号農林水産省農村振興局長通知）(.pdf",
+      "display_title": "農水省_「再生可能エネルギー設備の設置に係る農業振興地域制度及び農地転用許可制度の適正かつ円滑な運用について」（2農振第3854号農林水産省農村振興局長通知）(.pdf",
       "type": "PDF",
       "size": "454 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 213,
@@ -2343,9 +4269,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_「営農型太陽光発電に係る農地転用許可制度上の取扱いに関するガイドライン」の制定について.pdf",
+      "display_title": "農水省_「営農型太陽光発電に係る農地転用許可制度上の取扱いに関するガイドライン」の制定について.pdf",
       "type": "PDF",
       "size": "807 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 214,
@@ -2354,9 +4289,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_「支柱を立てて営農を継続する太陽光発電設備等についての農地転用許可制度上の取扱いについて」（30農振第78号農林水産省農村振興局長通知）(PDF _ 5.pdf",
+      "display_title": "農水省_「支柱を立てて営農を継続する太陽光発電設備等についての農地転用許可制度上の取扱いについて」（30農振第78号農林水産省農村振興局長通知）(PDF _ 5.pdf",
       "type": "PDF",
       "size": "527 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 215,
@@ -2365,9 +4309,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_再エネ発電設備を設置するための農地転用許可（平成23年度以降の実績）.pdf",
+      "display_title": "農水省_再エネ発電設備を設置するための農地転用許可（平成23年度以降の実績）.pdf",
       "type": "PDF",
       "size": "49 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 216,
@@ -2376,9 +4329,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型太陽光発電に係る農地転用許可制度上の取扱いに関するガイドライン.pdf",
+      "display_title": "農水省_営農型太陽光発電に係る農地転用許可制度上の取扱いに関するガイドライン.pdf",
       "type": "PDF",
       "size": "807 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 217,
@@ -2387,9 +4349,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型太陽光発電の実務用Q&A（営農型発電設備の設置者向け）令和8年3月（改訂版）.pdf",
+      "display_title": "農水省_営農型太陽光発電の実務用Q&A（営農型発電設備の設置者向け）令和8年3月（改訂版）.pdf",
       "type": "PDF",
       "size": "567 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 218,
@@ -2398,9 +4369,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型太陽光発電の実務用Q&A（都道府県、市町村及び農業委員会担当者向け）令和8年3月（改訂版）.pdf",
+      "display_title": "農水省_営農型太陽光発電の実務用Q&A（都道府県、市町村及び農業委員会担当者向け）令和8年3月（改訂版）.pdf",
       "type": "PDF",
       "size": "631 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 219,
@@ -2409,9 +4389,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型太陽光発電設備について.pdf",
+      "display_title": "農水省_営農型太陽光発電設備について.pdf",
       "type": "PDF",
       "size": "659 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 220,
@@ -2420,9 +4409,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型太陽光発電設備の設置についての農地法第3条第1項の許可の取扱いについて（5経営第3125号農林水産省経営局農地政策課長通知）(PDF _ 210K.pdf",
+      "display_title": "農水省_営農型太陽光発電設備の設置についての農地法第3条第1項の許可の取扱いについて（5経営第3125号農林水産省経営局農地政策課長通知）(PDF _ 210K.pdf",
       "type": "PDF",
       "size": "210 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 221,
@@ -2431,9 +4429,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型太陽光発電設備設置状況等について（令和5年度末）.pdf",
+      "display_title": "農水省_営農型太陽光発電設備設置状況等について（令和5年度末）.pdf",
       "type": "PDF",
       "size": "834 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 222,
@@ -2442,9 +4449,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_営農型発電設備の設置に係る許可実績（令和5年度末）都道府県別.pdf",
+      "display_title": "農水省_営農型発電設備の設置に係る許可実績（令和5年度末）都道府県別.pdf",
       "type": "PDF",
       "size": "61 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 223,
@@ -2453,9 +4469,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_太陽光発電設備を設置するための農地転用許可（平成23年度以降の実績）.pdf",
+      "display_title": "農水省_太陽光発電設備を設置するための農地転用許可（平成23年度以降の実績）.pdf",
       "type": "PDF",
       "size": "50 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 224,
@@ -2464,9 +4489,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_事業計画策定・環境・地域共生ガイドライン",
       "folder": "01_法令・制度・ガイドライン\\02_事業計画策定・環境・地域共生ガイドライン",
       "title": "農水省_農地法施行規則の一部を改正する省令（令和6年4月1日施行）.pdf",
+      "display_title": "農水省_農地法施行規則の一部を改正する省令（令和6年4月1日施行）.pdf",
       "type": "PDF",
       "size": "129 KB",
-      "org": "農林水産省"
+      "org": "農林水産省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "農林水産省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 225,
@@ -2475,9 +4509,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "260603_OCCTO_自然変動電源出力抑制の検証_関西エリア編.pdf",
+      "display_title": "260603_OCCTO_自然変動電源出力抑制の検証_関西エリア編.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 226,
@@ -2486,9 +4529,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "260701_OCCTO_自然変動電源出力抑制の検証_東京エリア編.pdf",
+      "display_title": "260701_OCCTO_自然変動電源出力抑制の検証_東京エリア編.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 227,
@@ -2497,9 +4549,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "IEEJ_2026年の電力政策の課題_電力需要増加に対し如何に中長期的に供給力を確保していくか.pdf",
+      "display_title": "2026年の電力政策の課題_電力需要増加に対し如何に中長期的に供給力を確保していくか.pdf",
       "type": "PDF",
       "size": "2.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12881.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 228,
@@ -2508,9 +4569,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "IEEJ_ノンファーム型接続の適用実績と出力制御リスクのファイナンス評価.pdf",
+      "display_title": "ノンファーム型接続の適用実績と出力制御リスクのファイナンス評価.pdf",
       "type": "PDF",
       "size": "170 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12519.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 229,
@@ -2519,9 +4589,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "IEEJ_再エネ大量導入下における配電系統電圧管理と逆潮対策.pdf",
+      "display_title": "再エネ大量導入下における配電系統電圧管理と逆潮対策.pdf",
       "type": "PDF",
       "size": "615 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12500.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 230,
@@ -2530,9 +4609,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "IEEJ_地域間連系線の増強計画と再エネ送電混雑の緩和見通し.pdf",
+      "display_title": "地域間連系線の増強計画と再エネ送電混雑の緩和見通し.pdf",
       "type": "PDF",
       "size": "374 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12514.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 231,
@@ -2541,9 +4629,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "JPEA_太陽光発電出力制御シミュレーション検証報告書.pdf",
+      "display_title": "太陽光発電出力制御シミュレーション検証報告書.pdf",
       "type": "PDF",
       "size": "809 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/150414_press_release_ver03.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 232,
@@ -2552,9 +4649,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "JPEA_電力協議様式記載要領_高圧連系太陽光発電.pdf",
+      "display_title": "電力協議様式記載要領_高圧連系太陽光発電.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t140829.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 233,
@@ -2563,9 +4669,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_2019年3月29日 欧米における送電線利用ルールおよびその運用実態に関する調査（平成30年度－海外調査）報告書.pdf",
+      "display_title": "2019年3月29日 欧米における送電線利用ルールおよびその運用実態に関する調査（平成30年度－海外調査）報告書.pdf",
       "type": "PDF",
       "size": "5.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 234,
@@ -2574,9 +4689,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_2026年度供給計画の取りまとめ_年次報告書版.pdf",
+      "display_title": "2026年度供給計画の取りまとめ_年次報告書版.pdf",
       "type": "PDF",
       "size": "5.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/2026_nenjihoukokusho/nenjihoukokusho_2026_kyoukyuukeikaku_260330.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 235,
@@ -2585,9 +4709,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_2030年度の系統混雑に関する中長期見通し_第92回.pdf",
+      "display_title": "2030年度の系統混雑に関する中長期見通し_第92回.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_02_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 236,
@@ -2596,9 +4729,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_中長期の需給見通しを踏まえた供給力確保策について_第121回.pdf",
+      "display_title": "中長期の需給見通しを踏まえた供給力確保策について_第121回.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/121/chousei_121_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 237,
@@ -2607,9 +4749,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_再エネ主力電源化に向けた技術的課題及びその対応策の検討状況_第117回.pdf",
+      "display_title": "再エネ主力電源化に向けた技術的課題及びその対応策の検討状況_第117回.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/117/chousei_117_03.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 238,
@@ -2618,9 +4769,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_再エネ予測精度向上に向けた取り組みについて_第116回.pdf",
+      "display_title": "再エネ予測精度向上に向けた取り組みについて_第116回.pdf",
       "type": "PDF",
       "size": "3.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/116/chousei_116_03.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 239,
@@ -2629,9 +4789,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_地内系統混雑を考慮した供給信頼度評価の課題整理_第120回.pdf",
+      "display_title": "地内系統混雑を考慮した供給信頼度評価の課題整理_第120回.pdf",
       "type": "PDF",
       "size": "4.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/120/chousei_120_03.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 240,
@@ -2640,9 +4809,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（期待容量の登録申請について）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（期待容量の登録申請について）.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 241,
@@ -2651,9 +4829,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_容量市場 メインオークション実務説明資料（期待容量の登録申請について）.pdf",
+      "display_title": "容量市場 メインオークション実務説明資料（期待容量の登録申請について）.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 242,
@@ -2662,9 +4849,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_容量市場 追加オークション制度詳細説明会資料.pdf",
+      "display_title": "容量市場 追加オークション制度詳細説明会資料.pdf",
       "type": "PDF",
       "size": "4.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 243,
@@ -2673,9 +4869,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_容量市場 追加オークション実務説明会資料.pdf",
+      "display_title": "容量市場 追加オークション実務説明会資料.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 244,
@@ -2684,9 +4889,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_広域系統整備計画のコスト検証等に関するガイドラインについて_第98回.pdf",
+      "display_title": "広域系統整備計画のコスト検証等に関するガイドラインについて_第98回.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_01_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 245,
@@ -2695,9 +4909,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_広域系統整備計画の進捗状況について_2025年度第3四半期_第98回.pdf",
+      "display_title": "広域系統整備計画の進捗状況について_2025年度第3四半期_第98回.pdf",
       "type": "PDF",
       "size": "8.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_03_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 246,
@@ -2706,9 +4929,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_広域系統整備計画コスト検証ガイドライン素案_第98回.pdf",
+      "display_title": "広域系統整備計画コスト検証ガイドライン素案_第98回.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_01_02.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 247,
@@ -2717,9 +4949,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_広域連系系統のマスタープラン_本編.pdf",
+      "display_title": "広域連系系統のマスタープラン_本編.pdf",
       "type": "PDF",
       "size": "6.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 248,
@@ -2728,9 +4969,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_広域連系系統のマスタープラン_概要版.pdf",
+      "display_title": "広域連系系統のマスタープラン_概要版.pdf",
       "type": "PDF",
       "size": "1.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 249,
@@ -2739,9 +4989,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_発電設備等系統アクセス業務情報公表_2025年度受付回答統計.pdf",
+      "display_title": "発電設備等系統アクセス業務情報公表_2025年度受付回答統計.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/2026_nenjihoukokusho/260710_access_toukei_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 250,
@@ -2750,9 +5009,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_系統の接続および利用ルール_ノンファーム型接続2025年版.pdf",
+      "display_title": "系統の接続および利用ルール_ノンファーム型接続2025年版.pdf",
       "type": "PDF",
       "size": "5.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 251,
@@ -2761,9 +5029,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_系統の接続及び利用ルールについて_系統用蓄電池.pdf",
+      "display_title": "系統の接続及び利用ルールについて_系統用蓄電池.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 252,
@@ -2772,9 +5049,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_系統混雑に関する中長期見通しの算出結果_九州電力送配電.pdf",
+      "display_title": "系統混雑に関する中長期見通しの算出結果_九州電力送配電.pdf",
       "type": "PDF",
       "size": "936 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_10_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 253,
@@ -2783,9 +5069,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_系統混雑に関する中長期見通しの算出結果_東京電力パワーグリッド.pdf",
+      "display_title": "系統混雑に関する中長期見通しの算出結果_東京電力パワーグリッド.pdf",
       "type": "PDF",
       "size": "2.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_06_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 254,
@@ -2794,9 +5089,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_系統混雑に関する中長期見通しの算出結果_関西電力送配電.pdf",
+      "display_title": "系統混雑に関する中長期見通しの算出結果_関西電力送配電.pdf",
       "type": "PDF",
       "size": "1.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_07_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 255,
@@ -2805,9 +5109,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_系統用蓄電池の新規連系における課題と対応_混雑制御.pdf",
+      "display_title": "系統用蓄電池の新規連系における課題と対応_混雑制御.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 256,
@@ -2816,9 +5129,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_調整力の細分化及び広域調達の技術的検討作業会_参考資料.pdf",
+      "display_title": "調整力の細分化及び広域調達の技術的検討作業会_参考資料.pdf",
       "type": "PDF",
       "size": "285 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 257,
@@ -2827,9 +5149,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_長期脱炭素電源オークションの監視について（応札年度：2023年度）電力・ガス取引等監視委員会.pdf",
+      "display_title": "長期脱炭素電源オークションの監視について（応札年度：2023年度）電力・ガス取引等監視委員会.pdf",
       "type": "PDF",
       "size": "701 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場",
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 258,
@@ -2838,9 +5170,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_長期脱炭素電源オークション実務説明会資料.pdf",
+      "display_title": "長期脱炭素電源オークション実務説明会資料.pdf",
       "type": "PDF",
       "size": "5.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 259,
@@ -2849,9 +5190,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_電力需給及び電力系統に関する概況_2025年度実績_2026年9月公表.pdf",
+      "display_title": "電力需給及び電力系統に関する概況_2025年度実績_2026年9月公表.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/files/denryokujukyuu_2025_260909.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 260,
@@ -2860,9 +5210,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_電力需給検証報告書_2026年10月28日公表最新原本.pdf",
+      "display_title": "電力需給検証報告書_2026年10月28日公表最新原本.pdf",
       "type": "PDF",
       "size": "2.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/denryokujukyukensho_20261028/261028_denryokujukyukensho.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 261,
@@ -2871,9 +5230,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "OCCTO_需給調整市場_取引規程等説明会資料.pdf",
+      "display_title": "需給調整市場_取引規程等説明会資料.pdf",
       "type": "PDF",
       "size": "743 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 262,
@@ -2882,9 +5250,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_1_【北海道】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
+      "display_title": "1_【北海道】2025年度三次調整力②の必要量に係る事後検証の結果について.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 263,
@@ -2893,9 +5270,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_2022 年度冬季の電力需給の見通しと節電のお願いについて.pdf",
+      "display_title": "2022 年度冬季の電力需給の見通しと節電のお願いについて.pdf",
       "type": "PDF",
       "size": "149 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 264,
@@ -2904,9 +5290,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_2_【東北】2025年度三次調整力②の必要量に係る事後評価の結果について.pdf",
+      "display_title": "2_【東北】2025年度三次調整力②の必要量に係る事後評価の結果について.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "出力制御"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 265,
@@ -2915,9 +5310,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_「第７次エネルギー基本計画」等の閣議決定について.pdf",
+      "display_title": "「第７次エネルギー基本計画」等の閣議決定について.pdf",
       "type": "PDF",
       "size": "107 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 266,
@@ -2926,9 +5330,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_【官民連携フォーラム基調講演資料】人と技術がともに成長する2040年の送配電事業.pdf",
+      "display_title": "【官民連携フォーラム基調講演資料】人と技術がともに成長する2040年の送配電事業.pdf",
       "type": "PDF",
       "size": "4.6 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 267,
@@ -2937,9 +5350,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_一般送配電事業者の行為規制等に関する行動指針 2026.5.13改定.pdf",
+      "display_title": "一般送配電事業者の行為規制等に関する行動指針 2026.5.13改定.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電網協議会（TDGC）による一般送配電事業者の行為規制等に関する行動指針原本。系統接続や情報管理の公平性担保ルールを規定。",
+      "is_featured": true,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 268,
@@ -2948,9 +5370,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_災害時連携計画 【別添1】 応援実施要領.pdf",
+      "display_title": "災害時連携計画 【別添1】 応援実施要領.pdf",
       "type": "PDF",
       "size": "400 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 269,
@@ -2959,9 +5390,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_災害時連携計画 【別添6】 移動用変電設備の融通方法.pdf",
+      "display_title": "災害時連携計画 【別添6】 移動用変電設備の融通方法.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 270,
@@ -2970,9 +5410,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_災害時連携計画 【別添8】 共同訓練実施要領.pdf",
+      "display_title": "災害時連携計画 【別添8】 共同訓練実施要領.pdf",
       "type": "PDF",
       "size": "149 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 271,
@@ -2981,9 +5430,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_災害時連携計画 【別添9】 需給状況改善・系統復旧方針.pdf",
+      "display_title": "災害時連携計画 【別添9】 需給状況改善・系統復旧方針.pdf",
       "type": "PDF",
       "size": "479 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 272,
@@ -2992,9 +5450,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第 7 回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第 7 回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "222 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 273,
@@ -3003,9 +5470,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第17回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第17回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "119 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 274,
@@ -3014,9 +5490,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第1回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第1回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "128 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 275,
@@ -3025,9 +5510,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第23回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第23回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "203 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 276,
@@ -3036,9 +5530,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第25回「送配電コンプライアンス委員会」議事要旨.pdf",
+      "display_title": "第25回「送配電コンプライアンス委員会」議事要旨.pdf",
       "type": "PDF",
       "size": "179 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 277,
@@ -3047,9 +5550,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第2回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第2回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "136 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 278,
@@ -3058,9 +5570,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第3回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第3回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "167 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 279,
@@ -3069,9 +5590,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第3回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第3回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "242 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 280,
@@ -3080,9 +5610,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第4回 送配電コンプライアンス委員会 議事要旨.pdf",
+      "display_title": "第4回 送配電コンプライアンス委員会 議事要旨.pdf",
       "type": "PDF",
       "size": "140 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 281,
@@ -3091,9 +5630,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_第4回送配電網投資・運用効率化委員会議事要旨.pdf",
+      "display_title": "第4回送配電網投資・運用効率化委員会議事要旨.pdf",
       "type": "PDF",
       "size": "283 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 282,
@@ -3102,9 +5650,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_資料0_第7回送配電網投資運用効率化委員会_議事次第、出席者.pdf",
+      "display_title": "資料0_第7回送配電網投資運用効率化委員会_議事次第、出席者.pdf",
       "type": "PDF",
       "size": "126 KB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 283,
@@ -3113,9 +5670,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_資料1_一般送配電事業者における保全高度化の取組みについて.pdf",
+      "display_title": "資料1_一般送配電事業者における保全高度化の取組みについて.pdf",
       "type": "PDF",
       "size": "3.5 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 284,
@@ -3124,9 +5690,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_（資料）一般送配電事業者における自然災害への対応について.pdf",
+      "display_title": "（資料）一般送配電事業者における自然災害への対応について.pdf",
       "type": "PDF",
       "size": "2.8 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 285,
@@ -3135,9 +5710,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "TDGC_（資料）再生可能エネルギーの最大限の利用に向けた取組み（20260427更新）.pdf",
+      "display_title": "（資料）再生可能エネルギーの最大限の利用に向けた取組み（20260427更新）.pdf",
       "type": "PDF",
       "size": "4.7 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 286,
@@ -3146,9 +5730,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "中国電力NW_中国電力ネットワーク株式会社 7_29_プレスリリース「九州電力送配電への応急送電の応援派遣について」.pdf",
+      "display_title": "中国電力NW_中国電力ネットワーク株式会社 7_29_プレスリリース「九州電力送配電への応急送電の応援派遣について」.pdf",
       "type": "PDF",
       "size": "98 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 287,
@@ -3157,9 +5750,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "中国電力ネットワーク_再生可能エネルギー出力制御の運用手順・算定方式.pdf",
+      "display_title": "中国電力ネットワーク_再生可能エネルギー出力制御の運用手順・算定方式.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 288,
@@ -3168,9 +5771,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "効率的かつ安定的な電⼒需給バランスの確保に向けた制度環境整備について.pdf",
+      "display_title": "効率的かつ安定的な電⼒需給バランスの確保に向けた制度環境整備について.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 289,
@@ -3179,9 +5791,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "四国電力送配電_四国電力送配電（株）.pdf",
+      "display_title": "四国電力送配電_四国電力送配電（株）.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 290,
@@ -3190,9 +5811,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "定款.pdf",
+      "display_title": "定款.pdf",
       "type": "PDF",
       "size": "355 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 291,
@@ -3201,9 +5831,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "東京電力PG_東京電力パワーグリッド（株）.pdf",
+      "display_title": "東京電力PG_東京電力パワーグリッド（株）.pdf",
       "type": "PDF",
       "size": "219 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 292,
@@ -3212,9 +5851,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "東北電力NW_「託送供給等に係る収入の見通し」の承認について.pdf",
+      "display_title": "東北電力NW_「託送供給等に係る収入の見通し」の承認について.pdf",
       "type": "PDF",
       "size": "100 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 293,
@@ -3223,9 +5871,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "東北電力NW_・東北電力ネットワーク（株）.pdf",
+      "display_title": "東北電力NW_・東北電力ネットワーク（株）.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 294,
@@ -3234,9 +5891,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "東北電力NW_東北電力ネットワーク（株）.pdf",
+      "display_title": "東北電力NW_東北電力ネットワーク（株）.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 295,
@@ -3245,9 +5911,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "東北電力NW_託送供給等約款の変更届出について.pdf",
+      "display_title": "東北電力NW_託送供給等約款の変更届出について.pdf",
       "type": "PDF",
       "size": "1.0 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 296,
@@ -3256,9 +5931,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "業務規程.pdf",
+      "display_title": "業務規程.pdf",
       "type": "PDF",
       "size": "725 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 297,
@@ -3267,9 +5951,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "業務規程第８０条の規定に基づく電源接続案件一括検討プロセスの実施に関する手続等について.pdf",
+      "display_title": "業務規程第８０条の規定に基づく電源接続案件一括検討プロセスの実施に関する手続等について.pdf",
       "type": "PDF",
       "size": "3.2 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 298,
@@ -3278,9 +5971,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "気候NW_OCCTO供給計画取りまとめの推移から見る2030年への道筋_再エネ導入停滞への警鐘.pdf",
+      "display_title": "OCCTO供給計画取りまとめの推移から見る2030年への道筋_再エネ導入停滞への警鐘.pdf",
       "type": "PDF",
       "size": "526 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/07/240703_OCCTO_multi-year-report.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 299,
@@ -3289,9 +5991,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "気候NW_水素・アンモニア発電の課題_化石燃料採掘を拡大させるサプライチェーン問題.pdf",
+      "display_title": "水素・アンモニア発電の課題_化石燃料採掘を拡大させるサプライチェーン問題.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "サプライチェーン・安保"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2021/10/posision-paper-hydrogen-ammonia_rev2.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 300,
@@ -3300,9 +6011,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "気候NW_燃料アンモニアに関するポジションペーパー_石炭火力延命のコスト検証.pdf",
+      "display_title": "燃料アンモニアに関するポジションペーパー_石炭火力延命のコスト検証.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "気候ネットワーク"
+      "org": "気候ネットワーク",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/06/position-paper-2023-ammonia-fuel-revised-230516.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 301,
@@ -3311,9 +6031,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "沖縄電力_・沖縄電力（株）.pdf",
+      "display_title": "沖縄電力_・沖縄電力（株）.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 302,
@@ -3322,9 +6051,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "沖縄電力_沖縄電力（株）.pdf",
+      "display_title": "沖縄電力_沖縄電力（株）.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 303,
@@ -3333,9 +6071,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "沖縄電力_託送供給等に係る収入の見通しの変更承認について.pdf",
+      "display_title": "沖縄電力_託送供給等に係る収入の見通しの変更承認について.pdf",
       "type": "PDF",
       "size": "128 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 304,
@@ -3344,9 +6091,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "沖縄電力_託送供給等約款の変更届出について.pdf",
+      "display_title": "沖縄電力_託送供給等約款の変更届出について.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 305,
@@ -3355,9 +6111,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "空容量マッピング利用上の留意点.pdf",
+      "display_title": "空容量マッピング利用上の留意点.pdf",
       "type": "PDF",
       "size": "1.0 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 306,
@@ -3366,9 +6131,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "系統の接続ルールについてノンファーム型接続ノンファーム型接続の適用について.pdf",
+      "display_title": "系統の接続ルールについてノンファーム型接続ノンファーム型接続の適用について.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 307,
@@ -3377,9 +6151,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "計画策定プロセス開始要件等の変更に伴う電気供給事業者からの提起の取扱いについて.pdf",
+      "display_title": "計画策定プロセス開始要件等の変更に伴う電気供給事業者からの提起の取扱いについて.pdf",
       "type": "PDF",
       "size": "762 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 308,
@@ -3388,9 +6171,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_npr002.pdf",
+      "display_title": "送配電各社_npr002.pdf",
       "type": "PDF",
       "size": "96 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 309,
@@ -3399,9 +6191,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_「託送供給等に係る収入の見通し」の承認について.pdf",
+      "display_title": "送配電各社_「託送供給等に係る収入の見通し」の承認について.pdf",
       "type": "PDF",
       "size": "100 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 310,
@@ -3410,9 +6211,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_託送供給等に係る収入の見通しの変更承認について.pdf",
+      "display_title": "送配電各社_託送供給等に係る収入の見通しの変更承認について.pdf",
       "type": "PDF",
       "size": "128 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 311,
@@ -3421,9 +6231,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_託送供給等約款の変更届出について.pdf",
+      "display_title": "送配電各社_託送供給等約款の変更届出について.pdf",
       "type": "PDF",
       "size": "1.0 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 312,
@@ -3432,9 +6251,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_託送供給等約款の変更届出について（託送料金単価の改定）.pdf",
+      "display_title": "送配電各社_託送供給等約款の変更届出について（託送料金単価の改定）.pdf",
       "type": "PDF",
       "size": "285 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 313,
@@ -3443,9 +6271,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_託送料金における収入の見通しの変更承認について.pdf",
+      "display_title": "送配電各社_託送料金における収入の見通しの変更承認について.pdf",
       "type": "PDF",
       "size": "708 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 314,
@@ -3454,9 +6291,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電各社_託送料金における収入の見通しの承認について.pdf",
+      "display_title": "送配電各社_託送料金における収入の見通しの承認について.pdf",
       "type": "PDF",
       "size": "117 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 315,
@@ -3465,9 +6311,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電等業務指針.pdf",
+      "display_title": "送配電等業務指針.pdf",
       "type": "PDF",
       "size": "730 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 316,
@@ -3476,9 +6331,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電網協議会_再生可能エネルギーの最大限の利用に向けた取組み_2024年版.pdf",
+      "display_title": "送配電網協議会_再生可能エネルギーの最大限の利用に向けた取組み_2024年版.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 317,
@@ -3487,9 +6351,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "送配電網協議会_再生可能エネルギーの最大限の利用に向けた取組み_最新版.pdf",
+      "display_title": "送配電網協議会_再生可能エネルギーの最大限の利用に向けた取組み_最新版.pdf",
       "type": "PDF",
       "size": "4.7 MB",
-      "org": "TDGC（送配電網協議会）"
+      "org": "TDGC（送配電網協議会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "TDGC（送配電網協議会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 318,
@@ -3498,9 +6371,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "関西電力送配電_・関西電力送配電（株）.pdf",
+      "display_title": "関西電力送配電_・関西電力送配電（株）.pdf",
       "type": "PDF",
       "size": "1.3 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 319,
@@ -3509,9 +6391,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "関西電力送配電_再生可能エネルギー発電設備_高圧特高出力制御手順マニュアル.pdf",
+      "display_title": "関西電力送配電_再生可能エネルギー発電設備_高圧特高出力制御手順マニュアル.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "送配電10社およびTDGCによる出力制御・三次調整力②の必要量検証および需給状況レポート。売電収入毀損リスクの算定に必須。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 320,
@@ -3520,9 +6412,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "関西電力送配電_託送供給等約款の変更届出について（託送料金単価の改定）.pdf",
+      "display_title": "関西電力送配電_託送供給等約款の変更届出について（託送料金単価の改定）.pdf",
       "type": "PDF",
       "size": "285 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 321,
@@ -3531,9 +6432,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "関西電力送配電_託送料金における収入の見通しの変更承認について.pdf",
+      "display_title": "関西電力送配電_託送料金における収入の見通しの変更承認について.pdf",
       "type": "PDF",
       "size": "708 KB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 322,
@@ -3542,9 +6452,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "関西電力送配電_関西電力送配電（株）.pdf",
+      "display_title": "関西電力送配電_関西電力送配電（株）.pdf",
       "type": "PDF",
       "size": "1.3 MB",
-      "org": "送配電10社"
+      "org": "送配電10社",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "送配電10社が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 323,
@@ -3553,9 +6472,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "電力ネットワークの次世代化について.pdf",
+      "display_title": "電力ネットワークの次世代化について.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 324,
@@ -3564,9 +6492,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "電力品質確保に係る系統連系技術要件ガイドライン.pdf",
+      "display_title": "電力品質確保に係る系統連系技術要件ガイドライン.pdf",
       "type": "PDF",
       "size": "425 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 325,
@@ -3575,9 +6512,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_系統連系・出力制御・送配電ネットワーク",
       "folder": "01_法令・制度・ガイドライン\\03_系統連系・出力制御・送配電ネットワーク",
       "title": "需給調整市場検討小委員会 用語集.pdf",
+      "display_title": "需給調整市場検討小委員会 用語集.pdf",
       "type": "PDF",
       "size": "610 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 326,
@@ -3586,9 +6532,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "IEEJ_太陽光パネルのリユース市場形成に向けたトレーサビリティの確保手法.pdf",
+      "display_title": "太陽光パネルのリユース市場形成に向けたトレーサビリティの確保手法.pdf",
       "type": "PDF",
       "size": "29 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12524.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 327,
@@ -3597,9 +6552,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "IEEJ_太陽光パネル廃棄・リサイクル義務化に伴う事業採算性の影響評価.pdf",
+      "display_title": "太陽光パネル廃棄・リサイクル義務化に伴う事業採算性の影響評価.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12504.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 328,
@@ -3608,9 +6572,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "JPEA_使用済み太陽電池モジュールの適正処理・リサイクルQA集.pdf",
+      "display_title": "使用済み太陽電池モジュールの適正処理・リサイクルQA集.pdf",
       "type": "PDF",
       "size": "714 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/handout_qa.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 329,
@@ -3619,9 +6592,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "JPEA_使用済太陽電池モジュールの適正処理に資する情報提供のガイドライン_第1版.pdf",
+      "display_title": "使用済太陽電池モジュールの適正処理に資する情報提供のガイドライン_第1版.pdf",
       "type": "PDF",
       "size": "498 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t171211.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 330,
@@ -3630,9 +6612,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "JPEA_太陽電池モジュールの環境配慮設計アセスメントガイドライン_第1版.pdf",
+      "display_title": "太陽電池モジュールの環境配慮設計アセスメントガイドライン_第1版.pdf",
       "type": "PDF",
       "size": "414 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t161019.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 331,
@@ -3641,9 +6632,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "JPEA_太陽電池モジュール適正処理に資する情報提供ガイドライン.pdf",
+      "display_title": "太陽電池モジュール適正処理に資する情報提供ガイドライン.pdf",
       "type": "PDF",
       "size": "498 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 332,
@@ -3652,9 +6652,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "JPEA_太陽電池モジュール適正処理リサイクル中間処理業者名簿_最新版.pdf",
+      "display_title": "太陽電池モジュール適正処理リサイクル中間処理業者名簿_最新版.pdf",
       "type": "PDF",
       "size": "841 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/20260608_recycle_contr_list_v1.9.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 333,
@@ -3663,9 +6672,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "JPEA_太陽電池廃棄物の再資源化等の推進に関する法律案に関する意見書.pdf",
+      "display_title": "太陽電池廃棄物の再資源化等の推進に関する法律案に関する意見書.pdf",
       "type": "PDF",
       "size": "506 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/260423_JPEA「太陽電池廃棄物の再資源化等の推進に関する法律案」について.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 334,
@@ -3674,9 +6692,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_太陽光パネルリユース・リサイクル事業者実態調査報告書.pdf",
+      "display_title": "太陽光パネルリユース・リサイクル事業者実態調査報告書.pdf",
       "type": "PDF",
       "size": "12.8 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 335,
@@ -3685,9 +6712,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_太陽光発電設備のリサイクル制度のあり方について_参考資料.pdf",
+      "display_title": "太陽光発電設備のリサイクル制度のあり方について_参考資料.pdf",
       "type": "PDF",
       "size": "2.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/content/000302386.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 336,
@@ -3696,9 +6732,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_太陽光発電設備のリサイクル制度のあり方について_報告書.pdf",
+      "display_title": "太陽光発電設備のリサイクル制度のあり方について_報告書.pdf",
       "type": "PDF",
       "size": "512 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": true,
+      "direct_url": "https://www.env.go.jp/content/000302385.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 337,
@@ -3707,9 +6752,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_太陽光発電設備のリサイクル等の推進に向けたガイドライン_初版.pdf",
+      "display_title": "太陽光発電設備のリサイクル等の推進に向けたガイドライン_初版.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 338,
@@ -3718,9 +6772,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_太陽光発電設備のリサイクル等の推進に向けたガイドライン_第三版.pdf",
+      "display_title": "太陽光発電設備のリサイクル等の推進に向けたガイドライン_第三版.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 339,
@@ -3729,9 +6792,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_太陽電池モジュールの適切なリユース促進ガイドライン.pdf",
+      "display_title": "太陽電池モジュールの適切なリユース促進ガイドライン.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 340,
@@ -3740,9 +6812,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_廃棄物最終処分場等における太陽光発電の導入運用ガイドライン.pdf",
+      "display_title": "廃棄物最終処分場等における太陽光発電の導入運用ガイドライン.pdf",
       "type": "PDF",
       "size": "4.7 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 341,
@@ -3751,9 +6832,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第10回_資料1_太陽光パネルのリサイクル制度について.pdf",
+      "display_title": "第10回_資料1_太陽光パネルのリサイクル制度について.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000371843.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 342,
@@ -3762,9 +6852,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第11回_参考資料2_下位法令策定等に係る検討会の創設について.pdf",
+      "display_title": "第11回_参考資料2_下位法令策定等に係る検討会の創設について.pdf",
       "type": "PDF",
       "size": "134 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433716.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 343,
@@ -3773,9 +6872,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第11回_資料1_太陽電池廃棄物の再資源化等の推進に関する法律について.pdf",
+      "display_title": "第11回_資料1_太陽電池廃棄物の再資源化等の推進に関する法律について.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433712.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 344,
@@ -3784,9 +6892,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第11回_資料2_下位法令の検討体制等について.pdf",
+      "display_title": "第11回_資料2_下位法令の検討体制等について.pdf",
       "type": "PDF",
       "size": "545 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433713.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 345,
@@ -3795,9 +6912,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第11回_資料3_基本方針について.pdf",
+      "display_title": "第11回_資料3_基本方針について.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433714.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 346,
@@ -3806,9 +6932,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第1回_資料3_太陽光発電設備の廃棄・リサイクルをめぐる状況及び論点について.pdf",
+      "display_title": "第1回_資料3_太陽光発電設備の廃棄・リサイクルをめぐる状況及び論点について.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000252102.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 347,
@@ -3817,9 +6952,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第3回_資料1_太陽光発電設備の廃棄・リサイクル制度の論点について.pdf",
+      "display_title": "第3回_資料1_太陽光発電設備の廃棄・リサイクル制度の論点について.pdf",
       "type": "PDF",
       "size": "3.8 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000258349.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 348,
@@ -3828,9 +6972,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第4回_資料1_これまでの議論について.pdf",
+      "display_title": "第4回_資料1_これまでの議論について.pdf",
       "type": "PDF",
       "size": "788 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261507.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 349,
@@ -3839,9 +6992,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第4回_資料2_全国解体工事業団体連合会説明資料.pdf",
+      "display_title": "第4回_資料2_全国解体工事業団体連合会説明資料.pdf",
       "type": "PDF",
       "size": "179 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261516.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 350,
@@ -3850,9 +7012,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第4回_資料3_太陽光パネルリユース・リサイクル協会説明資料.pdf",
+      "display_title": "第4回_資料3_太陽光パネルリユース・リサイクル協会説明資料.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261509.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 351,
@@ -3861,9 +7032,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第4回_資料4_AGC株式会社説明資料_カバーガラス再資源化.pdf",
+      "display_title": "第4回_資料4_AGC株式会社説明資料_カバーガラス再資源化.pdf",
       "type": "PDF",
       "size": "3.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261510.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 352,
@@ -3872,9 +7052,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第5回_資料2_PV_CYCLE_JAPAN説明用資料.pdf",
+      "display_title": "第5回_資料2_PV_CYCLE_JAPAN説明用資料.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261701.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 353,
@@ -3883,9 +7072,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第5回_資料3_再生可能エネルギー長期安定電源推進協会説明資料.pdf",
+      "display_title": "第5回_資料3_再生可能エネルギー長期安定電源推進協会説明資料.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261702.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 354,
@@ -3894,9 +7092,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第5回_資料4_太陽光発電協会_説明資料.pdf",
+      "display_title": "第5回_資料4_太陽光発電協会_説明資料.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261703.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 355,
@@ -3905,9 +7112,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第6回_参考資料2_池田委員提出資料_リサイクル技術動向.pdf",
+      "display_title": "第6回_参考資料2_池田委員提出資料_リサイクル技術動向.pdf",
       "type": "PDF",
       "size": "188 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000266953.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 356,
@@ -3916,9 +7132,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第7回_資料1_太陽光発電設備の廃棄・リサイクル制度構築に向けた論点整理.pdf",
+      "display_title": "第7回_資料1_太陽光発電設備の廃棄・リサイクル制度構築に向けた論点整理.pdf",
       "type": "PDF",
       "size": "437 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000269504.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 357,
@@ -3927,9 +7152,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第8回_参考資料2_参考資料.pdf",
+      "display_title": "第8回_参考資料2_参考資料.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000272494.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 358,
@@ -3938,9 +7172,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第8回_資料1_太陽光発電設備のリサイクル制度のあり方について（案）.pdf",
+      "display_title": "第8回_資料1_太陽光発電設備のリサイクル制度のあり方について（案）.pdf",
       "type": "PDF",
       "size": "510 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000272490.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 359,
@@ -3949,9 +7192,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第9回_参考資料2_リサイクル制度検討参考資料.pdf",
+      "display_title": "第9回_参考資料2_リサイクル制度検討参考資料.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000300371.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 360,
@@ -3960,9 +7212,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第9回_資料1_太陽光発電設備のリサイクル制度のあり方について（案）.pdf",
+      "display_title": "第9回_資料1_太陽光発電設備のリサイクル制度のあり方について（案）.pdf",
       "type": "PDF",
       "size": "516 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "2026年施行の太陽光パネルリサイクル新法および下位法令検討会の公式資料。廃棄等費用積立から撤去・再資源化義務化までの実務要件を網羅。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000300368.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 361,
@@ -3971,9 +7232,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_廃棄・リサイクル・環境アセスメント",
       "folder": "01_法令・制度・ガイドライン\\04_廃棄・リサイクル・環境アセスメント",
       "title": "環境省_第9回_資料2_パブリックコメント結果及び考え方（案）.pdf",
+      "display_title": "第9回_資料2_パブリックコメント結果及び考え方（案）.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "制度・法改正"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.env.go.jp/council/content/03recycle03/000300463.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/policy.html"
     },
     {
       "id": 362,
@@ -3982,9 +7252,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "JPEA_公共・産業用太陽光発電システム手引書_第4章_系統連系・保守点検・安全管理.pdf",
+      "display_title": "公共・産業用太陽光発電システム手引書_第4章_系統連系・保守点検・安全管理.pdf",
       "type": "PDF",
       "size": "123.8 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "保安・保守点検"
+      ],
+      "summary": "太陽光発電協会（JPEA）による設計・施工技術および長期導入ビジョンの原本。架台強度、電気保安、品質基準の公式業界スタンダード。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/004.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 363,
@@ -3993,9 +7272,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "JPEA_屋根・建物からの墜落防止のための検討委員会報告書.pdf",
+      "display_title": "屋根・建物からの墜落防止のための検討委員会報告書.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/report_prevention.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 364,
@@ -4004,9 +7292,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "OCCTO_イベリア半島大規模停電を踏まえた日本の電力系統での技術的対応.pdf",
+      "display_title": "イベリア半島大規模停電を踏まえた日本の電力系統での技術的対応.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/121/chousei_121_03.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 365,
@@ -4015,9 +7312,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "消防庁_リチウムイオン蓄電池に係る危険物安全規制の見直し等.pdf",
+      "display_title": "消防庁_リチウムイオン蓄電池に係る危険物安全規制の見直し等.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "消防庁"
+      "org": "消防庁",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "消防庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 366,
@@ -4026,9 +7332,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "消防庁_リチウムイオン蓄電池に係る火災予防上の安全対策報告書_詳細版.pdf",
+      "display_title": "消防庁_リチウムイオン蓄電池に係る火災予防上の安全対策報告書_詳細版.pdf",
       "type": "PDF",
       "size": "451 KB",
-      "org": "消防庁"
+      "org": "消防庁",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "消防庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 367,
@@ -4037,9 +7352,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "経産省_令和元年度に発生した自然災害を踏まえた太陽光安全取組状況.pdf",
+      "display_title": "令和元年度に発生した自然災害を踏まえた太陽光安全取組状況.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 368,
@@ -4048,9 +7372,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "経産省_小規模太陽光発電設備のサイバーセキュリティ対策について.pdf",
+      "display_title": "小規模太陽光発電設備のサイバーセキュリティ対策について.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 369,
@@ -4059,9 +7392,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "経産省_電力分野におけるサイバーセキュリティ対策について.pdf",
+      "display_title": "電力分野におけるサイバーセキュリティ対策について.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 370,
@@ -4070,9 +7412,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "経産省_電力安全分野におけるスマート保安の現状と課題.pdf",
+      "display_title": "電力安全分野におけるスマート保安の現状と課題.pdf",
       "type": "PDF",
       "size": "3.2 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "保安・保守点検",
+        "電験三種"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 371,
@@ -4081,9 +7433,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "経産省_電気設備の技術基準の解釈（電技解釈）_全文.pdf",
+      "display_title": "電気設備の技術基準の解釈（電技解釈）_全文.pdf",
       "type": "PDF",
       "size": "16.8 MB",
-      "org": "経産省・エネ庁"
+      "org": "経産省・エネ庁",
+      "tags": [
+        "保安・保守点検"
+      ],
+      "summary": "経産省・エネ庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 372,
@@ -4092,9 +7453,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_電気設備技術基準・解釈・保安管理",
       "folder": "02_設備技術・設計施工・保安\\01_電気設備技術基準・解釈・保安管理",
       "title": "総務省消防庁_リチウムイオン蓄電池に係る火災予防上の安全対策検討報告書.pdf",
+      "display_title": "総務省消防庁_リチウムイオン蓄電池に係る火災予防上の安全対策検討報告書.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "消防庁"
+      "org": "消防庁",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "消防庁が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 373,
@@ -4103,9 +7473,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "IEEJ_近年の自然災害を踏まえた太陽光発電設備構造基準の改定動向.pdf",
+      "display_title": "近年の自然災害を踏まえた太陽光発電設備構造基準の改定動向.pdf",
       "type": "PDF",
       "size": "29 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12523.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 374,
@@ -4114,9 +7493,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "JIS_太陽電池アレイ用支持物設計標準（JIS_C_8955）の概要.pdf",
+      "display_title": "JIS_太陽電池アレイ用支持物設計標準（JIS_C_8955）の概要.pdf",
       "type": "PDF",
       "size": "146 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 375,
@@ -4125,9 +7513,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "JPEA_公共・産業用太陽光発電システム手引書_全編原本.pdf",
+      "display_title": "公共・産業用太陽光発電システム手引書_全編原本.pdf",
       "type": "PDF",
       "size": "158.0 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "太陽光発電協会（JPEA）による設計・施工技術および長期導入ビジョンの原本。架台強度、電気保安、品質基準の公式業界スタンダード。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/all.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 376,
@@ -4136,9 +7533,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "JPEA_公共・産業用太陽光発電システム手引書_第1章_システムの計画と設計.pdf",
+      "display_title": "公共・産業用太陽光発電システム手引書_第1章_システムの計画と設計.pdf",
       "type": "PDF",
       "size": "16.7 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "太陽光発電協会（JPEA）による設計・施工技術および長期導入ビジョンの原本。架台強度、電気保安、品質基準の公式業界スタンダード。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/001.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 377,
@@ -4147,9 +7553,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "JPEA_公共・産業用太陽光発電システム手引書_第3章_施工・据付工事標準.pdf",
+      "display_title": "公共・産業用太陽光発電システム手引書_第3章_施工・据付工事標準.pdf",
       "type": "PDF",
       "size": "547 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "太陽光発電協会（JPEA）による設計・施工技術および長期導入ビジョンの原本。架台強度、電気保安、品質基準の公式業界スタンダード。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/003.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 378,
@@ -4158,9 +7573,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "JPEA_水上設置型太陽光発電システムの設計施工ガイドライン.pdf",
+      "display_title": "水上設置型太陽光発電システムの設計施工ガイドライン.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 379,
@@ -4169,9 +7593,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_事業概要資料（880KB）.pdf",
+      "display_title": "事業概要資料（880KB）.pdf",
       "type": "PDF",
       "size": "880 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 380,
@@ -4180,9 +7613,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_営農型太陽光発電システム設計施工ガイドライン.pdf",
+      "display_title": "営農型太陽光発電システム設計施工ガイドライン.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 381,
@@ -4191,9 +7633,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_営農型太陽光発電システム設計施工ガイドライン_最新版.pdf",
+      "display_title": "営農型太陽光発電システム設計施工ガイドライン_最新版.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 382,
@@ -4202,9 +7653,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_地上設置型太陽光発電システムの構造設計例_アルミニウム合金製架台.pdf",
+      "display_title": "地上設置型太陽光発電システムの構造設計例_アルミニウム合金製架台.pdf",
       "type": "PDF",
       "size": "6.5 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 383,
@@ -4213,9 +7673,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_地上設置型太陽光発電システムの構造設計例_鋼製架台.pdf",
+      "display_title": "地上設置型太陽光発電システムの構造設計例_鋼製架台.pdf",
       "type": "PDF",
       "size": "8.3 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 384,
@@ -4224,9 +7693,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_地上設置型太陽光発電システムの設計施工ガイドライン.pdf",
+      "display_title": "地上設置型太陽光発電システムの設計施工ガイドライン.pdf",
       "type": "PDF",
       "size": "6.0 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 385,
@@ -4235,9 +7713,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_地上設置型太陽光発電システムの設計施工ガイドライン_2025年版.pdf",
+      "display_title": "地上設置型太陽光発電システムの設計施工ガイドライン_2025年版.pdf",
       "type": "PDF",
       "size": "6.0 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 386,
@@ -4246,9 +7733,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_基本計画（252KB）.pdf",
+      "display_title": "基本計画（252KB）.pdf",
       "type": "PDF",
       "size": "251 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 387,
@@ -4257,9 +7753,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_実施方針：2021年度版（285KB）.pdf",
+      "display_title": "実施方針：2021年度版（285KB）.pdf",
       "type": "PDF",
       "size": "284 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 388,
@@ -4268,9 +7773,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_実施方針：2022年度版（476KB）.pdf",
+      "display_title": "実施方針：2022年度版（476KB）.pdf",
       "type": "PDF",
       "size": "476 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 389,
@@ -4279,9 +7793,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_実施方針：2023年度版（431KB）.pdf",
+      "display_title": "実施方針：2023年度版（431KB）.pdf",
       "type": "PDF",
       "size": "430 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 390,
@@ -4290,9 +7813,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_実施方針：2024年度版（440KB）.pdf",
+      "display_title": "実施方針：2024年度版（440KB）.pdf",
       "type": "PDF",
       "size": "440 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 391,
@@ -4301,9 +7833,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_実施方針：2025年度版（453KB）.pdf",
+      "display_title": "実施方針：2025年度版（453KB）.pdf",
       "type": "PDF",
       "size": "452 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 392,
@@ -4312,9 +7853,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_採択テーマ一覧.pdf",
+      "display_title": "採択テーマ一覧.pdf",
       "type": "PDF",
       "size": "98 KB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 393,
@@ -4323,9 +7873,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_採択テーマ概要.pdf",
+      "display_title": "採択テーマ概要.pdf",
       "type": "PDF",
       "size": "4.1 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 394,
@@ -4334,9 +7893,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_水上設置型太陽光発電システム屋外実測結果報告書.pdf",
+      "display_title": "水上設置型太陽光発電システム屋外実測結果報告書.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 395,
@@ -4345,9 +7913,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_水上設置型太陽光発電システム水理実験結果報告書.pdf",
+      "display_title": "水上設置型太陽光発電システム水理実験結果報告書.pdf",
       "type": "PDF",
       "size": "6.3 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 396,
@@ -4356,9 +7933,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_水上設置型太陽光発電システム絶縁抵抗測定検証報告書.pdf",
+      "display_title": "水上設置型太陽光発電システム絶縁抵抗測定検証報告書.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 397,
@@ -4367,9 +7953,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_架台・基礎・土木構造設計標準",
       "folder": "02_設備技術・設計施工・保安\\02_架台・基礎・土木構造設計標準",
       "title": "NEDO_藤棚式営農型太陽電池アレイ風洞実験報告書.pdf",
+      "display_title": "藤棚式営農型太陽電池アレイ風洞実験報告書.pdf",
       "type": "PDF",
       "size": "8.2 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 398,
@@ -4378,9 +7973,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "IEEJ_系統用蓄電池のビジネスモデルと市場収益性のシミュレーション.pdf",
+      "display_title": "系統用蓄電池のビジネスモデルと市場収益性のシミュレーション.pdf",
       "type": "PDF",
       "size": "622 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12503.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 399,
@@ -4389,9 +7993,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "JPEA_PCS力率一定制御についてのQA集.pdf",
+      "display_title": "PCS力率一定制御についてのQA集.pdf",
       "type": "PDF",
       "size": "438 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/rikiritsu_qa.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 400,
@@ -4400,9 +8013,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "JPEA_公共・産業用太陽光発電システム手引書_第2章_機器・部材の選定と仕様.pdf",
+      "display_title": "公共・産業用太陽光発電システム手引書_第2章_機器・部材の選定と仕様.pdf",
       "type": "PDF",
       "size": "18.1 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "太陽光発電協会（JPEA）による設計・施工技術および長期導入ビジョンの原本。架台強度、電気保安、品質基準の公式業界スタンダード。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/002.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 401,
@@ -4411,9 +8033,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "JPEA_日本における太陽電池モジュール出荷統計_最新速報.pdf",
+      "display_title": "日本における太陽電池モジュール出荷統計_最新速報.pdf",
       "type": "PDF",
       "size": "59 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/2026Q1_pv_shipment_in_japan.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 402,
@@ -4422,9 +8053,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "JPEA_日本企業における太陽電池出荷量推移_統計レポート.pdf",
+      "display_title": "日本企業における太陽電池出荷量推移_統計レポート.pdf",
       "type": "PDF",
       "size": "59 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/2026Q1_pv_shipment_japanese_companies.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 403,
@@ -4433,9 +8073,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "JPEA_自立運転機能の操作方法表示シール等作成ガイドライン_第1版.pdf",
+      "display_title": "自立運転機能の操作方法表示シール等作成ガイドライン_第1版.pdf",
       "type": "PDF",
       "size": "380 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/guideline_sticker.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 404,
@@ -4444,9 +8093,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "NEDO_JPEA_地上設置型太陽光発電システム設計施工ガイドライン_構造設計解説.pdf",
+      "display_title": "JPEA_地上設置型太陽光発電システム設計施工ガイドライン_構造設計解説.pdf",
       "type": "PDF",
       "size": "5.1 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 405,
@@ -4455,9 +8113,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "folder": "02_設備技術・設計施工・保安\\03_太陽電池モジュール・PCS・系統用蓄電池BESS",
       "title": "OCCTO_系統用蓄電池の新規連系における課題と対応_第97回広域系統整備委.pdf",
+      "display_title": "系統用蓄電池の新規連系における課題と対応_第97回広域系統整備委.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/97/seibi_97_02_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 406,
@@ -4466,9 +8133,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "10kW以上の一般用電気工作物_太陽光発電システムの基礎・架台の設計施工チェックリストと留意点.pdf",
+      "display_title": "10kW以上の一般用電気工作物_太陽光発電システムの基礎・架台の設計施工チェックリストと留意点.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 407,
@@ -4477,9 +8153,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "IEEJ_太陽光発電所セカンダリー市場におけるデューデリジェンスの要点.pdf",
+      "display_title": "太陽光発電所セカンダリー市場におけるデューデリジェンスの要点.pdf",
       "type": "PDF",
       "size": "354 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12516.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 408,
@@ -4488,9 +8173,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_公共産業用太陽光発電設備のレイアウト・表示自主ルール.pdf",
+      "display_title": "公共産業用太陽光発電設備のレイアウト・表示自主ルール.pdf",
       "type": "PDF",
       "size": "969 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t140925.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 409,
@@ -4499,9 +8193,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システムの反射光トラブル防止対策報告書.pdf",
+      "display_title": "太陽光発電システムの反射光トラブル防止対策報告書.pdf",
       "type": "PDF",
       "size": "203 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/revention_reflection.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 410,
@@ -4510,9 +8213,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システムの基礎・架台の設計・施工チェックリストと留意点.pdf",
+      "display_title": "太陽光発電システムの基礎・架台の設計・施工チェックリストと留意点.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/150529_JPEA_checklist.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 411,
@@ -4521,9 +8233,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システム保守点検ガイドライン_初版.pdf",
+      "display_title": "太陽光発電システム保守点検ガイドライン_初版.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "保安・保守点検"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 412,
@@ -4532,9 +8253,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システム保守点検ガイドライン_改訂版.pdf",
+      "display_title": "太陽光発電システム保守点検ガイドライン_改訂版.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "保安・保守点検"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 413,
@@ -4543,9 +8273,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システム表示ガイドライン_2026年版.pdf",
+      "display_title": "太陽光発電システム表示ガイドライン_2026年版.pdf",
       "type": "PDF",
       "size": "353 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 414,
@@ -4554,9 +8293,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システム被災時の点検・復旧・撤去手順および留意点_震災編.pdf",
+      "display_title": "太陽光発電システム被災時の点検・復旧・撤去手順および留意点_震災編.pdf",
       "type": "PDF",
       "size": "407 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "保安・保守点検"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t160428.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 415,
@@ -4565,9 +8313,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電システム被災時の点検・撤去手順および留意点_水害編.pdf",
+      "display_title": "太陽光発電システム被災時の点検・撤去手順および留意点_水害編.pdf",
       "type": "PDF",
       "size": "716 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "保安・保守点検"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t151009.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 416,
@@ -4576,9 +8333,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電事業評価ガイド_2024改訂版_実務簡易チェックシート.pdf",
+      "display_title": "太陽光発電事業評価ガイド_2024改訂版_実務簡易チェックシート.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_checksheet.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 417,
@@ -4587,9 +8353,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電事業評価ガイド_2024改訂版_改定概要.pdf",
+      "display_title": "太陽光発電事業評価ガイド_2024改訂版_改定概要.pdf",
       "type": "PDF",
       "size": "468 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_kaitei.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 418,
@@ -4598,9 +8373,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電事業評価ガイド_2024改訂版_評価項目・判定基準概要.pdf",
+      "display_title": "太陽光発電事業評価ガイド_2024改訂版_評価項目・判定基準概要.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_gaiyou.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 419,
@@ -4609,9 +8393,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電事業評価ガイド概要.pdf",
+      "display_title": "太陽光発電事業評価ガイド概要.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 420,
@@ -4620,9 +8413,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "JPEA_太陽光発電協会_表示ガイドライン解説編_2026年版.pdf",
+      "display_title": "太陽光発電協会_表示ガイドライン解説編_2026年版.pdf",
       "type": "PDF",
       "size": "300 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/jpea_hyouji_guideline_kaisetsu2026.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 421,
@@ -4631,9 +8433,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "NEDO_太陽光発電システムの不具合事例とその対処例.pdf",
+      "display_title": "太陽光発電システムの不具合事例とその対処例.pdf",
       "type": "PDF",
       "size": "4.3 MB",
-      "org": "NEDO"
+      "org": "NEDO",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "NEDO地上設置型・水上型・営農型太陽光設計施工ガイドライン。風洞・水理実験結果に基づく構造安全基準。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 422,
@@ -4642,9 +8453,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_OM保守点検・不具合事例・事業評価",
       "folder": "02_設備技術・設計施工・保安\\04_OM保守点検・不具合事例・事業評価",
       "title": "OCCTO_高経年化設備更新ガイドラインの改定について_第98回広域系統整備委.pdf",
+      "display_title": "高経年化設備更新ガイドラインの改定について_第98回広域系統整備委.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "技術・設計施工"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_02_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/electrical.html"
     },
     {
       "id": 423,
@@ -4653,9 +8473,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "IEEJ_GXソリューションのグローバルトレンド_脱炭素技術の普及と投資.pdf",
+      "display_title": "GXソリューションのグローバルトレンド_脱炭素技術の普及と投資.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13325.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 424,
@@ -4664,9 +8493,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "IEEJ_GX市場構築に向けた政策の動向_国内カーボンプライシングと企業行動.pdf",
+      "display_title": "GX市場構築に向けた政策の動向_国内カーボンプライシングと企業行動.pdf",
       "type": "PDF",
       "size": "2.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13323.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 425,
@@ -4675,9 +8513,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "IEEJ_GX製品・サービスの需要創出に向けたビジネス機会の創発.pdf",
+      "display_title": "GX製品・サービスの需要創出に向けたビジネス機会の創発.pdf",
       "type": "PDF",
       "size": "9.3 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13327.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 426,
@@ -4686,9 +8533,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "IEEJ_Tensor_CloudによるGXの課題解決と再エネ・電力データ分析.pdf",
+      "display_title": "Tensor_CloudによるGXの課題解決と再エネ・電力データ分析.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13326.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 427,
@@ -4697,9 +8553,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "IEEJ_再エネプロジェクトボンドおよびESGインフラファンドの組成実態.pdf",
+      "display_title": "再エネプロジェクトボンドおよびESGインフラファンドの組成実態.pdf",
       "type": "PDF",
       "size": "136 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12521.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 428,
@@ -4708,9 +8573,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "IEEJ_日本の脱炭素成長型経済構造移行債（GX経済移行債）の投資枠組み.pdf",
+      "display_title": "日本の脱炭素成長型経済構造移行債（GX経済移行債）の投資枠組み.pdf",
       "type": "PDF",
       "size": "1.3 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12507.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 429,
@@ -4719,9 +8593,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "JPEA_太陽光発電アセットマネジメントガイドライン.pdf",
+      "display_title": "太陽光発電アセットマネジメントガイドライン.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 430,
@@ -4730,9 +8613,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "JPEA_太陽光発電事業の評価ガイド改訂概要_2024年改訂版.pdf",
+      "display_title": "太陽光発電事業の評価ガイド改訂概要_2024年改訂版.pdf",
       "type": "PDF",
       "size": "468 KB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_kaitei.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 431,
@@ -4741,9 +8633,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "JPEA_太陽光発電事業の評価ガイド簡易チェックシート.pdf",
+      "display_title": "太陽光発電事業の評価ガイド簡易チェックシート.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "JPEA（太陽光発電協会）"
+      "org": "JPEA（太陽光発電協会）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "JPEA（太陽光発電協会）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_checksheet.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 432,
@@ -4752,9 +8653,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "OCCTO_北海道本州間連系設備に係るプロジェクトファイナンス上の課題について.pdf",
+      "display_title": "北海道本州間連系設備に係るプロジェクトファイナンス上の課題について.pdf",
       "type": "PDF",
       "size": "674 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_94_01_02.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 433,
@@ -4763,9 +8673,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "TCFDコンソーシアム_気候関連財務情報開示に関するガイダンス3.0.pdf",
+      "display_title": "TCFDコンソーシアム_気候関連財務情報開示に関するガイダンス3.0.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 434,
@@ -4774,9 +8693,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "環境省_グリーンボンド及びサステナビリティリンクボンドガイドライン_2026年版.pdf",
+      "display_title": "グリーンボンド及びサステナビリティリンクボンドガイドライン_2026年版.pdf",
       "type": "PDF",
       "size": "5.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 435,
@@ -4785,9 +8713,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "環境省_グリーンボンド及びサステナビリティリンクボンドガイドライン_改訂概要.pdf",
+      "display_title": "グリーンボンド及びサステナビリティリンクボンドガイドライン_改訂概要.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 436,
@@ -4796,9 +8733,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_AMガイドライン・グリーンファイナンス",
       "folder": "03_金融・PPA・電力市場・契約\\01_AMガイドライン・グリーンファイナンス",
       "title": "環境省_赤道原則（エクエーター原則）第4版_解説.pdf",
+      "display_title": "赤道原則（エクエーター原則）第4版_解説.pdf",
       "type": "PDF",
       "size": "587 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 437,
@@ -4807,9 +8753,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "IEEJ_ASEAN諸国における太陽光・風力発電の導入可能性_日系企業進出とPPA調達環境.pdf",
+      "display_title": "ASEAN諸国における太陽光・風力発電の導入可能性_日系企業進出とPPA調達環境.pdf",
       "type": "PDF",
       "size": "6.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "コーポレートPPA"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12612.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 438,
@@ -4818,9 +8773,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "IEEJ_国内コーポレートPPAの契約形態比較と導入障壁の解消策.pdf",
+      "display_title": "国内コーポレートPPAの契約形態比較と導入障壁の解消策.pdf",
       "type": "PDF",
       "size": "6.0 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "コーポレートPPA"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12502.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 439,
@@ -4829,9 +8793,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "IEEJ_工場・倉庫の屋根置き太陽光自家消費における蓄電池最適制御モデル.pdf",
+      "display_title": "工場・倉庫の屋根置き太陽光自家消費における蓄電池最適制御モデル.pdf",
       "type": "PDF",
       "size": "29 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12518.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 440,
@@ -4840,9 +8813,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "IEEJ_第7次エネルギー基本計画の実現に向けた再生可能エネルギーの課題_プレゼンテーション資料.pdf",
+      "display_title": "第7次エネルギー基本計画の実現に向けた再生可能エネルギーの課題_プレゼンテーション資料.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12608.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 441,
@@ -4851,9 +8833,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "IEEJ_第7次エネルギー基本計画の実現に向けた再生可能エネルギーの課題_自家消費用太陽光と洋上風力.pdf",
+      "display_title": "第7次エネルギー基本計画の実現に向けた再生可能エネルギーの課題_自家消費用太陽光と洋上風力.pdf",
       "type": "PDF",
       "size": "140 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "エネルギー政策・計画"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12607.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 442,
@@ -4862,9 +8853,20 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_PPA事業における蓄電池の電力自家消費活用事例集.pdf",
+      "display_title": "PPA事業における蓄電池の電力自家消費活用事例集.pdf",
       "type": "PDF",
       "size": "6.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池",
+        "コーポレートPPA",
+        "電験三種"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 443,
@@ -4873,9 +8875,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_TPOモデル（第三者保有方式）による再エネ設備導入事例集.pdf",
+      "display_title": "TPOモデル（第三者保有方式）による再エネ設備導入事例集.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 444,
@@ -4884,9 +8895,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_TPO事業（第三者所有モデル）導入ガイド.pdf",
+      "display_title": "TPO事業（第三者所有モデル）導入ガイド.pdf",
       "type": "PDF",
       "size": "2.3 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 445,
@@ -4895,9 +8915,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_オフサイトコーポレートPPAの概要解説.pdf",
+      "display_title": "オフサイトコーポレートPPAの概要解説.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "コーポレートPPA"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 446,
@@ -4906,9 +8935,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_ソーラーカーポートの導入について_駐車場スペースの活用手引き.pdf",
+      "display_title": "ソーラーカーポートの導入について_駐車場スペースの活用手引き.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 447,
@@ -4917,9 +8955,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_ソーラーカーポート導入事例集_最新版.pdf",
+      "display_title": "ソーラーカーポート導入事例集_最新版.pdf",
       "type": "PDF",
       "size": "7.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 448,
@@ -4928,9 +8975,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_ソーラーカーポート導入実例_製造事業所における駐車場活用（ホンダ）.pdf",
+      "display_title": "ソーラーカーポート導入実例_製造事業所における駐車場活用（ホンダ）.pdf",
       "type": "PDF",
       "size": "4.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 449,
@@ -4939,9 +8995,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_再エネ自営線敷設及びマイクログリッド導入事例集.pdf",
+      "display_title": "再エネ自営線敷設及びマイクログリッド導入事例集.pdf",
       "type": "PDF",
       "size": "860 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 450,
@@ -4950,9 +9015,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_営農地・ため池・廃棄物処分場等における太陽光発電導入事例集.pdf",
+      "display_title": "営農地・ため池・廃棄物処分場等における太陽光発電導入事例集.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "廃棄・リサイクル",
+        "営農型太陽光"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 451,
@@ -4961,9 +9036,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_営農地・水面を活用した太陽光設備の導入手引き.pdf",
+      "display_title": "営農地・水面を活用した太陽光設備の導入手引き.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 452,
@@ -4972,9 +9056,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_太陽光発電及び蓄電池導入事例_工場施設におけるEMS制御（タイカ）.pdf",
+      "display_title": "太陽光発電及び蓄電池導入事例_工場施設におけるEMS制御（タイカ）.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 453,
@@ -4983,9 +9076,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_建材一体型BIPV太陽光発電導入事例_ZEB実証ビル（大成建設）.pdf",
+      "display_title": "建材一体型BIPV太陽光発電導入事例_ZEB実証ビル（大成建設）.pdf",
       "type": "PDF",
       "size": "5.1 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 454,
@@ -4994,9 +9096,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_窓・壁一体型（BIPV）太陽光発電の導入事例集.pdf",
+      "display_title": "窓・壁一体型（BIPV）太陽光発電の導入事例集.pdf",
       "type": "PDF",
       "size": "873 KB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 455,
@@ -5005,9 +9116,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_自営線マイクログリッドのはじめかたガイド_地産地消型再エネ.pdf",
+      "display_title": "自営線マイクログリッドのはじめかたガイド_地産地消型再エネ.pdf",
       "type": "PDF",
       "size": "4.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 456,
@@ -5016,9 +9136,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_自家消費型太陽光発電・蓄電池導入事例集_2025年版.pdf",
+      "display_title": "自家消費型太陽光発電・蓄電池導入事例集_2025年版.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 457,
@@ -5027,9 +9156,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_自家消費型太陽光発電及び蓄電池の導入事例集.pdf",
+      "display_title": "自家消費型太陽光発電及び蓄電池の導入事例集.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 458,
@@ -5038,9 +9176,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_自家消費型太陽光設備の導入について_オンサイトPPA_リース手引き.pdf",
+      "display_title": "自家消費型太陽光設備の導入について_オンサイトPPA_リース手引き.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "コーポレートPPA"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 459,
@@ -5049,9 +9196,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_農場におけるソーラーシェアリング営農型太陽光導入事例（市民エネルギーちば）.pdf",
+      "display_title": "農場におけるソーラーシェアリング営農型太陽光導入事例（市民エネルギーちば）.pdf",
       "type": "PDF",
       "size": "18.6 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "営農型太陽光"
+      ],
+      "summary": "地域共生型太陽光発電およびソーラーシェアリングの実務事例集。自治体合意形成、農地一時転用新基準のポイントを提示。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 460,
@@ -5060,9 +9216,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_コーポレートPPA・自家消費・蓄電池導入",
       "folder": "03_金融・PPA・電力市場・契約\\02_コーポレートPPA・自家消費・蓄電池導入",
       "title": "環境省_離島における再エネ主力化に向けた運転制御設備導入構築事例.pdf",
+      "display_title": "離島における再エネ主力化に向けた運転制御設備導入構築事例.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 461,
@@ -5071,9 +9236,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "IEEJ_スポット電力市場価格の変動要因分析と再エネ普及の影響.pdf",
+      "display_title": "スポット電力市場価格の変動要因分析と再エネ普及の影響.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12501.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 462,
@@ -5082,9 +9256,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "IEEJ_世界LNG市場動向と国内電力需給ひっ迫時の燃料調達リスク.pdf",
+      "display_title": "世界LNG市場動向と国内電力需給ひっ迫時の燃料調達リスク.pdf",
       "type": "PDF",
       "size": "865 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "出力制御",
+        "電験三種"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13095.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 463,
@@ -5093,9 +9277,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "IEEJ_容量市場における再エネ・蓄電池の期待容量算定と発動実績.pdf",
+      "display_title": "容量市場における再エネ・蓄電池の期待容量算定と発動実績.pdf",
       "type": "PDF",
       "size": "5.2 MB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "系統用蓄電池",
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/12513.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 464,
@@ -5104,9 +9298,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "IEEJ_日本における同時市場の制度設計と運用構造_分散型給電体制を維持したまま目指す制度的最適化.pdf",
+      "display_title": "日本における同時市場の制度設計と運用構造_分散型給電体制を維持したまま目指す制度的最適化.pdf",
       "type": "PDF",
       "size": "651 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "日本エネルギー経済研究所による専門分析レポート。第7次エネルギー基本計画、FIP移行、サプライチェーンリスク、GX政策の定量的評価。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13031.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 465,
@@ -5115,9 +9318,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "IEEJ_量的供給力確保を目的とした中長期取引市場の制度設計_先渡市場の制度的位置づけと容量市場との関係.pdf",
+      "display_title": "量的供給力確保を目的とした中長期取引市場の制度設計_先渡市場の制度的位置づけと容量市場との関係.pdf",
       "type": "PDF",
       "size": "796 KB",
-      "org": "IEEJ（エネ研）"
+      "org": "IEEJ（エネ研）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "https://eneken.ieej.or.jp/data/13030.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 466,
@@ -5126,9 +9338,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_2026年度調整力の確保に関する計画の取りまとめについて_報告.pdf",
+      "display_title": "2026年度調整力の確保に関する計画の取りまとめについて_報告.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/2026_nenjihoukokusho/20260514_chouseiryokukakuho_fy2026.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 467,
@@ -5137,9 +9358,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_2027年度向け調整力の公募にかかる必要量等の考え方について.pdf",
+      "display_title": "2027年度向け調整力の公募にかかる必要量等の考え方について.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/260624_2027chouseiryokukoubo/20260624_chouseiryokukoubo_fy2027.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 468,
@@ -5148,9 +9378,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_中長期の調整力確保状況の確認結果_2035年度まで_第120回.pdf",
+      "display_title": "中長期の調整力確保状況の確認結果_2035年度まで_第120回.pdf",
       "type": "PDF",
       "size": "4.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/120/chousei_120_02.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 469,
@@ -5159,9 +9398,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_今後の要件変更等について（2026年6月2日更新）.pdf",
+      "display_title": "今後の要件変更等について（2026年6月2日更新）.pdf",
       "type": "PDF",
       "size": "7.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 470,
@@ -5170,9 +9418,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_委員等名簿 (2026年9月14日更新).pdf",
+      "display_title": "委員等名簿 (2026年9月14日更新).pdf",
       "type": "PDF",
       "size": "80 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 471,
@@ -5181,9 +9438,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_委員等名簿（2026年9月28日更新）.pdf",
+      "display_title": "委員等名簿（2026年9月28日更新）.pdf",
       "type": "PDF",
       "size": "74 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 472,
@@ -5192,9 +9458,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション制度概要説明会資料.pdf",
+      "display_title": "容量市場 メインオークション制度概要説明会資料.pdf",
       "type": "PDF",
       "size": "3.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 473,
@@ -5203,9 +9478,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（ペナルティ・容量確保契約金額対応）（対象実需給年度：2024年度）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（ペナルティ・容量確保契約金額対応）（対象実需給年度：2024年度）.pdf",
       "type": "PDF",
       "size": "2.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 474,
@@ -5214,9 +9498,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（ペナルティ・容量確保契約金額対応）（対象実需給年度：2025年度）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（ペナルティ・容量確保契約金額対応）（対象実需給年度：2025年度）.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 475,
@@ -5225,9 +9518,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（リクワイアメント対応）（対象実需給年度：2024年度）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（リクワイアメント対応）（対象実需給年度：2024年度）.pdf",
       "type": "PDF",
       "size": "4.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 476,
@@ -5236,9 +9538,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（リクワイアメント対応）（対象実需給年度：2025年度）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（リクワイアメント対応）（対象実需給年度：2025年度）.pdf",
       "type": "PDF",
       "size": "4.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 477,
@@ -5247,9 +9558,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（事業者・電源等情報の登録申請について）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（事業者・電源等情報の登録申請について）.pdf",
       "type": "PDF",
       "size": "1.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 478,
@@ -5258,9 +9578,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（事業者情報・電源等情報・期待容量の登録申請および応札について）（5348KB）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（事業者情報・電源等情報・期待容量の登録申請および応札について）（5348KB）.pdf",
       "type": "PDF",
       "size": "5.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 479,
@@ -5269,9 +9598,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（実効性テストについて）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（実効性テストについて）.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 480,
@@ -5280,9 +9618,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（容量停止計画の調整業務）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（容量停止計画の調整業務）.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 481,
@@ -5291,9 +9638,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明会資料（応札について）.pdf",
+      "display_title": "容量市場 メインオークション実務説明会資料（応札について）.pdf",
       "type": "PDF",
       "size": "511 KB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 482,
@@ -5302,9 +9658,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明資料（ペナルティ・容量確保契約金額対応）.pdf",
+      "display_title": "容量市場 メインオークション実務説明資料（ペナルティ・容量確保契約金額対応）.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 483,
@@ -5313,9 +9678,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明資料（ペナルティ・容量確保契約金額対応）（対象実需給年度：2026年度）.pdf",
+      "display_title": "容量市場 メインオークション実務説明資料（ペナルティ・容量確保契約金額対応）（対象実需給年度：2026年度）.pdf",
       "type": "PDF",
       "size": "2.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 484,
@@ -5324,9 +9698,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明資料（リクワイアメント対応）.pdf",
+      "display_title": "容量市場 メインオークション実務説明資料（リクワイアメント対応）.pdf",
       "type": "PDF",
       "size": "5.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 485,
@@ -5335,9 +9718,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明資料（リクワイアメント対応）（対象実需給年度：2026年度）.pdf",
+      "display_title": "容量市場 メインオークション実務説明資料（リクワイアメント対応）（対象実需給年度：2026年度）.pdf",
       "type": "PDF",
       "size": "5.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 486,
@@ -5346,9 +9738,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション実務説明資料（期待容量の登録申請について）.pdf",
+      "display_title": "容量市場 メインオークション実務説明資料（期待容量の登録申請について）.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 487,
@@ -5357,9 +9758,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 メインオークション概要説明会資料.pdf",
+      "display_title": "容量市場 メインオークション概要説明会資料.pdf",
       "type": "PDF",
       "size": "3.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 488,
@@ -5368,9 +9778,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場 追加オークション実務説明会資料.pdf",
+      "display_title": "容量市場 追加オークション実務説明会資料.pdf",
       "type": "PDF",
       "size": "3.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 489,
@@ -5379,9 +9798,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場2025年度包括的検証_検証報告書_公表版.pdf",
+      "display_title": "容量市場2025年度包括的検証_検証報告書_公表版.pdf",
       "type": "PDF",
       "size": "2.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/various/capacity-market/houkatsutekikensyo/report/youryou_2025_houkatsutekikensyo_report.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 490,
@@ -5390,9 +9818,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション制度詳細説明会資料（2021年6月）.pdf",
+      "display_title": "容量市場_メインオークション制度詳細説明会資料（2021年6月）.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 491,
@@ -5401,9 +9838,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション制度詳細説明会資料（2022年7月）.pdf",
+      "display_title": "容量市場_メインオークション制度詳細説明会資料（2022年7月）.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 492,
@@ -5412,9 +9858,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション制度詳細説明会資料（2023年7月）.pdf",
+      "display_title": "容量市場_メインオークション制度詳細説明会資料（2023年7月）.pdf",
       "type": "PDF",
       "size": "4.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 493,
@@ -5423,9 +9878,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション制度説明会資料（2024年7月）.pdf",
+      "display_title": "容量市場_メインオークション制度説明会資料（2024年7月）.pdf",
       "type": "PDF",
       "size": "4.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 494,
@@ -5434,9 +9898,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション制度説明会資料（2025年7月）.pdf",
+      "display_title": "容量市場_メインオークション制度説明会資料（2025年7月）.pdf",
       "type": "PDF",
       "size": "4.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 495,
@@ -5445,9 +9918,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション制度説明会資料（2026年7月）.pdf",
+      "display_title": "容量市場_メインオークション制度説明会資料（2026年7月）.pdf",
       "type": "PDF",
       "size": "6.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 496,
@@ -5456,9 +9938,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション募集要綱・容量拠出金説明会資料（2020年1月）.pdf",
+      "display_title": "容量市場_メインオークション募集要綱・容量拠出金説明会資料（2020年1月）.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 497,
@@ -5467,9 +9958,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明会資料（事業者・電源・期待容量登録及び応札_2023年度）.pdf",
+      "display_title": "容量市場_メインオークション実務説明会資料（事業者・電源・期待容量登録及び応札_2023年度）.pdf",
       "type": "PDF",
       "size": "2.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 498,
@@ -5478,9 +9978,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明会資料（事業者・電源・期待容量登録及び応札_2024年度）.pdf",
+      "display_title": "容量市場_メインオークション実務説明会資料（事業者・電源・期待容量登録及び応札_2024年度）.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 499,
@@ -5489,9 +9998,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明会資料（事業者・電源・期待容量登録及び応札_2025年度）.pdf",
+      "display_title": "容量市場_メインオークション実務説明会資料（事業者・電源・期待容量登録及び応札_2025年度）.pdf",
       "type": "PDF",
       "size": "6.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 500,
@@ -5500,9 +10018,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（事業者・電源等情報登録申請_2021年6月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（事業者・電源等情報登録申請_2021年6月）.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 501,
@@ -5511,9 +10038,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（事業者・電源等情報登録申請_2022年8月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（事業者・電源等情報登録申請_2022年8月）.pdf",
       "type": "PDF",
       "size": "3.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 502,
@@ -5522,9 +10058,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（実効性テスト_2025年度対象・2023年7月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（実効性テスト_2025年度対象・2023年7月）.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 503,
@@ -5533,9 +10078,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（実効性テスト_2026年度対象・2024年7月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（実効性テスト_2026年度対象・2024年7月）.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 504,
@@ -5544,9 +10098,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（実効性テスト_2027年度対象・2025年3月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（実効性テスト_2027年度対象・2025年3月）.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 505,
@@ -5555,9 +10118,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（実効性テスト_2028年度対象・2026年2月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（実効性テスト_2028年度対象・2026年2月）.pdf",
       "type": "PDF",
       "size": "1.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 506,
@@ -5566,9 +10138,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（容量停止計画の調整業務_2025年度対象）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（容量停止計画の調整業務_2025年度対象）.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 507,
@@ -5577,9 +10158,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（容量停止計画の調整業務_2026年度対象）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（容量停止計画の調整業務_2026年度対象）.pdf",
       "type": "PDF",
       "size": "3.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 508,
@@ -5588,9 +10178,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（容量停止計画の調整業務_2027-2028年度対象）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（容量停止計画の調整業務_2027-2028年度対象）.pdf",
       "type": "PDF",
       "size": "3.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 509,
@@ -5599,9 +10198,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（応札について_2021年8月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（応札について_2021年8月）.pdf",
       "type": "PDF",
       "size": "1.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 510,
@@ -5610,9 +10218,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_メインオークション実務説明資料（応札について_2022年10月）.pdf",
+      "display_title": "容量市場_メインオークション実務説明資料（応札について_2022年10月）.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 511,
@@ -5621,9 +10238,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_実需給期間リクワイアメント説明会資料.pdf",
+      "display_title": "容量市場_実需給期間リクワイアメント説明会資料.pdf",
       "type": "PDF",
       "size": "5.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 512,
@@ -5632,9 +10258,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_追加オークション制度詳細説明会資料（2023年2月公表）.pdf",
+      "display_title": "容量市場_追加オークション制度詳細説明会資料（2023年2月公表）.pdf",
       "type": "PDF",
       "size": "4.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 513,
@@ -5643,9 +10278,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_追加オークション制度詳細説明会資料（2024年1月公表）.pdf",
+      "display_title": "容量市場_追加オークション制度詳細説明会資料（2024年1月公表）.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 514,
@@ -5654,9 +10298,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_追加オークション制度詳細説明会資料（2026年2月公表）.pdf",
+      "display_title": "容量市場_追加オークション制度詳細説明会資料（2026年2月公表）.pdf",
       "type": "PDF",
       "size": "5.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 515,
@@ -5665,9 +10318,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_追加オークション実務説明会資料（事業者・電源・期待容量登録及び応札_2023年2月）.pdf",
+      "display_title": "容量市場_追加オークション実務説明会資料（事業者・電源・期待容量登録及び応札_2023年2月）.pdf",
       "type": "PDF",
       "size": "5.5 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 516,
@@ -5676,9 +10338,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場_追加オークション実務説明会資料（事業者・電源・期待容量登録及び応札_2024年1月）.pdf",
+      "display_title": "容量市場_追加オークション実務説明会資料（事業者・電源・期待容量登録及び応札_2024年1月）.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 517,
@@ -5687,9 +10358,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量市場制度説明会資料_最新版.pdf",
+      "display_title": "容量市場制度説明会資料_最新版.pdf",
       "type": "PDF",
       "size": "6.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 518,
@@ -5698,9 +10378,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量拠出金説明会資料（2024年6月）.pdf",
+      "display_title": "容量拠出金説明会資料（2024年6月）.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 519,
@@ -5709,9 +10398,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量拠出金説明会資料（対象実需給年度：2025年度）.pdf",
+      "display_title": "容量拠出金説明会資料（対象実需給年度：2025年度）.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 520,
@@ -5720,9 +10418,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量拠出金説明会資料（対象実需給年度：2026年度）.pdf",
+      "display_title": "容量拠出金説明会資料（対象実需給年度：2026年度）.pdf",
       "type": "PDF",
       "size": "2.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 521,
@@ -5731,9 +10438,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_容量拠出金説明会資料（小売電気事業者向け_2027年度対象・2026年10月）.pdf",
+      "display_title": "容量拠出金説明会資料（小売電気事業者向け_2027年度対象・2026年10月）.pdf",
       "type": "PDF",
       "size": "3.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 522,
@@ -5742,9 +10458,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_補完オークションについて_第122回調整力等委.pdf",
+      "display_title": "補完オークションについて_第122回調整力等委.pdf",
       "type": "PDF",
       "size": "1.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/122/chousei_122_01.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 523,
@@ -5753,9 +10478,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度概要説明会資料（2023年度応札分_2023年6月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度概要説明会資料（2023年度応札分_2023年6月）.pdf",
       "type": "PDF",
       "size": "2.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 524,
@@ -5764,9 +10498,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度概要説明会資料（2024年度応札分_2024年7月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度概要説明会資料（2024年度応札分_2024年7月）.pdf",
       "type": "PDF",
       "size": "1.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 525,
@@ -5775,9 +10518,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度概要説明会資料（2025年度応札分_2025年7月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度概要説明会資料（2025年度応札分_2025年7月）.pdf",
       "type": "PDF",
       "size": "1.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 526,
@@ -5786,9 +10538,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度概要説明会資料（2026年度応札分_2026年7月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度概要説明会資料（2026年度応札分_2026年7月）.pdf",
       "type": "PDF",
       "size": "2.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 527,
@@ -5797,9 +10558,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度詳細説明会資料（2023年度応札・2023年9月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度詳細説明会資料（2023年度応札・2023年9月）.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 528,
@@ -5808,9 +10578,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度詳細説明会資料（2024年度応札・2024年9月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度詳細説明会資料（2024年度応札・2024年9月）.pdf",
       "type": "PDF",
       "size": "3.1 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 529,
@@ -5819,9 +10598,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度詳細説明会資料（2025年度応札・2025年9月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度詳細説明会資料（2025年度応札・2025年9月）.pdf",
       "type": "PDF",
       "size": "3.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 530,
@@ -5830,9 +10618,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_制度詳細説明会資料（2026年度応札・2026年9月）.pdf",
+      "display_title": "長期脱炭素電源オークション_制度詳細説明会資料（2026年度応札・2026年9月）.pdf",
       "type": "PDF",
       "size": "4.2 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 531,
@@ -5841,9 +10638,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_実務説明会資料（参加登録・応札・契約締結_2024年度応札）.pdf",
+      "display_title": "長期脱炭素電源オークション_実務説明会資料（参加登録・応札・契約締結_2024年度応札）.pdf",
       "type": "PDF",
       "size": "4.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 532,
@@ -5852,9 +10658,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_実務説明会資料（参加登録・応札・契約締結_2025年度応札）.pdf",
+      "display_title": "長期脱炭素電源オークション_実務説明会資料（参加登録・応札・契約締結_2025年度応札）.pdf",
       "type": "PDF",
       "size": "5.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 533,
@@ -5863,9 +10678,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション_実務説明会資料（参加登録・応札・契約締結_2026年度応札）.pdf",
+      "display_title": "長期脱炭素電源オークション_実務説明会資料（参加登録・応札・契約締結_2026年度応札）.pdf",
       "type": "PDF",
       "size": "5.3 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 534,
@@ -5874,9 +10698,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション実務説明会資料（応札年度：2023年度実施分）.pdf",
+      "display_title": "長期脱炭素電源オークション実務説明会資料（応札年度：2023年度実施分）.pdf",
       "type": "PDF",
       "size": "2.8 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 535,
@@ -5885,9 +10718,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション実務説明会（制度適用期間前から発生する業務）（開催年度：2024年度）.pdf",
+      "display_title": "長期脱炭素電源オークション実務説明会（制度適用期間前から発生する業務）（開催年度：2024年度）.pdf",
       "type": "PDF",
       "size": "2.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 536,
@@ -5896,9 +10738,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_長期脱炭素電源オークション実務説明資料（制度適用期間前から発生する業務）（掲載年度：2025年度）.pdf",
+      "display_title": "長期脱炭素電源オークション実務説明資料（制度適用期間前から発生する業務）（掲載年度：2025年度）.pdf",
       "type": "PDF",
       "size": "3.0 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 537,
@@ -5907,9 +10758,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_需給状況を表す新たなシグナルの検討状況について_第122回調整力等委.pdf",
+      "display_title": "需給状況を表す新たなシグナルの検討状況について_第122回調整力等委.pdf",
       "type": "PDF",
       "size": "3.6 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/122/chousei_122_02.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 538,
@@ -5918,9 +10778,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_需給調整市場検討小委員会における検討状況_2025年度報告.pdf",
+      "display_title": "需給調整市場検討小委員会における検討状況_2025年度報告.pdf",
       "type": "PDF",
       "size": "5.4 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "OCCTO（広域機関）が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/117/chousei_117_04.pdf",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 539,
@@ -5929,9 +10798,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力市場取引・容量市場・需給調整",
       "folder": "03_金融・PPA・電力市場・契約\\03_電力市場取引・容量市場・需給調整",
       "title": "OCCTO_（参考）容量市場 メインオークション実務説明資料（容量停止計画の調整業務）（適用終了2026年7月29日）.pdf",
+      "display_title": "（参考）容量市場 メインオークション実務説明資料（容量停止計画の調整業務）（適用終了2026年7月29日）.pdf",
       "type": "PDF",
       "size": "3.9 MB",
-      "org": "OCCTO（広域機関）"
+      "org": "OCCTO（広域機関）",
+      "tags": [
+        "容量市場"
+      ],
+      "summary": "OCCTO容量市場の募集要領・包括検証報告書。実需給4年先オークション約定結果、リクワイアメント、系統用蓄電池の要件を解説。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 540,
@@ -5940,9 +10818,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_事業支援・標準契約・実務資料",
       "folder": "03_金融・PPA・電力市場・契約\\04_事業支援・標準契約・実務資料",
       "title": "環境省_再生可能エネルギー事業支援ガイドブック.pdf",
+      "display_title": "再生可能エネルギー事業支援ガイドブック.pdf",
       "type": "PDF",
       "size": "13.2 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 541,
@@ -5951,9 +10838,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_事業支援・標準契約・実務資料",
       "folder": "03_金融・PPA・電力市場・契約\\04_事業支援・標準契約・実務資料",
       "title": "環境省_再生可能エネルギー事業支援ガイドブック_最新版.pdf",
+      "display_title": "再生可能エネルギー事業支援ガイドブック_最新版.pdf",
       "type": "PDF",
       "size": "14.4 MB",
-      "org": "環境省"
+      "org": "環境省",
+      "tags": [
+        "金融・市場取引"
+      ],
+      "summary": "環境省が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/ppa-market.html"
     },
     {
       "id": 542,
@@ -5962,9 +10858,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_公式本試験問題・正解配点一覧",
       "folder": "04_電験（電気主任技術者）\\01_公式本試験問題・正解配点一覧",
       "title": "2026年度_電験三種_公式本試験問題_機械.pdf",
+      "display_title": "2026年度_電験三種_公式本試験問題_機械.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 543,
@@ -5973,9 +10878,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_公式本試験問題・正解配点一覧",
       "folder": "04_電験（電気主任技術者）\\01_公式本試験問題・正解配点一覧",
       "title": "2026年度_電験三種_公式本試験問題_法規.pdf",
+      "display_title": "2026年度_電験三種_公式本試験問題_法規.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 544,
@@ -5984,9 +10898,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_公式本試験問題・正解配点一覧",
       "folder": "04_電験（電気主任技術者）\\01_公式本試験問題・正解配点一覧",
       "title": "2026年度_電験三種_公式本試験問題_理論.pdf",
+      "display_title": "2026年度_電験三種_公式本試験問題_理論.pdf",
       "type": "PDF",
       "size": "1.7 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 545,
@@ -5995,9 +10918,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_公式本試験問題・正解配点一覧",
       "folder": "04_電験（電気主任技術者）\\01_公式本試験問題・正解配点一覧",
       "title": "2026年度_電験三種_公式本試験問題_電力.pdf",
+      "display_title": "2026年度_電験三種_公式本試験問題_電力.pdf",
       "type": "PDF",
       "size": "1.6 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 546,
@@ -6006,9 +10938,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_公式本試験問題・正解配点一覧",
       "folder": "04_電験（電気主任技術者）\\01_公式本試験問題・正解配点一覧",
       "title": "2026年度_電験三種_本試験_公式正解・配点一覧.pdf",
+      "display_title": "2026年度_電験三種_本試験_公式正解・配点一覧.pdf",
       "type": "PDF",
       "size": "51 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 547,
@@ -6017,9 +10958,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論",
       "title": "01電気数学と交流の基本.pdf",
+      "display_title": "01電気数学と交流の基本.pdf",
       "type": "PDF",
       "size": "263 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電気保安実務"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 548,
@@ -6028,9 +10978,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論",
       "title": "02電験三種テキスト理論.pdf",
+      "display_title": "02電験三種テキスト理論.pdf",
       "type": "PDF",
       "size": "2.6 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 549,
@@ -6039,9 +10998,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 演習 理論７.pdf",
+      "display_title": "電験三種 演習 理論７.pdf",
       "type": "PDF",
       "size": "299 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 550,
@@ -6050,9 +11018,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 演習理論１.pdf",
+      "display_title": "電験三種 演習理論１.pdf",
       "type": "PDF",
       "size": "163 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 551,
@@ -6061,9 +11038,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 演習理論２.pdf",
+      "display_title": "電験三種 演習理論２.pdf",
       "type": "PDF",
       "size": "282 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 552,
@@ -6072,9 +11058,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 理論演習３.pdf",
+      "display_title": "電験三種 理論演習３.pdf",
       "type": "PDF",
       "size": "162 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 553,
@@ -6083,9 +11078,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 理論演習４.pdf",
+      "display_title": "電験三種 理論演習４.pdf",
       "type": "PDF",
       "size": "165 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 554,
@@ -6094,9 +11098,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 理論演習５.pdf",
+      "display_title": "電験三種 理論演習５.pdf",
       "type": "PDF",
       "size": "194 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 555,
@@ -6105,9 +11118,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_理論",
       "folder": "04_電験（電気主任技術者）\\02_理論\\演習",
       "title": "電験三種 理論演習６.pdf",
+      "display_title": "電験三種 理論演習６.pdf",
       "type": "PDF",
       "size": "267 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 556,
@@ -6116,9 +11138,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力",
       "title": "電験三種テキスト電力.pdf",
+      "display_title": "電験三種テキスト電力.pdf",
       "type": "PDF",
       "size": "3.7 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 557,
@@ -6127,9 +11158,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力１.pdf",
+      "display_title": "電験三種 演習電力１.pdf",
       "type": "PDF",
       "size": "186 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 558,
@@ -6138,9 +11178,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力２.pdf",
+      "display_title": "電験三種 演習電力２.pdf",
       "type": "PDF",
       "size": "193 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 559,
@@ -6149,9 +11198,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力３.pdf",
+      "display_title": "電験三種 演習電力３.pdf",
       "type": "PDF",
       "size": "186 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 560,
@@ -6160,9 +11218,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力４.pdf",
+      "display_title": "電験三種 演習電力４.pdf",
       "type": "PDF",
       "size": "222 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 561,
@@ -6171,9 +11238,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力５.pdf",
+      "display_title": "電験三種 演習電力５.pdf",
       "type": "PDF",
       "size": "182 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 562,
@@ -6182,9 +11258,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力６.pdf",
+      "display_title": "電験三種 演習電力６.pdf",
       "type": "PDF",
       "size": "193 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 563,
@@ -6193,9 +11278,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種 演習電力７.pdf",
+      "display_title": "電験三種 演習電力７.pdf",
       "type": "PDF",
       "size": "208 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 564,
@@ -6204,9 +11298,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_電力",
       "folder": "04_電験（電気主任技術者）\\03_電力\\演習",
       "title": "電験三種テキスト電力計算.pdf",
+      "display_title": "電験三種テキスト電力計算.pdf",
       "type": "PDF",
       "size": "770 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 565,
@@ -6215,9 +11318,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械",
       "title": "電験三種テキスト機械.pdf",
+      "display_title": "電験三種テキスト機械.pdf",
       "type": "PDF",
       "size": "3.3 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 566,
@@ -6226,9 +11338,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械１.pdf",
+      "display_title": "電験三種 演習 機械１.pdf",
       "type": "PDF",
       "size": "200 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 567,
@@ -6237,9 +11358,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械２.pdf",
+      "display_title": "電験三種 演習 機械２.pdf",
       "type": "PDF",
       "size": "168 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 568,
@@ -6248,9 +11378,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械３.pdf",
+      "display_title": "電験三種 演習 機械３.pdf",
       "type": "PDF",
       "size": "175 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 569,
@@ -6259,9 +11398,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械４.pdf",
+      "display_title": "電験三種 演習 機械４.pdf",
       "type": "PDF",
       "size": "169 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 570,
@@ -6270,9 +11418,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械５.pdf",
+      "display_title": "電験三種 演習 機械５.pdf",
       "type": "PDF",
       "size": "188 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 571,
@@ -6281,9 +11438,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械６.pdf",
+      "display_title": "電験三種 演習 機械６.pdf",
       "type": "PDF",
       "size": "187 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 572,
@@ -6292,9 +11458,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械７.pdf",
+      "display_title": "電験三種 演習 機械７.pdf",
       "type": "PDF",
       "size": "197 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 573,
@@ -6303,9 +11478,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械８.pdf",
+      "display_title": "電験三種 演習 機械８.pdf",
       "type": "PDF",
       "size": "159 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 574,
@@ -6314,9 +11498,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "04_機械",
       "folder": "04_電験（電気主任技術者）\\04_機械\\演習",
       "title": "電験三種 演習 機械９.pdf",
+      "display_title": "電験三種 演習 機械９.pdf",
       "type": "PDF",
       "size": "239 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 575,
@@ -6325,9 +11518,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "テキスト電験三種法規計算（訂正版）.pdf",
+      "display_title": "テキスト電験三種法規計算（訂正版）.pdf",
       "type": "PDF",
       "size": "1.4 MB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 576,
@@ -6336,9 +11538,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "電験三種 演習 法規１.pdf",
+      "display_title": "電験三種 演習 法規１.pdf",
       "type": "PDF",
       "size": "450 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 577,
@@ -6347,9 +11558,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "電験三種 演習 法規２.pdf",
+      "display_title": "電験三種 演習 法規２.pdf",
       "type": "PDF",
       "size": "510 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 578,
@@ -6358,9 +11578,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "電験三種 演習 法規３.pdf",
+      "display_title": "電験三種 演習 法規３.pdf",
       "type": "PDF",
       "size": "454 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 579,
@@ -6369,9 +11598,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "電験三種 演習 法規４.pdf",
+      "display_title": "電験三種 演習 法規４.pdf",
       "type": "PDF",
       "size": "531 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 580,
@@ -6380,9 +11618,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "電験三種 演習 法規５.pdf",
+      "display_title": "電験三種 演習 法規５.pdf",
       "type": "PDF",
       "size": "255 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 581,
@@ -6391,9 +11638,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_法規",
       "folder": "04_電験（電気主任技術者）\\05_法規",
       "title": "電験三種 演習 法規６.pdf",
+      "display_title": "電験三種 演習 法規６.pdf",
       "type": "PDF",
       "size": "253 KB",
-      "org": "電気技術者試験センター / 実務演習"
+      "org": "電気技術者試験センター / 実務演習",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "電気主任技術者試験（電験三種）の公式本試験問題・解答配点および基礎理論・計算問題の完全マスター演習テキスト。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/denken.html"
     },
     {
       "id": 582,
@@ -6402,9 +11658,19 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "FIP制度と蓄電池が変える日本の再エネ市場.m4a",
+      "display_title": "FIP制度と蓄電池が変える日本の再エネ市場.m4a",
       "type": "M4A",
       "size": "28.0 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "FIT/FIP",
+        "系統用蓄電池"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 583,
@@ -6413,9 +11679,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "FITからFIPへ_再エネ市場統合の設計戦略.m4a",
+      "display_title": "FITからFIPへ_再エネ市場統合の設計戦略.m4a",
       "type": "M4A",
       "size": "28.5 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "FIT/FIP"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 584,
@@ -6424,9 +11699,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "SPC_GK-TKスキームの仕組みと活用事例.m4a",
+      "display_title": "SPC_GK-TKスキームの仕組みと活用事例.m4a",
       "type": "M4A",
       "size": "29.4 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 585,
@@ -6435,9 +11719,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "メガソーラー発電の仕組みと2040年問題.m4a",
+      "display_title": "メガソーラー発電の仕組みと2040年問題.m4a",
       "type": "M4A",
       "size": "28.7 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 586,
@@ -6446,9 +11739,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "再エネ事業を始める難関と補助金戦略.m4a",
+      "display_title": "再エネ事業を始める難関と補助金戦略.m4a",
       "type": "M4A",
       "size": "26.1 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 587,
@@ -6457,9 +11759,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "再エネ事業者の地域説明義務とその全記録.m4a",
+      "display_title": "再エネ事業者の地域説明義務とその全記録.m4a",
       "type": "M4A",
       "size": "25.7 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 588,
@@ -6468,9 +11779,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "北海道メガソーラーを縛る金融のルール.m4a",
+      "display_title": "北海道メガソーラーを縛る金融のルール.m4a",
       "type": "M4A",
       "size": "32.3 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 589,
@@ -6479,9 +11799,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "太陽光パネル廃棄の真実_S+3Eの先にある課題.m4a",
+      "display_title": "太陽光パネル廃棄の真実_S+3Eの先にある課題.m4a",
       "type": "M4A",
       "size": "26.3 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "廃棄・リサイクル"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 590,
@@ -6490,9 +11819,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "太陽光メガソーラー・蓄電池アセットマネジメント総合講義.m4a",
+      "display_title": "太陽光メガソーラー・蓄電池アセットマネジメント総合講義.m4a",
       "type": "M4A",
       "size": "30.5 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 591,
@@ -6501,9 +11839,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "太陽光発電_今すぐできることと限界突破.m4a",
+      "display_title": "太陽光発電_今すぐできることと限界突破.m4a",
       "type": "M4A",
       "size": "30.1 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 592,
@@ -6512,9 +11859,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "太陽光発電の20年ルールと管理人の責任.m4a",
+      "display_title": "太陽光発電の20年ルールと管理人の責任.m4a",
       "type": "M4A",
       "size": "24.8 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 593,
@@ -6523,9 +11879,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "太陽光発電設計の裏側過積載とLCOE戦略.m4a",
+      "display_title": "太陽光発電設計の裏側過積載とLCOE戦略.m4a",
       "type": "M4A",
       "size": "27.0 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 594,
@@ -6534,9 +11899,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "松阪メガソーラー契約書プロジェクトファイナンスの心臓部.m4a",
+      "display_title": "松阪メガソーラー契約書プロジェクトファイナンスの心臓部.m4a",
       "type": "M4A",
       "size": "28.0 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 595,
@@ -6545,9 +11919,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "05_音声レクチャー・解説音源",
       "folder": "05_音声レクチャー・解説音源",
       "title": "電気事業法で解き明かす電力の裏側.m4a",
+      "display_title": "電気事業法で解き明かす電力の裏側.m4a",
       "type": "M4A",
       "size": "29.2 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "電験三種"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/om.html"
     },
     {
       "id": 596,
@@ -6556,9 +11939,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "01_プレゼンテーションスライド",
       "folder": "06_独自リサーチ・スライド\\01_プレゼンテーションスライド",
       "title": "260417_megasolar_slides.pdf",
+      "display_title": "260417_megasolar_slides.pdf",
       "type": "PDF",
       "size": "13.2 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/finance.html"
     },
     {
       "id": 597,
@@ -6567,9 +11959,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "02_ディープリサーチ・分析レポート",
       "folder": "06_独自リサーチ・スライド\\02_ディープリサーチ・分析レポート",
       "title": "260417_メガソーラーの蓄電池_DeepResearch.gdoc",
+      "display_title": "260417_メガソーラーの蓄電池_DeepResearch.gdoc",
       "type": "GDOC",
       "size": "0 KB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "系統用蓄電池"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/finance.html"
     },
     {
       "id": 598,
@@ -6578,9 +11979,18 @@ window.SOLAR_ARCHIVE_DATA = {
       "subcat": "03_音声解説アーカイブ",
       "folder": "06_独自リサーチ・スライド\\03_音声解説アーカイブ",
       "title": "260417_megasolar_audio.mp3",
+      "display_title": "260417_megasolar_audio.mp3",
       "type": "MP3",
       "size": "38.1 MB",
-      "org": "その他公的・専門機関"
+      "org": "その他公的・専門機関",
+      "tags": [
+        "実務ナレッジ"
+      ],
+      "summary": "その他公的・専門機関が公表した公式実務資料。メガソーラー開発・アセットマネジメント・発電所運営における重要一次情報。",
+      "is_featured": false,
+      "direct_url": "",
+      "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
+      "related_note": "notes/finance.html"
     }
   ]
 };

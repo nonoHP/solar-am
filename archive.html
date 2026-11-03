@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>原本資料ライブラリ（官公庁・専門PDFアーカイブ 582件）｜Solar AM Notes</title>
-  <meta name="description" content="Google Driveに体系保管された太陽光・再生可能エネルギーの公的実務原本PDF 582件（全598ファイル）の完全アーカイブ。経産省、環境省、OCCTO、TDGC、送配電各社、JPEA、IEEJ等の一次資料を分類・検索・閲覧できます。">
+  <title>原本資料ライブラリ（官公庁原本・専門レポート 582件）｜Solar AM Notes</title>
+  <meta name="description" content="Google Driveに体系保管されたメガソーラー・再エネ実務の公的原本PDF 582件（全598ファイル）の完全ライブラリ。経済産業省・環境省・OCCTO・TDGC・送配電各社・JPEA・IEEJ等の一次実務原本をサイト上で分類・検索・詳細プレビューできます。">
   <meta name="theme-color" content="#0b0f17">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23f7931e'/%3E%3Ccircle cx='32' cy='32' r='11' fill='%231a1206'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,45 +27,145 @@
   </header>
 
   <main>
+    <!-- ヒーローセクション -->
     <section class="page-hero">
       <div class="page-hero-inner">
-        <nav class="breadcrumb" aria-label="パンくずリスト"><a href="index.html">ホーム</a><span>/</span><span>原本資料アーカイブ (582件+)</span></nav>
-        <h1>官公庁原本・専門PDFアーカイブ</h1>
-        <p>Google Drive（<code>マイドライブ/★HP作成/太陽光</code>）に体系保管された原本PDF 582件・全598ファイルを完全網羅。経済産業省・環境省・OCCTO・TDGC・送配電10社・JPEA・IEEJ・気候NW等の一次実務資料をフォルダ・発行機関別に分類。サイト上で瞬時に検索・閲覧できます。</p>
+        <nav class="breadcrumb" aria-label="パンくずリスト"><a href="index.html">ホーム</a><span>/</span><span>原本資料ライブラリ (582件+)</span></nav>
+        <h1>官公庁原本・専門資料ライブラリ</h1>
+        <p>Google Drive（<code>マイドライブ/★HP作成/太陽光</code>）に保管されている原本PDF 582件（全598ファイル）のデジタル目録ポータル。経済産業省・環境省・OCCTO・TDGC・送配電10社・JPEA・IEEJ・気候NW等の一次資料をカテゴリ別に分類。サイト上で瞬時に検索し、詳細解説と原本リンクを確認できます。</p>
         <div class="archive-hero-meta">
           <span class="archive-hero-stat">📁 原本保管総数: <strong>598件</strong></span>
           <span class="archive-hero-stat gold">📑 公的実務原本PDF: <strong>582件</strong></span>
           <span class="archive-hero-stat green">🏛️ 網羅機関: <strong>15+ 府省庁・広域機関・シンクタンク</strong></span>
-          <a class="btn btn-primary" href="https://drive.google.com/open?id=1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z&usp=drive_fs" target="_blank" rel="noopener noreferrer" style="font-size:12.5px;padding:6px 16px;margin-left:auto;">
+          <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing" target="_blank" rel="noopener noreferrer" style="font-size:12.5px;padding:6px 16px;margin-left:auto;">
             Google Drive 原本保管フォルダを開く ↗
           </a>
         </div>
       </div>
     </section>
 
-    <div class="section" style="padding-top:32px">
-      <!-- 検索バー -->
-      <div class="search-box">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-        <input type="search" id="archive-search" placeholder="原本標題・キーワード・機関名（例：出力制御、算定委、営農、PPA、リサイクル、IEEJ、電験…）で高速検索" aria-label="原本資料を検索" autocomplete="off">
-      </div>
+    <div class="section" style="padding-top:36px">
 
-      <!-- 大分類フィルターチップ -->
-      <div style="margin-bottom: 12px;">
-        <span style="font-size: 11.5px; font-weight: 700; color: var(--gold); display: block; margin-bottom: 6px;">📁 大分類フォルダで絞り込み:</span>
-        <div class="filter-chips" id="cat-chips" role="group" aria-label="大分類で絞り込み">
-          <button class="chip active" data-cat="all">すべての分類 (全598件)</button>
-          <button class="chip" data-cat="01">01_法令・制度・GL (361件)</button>
-          <button class="chip" data-cat="02">02_設備技術・保安 (61件)</button>
-          <button class="chip" data-cat="03">03_金融・PPA・市場 (119件)</button>
-          <button class="chip" data-cat="04">04_電験三種・実務 (40件)</button>
-          <button class="chip" data-cat="05">05_解説音源 (14件)</button>
-          <button class="chip" data-cat="06">06_スライド・リサーチ (3件)</button>
+      <!-- 1. 【特集】実務必読・最重要原本ピックアップ -->
+      <section class="archive-featured-section">
+        <div class="archive-featured-head">
+          <h2><span>🔥</span> 実務必読・最重要原本ピックアップ（必読8選）</h2>
+          <span style="font-size:12px;color:var(--text-mute);">カードをクリックすると詳細・原本が開きます</span>
+        </div>
+        <div class="archive-featured-grid">
+          
+          <div class="featured-doc-card" data-id="1">
+            <div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span class="featured-badge">★ 制度・安保</span>
+                <span class="archive-file-size">3.1 MB</span>
+              </div>
+              <h3 style="font-size:14px;font-weight:700;color:#fff;margin:0 0 6px;line-height:1.45;">IEEJ_2026年の再生可能エネルギー政策の課題_プレゼンテーション資料</h3>
+              <p style="font-size:11.5px;color:var(--text-sub);margin:0;line-height:1.4;">続く太陽光の増加とサプライチェーンにおける中国リスク、予見性確保のための政策提言。</p>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px;border-top:1px solid rgba(255,255,255,0.06);padding-top:8px;">
+              <span class="doc-org-tag ieej">IEEJ（エネ研）</span>
+              <span style="font-size:11px;color:var(--gold);font-weight:700;">詳細・原本 ↗</span>
+            </div>
+          </div>
+
+          <div class="featured-doc-card" data-id="36">
+            <div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span class="featured-badge">★ 業界標準</span>
+                <span class="archive-file-size">12.8 MB</span>
+              </div>
+              <h3 style="font-size:14px;font-weight:700;color:#fff;margin:0 0 6px;line-height:1.45;">JPEA_PV_OUTLOOK_2050_2024年度改訂版</h3>
+              <p style="font-size:11.5px;color:var(--text-sub);margin:0;line-height:1.4;">太陽光発電協会による2050年主力電源化に向けた長期ロードマップと技術革新戦略原本。</p>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px;border-top:1px solid rgba(255,255,255,0.06);padding-top:8px;">
+              <span class="doc-org-tag jpea">JPEA（太陽光発電協会）</span>
+              <span style="font-size:11px;color:var(--gold);font-weight:700;">詳細・原本 ↗</span>
+            </div>
+          </div>
+
+          <div class="featured-doc-card" data-id="61">
+            <div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span class="featured-badge">★ 送配電ルール</span>
+                <span class="archive-file-size">1.8 MB</span>
+              </div>
+              <h3 style="font-size:14px;font-weight:700;color:#fff;margin:0 0 6px;line-height:1.45;">TDGC_一般送配電事業者の行為規制等に関する行動指針 2026.5.13改定</h3>
+              <p style="font-size:11.5px;color:var(--text-sub);margin:0;line-height:1.4;">送配電網協議会による最新改定版原本。中立性・公平性の確保、情報遮断ルールの基準。</p>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px;border-top:1px solid rgba(255,255,255,0.06);padding-top:8px;">
+              <span class="doc-org-tag tdgc">TDGC（送配電網協議会）</span>
+              <span style="font-size:11px;color:var(--gold);font-weight:700;">詳細・原本 ↗</span>
+            </div>
+          </div>
+
+          <div class="featured-doc-card" data-id="30">
+            <div>
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span class="featured-badge">★ 第7次エネ基</span>
+                <span class="archive-file-size">675 KB</span>
+              </div>
+              <h3 style="font-size:14px;font-weight:700;color:#fff;margin:0 0 6px;line-height:1.45;">IEEJ_第7次エネルギー基本計画の実現に向けた電力安定供給の課題</h3>
+              <p style="font-size:11.5px;color:var(--text-sub);margin:0;line-height:1.4;">予見性を伴う事業環境の整備と再エネ統合、電力市場改革の方向性を論じた中核レポート。</p>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px;border-top:1px solid rgba(255,255,255,0.06);padding-top:8px;">
+              <span class="doc-org-tag ieej">IEEJ（エネ研）</span>
+              <span style="font-size:11px;color:var(--gold);font-weight:700;">詳細・原本 ↗</span>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- 2. 4大主要カテゴリ・ビジュアルセレクターカード -->
+      <div style="margin-bottom: 24px;">
+        <span style="font-size: 12px; font-weight: 700; color: var(--gold); display: block; margin-bottom: 10px;">📂 4大主要体系から選ぶ（ワンクリックで絞り込み）:</span>
+        <div class="archive-cat-grid">
+          <div class="archive-cat-card" data-cat="01">
+            <div class="archive-cat-card-top">
+              <span class="archive-cat-card-icon">🏛️</span>
+              <span class="archive-cat-card-count">361件</span>
+            </div>
+            <h3 class="archive-cat-card-title">01 法令・制度・GL</h3>
+            <p class="archive-cat-card-desc">FIT/FIP買取価格、第7次エネ基、出力制御指針、リサイクル法、営農型通達、林地開発基準。</p>
+          </div>
+
+          <div class="archive-cat-card" data-cat="02">
+            <div class="archive-cat-card-top">
+              <span class="archive-cat-card-icon">⚡</span>
+              <span class="archive-cat-card-count">61件</span>
+            </div>
+            <h3 class="archive-cat-card-title">02 設備技術・保安</h3>
+            <p class="archive-cat-card-desc">電技解釈、架台基礎GL、水上・営農実験、系統用蓄電池BESS安全対策、JPEA保守点検指針。</p>
+          </div>
+
+          <div class="archive-cat-card" data-cat="03">
+            <div class="archive-cat-card-top">
+              <span class="archive-cat-card-icon">📈</span>
+              <span class="archive-cat-card-count">119件</span>
+            </div>
+            <h3 class="archive-cat-card-title">03 金融・PPA・市場</h3>
+            <p class="archive-cat-card-desc">容量市場包括検証、需給調整市場、コーポレートPPA契約、JPEA事業評価ガイド改訂版。</p>
+          </div>
+
+          <div class="archive-cat-card" data-cat="04">
+            <div class="archive-cat-card-top">
+              <span class="archive-cat-card-icon">🎓</span>
+              <span class="archive-cat-card-count">40件</span>
+            </div>
+            <h3 class="archive-cat-card-title">04 電験・主任技術者</h3>
+            <p class="archive-cat-card-desc">2026公式本試験問題・正解配点、理論・電力・機械・法規の全29テーマ演習テキスト完備。</p>
+          </div>
         </div>
       </div>
 
-      <!-- 発行機関フィルターチップ -->
-      <div style="margin-bottom: 24px;">
+      <!-- 3. 検索バー ＆ 機関絞り込み -->
+      <div class="search-box" style="margin-bottom:16px;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input type="search" id="archive-search" placeholder="原本タイトル・キーワード・機関名（例：出力制御、算定委、営農、PPA、リサイクル、IEEJ、電験…）で高速検索" aria-label="原本資料を検索" autocomplete="off">
+      </div>
+
+      <div style="margin-bottom: 20px;">
         <span style="font-size: 11.5px; font-weight: 700; color: #38bdf8; display: block; margin-bottom: 6px;">🏛️ 発行機関・作成元で絞り込み:</span>
         <div class="filter-chips" id="org-chips" role="group" aria-label="発行機関で絞り込み">
           <button class="chip active" data-org="all">すべての機関</button>
@@ -82,30 +182,88 @@
         </div>
       </div>
 
-      <!-- ツールバー（件数＆折りたたみ操作） -->
+      <!-- 4. ツールバー（表示切替 ＆ 件数） -->
       <div class="archive-toolbar">
         <div class="archive-toolbar-left">
-          <span style="font-weight: 700; font-size: 13.5px; color: #fff;" id="archive-count">読み込み中...</span>
+          <span id="archive-count" style="font-size:13px;color:#fff;">読み込み中...</span>
         </div>
         <div class="archive-toolbar-right">
-          <button class="archive-tool-btn" id="btn-expand-all">＋ すべて展開</button>
-          <button class="archive-tool-btn" id="btn-collapse-all">− すべて折りたたむ</button>
+          <div class="archive-view-switch" role="group" aria-label="表示モード切替">
+            <button class="archive-view-btn active" data-view="cards">📑 カード一覧</button>
+            <button class="archive-view-btn" data-view="folders">📂 フォルダ体系</button>
+          </div>
         </div>
       </div>
 
-      <!-- アーカイブ一覧コンテナ -->
+      <!-- 5. 資料一覧コンテナ（JSで動的生成） -->
       <div id="archive-container">
         <p style="color:var(--text-sub);padding:40px;text-align:center;">原本アーカイブデータを読み込んでいます...</p>
       </div>
-      <p class="empty" id="archive-empty" style="display:none;">条件に一致する原本資料が見つかりませんでした。</p>
+
+      <p class="empty" id="archive-empty" style="display:none;padding:40px;text-align:center;">条件に一致する原本資料が見つかりませんでした。別のキーワードでお試しください。</p>
+
+      <!-- もっと読み込むボタン -->
+      <div class="archive-load-more" id="archive-load-more-wrap" style="display:none;">
+        <button class="btn btn-ghost" id="btn-load-more" style="padding:12px 32px;font-size:13.5px;font-weight:700;">
+          さらに資料を読み込む ↓
+        </button>
+      </div>
 
     </div>
   </main>
 
+  <!-- 6. 【サイト内閲覧】ドキュメント詳細 ＆ 原本プレビューモーダル -->
+  <div class="doc-modal-overlay" id="doc-modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="doc-modal">
+      <button class="doc-modal-close" id="doc-modal-close" aria-label="閉じる">✕</button>
+      
+      <div class="doc-modal-head-meta">
+        <span class="doc-org-tag" id="modal-org">発行機関</span>
+        <span class="archive-file-type-badge pdf" id="modal-type">PDF</span>
+        <span class="archive-file-size" id="modal-size">0 KB</span>
+      </div>
+
+      <h2 class="doc-modal-title" id="modal-title">原本資料タイトル</h2>
+
+      <div class="doc-modal-box">
+        <div class="doc-modal-box-title">
+          <span>💡</span> 実務活用ポイント・要点解説
+        </div>
+        <p class="doc-modal-summary" id="modal-summary">解説を読み込んでいます...</p>
+      </div>
+
+      <div class="doc-modal-details">
+        <div class="doc-detail-row">
+          <span>Google Drive 格納フォルダ</span>
+          <strong id="modal-folder">フォルダパス</strong>
+        </div>
+        <div class="doc-detail-row">
+          <span>関連トピックタグ</span>
+          <div id="modal-tags" style="display:flex;flex-wrap:wrap;gap:4px;margin-top:2px;"></div>
+        </div>
+      </div>
+
+      <div class="doc-modal-actions">
+        <!-- 優先1: 公式配信元で原本PDFを開く（公式URLがある場合） -->
+        <a class="doc-btn-direct" id="modal-btn-direct" href="#" target="_blank" rel="noopener noreferrer">
+          📄 公式配信元で原本PDFを開く ↗
+        </a>
+        <!-- 優先2: Google Drive原本フォルダで確認（確実にWebで開く） -->
+        <a class="doc-btn-drive" id="modal-btn-drive" href="https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing" target="_blank" rel="noopener noreferrer">
+          📂 Google Drive 原本保管フォルダで確認 ↗
+        </a>
+        <!-- 優先3: サイト内解説ノートへ -->
+        <a class="doc-btn-note" id="modal-btn-note" href="#">
+          📖 当サイトの解説ノートで関連実務を読む →
+        </a>
+      </div>
+    </div>
+  </div>
+
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>© Solar AM Notes — 官公庁原本・専門PDFアーカイブ</p>
-      <p>※ 本アーカイブに収録されている原本PDFの著作権・権利は各省庁・機関・団体に帰属します。</p>
+      <p>© Solar AM Notes — 官公庁原本・専門資料ライブラリ</p>
+      <p>※ 本アーカイブに収録されている原本PDFの著作権・権利は各省庁・機関・団体に帰属します。最新情報はリンク先の公式発表をご確認ください。</p>
     </div>
   </footer>
 
