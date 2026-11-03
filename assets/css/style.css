@@ -3169,3 +3169,113 @@ td.num, th.num { text-align: right; font-family: var(--font-mono); font-feature-
   border-radius: 6px;
   margin-top: 12px;
 }
+
+/* ==========================================================
+   公的原本PDF図解・スライドギャラリー スタイル
+   ========================================================== */
+.diagram-gallery-section {
+  margin: 48px auto;
+  max-width: var(--maxw);
+  padding: 0 24px;
+}
+.diagram-gallery-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 16px;
+}
+.diagram-gallery-header h2 {
+  font-size: clamp(20px, 3.2vw, 28px);
+  font-weight: 800;
+  color: #fff;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.diagram-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+}
+.diagram-gallery-card {
+  background: linear-gradient(175deg, rgba(20, 28, 48, 0.8) 0%, rgba(10, 15, 27, 0.95) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: all .25s var(--ease);
+}
+.diagram-gallery-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(245, 158, 11, 0.5);
+  box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(245, 158, 11, 0.15);
+}
+.diagram-gallery-img-wrap {
+  width: 100%;
+  height: 200px;
+  background: #090d16;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+}
+.diagram-gallery-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform .3s ease;
+}
+.diagram-gallery-card:hover .diagram-gallery-img-wrap img {
+  transform: scale(1.04);
+}
+.diagram-gallery-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fbbf24;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 999px;
+  z-index: 2;
+}
+.diagram-gallery-body {
+  padding: 18px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.diagram-gallery-body h3 {
+  font-size: 15px;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 8px;
+  line-height: 1.45;
+}
+.diagram-gallery-body p {
+  font-size: 12.5px;
+  color: var(--text-sub);
+  margin: 0 0 16px;
+  line-height: 1.55;
+  flex-grow: 1;
+}
+.diagram-gallery-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding-top: 12px;
+  font-size: 11.5px;
+}
