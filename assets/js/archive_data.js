@@ -22,7 +22,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/12883.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/132PufdfmwPOiPnE7W0dyQvjCBJNno6sN/view?usp=sharing"
     },
     {
       "id": 2,
@@ -42,7 +43,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/12882.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1MD5qSACHq1QXfvM4LXaoQyPQIbmkCGQG/view?usp=sharing"
     },
     {
       "id": 3,
@@ -62,7 +64,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1I1unTby13Y3QlSo6zDf1obhCOHbVJacN/view?usp=sharing"
     },
     {
       "id": 4,
@@ -82,7 +85,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/12884.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1XOfbOhgs1PYq2-dfdsLnA5ZnT8UpZp3s/view?usp=sharing"
     },
     {
       "id": 5,
@@ -102,7 +106,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/12885.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1VwE0bCHJ1zX-vD4IMIPmHfof8F74K3rM/view?usp=sharing"
     },
     {
       "id": 6,
@@ -122,7 +127,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/12520.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1R5NXk5lw4JZHv_zBIlii4TU4x-eIWzaI/view?usp=sharing"
     },
     {
       "id": 7,
@@ -142,7 +148,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/13602.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1biQq_m683Iqf504qleO8FhSgrRJpb7kO/view?usp=sharing"
     },
     {
       "id": 8,
@@ -162,7 +169,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Hsj7JMP12lm0j_WZUJhH9rm2BTb4jLJ6/view?usp=sharing"
     },
     {
       "id": 9,
@@ -183,7 +191,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13359.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JFr6lLyG1Pr7RYzKdgkWV1w3Wd5KPrCu/view?usp=sharing"
     },
     {
       "id": 10,
@@ -204,7 +213,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13361.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1A8CjPgPLtszx5u74bTvXPcJVUrtA3-7i/view?usp=sharing"
     },
     {
       "id": 11,
@@ -224,7 +234,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ehTPygjZXK1TDrxLo6LfINFe-NXoGIf2/view?usp=sharing"
     },
     {
       "id": 12,
@@ -244,7 +255,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DXRzJdobGCVv5CT2s8LmQ7qOF94xj_Kk/view?usp=sharing"
     },
     {
       "id": 13,
@@ -264,7 +276,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13265.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1B0t2yHB88AHFL3yCPSfRkJMrvHbLoVgv/view?usp=sharing"
     },
     {
       "id": 14,
@@ -284,7 +297,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13456.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Tj53J6i2SNT4wB7lTXarzHAqF94uw4wh/view?usp=sharing"
     },
     {
       "id": 15,
@@ -304,7 +318,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12505.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15uKNNBj5ml41bs6DvjZ5lBru1LB_Ars2/view?usp=sharing"
     },
     {
       "id": 16,
@@ -325,7 +340,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13603.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CAdo-XxibTXMCv2xpYy6tpL2Ig29CTQ8/view?usp=sharing"
     },
     {
       "id": 17,
@@ -346,7 +362,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/13btLEviIK9Q7Y7ExA_l4svaNVH5ZiBrA/view?usp=sharing"
     },
     {
       "id": 18,
@@ -367,7 +384,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1odte2KDXYw-Tug5W5aVA5Q2OJJZ5XjSa/view?usp=sharing"
     },
     {
       "id": 19,
@@ -387,7 +405,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1uhQp4_GL0d-G49rvCBdaTcXhmkafOYLK/view?usp=sharing"
     },
     {
       "id": 20,
@@ -407,7 +426,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BFmpthjrf2KU5-RC3DwaD4Fgpf82_r7P/view?usp=sharing"
     },
     {
       "id": 21,
@@ -427,7 +447,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1qyPTURhR-mwQwbbkwQKga59GSil25d3n/view?usp=sharing"
     },
     {
       "id": 22,
@@ -447,7 +468,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/news/headline/hl261030.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1sOoi204Llwvd8e3orjMJLso0-y8qBiBt/view?usp=sharing"
     },
     {
       "id": 23,
@@ -467,7 +489,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13362.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12A_BbyBCPFFiPoFvipCl0d3stVFae4fq/view?usp=sharing"
     },
     {
       "id": 24,
@@ -487,7 +510,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1E_CDHkWMhck2b2msbnXep8WOKbwW7Emo/view?usp=sharing"
     },
     {
       "id": 25,
@@ -507,7 +531,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/whatsnew_op/ieejenergyseminar/261203.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zEJfs_Nfq4xs6IwnqHtoVFaC2y8psDxG/view?usp=sharing"
     },
     {
       "id": 26,
@@ -527,7 +552,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13358.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GavBrE6w3oY2V-gdn73mqvT0Hrt-V_CD/view?usp=sharing"
     },
     {
       "id": 27,
@@ -547,7 +573,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12621.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1atstDyV6PkWpY8DxSzZXeF7MRWxHbmgM/view?usp=sharing"
     },
     {
       "id": 28,
@@ -567,7 +594,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12511.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JLNxEDdFGHSUtCpZUT79EZevwd0PEs4f/view?usp=sharing"
     },
     {
       "id": 29,
@@ -588,7 +616,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/10v8RfyUq7f-uGO6NreLQMDr_sxDmR3Y_/view?usp=sharing"
     },
     {
       "id": 30,
@@ -609,7 +638,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://eneken.ieej.or.jp/data/12606.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FUI1Fs8jX7iCIuHq5KSmfq6F4IGlu8Ok/view?usp=sharing"
     },
     {
       "id": 31,
@@ -629,7 +659,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12609.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZK-OU13GizQdb83l1-VQ_1ZFu09ONPjL/view?usp=sharing"
     },
     {
       "id": 32,
@@ -649,7 +680,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12610.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1As5sUsghcYSU8ujd-FifxFRA0u2lVvV8/view?usp=sharing"
     },
     {
       "id": 33,
@@ -669,7 +701,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12760.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QiVGoH81kltQiWua_o0ZQnK9oRHkY2gg/view?usp=sharing"
     },
     {
       "id": 34,
@@ -689,7 +722,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1frbB7cUuZkQuX9NwjpYNwdsHm0iyfy-O/view?usp=sharing"
     },
     {
       "id": 35,
@@ -709,7 +743,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1T-tfGQdzXPwvGSlZzuResP4m3grCJDFQ/view?usp=sharing"
     },
     {
       "id": 36,
@@ -729,7 +764,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/pv_outlook2050_2024ver.1.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JIddPQ9DOrsPlLYNB0q6HsJ1Vywyr69v/view?usp=sharing"
     },
     {
       "id": 37,
@@ -749,7 +785,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/19JEuCnWtY6QkEPYlStlJNmjAuNJIiwAm/view?usp=sharing"
     },
     {
       "id": 38,
@@ -769,7 +806,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12dmOgCkNcc7WXhfI4P3iLSvo-nH3iznY/view?usp=sharing"
     },
     {
       "id": 39,
@@ -789,7 +827,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BomjYTDBo3uSiopa8-cUA-Sh2jfE7vmf/view?usp=sharing"
     },
     {
       "id": 40,
@@ -809,7 +848,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wYoCcfsRNahIz0oAlmL0YYA-awLN1GlS/view?usp=sharing"
     },
     {
       "id": 41,
@@ -829,7 +869,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1HBChzMLdpXYFP0fYhxUi1jh9-G9pzEpR/view?usp=sharing"
     },
     {
       "id": 42,
@@ -849,7 +890,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/16RKytVsrFAx0PWyJS2MSnqO29sTmzS3n/view?usp=sharing"
     },
     {
       "id": 43,
@@ -869,7 +911,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1S1cQix6SnDmA4pJHSIoz87Bdt2JkBR3S/view?usp=sharing"
     },
     {
       "id": 44,
@@ -889,7 +932,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1SkeoLcayWt6pFQZdfCyBp3B7Pu7F69jE/view?usp=sharing"
     },
     {
       "id": 45,
@@ -909,7 +953,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1G9y5zO_Js02S2kN_n_opqwlN9SoOYcN2/view?usp=sharing"
     },
     {
       "id": 46,
@@ -930,7 +975,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NboBtCdVYBwWSDqJHdvkIUTmDzNyx56C/view?usp=sharing"
     },
     {
       "id": 47,
@@ -951,7 +997,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QbRj-tzG9M9UEReTaHCoHUwyI0Aeva6D/view?usp=sharing"
     },
     {
       "id": 48,
@@ -972,7 +1019,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CE8wH4tJcZQAVkC_IkWno_T1wXfhLmln/view?usp=sharing"
     },
     {
       "id": 49,
@@ -993,7 +1041,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15yTymkzkzGmN6nN265aK8wzUSbtcfTco/view?usp=sharing"
     },
     {
       "id": 50,
@@ -1014,7 +1063,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/11Q8uB6OXraAcIrnRR2_bxX_QADOxNl6i/view?usp=sharing"
     },
     {
       "id": 51,
@@ -1035,7 +1085,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1r8Yl7Sm9BaC2wr2NuscrBITC9YANxgQR/view?usp=sharing"
     },
     {
       "id": 52,
@@ -1056,7 +1107,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QnsWCmPvglBlma6EcO7Zg7jfAz7qclUK/view?usp=sharing"
     },
     {
       "id": 53,
@@ -1077,7 +1129,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DzFeoM0CwhZvixQydnKCltD6DwF1BEL0/view?usp=sharing"
     },
     {
       "id": 54,
@@ -1097,7 +1150,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1A-_ltwdJgptWQKHZPyCEnNMOUjEl5VrD/view?usp=sharing"
     },
     {
       "id": 55,
@@ -1117,7 +1171,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1I2frzcUq3XVHEJ4ALgVR3oK8rVGng0i4/view?usp=sharing"
     },
     {
       "id": 56,
@@ -1137,7 +1192,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Va4cvcA5jajJUvr8meZclKoiKJBamwPB/view?usp=sharing"
     },
     {
       "id": 57,
@@ -1157,7 +1213,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1AmRBpF86Gwkg3PxbXykJb7XLkhgd0QXp/view?usp=sharing"
     },
     {
       "id": 58,
@@ -1177,7 +1234,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wig1UgZd_MUOa-0JVkdjEjZRo7U-fJ8e/view?usp=sharing"
     },
     {
       "id": 59,
@@ -1197,7 +1255,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1aNEv4s4IpdYVJ0a_xw9s7xPrVjKxfeUo/view?usp=sharing"
     },
     {
       "id": 60,
@@ -1217,7 +1276,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rWFXLCFhAEiOeHINVVzBfkOm077toWEF/view?usp=sharing"
     },
     {
       "id": 61,
@@ -1237,7 +1297,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ujDElLmmgsbq9TsWNuOwTtOgW9XCrfmt/view?usp=sharing"
     },
     {
       "id": 62,
@@ -1257,7 +1318,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1S9udgwQ497Qduw4PvsLmkTwDI5IYanEZ/view?usp=sharing"
     },
     {
       "id": 63,
@@ -1277,7 +1339,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.tdgc.jp/compliance/docs/一般送配電事業者の行為規制等に関する行動指針.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/16bwgsNJx4pdiOJ9fcv1X3_kZVGmva4ZG/view?usp=sharing"
     },
     {
       "id": 64,
@@ -1297,7 +1360,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1PndObXZdZNcF_vA5a266Ot_Xd4qXVSPJ/view?usp=sharing"
     },
     {
       "id": 65,
@@ -1317,7 +1381,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1x0_FTgHw5ho_xdfNUnNfi31M5c6OxhMO/view?usp=sharing"
     },
     {
       "id": 66,
@@ -1337,7 +1402,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15EwRC5VIAgmOw85IFmIXV-TqPKwJLro2/view?usp=sharing"
     },
     {
       "id": 67,
@@ -1357,7 +1423,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1H-i8EELgLZdtKgqUBcvYynlWJNTZaTnR/view?usp=sharing"
     },
     {
       "id": 68,
@@ -1377,7 +1444,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/13w1NraBvukuTaCkBOPXgfQbv8Q4wSXyY/view?usp=sharing"
     },
     {
       "id": 69,
@@ -1397,7 +1465,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1tCs3XlvIjLg-ky95BanDeXZIthB2TiP_/view?usp=sharing"
     },
     {
       "id": 70,
@@ -1417,7 +1486,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1nWZMgd5P0tFXgueoT_MGPXVoFw6toztp/view?usp=sharing"
     },
     {
       "id": 71,
@@ -1437,7 +1507,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1X03HADs-wzey-NVly9SkwQpr9RpcurwI/view?usp=sharing"
     },
     {
       "id": 72,
@@ -1457,7 +1528,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/16KywRyiyBCVmAPimkkMCh9Qj6cA9w0D5/view?usp=sharing"
     },
     {
       "id": 73,
@@ -1477,7 +1549,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/11DNJkhNtbMRu3wyt7OYEvarIFbUbasE1/view?usp=sharing"
     },
     {
       "id": 74,
@@ -1497,7 +1570,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1F61uCbWf1Vp0-HF3QcLUulScDmGZg8d9/view?usp=sharing"
     },
     {
       "id": 75,
@@ -1517,7 +1591,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QDIT8sQO5h76PTjbOn8-xDSVpP_0-Ko6/view?usp=sharing"
     },
     {
       "id": 76,
@@ -1537,7 +1612,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15GRGNpQt6Mdxq4ZBLgeVGPvZnaHOFMIS/view?usp=sharing"
     },
     {
       "id": 77,
@@ -1557,7 +1633,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WkUhZDmDgVhg8rEItJyemo6OWDTom1Ft/view?usp=sharing"
     },
     {
       "id": 78,
@@ -1577,7 +1654,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12zoOe8Vd6WQ4vYnHK_nbBUBWZk_NFnhs/view?usp=sharing"
     },
     {
       "id": 79,
@@ -1597,7 +1675,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZjYltlkBOmMn1vUfiL4Cx9lwQB2Be0ag/view?usp=sharing"
     },
     {
       "id": 80,
@@ -1617,7 +1696,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ue5vKcGbOD9odFxXn57-ivSLy2za3QMD/view?usp=sharing"
     },
     {
       "id": 81,
@@ -1637,7 +1717,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZFrQwr3pC3CgUUIUokEvtPsGrOgRXBAZ/view?usp=sharing"
     },
     {
       "id": 82,
@@ -1657,7 +1738,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1KlBDNe8ZqM5Ch66gS-3Xm6XH05WiP4b3/view?usp=sharing"
     },
     {
       "id": 83,
@@ -1677,7 +1759,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1oN9_D93_kOPHwbu3K5paZWFTnxDm_50b/view?usp=sharing"
     },
     {
       "id": 84,
@@ -1697,7 +1780,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DCaPcD9gxftqUJ4wm4hfIW_qE13_g2Zo/view?usp=sharing"
     },
     {
       "id": 85,
@@ -1717,7 +1801,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Toyha2cuEJvb_nHMXTN82fQnd5OpoxZA/view?usp=sharing"
     },
     {
       "id": 86,
@@ -1737,7 +1822,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1jM1F3VDsP1d2v1RB4f4-1GYu5rITLoqX/view?usp=sharing"
     },
     {
       "id": 87,
@@ -1757,7 +1843,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ICrU0NJcOlyzsMcx7vqA4k2RmZrhKW_R/view?usp=sharing"
     },
     {
       "id": 88,
@@ -1777,7 +1864,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wrC1FYz7Kw6FxnxF4IuE2qVrqGqXmEll/view?usp=sharing"
     },
     {
       "id": 89,
@@ -1797,7 +1885,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1HHiLkbzaddHEMWNGeznp7gupzY_kxiRb/view?usp=sharing"
     },
     {
       "id": 90,
@@ -1817,7 +1906,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12QCVM8BfOzXQZmYMutLvwney4zBwIrTO/view?usp=sharing"
     },
     {
       "id": 91,
@@ -1837,7 +1927,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WAx8AnYY1xTRcHbz7A5wB464LnUKl_Vc/view?usp=sharing"
     },
     {
       "id": 92,
@@ -1857,7 +1948,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-achqgcsIP1QROE3BPWq586WYp9dd8Ii/view?usp=sharing"
     },
     {
       "id": 93,
@@ -1877,7 +1969,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Cj-gvJ4P_IIBOpvZF-f7em9F322ggkBj/view?usp=sharing"
     },
     {
       "id": 94,
@@ -1897,7 +1990,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1G781vu9yKrJHkM3_bZlUltECpkhqjyFZ/view?usp=sharing"
     },
     {
       "id": 95,
@@ -1917,7 +2011,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NLCIpTt88d-84geCq29w5Fr5CXMhPZqr/view?usp=sharing"
     },
     {
       "id": 96,
@@ -1937,7 +2032,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/10dz3PboAQlWEE3V1e2ZuIZvvIZZ-3ehv/view?usp=sharing"
     },
     {
       "id": 97,
@@ -1957,7 +2053,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wEaxACsUav3aJwZ9IblUGklmGgF-K_K7/view?usp=sharing"
     },
     {
       "id": 98,
@@ -1977,7 +2074,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/14d5TyC91QyiHXZ5xkMBuYlKcKY5LxbQn/view?usp=sharing"
     },
     {
       "id": 99,
@@ -1997,7 +2095,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1qiQa9mNMSDdHlOUTr5yniZhoU8VMl1T6/view?usp=sharing"
     },
     {
       "id": 100,
@@ -2017,7 +2116,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xH0czfYNdxK82dbNgEymaJ1nGsmYZouN/view?usp=sharing"
     },
     {
       "id": 101,
@@ -2037,7 +2137,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1V_VTfHDIYQoDYAF9qV6Dm_TbW-iCR77K/view?usp=sharing"
     },
     {
       "id": 102,
@@ -2057,7 +2158,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/11sVktfD3u7wQpsyx31renMQheWLIEqAx/view?usp=sharing"
     },
     {
       "id": 103,
@@ -2077,7 +2179,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-St6nAtnuo32-UY_SUaG1uOJLOHbfOqL/view?usp=sharing"
     },
     {
       "id": 104,
@@ -2098,7 +2201,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1InAYTO2MnuHvdhOh_Xsdev_GzN7n7KoP/view?usp=sharing"
     },
     {
       "id": 105,
@@ -2119,7 +2223,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/11zDnYVHe3_iFdlVb_6WUGGdjtyn2c7zA/view?usp=sharing"
     },
     {
       "id": 106,
@@ -2139,7 +2244,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1A2jUr9EJsRgeoBiIShT6BvuA4mxzfOqz/view?usp=sharing"
     },
     {
       "id": 107,
@@ -2159,7 +2265,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1S0cTgE2f7PTSW9u6_K1GsDTW_Is8ltby/view?usp=sharing"
     },
     {
       "id": 108,
@@ -2179,7 +2286,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1H1EZx3oacMOXgOe61tI9K0YbZ5OBZRKY/view?usp=sharing"
     },
     {
       "id": 109,
@@ -2199,7 +2307,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YZLLW3Hdi04dS6aEtul8dE514cA4MWQR/view?usp=sharing"
     },
     {
       "id": 110,
@@ -2219,7 +2328,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NauowEwanND9MOgojp5-VBJhZ8MlFqi4/view?usp=sharing"
     },
     {
       "id": 111,
@@ -2239,7 +2349,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bKXWk8xwxKgrqonSAuK7Zc38LXSpNCgi/view?usp=sharing"
     },
     {
       "id": 112,
@@ -2259,7 +2370,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1sc1D9AjOo4uds4dLI1tFthlgG2ycX8nw/view?usp=sharing"
     },
     {
       "id": 113,
@@ -2279,7 +2391,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FjDq195Oq8Su3knUzTd_Xtzsom5TZZoU/view?usp=sharing"
     },
     {
       "id": 114,
@@ -2299,7 +2412,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/122n2Ep4qzcnJS-bhwF0flMZIEr6GlbGr/view?usp=sharing"
     },
     {
       "id": 115,
@@ -2319,7 +2433,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1yIZrshItSaHnqoNbyoMu80XvxcZjthHb/view?usp=sharing"
     },
     {
       "id": 116,
@@ -2339,7 +2454,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1lHB2NPDYoORiv-P2hKviwSbznE-kVaIY/view?usp=sharing"
     },
     {
       "id": 117,
@@ -2359,7 +2475,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/16bHgtwcUQEV4a1gSUel9-gVirhO1OHLO/view?usp=sharing"
     },
     {
       "id": 118,
@@ -2379,7 +2496,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1XgbJZ44UnQtSHfwb6H0_1Euc0C8nQLF5/view?usp=sharing"
     },
     {
       "id": 119,
@@ -2399,7 +2517,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/07/position-paper-2023-CCUS-update-20230710.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1nknRNjiamp715-meiXNMW2Le1HiEbtRj/view?usp=sharing"
     },
     {
       "id": 120,
@@ -2419,7 +2538,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/01/COP27evaluation.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YWWvx18Lv7TQZt3gzXWhm1MPVOFEHWUd/view?usp=sharing"
     },
     {
       "id": 121,
@@ -2439,7 +2559,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/02/COP28-report.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1v-yxWhGTs-cOxh3M3qVYph3Sw75MgbXx/view?usp=sharing"
     },
     {
       "id": 122,
@@ -2459,7 +2580,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2025/01/COP29-report.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1oWOcvjDCOYVUdeaQEJjSsIsJkhBiJv5W/view?usp=sharing"
     },
     {
       "id": 123,
@@ -2479,7 +2601,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2026/01/COP30-report.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ijbgk-XSwZ1H-qi6FlVschw3oybivNAi/view?usp=sharing"
     },
     {
       "id": 124,
@@ -2499,7 +2622,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2022/06/GENESIS_eng_230324.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ciOzENoA53f3lCTp9HIp1jdINdY5yiQj/view?usp=sharing"
     },
     {
       "id": 125,
@@ -2519,7 +2643,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2025/09/GENESIS_revised_250829.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1N9oqbZWn_3W0RymNHsqoUjpBDOihiiEI/view?usp=sharing"
     },
     {
       "id": 126,
@@ -2539,7 +2664,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/07/JERA-Report_0724-4.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WtOKYEiPfnK74VBHwsx8bTXVfU-ybR3p/view?usp=sharing"
     },
     {
       "id": 127,
@@ -2559,7 +2685,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/11/202311_Japans-Ammonia-Co-firing-Plans-Threaten-Paris-Goals_JP.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1KypkfcJC4R-i2PEUcL13MpdEPVdPgGyv/view?usp=sharing"
     },
     {
       "id": 128,
@@ -2579,7 +2706,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2026/08/Unabated_202407R2.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1upMlDS9fw0FQZ-u9MeLDwSMhazxHU8m8/view?usp=sharing"
     },
     {
       "id": 129,
@@ -2599,7 +2727,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/10/position_paper_2024_gas.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1c-m1zp60oNUmANCDEeml2ovIEoBxPyVC/view?usp=sharing"
     },
     {
       "id": 130,
@@ -2619,7 +2748,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2022/10/Glasgow_Climate_Pact_Kikonetwork_Introduction_202210_revised.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dNhfjEWoU98zXThf3C5kG7wsGFd8rX9L/view?usp=sharing"
     },
     {
       "id": 131,
@@ -2639,7 +2769,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2023/01/NL148.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1SO5aek_SzgxUIbd3pBcARHDbmflzgRMg/view?usp=sharing"
     },
     {
       "id": 132,
@@ -2659,7 +2790,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/10/position_paper_2024_e-methane.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Cl42Nlg5sOBmlqTZtRuOqoinHmkSkdU9/view?usp=sharing"
     },
     {
       "id": 133,
@@ -2679,7 +2811,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/05/Just-Transition-in-Japan_JPN.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1AeVxddBBAsG_UoHrHEoafuuc4UUmi_77/view?usp=sharing"
     },
     {
       "id": 134,
@@ -2699,7 +2832,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2023/05/NL150.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cNSpCExKbckx5wzmBght0XWO7SgqBm5y/view?usp=sharing"
     },
     {
       "id": 135,
@@ -2719,7 +2853,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/03/NL149.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1VuSW4Ups9zuVehdyrhOUCxI4DZU-c94E/view?usp=sharing"
     },
     {
       "id": 136,
@@ -2739,7 +2874,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/07/karyokuhatsuden_roadmap_202407.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1yl7jxQ-eC95LmzIopZIwYnAjedwZK6eV/view?usp=sharing"
     },
     {
       "id": 137,
@@ -2759,7 +2895,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2026/02/ammonia-report-2025.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Q0CA5mAmLGP8tFMVVrxJsH_09qqHqkmc/view?usp=sharing"
     },
     {
       "id": 138,
@@ -2779,7 +2916,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/02/NL155.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cbQKCar6BJC2I5wn7DD_JV3ueoAYNPaf/view?usp=sharing"
     },
     {
       "id": 139,
@@ -2799,7 +2937,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/16QhlYr6ixwPF2KtALMjrxw9lZjPN2S4i/view?usp=sharing"
     },
     {
       "id": 140,
@@ -2819,7 +2958,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/14-PqNCNRZfMBrFya9ihNn_b4_utoiyyU/view?usp=sharing"
     },
     {
       "id": 141,
@@ -2839,7 +2979,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1m40UEE6_TEqRfNldxm-M_Lw-DOppVAwB/view?usp=sharing"
     },
     {
       "id": 142,
@@ -2859,7 +3000,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DcB11CpcPuu0Yw82H816KZIoM9evgzsV/view?usp=sharing"
     },
     {
       "id": 143,
@@ -2879,7 +3021,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YApLRz37iGwxolfO2P0NlYso-JjPz_8g/view?usp=sharing"
     },
     {
       "id": 144,
@@ -2899,7 +3042,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xbajV4dsSiTvFEcm3Nmo2ZsNq7MliFnZ/view?usp=sharing"
     },
     {
       "id": 145,
@@ -2919,7 +3063,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1B5iXl4sFb0MtGYkLSngg8WeXvi08B8fH/view?usp=sharing"
     },
     {
       "id": 146,
@@ -2939,7 +3084,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/16XW-CQVvLHenawsAxqMSbbDtJTRZiyag/view?usp=sharing"
     },
     {
       "id": 147,
@@ -2959,7 +3105,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Ir1UDz82aoBuLdqCcAfXBMxUTC5avuzm/view?usp=sharing"
     },
     {
       "id": 148,
@@ -2979,7 +3126,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1sQWQj1LZm_PQzNSSIDupN4EDIx1NqLaS/view?usp=sharing"
     },
     {
       "id": 149,
@@ -2999,7 +3147,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-r4Iiyot99JNHv32ZMAdDCrHCqcY6H-L/view?usp=sharing"
     },
     {
       "id": 150,
@@ -3019,7 +3168,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1s5uJ2r3zekt2b_g7Yfak6I7RvpeRXjIV/view?usp=sharing"
     },
     {
       "id": 151,
@@ -3039,7 +3189,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/17SZF8C34AM0h94yp2q04XtA9pAbJ5y1C/view?usp=sharing"
     },
     {
       "id": 152,
@@ -3059,7 +3210,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QopmkfcCdPf08aZBBvpOaToJFx59EEg7/view?usp=sharing"
     },
     {
       "id": 153,
@@ -3079,7 +3231,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1pAGTxIfbDjysxB5mEU9hAuaIh_01j6r-/view?usp=sharing"
     },
     {
       "id": 154,
@@ -3099,7 +3252,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GmaUaMYtwCmxfARo9Bbv2D5sTI3h7-3W/view?usp=sharing"
     },
     {
       "id": 155,
@@ -3119,7 +3273,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12509.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/17PZi9F4ujbcBpytjPlcfen6GTanvvnTF/view?usp=sharing"
     },
     {
       "id": 156,
@@ -3139,7 +3294,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12522.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JCt5tOHjfSBPyJtGx6ykY_iri4kZ8UUl/view?usp=sharing"
     },
     {
       "id": 157,
@@ -3159,7 +3315,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FSmVeUJXdD24smuDn71fk9hdFaZgaLfh/view?usp=sharing"
     },
     {
       "id": 158,
@@ -3179,7 +3336,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1I8iFGyWTG6kC5RYd4QIBFJQV4ZZwxjaC/view?usp=sharing"
     },
     {
       "id": 159,
@@ -3199,7 +3357,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1mXukTahoYiXA6Xd1AAe1uO8UGO_UncBU/view?usp=sharing"
     },
     {
       "id": 160,
@@ -3219,7 +3378,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-LSnjKcTmg1Md_7TjsaRSEoGGRBuyVXy/view?usp=sharing"
     },
     {
       "id": 161,
@@ -3239,7 +3399,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_wu_sgoMXR65nYu9efybBLmGiHqI7s35/view?usp=sharing"
     },
     {
       "id": 162,
@@ -3259,7 +3420,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/11/Climate-Greenwash-leaflet-20231110.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1epUtZ4BJ2SCYPIFet4MoKNiqysvivyFn/view?usp=sharing"
     },
     {
       "id": 163,
@@ -3279,7 +3441,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/10/GW-dictionary.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1UHyjSnGrxxEqp9ypQ-m0TnKvo4BJ8Oko/view?usp=sharing"
     },
     {
       "id": 164,
@@ -3299,7 +3462,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2025/11/intermediary_support_booklet.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FNMVT-tRWMOB-C_GD5hX7oMoRbM7eNhX/view?usp=sharing"
     },
     {
       "id": 165,
@@ -3319,7 +3483,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.kikonet.org/kiko/wp-content/uploads/2022/04/20220425agrivoltaics-examples-brochure.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1g2jHSt_98jSfOF0lsjh-LT2h8ocfAgrs/view?usp=sharing"
     },
     {
       "id": 166,
@@ -3339,7 +3504,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xXKoY3JGX_HsnvQBAEGCAknXoqjEt1-d/view?usp=sharing"
     },
     {
       "id": 167,
@@ -3359,7 +3525,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12o2h154pXj6T0NXRKVJmAVA0siavAfsb/view?usp=sharing"
     },
     {
       "id": 168,
@@ -3379,7 +3546,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zJvnT1vILRe6WWAzzoDCRTfVog64E3Nq/view?usp=sharing"
     },
     {
       "id": 169,
@@ -3399,7 +3567,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/184EDTStZ2hCiosxD8u-TUM2bXt4AxVYt/view?usp=sharing"
     },
     {
       "id": 170,
@@ -3419,7 +3588,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1IKaBRqJ2fHfoJiK6f-YOemDJHts1HhJX/view?usp=sharing"
     },
     {
       "id": 171,
@@ -3439,7 +3609,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Jhq4vcRVaY2QFcBrw6HNOqJ2HGmmaPOX/view?usp=sharing"
     },
     {
       "id": 172,
@@ -3459,7 +3630,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BQHbeKPbt3blsujVD32w70w6Os7i33nv/view?usp=sharing"
     },
     {
       "id": 173,
@@ -3479,7 +3651,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1b4V9VV6K6krJSrQoRUb7GzAjHVQQY6GM/view?usp=sharing"
     },
     {
       "id": 174,
@@ -3499,7 +3672,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cQRgeJ4NOFs_qCmIqhxK_vb-yKYPXmKH/view?usp=sharing"
     },
     {
       "id": 175,
@@ -3519,7 +3693,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1mDMYNtdnJZy02CMHtejgJymXVqtekmFJ/view?usp=sharing"
     },
     {
       "id": 176,
@@ -3539,7 +3714,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1N_HSRZxjgttwmNlhQP4-5qFNCmzZH7Uc/view?usp=sharing"
     },
     {
       "id": 177,
@@ -3559,7 +3735,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bd5zKg43QfQ0EFgMcGCT3uh2RZ-ZflNZ/view?usp=sharing"
     },
     {
       "id": 178,
@@ -3579,7 +3756,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_6fph_mk0zBdEAQVPfZpYTUTOp8L1XNX/view?usp=sharing"
     },
     {
       "id": 179,
@@ -3599,7 +3777,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bNB3Lg2yqGMcnC2qmduUEb0SlKkE-Tg5/view?usp=sharing"
     },
     {
       "id": 180,
@@ -3619,7 +3798,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WEAS-L43CMV3y_AB7tpK8nWhVKLaCKKR/view?usp=sharing"
     },
     {
       "id": 181,
@@ -3639,7 +3819,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QhSnVPNuO6H4ivtFkpAZyNsJ6Cn2w82T/view?usp=sharing"
     },
     {
       "id": 182,
@@ -3660,7 +3841,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1N9i2YKI6OjD2wZCvLXdh3COqCkPBvLuF/view?usp=sharing"
     },
     {
       "id": 183,
@@ -3680,7 +3862,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/11AFZ1PgSonYLvHSImXAsaIgq4GNg159F/view?usp=sharing"
     },
     {
       "id": 184,
@@ -3700,7 +3883,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/18A32suucIJV-RvKIaoiASr-oDqeyvCCn/view?usp=sharing"
     },
     {
       "id": 185,
@@ -3720,7 +3904,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1E6yFrx2tcTiRj5jJSDIYrDy5Y-DcqkcL/view?usp=sharing"
     },
     {
       "id": 186,
@@ -3740,7 +3925,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1INJUy5r4WpE0lhI-Doz0Y_PjeOEqp7Vd/view?usp=sharing"
     },
     {
       "id": 187,
@@ -3760,7 +3946,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GX1FP3_zp8_2onZ7TSCQaCz-ta85EkDZ/view?usp=sharing"
     },
     {
       "id": 188,
@@ -3780,7 +3967,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1H5ktX231xGwSEUovghWks27ERugi0M0W/view?usp=sharing"
     },
     {
       "id": 189,
@@ -3800,7 +3988,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1N8EsmQUmEzJugMVin1cX6EddxKhnn3b_/view?usp=sharing"
     },
     {
       "id": 190,
@@ -3820,7 +4009,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OpGgsNhQSV8kh8Ii9LyBGgysoCTvUSeR/view?usp=sharing"
     },
     {
       "id": 191,
@@ -3840,7 +4030,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1sipLTNZcMnRec7rEmzl6dKGhqo4XTeqF/view?usp=sharing"
     },
     {
       "id": 192,
@@ -3860,7 +4051,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Dxig18THU8R7FtnzSgCOqUSdML2kP0Ml/view?usp=sharing"
     },
     {
       "id": 193,
@@ -3880,7 +4072,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1x_OLoARY8h6-l4pgmcOEaMkswSKOVEgF/view?usp=sharing"
     },
     {
       "id": 194,
@@ -3900,7 +4093,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ckSFn62zjz4JmLLCfNpM4Pluxxx4l1Wj/view?usp=sharing"
     },
     {
       "id": 195,
@@ -3920,7 +4114,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1gy0Te6mDz8sDn6TxlsqFUbcNnVFoWXCQ/view?usp=sharing"
     },
     {
       "id": 196,
@@ -3940,7 +4135,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1fUMD5ZdRRCnBJapudBH661jGPXcD-uFs/view?usp=sharing"
     },
     {
       "id": 197,
@@ -3960,7 +4156,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1yb1dAFxioIqoGy-zRe0Dnvr_nZqDuC6e/view?usp=sharing"
     },
     {
       "id": 198,
@@ -3980,7 +4177,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ll6ICUKcymazwwxpHVMPRcNuMj78n33T/view?usp=sharing"
     },
     {
       "id": 199,
@@ -4000,7 +4198,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1R9LJYg360ewzzUBbXPHjxj4BjfZJUOxZ/view?usp=sharing"
     },
     {
       "id": 200,
@@ -4020,7 +4219,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GZDQ5SSee_jaJSAKAwZwkaGn9ULRnYiD/view?usp=sharing"
     },
     {
       "id": 201,
@@ -4040,7 +4240,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1SydfLTfwcccwH_IL8l7ApVfkxbXJmiKy/view?usp=sharing"
     },
     {
       "id": 202,
@@ -4060,7 +4261,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ouNomkvn0sYATkFSXA_73YT_y14L2QZ1/view?usp=sharing"
     },
     {
       "id": 203,
@@ -4080,7 +4282,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1fOyrsfHDRYlL21O2Ys5XqPd-4eMnfx31/view?usp=sharing"
     },
     {
       "id": 204,
@@ -4100,7 +4303,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1oc4KS37kT_0lHjqV68Q7Ff_i5B9SPmf6/view?usp=sharing"
     },
     {
       "id": 205,
@@ -4120,7 +4324,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12taloYmh3SeodjXajbf5PwrCaXHejzB7/view?usp=sharing"
     },
     {
       "id": 206,
@@ -4140,7 +4345,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Gs9GHgmWvRiGW57N0KEnj_eteCywkDiJ/view?usp=sharing"
     },
     {
       "id": 207,
@@ -4160,7 +4366,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1PhLt_EWtBDbLhBtRNQtiu5EsKAEb80ja/view?usp=sharing"
     },
     {
       "id": 208,
@@ -4180,7 +4387,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1VcOpL33nmNGfDOmP-ZIEAZsI7uV8Hlap/view?usp=sharing"
     },
     {
       "id": 209,
@@ -4200,7 +4408,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Iq27ZPxr_MYy5lMIw9clXl8JO7tBobIy/view?usp=sharing"
     },
     {
       "id": 210,
@@ -4220,7 +4429,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1uKabrEcDo2juHS-Ta85F5-Pl6Cgei_qE/view?usp=sharing"
     },
     {
       "id": 211,
@@ -4240,7 +4450,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1y9lAwF9FtRjfkoRxlg1-Ku9iZSGsDVIY/view?usp=sharing"
     },
     {
       "id": 212,
@@ -4260,7 +4471,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1RdPhBJ4zzV4SztIQyorgjwhKYGjyrP6e/view?usp=sharing"
     },
     {
       "id": 213,
@@ -4280,7 +4492,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1TtlniYNy_vRBWkvrnSNuCecYGwzuJiel/view?usp=sharing"
     },
     {
       "id": 214,
@@ -4300,7 +4513,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/11dGZQtRQqfq5r51nRcigOgnTq1tmy5NH/view?usp=sharing"
     },
     {
       "id": 215,
@@ -4320,7 +4534,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QHrX2vk_8VufQriel2lOsEkikTeeVR_3/view?usp=sharing"
     },
     {
       "id": 216,
@@ -4340,7 +4555,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ikI4V1LBdgBzrR1UjJ7J5Y47sKR8LZvS/view?usp=sharing"
     },
     {
       "id": 217,
@@ -4360,7 +4576,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1eMD-fPO_To1VamD3EbaHJEeESmpQF32J/view?usp=sharing"
     },
     {
       "id": 218,
@@ -4380,7 +4597,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1L_CzkMST_B0UUiKgWv0VLVkind8zsTwf/view?usp=sharing"
     },
     {
       "id": 219,
@@ -4400,7 +4618,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WSMAx7gvWN1xw6Df3LZewWD7-ODyJk-G/view?usp=sharing"
     },
     {
       "id": 220,
@@ -4420,7 +4639,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OHUv3-YQsjEavaPjyIU3Plx1Fj-BCVp7/view?usp=sharing"
     },
     {
       "id": 221,
@@ -4440,7 +4660,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1P8_UdQMJvZsjJWJwEKwL0_Ul8YEcOvGh/view?usp=sharing"
     },
     {
       "id": 222,
@@ -4460,7 +4681,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1pDMptHPtk7S1pf2pR_cF9qSsG8Wu9XkZ/view?usp=sharing"
     },
     {
       "id": 223,
@@ -4480,7 +4702,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1z_C1uDKDznkuV8QzbVOpjl5ZVcJKy2f8/view?usp=sharing"
     },
     {
       "id": 224,
@@ -4500,7 +4723,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1AqZ7RjyUDpT7nRXM5Z2VfGIyqBXRH6sI/view?usp=sharing"
     },
     {
       "id": 225,
@@ -4520,7 +4744,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1pdh0LZ0u_xLsxochjehNrB2C1QE_ZCMP/view?usp=sharing"
     },
     {
       "id": 226,
@@ -4540,7 +4765,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1g3f3vCRJ7c2eKpboAntqWQQAUvFpONG1/view?usp=sharing"
     },
     {
       "id": 227,
@@ -4560,7 +4786,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12881.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-YkX0V9MjKut2Nvm7BGnvX18CUFtIuN0/view?usp=sharing"
     },
     {
       "id": 228,
@@ -4580,7 +4807,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12519.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1C-85vfTffe8EyQLcSEiXag6jQJEQFA4a/view?usp=sharing"
     },
     {
       "id": 229,
@@ -4600,7 +4828,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12500.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZjJxa6TDuPTsxDF-1fvn1OZ6Kfx-YB_Z/view?usp=sharing"
     },
     {
       "id": 230,
@@ -4620,7 +4849,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12514.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1EGZIQgde0egV5qIQsJypvmQr2iGr2Z1G/view?usp=sharing"
     },
     {
       "id": 231,
@@ -4640,7 +4870,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/150414_press_release_ver03.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rYTpdh8KT776CvxgfVDqXML0RTeVnLng/view?usp=sharing"
     },
     {
       "id": 232,
@@ -4660,7 +4891,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t140829.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FmrXXTBM0emdqPyhp3e-hskB5UcsOUXI/view?usp=sharing"
     },
     {
       "id": 233,
@@ -4680,7 +4912,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/17AtSpjpKrzb5GwdWR01xfcB-03vfNBpu/view?usp=sharing"
     },
     {
       "id": 234,
@@ -4700,7 +4933,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/2026_nenjihoukokusho/nenjihoukokusho_2026_kyoukyuukeikaku_260330.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OsMZ4HKCK-2oT442ZTJ_wElWwL52i3l9/view?usp=sharing"
     },
     {
       "id": 235,
@@ -4720,7 +4954,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_02_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1qp9a1V40K0waM9WltTn86BctPQjWUrUu/view?usp=sharing"
     },
     {
       "id": 236,
@@ -4740,7 +4975,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/121/chousei_121_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rmqP3ahAgdw4mnJBaWrDH2orSC3lpRMJ/view?usp=sharing"
     },
     {
       "id": 237,
@@ -4760,7 +4996,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/117/chousei_117_03.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1r93n8jSrZ9-V2odZFA_1CwSlZVA6nl3C/view?usp=sharing"
     },
     {
       "id": 238,
@@ -4780,7 +5017,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/116/chousei_116_03.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1w88HSsMDGXwYP1ijl6D25erQy3eh_f0a/view?usp=sharing"
     },
     {
       "id": 239,
@@ -4800,7 +5038,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/120/chousei_120_03.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1b5xyfJy816BLHb00Gn0F7lBBJ6Wxzd7T/view?usp=sharing"
     },
     {
       "id": 240,
@@ -4820,7 +5059,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1usmmMFwQKSU6nj64XbKntgBbJoape6YI/view?usp=sharing"
     },
     {
       "id": 241,
@@ -4840,7 +5080,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NDCKiyfa4IaWqb7L7YO0Di8UgSlrg2aJ/view?usp=sharing"
     },
     {
       "id": 242,
@@ -4860,7 +5101,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1PFF3r-x_c7MdzWHi3s277vZw-7Tl61cz/view?usp=sharing"
     },
     {
       "id": 243,
@@ -4880,7 +5122,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BMehZzsKdI7I3gjVuO_Z_Kkxg063yniV/view?usp=sharing"
     },
     {
       "id": 244,
@@ -4900,7 +5143,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_01_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1N4zWLZBipVmerJCjCez9E9p8hHHnxGrL/view?usp=sharing"
     },
     {
       "id": 245,
@@ -4920,7 +5164,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_03_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1RhwIbdiT_jVvaBVGeKnxE2pncyydzHri/view?usp=sharing"
     },
     {
       "id": 246,
@@ -4940,7 +5185,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_01_02.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rQW7h05NW3ye-wYzIuH0_zeeLWZOli5L/view?usp=sharing"
     },
     {
       "id": 247,
@@ -4960,7 +5206,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-MEvGDxschA5kCtp8786vTk9BqnWS5iq/view?usp=sharing"
     },
     {
       "id": 248,
@@ -4980,7 +5227,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QpQvC4Lx5x2oW61KkGRmuChbqwNHXJ4b/view?usp=sharing"
     },
     {
       "id": 249,
@@ -5000,7 +5248,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/2026_nenjihoukokusho/260710_access_toukei_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15b-w2KUdaFsWyovoq6rtJVI-27iHIO0g/view?usp=sharing"
     },
     {
       "id": 250,
@@ -5020,7 +5269,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1aCihaCWsZjguDc2U-031qrxV_SEnI4Gp/view?usp=sharing"
     },
     {
       "id": 251,
@@ -5040,7 +5290,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FxQuDigdLUlqLtc895ZBt5aXBwvu5D0U/view?usp=sharing"
     },
     {
       "id": 252,
@@ -5060,7 +5311,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_10_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dh4_wyr69T7HjsET2tpy9a_KxShcL4oN/view?usp=sharing"
     },
     {
       "id": 253,
@@ -5080,7 +5332,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_06_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1y-ropOeSolKDkoVDG455okDjtpD6Tf7x/view?usp=sharing"
     },
     {
       "id": 254,
@@ -5100,7 +5353,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_92_07_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1W7kGpfAxdU6okhOSlVI-v5jh2Uqxr9rK/view?usp=sharing"
     },
     {
       "id": 255,
@@ -5120,7 +5374,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZWLIkkAKlIG68qF9OtHDj_vObLWIfo6W/view?usp=sharing"
     },
     {
       "id": 256,
@@ -5140,7 +5395,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1B2ZFz6pBZDIIxFhDEhGQhjys2WTVA3Pp/view?usp=sharing"
     },
     {
       "id": 257,
@@ -5161,7 +5417,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JMgPW7hwqK4V5UxoNhyeCz6KmqNAoWOQ/view?usp=sharing"
     },
     {
       "id": 258,
@@ -5181,7 +5438,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/155urMPU2ryFhMnQJxxSNm7pP-BmYnMie/view?usp=sharing"
     },
     {
       "id": 259,
@@ -5201,7 +5459,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/files/denryokujukyuu_2025_260909.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OFpNc0Uv0e2aGygmhfXS7i4oMOc8IG3t/view?usp=sharing"
     },
     {
       "id": 260,
@@ -5221,7 +5480,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/denryokujukyukensho_20261028/261028_denryokujukyukensho.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1SMEf6qj9gBoVSDiKNP-m8w6EcGqmhlZd/view?usp=sharing"
     },
     {
       "id": 261,
@@ -5241,7 +5501,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1egEUnOsqoh2CMuqgcn3xlcEfEkHcLVYw/view?usp=sharing"
     },
     {
       "id": 262,
@@ -5261,7 +5522,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/19JEuCnWtY6QkEPYlStlJNmjAuNJIiwAm/view?usp=sharing"
     },
     {
       "id": 263,
@@ -5281,7 +5543,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12dmOgCkNcc7WXhfI4P3iLSvo-nH3iznY/view?usp=sharing"
     },
     {
       "id": 264,
@@ -5301,7 +5564,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1HBChzMLdpXYFP0fYhxUi1jh9-G9pzEpR/view?usp=sharing"
     },
     {
       "id": 265,
@@ -5321,7 +5585,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1IbsBR_83kH0tAIHJJEijdkrgCiMEKdIZ/view?usp=sharing"
     },
     {
       "id": 266,
@@ -5341,7 +5606,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1aNEv4s4IpdYVJ0a_xw9s7xPrVjKxfeUo/view?usp=sharing"
     },
     {
       "id": 267,
@@ -5361,7 +5627,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ujDElLmmgsbq9TsWNuOwTtOgW9XCrfmt/view?usp=sharing"
     },
     {
       "id": 268,
@@ -5381,7 +5648,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1PndObXZdZNcF_vA5a266Ot_Xd4qXVSPJ/view?usp=sharing"
     },
     {
       "id": 269,
@@ -5401,7 +5669,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1x0_FTgHw5ho_xdfNUnNfi31M5c6OxhMO/view?usp=sharing"
     },
     {
       "id": 270,
@@ -5421,7 +5690,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15EwRC5VIAgmOw85IFmIXV-TqPKwJLro2/view?usp=sharing"
     },
     {
       "id": 271,
@@ -5441,7 +5711,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1H-i8EELgLZdtKgqUBcvYynlWJNTZaTnR/view?usp=sharing"
     },
     {
       "id": 272,
@@ -5461,7 +5732,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/13w1NraBvukuTaCkBOPXgfQbv8Q4wSXyY/view?usp=sharing"
     },
     {
       "id": 273,
@@ -5481,7 +5753,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15GRGNpQt6Mdxq4ZBLgeVGPvZnaHOFMIS/view?usp=sharing"
     },
     {
       "id": 274,
@@ -5501,7 +5774,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZjYltlkBOmMn1vUfiL4Cx9lwQB2Be0ag/view?usp=sharing"
     },
     {
       "id": 275,
@@ -5521,7 +5795,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DCaPcD9gxftqUJ4wm4hfIW_qE13_g2Zo/view?usp=sharing"
     },
     {
       "id": 276,
@@ -5541,7 +5816,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1jM1F3VDsP1d2v1RB4f4-1GYu5rITLoqX/view?usp=sharing"
     },
     {
       "id": 277,
@@ -5561,7 +5837,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ICrU0NJcOlyzsMcx7vqA4k2RmZrhKW_R/view?usp=sharing"
     },
     {
       "id": 278,
@@ -5581,7 +5858,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1HHiLkbzaddHEMWNGeznp7gupzY_kxiRb/view?usp=sharing"
     },
     {
       "id": 279,
@@ -5601,7 +5879,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12QCVM8BfOzXQZmYMutLvwney4zBwIrTO/view?usp=sharing"
     },
     {
       "id": 280,
@@ -5621,7 +5900,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WAx8AnYY1xTRcHbz7A5wB464LnUKl_Vc/view?usp=sharing"
     },
     {
       "id": 281,
@@ -5641,7 +5921,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-achqgcsIP1QROE3BPWq586WYp9dd8Ii/view?usp=sharing"
     },
     {
       "id": 282,
@@ -5661,7 +5942,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/14d5TyC91QyiHXZ5xkMBuYlKcKY5LxbQn/view?usp=sharing"
     },
     {
       "id": 283,
@@ -5681,7 +5963,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1qiQa9mNMSDdHlOUTr5yniZhoU8VMl1T6/view?usp=sharing"
     },
     {
       "id": 284,
@@ -5701,7 +5984,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1S0cTgE2f7PTSW9u6_K1GsDTW_Is8ltby/view?usp=sharing"
     },
     {
       "id": 285,
@@ -5721,7 +6005,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GOVnvJLLWj_6P2gda6wwCc-b81R4vW6y/view?usp=sharing"
     },
     {
       "id": 286,
@@ -5741,7 +6026,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WOJY-5zm74WuzAEbYRJw90pHVfE511np/view?usp=sharing"
     },
     {
       "id": 287,
@@ -5762,7 +6048,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1MceKbrisiClDRhhqnt5BGNhFJHPbFTd3/view?usp=sharing"
     },
     {
       "id": 288,
@@ -5782,7 +6069,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1y1uT9ytbB12JBkmuMK3qk8Eqt-IOihsN/view?usp=sharing"
     },
     {
       "id": 289,
@@ -5802,7 +6090,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1lYfJGXxQbhXg4hHo3O-sQ9CuE7qbezuK/view?usp=sharing"
     },
     {
       "id": 290,
@@ -5822,7 +6111,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1PC2xwVJIx4dna-xpCipGAniKDpN8xGbj/view?usp=sharing"
     },
     {
       "id": 291,
@@ -5842,7 +6132,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1kkLe0x1SZzYc8GjyVYKxWTy6CvwdCeml/view?usp=sharing"
     },
     {
       "id": 292,
@@ -5862,7 +6153,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12HLccsz8hKzwlv5MpokMnVP6wt5-YULd/view?usp=sharing"
     },
     {
       "id": 293,
@@ -5882,7 +6174,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZV4dD1xIEIdlFZi7vF81ZG43aePydt3Q/view?usp=sharing"
     },
     {
       "id": 294,
@@ -5902,7 +6195,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/10Vc4g_G9flQD-fw1BXipt7BkthqNdCN-/view?usp=sharing"
     },
     {
       "id": 295,
@@ -5922,7 +6216,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/14k7zyA-Zd_LqFsyKSK3-VR_l9djFHcrY/view?usp=sharing"
     },
     {
       "id": 296,
@@ -5942,7 +6237,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CPdXZ7ES0lA08fLfTFDMUYTsJ2THO8Lg/view?usp=sharing"
     },
     {
       "id": 297,
@@ -5962,7 +6258,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/12i2yzGtEaL4W66A1_Cwkf8K7ji_SeYIs/view?usp=sharing"
     },
     {
       "id": 298,
@@ -5982,7 +6279,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2024/07/240703_OCCTO_multi-year-report.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1aznQHjn_AquhOY5JmjRAfLLEWQe1wnRy/view?usp=sharing"
     },
     {
       "id": 299,
@@ -6002,7 +6300,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2021/10/posision-paper-hydrogen-ammonia_rev2.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1INDKXZVR2EKPuVr44f1ZGRSeO4OQB9SY/view?usp=sharing"
     },
     {
       "id": 300,
@@ -6022,7 +6321,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://kikonet.org/kiko/wp-content/uploads/2023/06/position-paper-2023-ammonia-fuel-revised-230516.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1fG4oh-1nyoEGNEZ3TJ9E5lh4AaWONx2V/view?usp=sharing"
     },
     {
       "id": 301,
@@ -6042,7 +6342,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1p6wLi6SfDSy5GAJcd-Y2YxYv9R4e0rjf/view?usp=sharing"
     },
     {
       "id": 302,
@@ -6062,7 +6363,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wUd3DfITZGD6TWtZqv5sWlePdC-CBZ5B/view?usp=sharing"
     },
     {
       "id": 303,
@@ -6082,7 +6384,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/13Aw0PRJFIERkdMzBpVBaWblbwi8bkCmY/view?usp=sharing"
     },
     {
       "id": 304,
@@ -6102,7 +6405,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-IIaJ0eAwLHwDEwaXZ5F1qTRC6TjfDx9/view?usp=sharing"
     },
     {
       "id": 305,
@@ -6122,7 +6426,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1aaKsCbB3t-p8tbJCq3C4DdQ9rKw86l9S/view?usp=sharing"
     },
     {
       "id": 306,
@@ -6142,7 +6447,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1qO8_f7QD8hCpFBiGI3HfsHDsZ0sVyxhG/view?usp=sharing"
     },
     {
       "id": 307,
@@ -6162,7 +6468,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rYKJp3iQjuCm86KxZJNUqB8fggA_E7TR/view?usp=sharing"
     },
     {
       "id": 308,
@@ -6182,7 +6489,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Iaicer34D4kQOxO49e3VGQPLdU-KFVgy/view?usp=sharing"
     },
     {
       "id": 309,
@@ -6202,7 +6510,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15rBO6qc5EO6h2p4akll9ddi3XP4mxS8G/view?usp=sharing"
     },
     {
       "id": 310,
@@ -6222,7 +6531,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DSPfAoCIw5QuyFfRnDNghSfy_6cBJ0hc/view?usp=sharing"
     },
     {
       "id": 311,
@@ -6242,7 +6552,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_VFmbz7sgVEpTYWd2ssmFgyMr2jwGBd1/view?usp=sharing"
     },
     {
       "id": 312,
@@ -6262,7 +6573,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1XKJtD1C0-H4tI9cTnPZj2l5P7WG-v1Mk/view?usp=sharing"
     },
     {
       "id": 313,
@@ -6282,7 +6594,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DtQjr7DI8osC0zrfZKtZk3GYGtPqBQRD/view?usp=sharing"
     },
     {
       "id": 314,
@@ -6302,7 +6615,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Sq5nvICInwWbOAMVkVX2417ZhtzRAUCN/view?usp=sharing"
     },
     {
       "id": 315,
@@ -6322,7 +6636,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/19b0Kk9iv3bFq2xk_N9QF0MZPzYSuJmfc/view?usp=sharing"
     },
     {
       "id": 316,
@@ -6342,7 +6657,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ncroGAsPUto1SQmfmPDBHrP8e-CTdV6M/view?usp=sharing"
     },
     {
       "id": 317,
@@ -6362,7 +6678,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/17b31-sUsz3UVLB6avgi2dStbdCBK-o1E/view?usp=sharing"
     },
     {
       "id": 318,
@@ -6382,7 +6699,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1X11FPtxkc1Pr5yUpIXOQOlgEvLGUtE00/view?usp=sharing"
     },
     {
       "id": 319,
@@ -6403,7 +6721,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1q0eAlEg3SXwyFflTq7ZZ7Ew86EdfrzRg/view?usp=sharing"
     },
     {
       "id": 320,
@@ -6423,7 +6742,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YHso7xP1_UWcwSP1I5ke-_r7RtOvvArj/view?usp=sharing"
     },
     {
       "id": 321,
@@ -6443,7 +6763,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DvtXZy0XJR68a7Xsz1ZgbQSlHtCPQoVF/view?usp=sharing"
     },
     {
       "id": 322,
@@ -6463,7 +6784,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DlZhYhJFFTDAbi7HN_O6RGHjiMsOhtKy/view?usp=sharing"
     },
     {
       "id": 323,
@@ -6483,7 +6805,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1KtXLBMVLzGGA21xS9wjW0ii75bSQNsOG/view?usp=sharing"
     },
     {
       "id": 324,
@@ -6503,7 +6826,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Eh8yAhyu39_yoZ6l30gGgJWx1pfGhNsE/view?usp=sharing"
     },
     {
       "id": 325,
@@ -6523,7 +6847,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15YHRjMPSJHcWHQ9g8a3POJPsHa1f2Dhx/view?usp=sharing"
     },
     {
       "id": 326,
@@ -6543,7 +6868,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12524.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WgxbMdvUK7eOx-xmlwzD7k13vArYgwkT/view?usp=sharing"
     },
     {
       "id": 327,
@@ -6563,7 +6889,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12504.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1J7nnGFQfki-9vWFkhijsXyq6mB3KCc0b/view?usp=sharing"
     },
     {
       "id": 328,
@@ -6583,7 +6910,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/handout_qa.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1y_3b2hUxbCkvh-DZWnjRKd-UoQiKpzL9/view?usp=sharing"
     },
     {
       "id": 329,
@@ -6603,7 +6931,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t171211.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1vsYW-e2xgGPbaqWZQ3xPb_YPd3bKXh3U/view?usp=sharing"
     },
     {
       "id": 330,
@@ -6623,7 +6952,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t161019.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1lvc0FYxH6iyww3RCccjzOW8J6aVNww-T/view?usp=sharing"
     },
     {
       "id": 331,
@@ -6643,7 +6973,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zlKfh-r-agRa2f-nAlUNAGywYM42CvbK/view?usp=sharing"
     },
     {
       "id": 332,
@@ -6663,7 +6994,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/20260608_recycle_contr_list_v1.9.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/13X-Zvil-H9HyAUNtGj60BbYzYRunaqD5/view?usp=sharing"
     },
     {
       "id": 333,
@@ -6683,7 +7015,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/260423_JPEA「太陽電池廃棄物の再資源化等の推進に関する法律案」について.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1kSrpltEgjLUGJFa9afiO_Hx8BEStTKe_/view?usp=sharing"
     },
     {
       "id": 334,
@@ -6703,7 +7036,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZVze7sgafotp8Agsl6JMn1itbRww0DX1/view?usp=sharing"
     },
     {
       "id": 335,
@@ -6723,7 +7057,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/content/000302386.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/136SBiVYn-XTL3pP60JZwzbzOSR7pKdMg/view?usp=sharing"
     },
     {
       "id": 336,
@@ -6743,7 +7078,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": true,
       "direct_url": "https://www.env.go.jp/content/000302385.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1E-RqL-2QMxafj4bRUEWHprquKi2hzG2Z/view?usp=sharing"
     },
     {
       "id": 337,
@@ -6763,7 +7099,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ls1a4WGy90SumG8-GRyPoE8lroaHg5ER/view?usp=sharing"
     },
     {
       "id": 338,
@@ -6783,7 +7120,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Tm7qL8p_JyTEGMSYK8DQIRJrdlPMYbHN/view?usp=sharing"
     },
     {
       "id": 339,
@@ -6803,7 +7141,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1fLqBPh3B5QdMU1CON2mLOLqwPwK2ONF4/view?usp=sharing"
     },
     {
       "id": 340,
@@ -6823,7 +7162,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/167wNmy9OngSXYP5oN8Sa_D5epKH_rWas/view?usp=sharing"
     },
     {
       "id": 341,
@@ -6843,7 +7183,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000371843.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ButO5G-j-ES8_CK1SFJbgUFcbSTWbHUc/view?usp=sharing"
     },
     {
       "id": 342,
@@ -6863,7 +7204,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433716.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15vZW9kRS1oQM-hfycSuWTaiBP3Er6y3j/view?usp=sharing"
     },
     {
       "id": 343,
@@ -6883,7 +7225,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433712.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1IzN-3uKz5begJ71LGYYzM_lnIkQHzINh/view?usp=sharing"
     },
     {
       "id": 344,
@@ -6903,7 +7246,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433713.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1gu2YZnE7i9EzJkIb1qGPEZhsCIA07pzU/view?usp=sharing"
     },
     {
       "id": 345,
@@ -6923,7 +7267,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000433714.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OxFORmOyWIxq7SXGASMyHdsaT19SJsWm/view?usp=sharing"
     },
     {
       "id": 346,
@@ -6943,7 +7288,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000252102.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1guzBueFEjWcuqJvOJCCw9Zg8fPMiqLb9/view?usp=sharing"
     },
     {
       "id": 347,
@@ -6963,7 +7309,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000258349.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1S46rIwXNbkH5ZJrVOH3_E4DZE5eVboIY/view?usp=sharing"
     },
     {
       "id": 348,
@@ -6983,7 +7330,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261507.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-Gt6LZnAcI8vhMQBk7ANk0-K6IS6aiD5/view?usp=sharing"
     },
     {
       "id": 349,
@@ -7003,7 +7351,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261516.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/18keJ4iF4iuLlg6wiSOqNPnx96sPSUj1O/view?usp=sharing"
     },
     {
       "id": 350,
@@ -7023,7 +7372,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261509.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bEEnUVCEfIC0SRPohOqOXbB9ytT-5Ilm/view?usp=sharing"
     },
     {
       "id": 351,
@@ -7043,7 +7393,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261510.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/14WCZAIvV9a8HpOU0MF_gqnli9rqW0LqL/view?usp=sharing"
     },
     {
       "id": 352,
@@ -7063,7 +7414,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261701.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1y-ECdwDCixWWySE-Op1kDnCmaVl9ZOTv/view?usp=sharing"
     },
     {
       "id": 353,
@@ -7083,7 +7435,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261702.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1MLcv-2Aj4qpWUlhMhpsjqmdfi1YrdNCP/view?usp=sharing"
     },
     {
       "id": 354,
@@ -7103,7 +7456,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000261703.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ijMfms8VZsDFRhTNwFJcyC1L3BXJY75J/view?usp=sharing"
     },
     {
       "id": 355,
@@ -7123,7 +7477,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000266953.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1KzRyUIen4lvUP1kw6Qqb3X3AMvZaF3y8/view?usp=sharing"
     },
     {
       "id": 356,
@@ -7143,7 +7498,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000269504.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/15X7PYnwoq4wVhoDHVlqU3O4fg6hOm19M/view?usp=sharing"
     },
     {
       "id": 357,
@@ -7163,7 +7519,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000272494.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1a_VzO8gWj_ZXuqF5wrnYh9of1E4dgBG6/view?usp=sharing"
     },
     {
       "id": 358,
@@ -7183,7 +7540,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000272490.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1evpGaYIvx_xnpJpGOh6W-xxUuRxN5OcZ/view?usp=sharing"
     },
     {
       "id": 359,
@@ -7203,7 +7561,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000300371.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1MwdB8Or1Nv08e43FR0EfFKDgjaOV5GKF/view?usp=sharing"
     },
     {
       "id": 360,
@@ -7223,7 +7582,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000300368.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1pKyjlFgP8PoLJrWe_ykPEvYX6aBCXNM4/view?usp=sharing"
     },
     {
       "id": 361,
@@ -7243,7 +7603,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.env.go.jp/council/content/03recycle03/000300463.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/policy.html"
+      "related_note": "notes/policy.html",
+      "drive_file_url": "https://drive.google.com/file/d/1taWbvhAJtigx9ULx5Gw55zE9yK4U8a57/view?usp=sharing"
     },
     {
       "id": 362,
@@ -7263,7 +7624,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/004.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/17QgTdB2lmVENICfLmCika3CEFAz89tFg/view?usp=sharing"
     },
     {
       "id": 363,
@@ -7283,7 +7645,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/report_prevention.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1tKiP0HCY_nOZrzDIN-3gX3cItsVOH3IV/view?usp=sharing"
     },
     {
       "id": 364,
@@ -7303,7 +7666,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/121/chousei_121_03.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/16voWHQ2xVKDK5NMirHx_esWBWJhAtTFO/view?usp=sharing"
     },
     {
       "id": 365,
@@ -7323,7 +7687,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xWo3hbVhz0KwYL2PwksoLGBXg8gBeGpZ/view?usp=sharing"
     },
     {
       "id": 366,
@@ -7343,7 +7708,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Lo6phONksFQxN2-6Vsg01cx6xUzbXhjU/view?usp=sharing"
     },
     {
       "id": 367,
@@ -7363,7 +7729,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/18GuYV9X-hxI1VIkTv-ziEBLt41X-mOOB/view?usp=sharing"
     },
     {
       "id": 368,
@@ -7383,7 +7750,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bs-X9tqH5ELk_5mqcVEY8ghmrl6kTVKY/view?usp=sharing"
     },
     {
       "id": 369,
@@ -7403,7 +7771,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ICE85_ZTQAvrCdTm4icyojeolcscdd-w/view?usp=sharing"
     },
     {
       "id": 370,
@@ -7424,7 +7793,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xIPN9HjB4MJg1PUwLTzsfMTeWtvqpa6s/view?usp=sharing"
     },
     {
       "id": 371,
@@ -7444,7 +7814,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DzGki1oDiSmA8lrGKyh7Uafb_4Phpl_p/view?usp=sharing"
     },
     {
       "id": 372,
@@ -7464,7 +7835,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1i16Efi5E8Qd48RkUih8N-PktbdPdnCo2/view?usp=sharing"
     },
     {
       "id": 373,
@@ -7484,7 +7856,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12523.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FtsOsLrOhd8z-OF55xSwy2myeN0vSi2k/view?usp=sharing"
     },
     {
       "id": 374,
@@ -7504,7 +7877,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JkE9DRTOco6FKqjzx7JuUI8XyOg1v-f_/view?usp=sharing"
     },
     {
       "id": 375,
@@ -7524,7 +7898,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/all.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/16ixgZ3xLUlfMhBgjo3qW_IvmfMGUO4nV/view?usp=sharing"
     },
     {
       "id": 376,
@@ -7544,7 +7919,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/001.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/177MPHuuDLsUeaMZW3a3wRpdkNd8Cb64w/view?usp=sharing"
     },
     {
       "id": 377,
@@ -7564,7 +7940,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/003.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_DKjVKJPf1WfcC9OEsPw1-UIHjfNXt21/view?usp=sharing"
     },
     {
       "id": 378,
@@ -7584,7 +7961,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1stgyKEZadd_dLjQXPnFvSRjzlZOaMQ4B/view?usp=sharing"
     },
     {
       "id": 379,
@@ -7604,7 +7982,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1vHof5Umn05KC7k-yaXz8_s_ilthohhfN/view?usp=sharing"
     },
     {
       "id": 380,
@@ -7624,7 +8003,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1n3J57IfEB6-hJ709dBVvftSsQlm2dsHm/view?usp=sharing"
     },
     {
       "id": 381,
@@ -7644,7 +8024,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Oy6pgauRT40t1HbmgKVCmnaEnnlG-nBd/view?usp=sharing"
     },
     {
       "id": 382,
@@ -7664,7 +8045,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1TnZn9FrEpe4ySdj2OV_jTyaFWj7NziDz/view?usp=sharing"
     },
     {
       "id": 383,
@@ -7684,7 +8066,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_94mQOB5hUqQ9ZT45J1utdTBgsVmLujM/view?usp=sharing"
     },
     {
       "id": 384,
@@ -7704,7 +8087,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Q0iMHcHRBRfN1NKzGplTd61RJQjvBEcA/view?usp=sharing"
     },
     {
       "id": 385,
@@ -7724,7 +8108,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/12GguZJvu8hYOKwPJRCs7MEkoqE6AIJSC/view?usp=sharing"
     },
     {
       "id": 386,
@@ -7744,7 +8129,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ge3aBdviYG8fZCIaGBRcYAPVc9OfKzb0/view?usp=sharing"
     },
     {
       "id": 387,
@@ -7764,7 +8150,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1iu13g6sGEvMg9u-Xh1HqWUBJg8CWLiku/view?usp=sharing"
     },
     {
       "id": 388,
@@ -7784,7 +8171,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1nMhSwe3KmlIF8mZqQAr6rhRAf9XqIuVM/view?usp=sharing"
     },
     {
       "id": 389,
@@ -7804,7 +8192,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/14KHagXyn1U0tY79AcUJUKEFmmTVWzrkO/view?usp=sharing"
     },
     {
       "id": 390,
@@ -7824,7 +8213,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1vzi7jXc7Pl3uo-h8PIIa7SlKIgcpeoUm/view?usp=sharing"
     },
     {
       "id": 391,
@@ -7844,7 +8234,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/160ZuuN2TuIL4NJ1e3DIpbIZnxhTEyAXH/view?usp=sharing"
     },
     {
       "id": 392,
@@ -7864,7 +8255,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1aJnPcL0zZia4aIshTBQDo90wG_hkF749/view?usp=sharing"
     },
     {
       "id": 393,
@@ -7884,7 +8276,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1P4sAlaC51RReR1OxcJJkVSIjvNzBEIrg/view?usp=sharing"
     },
     {
       "id": 394,
@@ -7904,7 +8297,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/11K7ZrTBzNpHeqh8aqDE1MXHnOGGb8Giw/view?usp=sharing"
     },
     {
       "id": 395,
@@ -7924,7 +8318,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1AWhai3NAW8NC8H8o6j1iIIs84bIYaxx-/view?usp=sharing"
     },
     {
       "id": 396,
@@ -7944,7 +8339,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1oZzQQTYwWaFuun8vFY2crGvDz4tX8ctc/view?usp=sharing"
     },
     {
       "id": 397,
@@ -7964,7 +8360,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GUNfyVibtEWtDpYnYNstu6L6HBpN-3WQ/view?usp=sharing"
     },
     {
       "id": 398,
@@ -7984,7 +8381,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12503.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zhYRh5eOfH9UMfHtZKC96oDATeoWmVVi/view?usp=sharing"
     },
     {
       "id": 399,
@@ -8004,7 +8402,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/rikiritsu_qa.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wR1Hd4z8NdTPNwF92TQFkTUPgqjcMcZX/view?usp=sharing"
     },
     {
       "id": 400,
@@ -8024,7 +8423,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/002.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CXDEH-l-czUvpGpmEXmOP54-5CjVVn13/view?usp=sharing"
     },
     {
       "id": 401,
@@ -8044,7 +8444,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/2026Q1_pv_shipment_in_japan.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1kCYgmEEioCU2uP6_tGxUG2jWVYtNKiDx/view?usp=sharing"
     },
     {
       "id": 402,
@@ -8064,7 +8465,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/2026Q1_pv_shipment_japanese_companies.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YfOA7zCBPM6M9rHmCkJZrmK9q0y8A7XC/view?usp=sharing"
     },
     {
       "id": 403,
@@ -8084,7 +8486,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/guideline_sticker.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1f8KhH487BR3E6h1hffq_FoAImilFIyuj/view?usp=sharing"
     },
     {
       "id": 404,
@@ -8104,7 +8507,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dnnB7eJ-kT1pdw6cTdvEzvxdRoPZfghO/view?usp=sharing"
     },
     {
       "id": 405,
@@ -8124,7 +8528,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/97/seibi_97_02_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1L74aOxiWpl8ElB4eY1oFK3bSdYP0eFTr/view?usp=sharing"
     },
     {
       "id": 406,
@@ -8144,7 +8549,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cySPVb6k_iXO_nURaTZvg671Lv99NE8f/view?usp=sharing"
     },
     {
       "id": 407,
@@ -8164,7 +8570,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12516.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/16eILqfZRQk8-7D9-3VnK-LNoNBKLFtVM/view?usp=sharing"
     },
     {
       "id": 408,
@@ -8184,7 +8591,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t140925.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1a2gbs8Rca7UiZ5oJpEN9BSk0cU9y9vq-/view?usp=sharing"
     },
     {
       "id": 409,
@@ -8204,7 +8612,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/revention_reflection.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1P0FzG8PzbbVbr54mUpOMZIPVQJlWwC9k/view?usp=sharing"
     },
     {
       "id": 410,
@@ -8224,7 +8633,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/150529_JPEA_checklist.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1x01-VdNeyP7UEeTP9Ch_nzBauWw9UYGo/view?usp=sharing"
     },
     {
       "id": 411,
@@ -8244,7 +8654,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1j6Phohj5xr21R-aYAG3ggnz-b8mII-e5/view?usp=sharing"
     },
     {
       "id": 412,
@@ -8264,7 +8675,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1H2JpVm1uJNKGN6xcihpSYN8TzqEpjzor/view?usp=sharing"
     },
     {
       "id": 413,
@@ -8284,7 +8696,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1pUDbimilf4Js_fF0S4AnHB8DQxwopQGV/view?usp=sharing"
     },
     {
       "id": 414,
@@ -8304,7 +8717,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t160428.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/19WJGF5CIGTb3gkTb7IBq7KUvxOmHQJ_j/view?usp=sharing"
     },
     {
       "id": 415,
@@ -8324,7 +8738,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/themes/jpea/pdf/t151009.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1JUckh9FnSQTEANSzrzKezaL0Kkn1FBsy/view?usp=sharing"
     },
     {
       "id": 416,
@@ -8344,7 +8759,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_checksheet.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1irqPCMZQ_86mIyN3PwA7Or1vrg76WnMT/view?usp=sharing"
     },
     {
       "id": 417,
@@ -8364,7 +8780,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_kaitei.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1lWNS9FSQWeCFKXey2TABQ-IVWFYtAgkz/view?usp=sharing"
     },
     {
       "id": 418,
@@ -8384,7 +8801,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_gaiyou.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1X-IVBVuk8-d6-nJuE1xMEKf6XTHraK7I/view?usp=sharing"
     },
     {
       "id": 419,
@@ -8404,7 +8822,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Lx9AET98OWFoJZsPqGQPGF4kCa0lSSCG/view?usp=sharing"
     },
     {
       "id": 420,
@@ -8424,7 +8843,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/jpea_hyouji_guideline_kaisetsu2026.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bbi6XrmS3ux1hFwSrvivXB7akJLWnuCf/view?usp=sharing"
     },
     {
       "id": 421,
@@ -8444,7 +8864,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1gf6_9l1Usmm2r7FtorK27DgqXma_htu-/view?usp=sharing"
     },
     {
       "id": 422,
@@ -8464,7 +8885,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/98/seibi_98_02_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/electrical.html"
+      "related_note": "notes/electrical.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-eDrVuGJY2XhzpyQA0zwPEcSCWK3SceI/view?usp=sharing"
     },
     {
       "id": 423,
@@ -8484,7 +8906,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13325.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1gS39-Xd0nkJHsF36Z9QMv0dQ9VAADe6r/view?usp=sharing"
     },
     {
       "id": 424,
@@ -8504,7 +8927,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13323.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1AeiOgsX2x0OmkFxiHHGkyA-hUbbbCtqL/view?usp=sharing"
     },
     {
       "id": 425,
@@ -8524,7 +8948,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13327.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1u20yOe60SvCBIyeKHjHnxEtthPyOGiCh/view?usp=sharing"
     },
     {
       "id": 426,
@@ -8544,7 +8969,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13326.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1K3IlhxUcSDVarS1oYDe6RXd0h3zRvdIO/view?usp=sharing"
     },
     {
       "id": 427,
@@ -8564,7 +8990,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12521.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1v-0w77bzXjfTIDzu2N_QXczvtdtgOOQb/view?usp=sharing"
     },
     {
       "id": 428,
@@ -8584,7 +9011,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12507.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1q17LxVIb3alNCqCFIzGm8z6dFE1np4bs/view?usp=sharing"
     },
     {
       "id": 429,
@@ -8604,7 +9032,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1LOwdmXurcXsu5wO5Cvu1oLOwaWqy2yjs/view?usp=sharing"
     },
     {
       "id": 430,
@@ -8624,7 +9053,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_kaitei.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/10WhKtjLZsGqN5rBmXDDZjUPJ83_YRJvd/view?usp=sharing"
     },
     {
       "id": 431,
@@ -8644,7 +9074,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.jpea.gr.jp/wp-content/uploads/hyoukaguide_checksheet.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/16z_umbWGZGNv9f8cGY7GUnFDkuYAp2oc/view?usp=sharing"
     },
     {
       "id": 432,
@@ -8664,7 +9095,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/kouikikeitouseibi/2025/files/seibi_94_01_02.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wyPFIZbWJsGNr1M6c7Mfd4bLGIHnpfmD/view?usp=sharing"
     },
     {
       "id": 433,
@@ -8684,7 +9116,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WAq5UZkTTXrz-pgZWyS2tmgvvGQ6cQG3/view?usp=sharing"
     },
     {
       "id": 434,
@@ -8704,7 +9137,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1FYJsPb1ZFekkgODmXHbZxzF0YdxJm-rG/view?usp=sharing"
     },
     {
       "id": 435,
@@ -8724,7 +9158,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1scY-0Kv63g432r9qylnpwswiMxOqFkHV/view?usp=sharing"
     },
     {
       "id": 436,
@@ -8744,7 +9179,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_CW9SyaA03X4sGN9tPy6QaxWqzP9ND1E/view?usp=sharing"
     },
     {
       "id": 437,
@@ -8764,7 +9200,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12612.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DYi1Icf4ASo7asVsyDHNg22lSJ2x982T/view?usp=sharing"
     },
     {
       "id": 438,
@@ -8784,7 +9221,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12502.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1I9EYG2doVSl23TQJ9WiSKNfb2z2yCyBH/view?usp=sharing"
     },
     {
       "id": 439,
@@ -8804,7 +9242,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12518.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rE7Sx0gqf6pNd7OJa9GQ7w3EdlQ7Yckf/view?usp=sharing"
     },
     {
       "id": 440,
@@ -8824,7 +9263,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12608.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1EGWRJW-KgpKQ8-VJxb4PhG0gO7H7tUkd/view?usp=sharing"
     },
     {
       "id": 441,
@@ -8844,7 +9284,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12607.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cHVp79F3EyV8Nd3Mvjo-UUcPj3ylMKim/view?usp=sharing"
     },
     {
       "id": 442,
@@ -8866,7 +9307,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ryNCb_gLsDYD8eJgOSD7VbECkQmIQYpm/view?usp=sharing"
     },
     {
       "id": 443,
@@ -8886,7 +9328,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1UZe6MG39BUNnqeiD8sSaXm-Wi9JMw43N/view?usp=sharing"
     },
     {
       "id": 444,
@@ -8906,7 +9349,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Jl836jbY7oOB69CuX-wh3bjWhtcsQXpD/view?usp=sharing"
     },
     {
       "id": 445,
@@ -8926,7 +9370,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-Qdfw0RGZ15noc9YlHfZx9srxuYZj4WH/view?usp=sharing"
     },
     {
       "id": 446,
@@ -8946,7 +9391,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1qFGQNFIZsGANZusGvpU6T3Fy8GtZjLyJ/view?usp=sharing"
     },
     {
       "id": 447,
@@ -8966,7 +9412,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1lxNUP9b3mIiYX20JLZ6LiMsm7-hmPhjf/view?usp=sharing"
     },
     {
       "id": 448,
@@ -8986,7 +9433,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1kA7ft6yNJHOfWQTkcZRrnvnkFGmR9cZP/view?usp=sharing"
     },
     {
       "id": 449,
@@ -9006,7 +9454,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/19_h4RpMPv4o00suL7MNdEiXi17TSX4yJ/view?usp=sharing"
     },
     {
       "id": 450,
@@ -9027,7 +9476,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ObovacTovwxHpcxADyJYlqGgmh_1EEz6/view?usp=sharing"
     },
     {
       "id": 451,
@@ -9047,7 +9497,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/17FzfTdwAY-xcFltBtNHkM1s9_GH-9Rp5/view?usp=sharing"
     },
     {
       "id": 452,
@@ -9067,7 +9518,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1D_275TyGaLxUJ-JrHoq7-FMIcRdBeXbw/view?usp=sharing"
     },
     {
       "id": 453,
@@ -9087,7 +9539,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1x_6KlVPxgGIzyztoZ3qeE6LBayvJ9lZa/view?usp=sharing"
     },
     {
       "id": 454,
@@ -9107,7 +9560,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GonRffQFRYAhCh5g-36aUQFpachFtufG/view?usp=sharing"
     },
     {
       "id": 455,
@@ -9127,7 +9581,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1IjY0ITkvnfyfHxLnHnDYxJ771zt1QxWI/view?usp=sharing"
     },
     {
       "id": 456,
@@ -9147,7 +9602,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1vZhsktSk_JDpDluK0DtQJebUvh-LSoaM/view?usp=sharing"
     },
     {
       "id": 457,
@@ -9167,7 +9623,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ze-23uVbWIIPFaRRwLKKo9wZpfzUxNFa/view?usp=sharing"
     },
     {
       "id": 458,
@@ -9187,7 +9644,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1rTID6_4SWmVb0ICK2uyy7khwxkCZDPo3/view?usp=sharing"
     },
     {
       "id": 459,
@@ -9207,7 +9665,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ckE1x_SUX0BVDUTuAjyEl5h-l6QsYO-T/view?usp=sharing"
     },
     {
       "id": 460,
@@ -9227,7 +9686,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/18WBk0GurQrMEWfBFf1_LDmBJ8Ozz1Hq2/view?usp=sharing"
     },
     {
       "id": 461,
@@ -9247,7 +9707,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12501.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1MpAAhsF_hwv7oYj8b7p7IRmazXnAth_Q/view?usp=sharing"
     },
     {
       "id": 462,
@@ -9268,7 +9729,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13095.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1SgxQv-BOpYzuV9q3sJuw2idPMB4MwQzU/view?usp=sharing"
     },
     {
       "id": 463,
@@ -9289,7 +9751,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/12513.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/18K1wfdPaY1JEFWGSsXnpnBiUGOHC-5u1/view?usp=sharing"
     },
     {
       "id": 464,
@@ -9309,7 +9772,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13031.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1VGEvIymBtZ_FChpRwqUNalZUsAwsYsHy/view?usp=sharing"
     },
     {
       "id": 465,
@@ -9329,7 +9793,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://eneken.ieej.or.jp/data/13030.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/19WnMvBqUaDVqgqMK8zLcsG0DpLddkq97/view?usp=sharing"
     },
     {
       "id": 466,
@@ -9349,7 +9814,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/2026_nenjihoukokusho/20260514_chouseiryokukakuho_fy2026.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/13gikbVwQmPleVeR41ChzZ1O1vHUtagRP/view?usp=sharing"
     },
     {
       "id": 467,
@@ -9369,7 +9835,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/houkokusho/2026/260624_2027chouseiryokukoubo/20260624_chouseiryokukoubo_fy2027.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1QKaxZSc1nPoxcYVIYDJG5EspAsH9WPeZ/view?usp=sharing"
     },
     {
       "id": 468,
@@ -9389,7 +9856,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/120/chousei_120_02.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/146DOm4O7Fh0gJ9W9kFw44GJKCwB0tWd0/view?usp=sharing"
     },
     {
       "id": 469,
@@ -9409,7 +9877,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1UFz4ds9JtQx1ILSAAX_46D5u3tvWZDW_/view?usp=sharing"
     },
     {
       "id": 470,
@@ -9429,7 +9898,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CcbU6gm0x4AwONWc1s6PPt4UgpDH9uAP/view?usp=sharing"
     },
     {
       "id": 471,
@@ -9449,7 +9919,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zwZYRoG8L8VNKD5VH69tLN_-An2c1Xc_/view?usp=sharing"
     },
     {
       "id": 472,
@@ -9469,7 +9940,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1B9L32QCic90pLTpLW4bn4vEwuCrhZUEE/view?usp=sharing"
     },
     {
       "id": 473,
@@ -9489,7 +9961,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1psXH4kKz_PPpDMA43quC3mO8A4rmAx_p/view?usp=sharing"
     },
     {
       "id": 474,
@@ -9509,7 +9982,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/12h-2G4kBEHXrC7vueP78GlHzuuNv0Xah/view?usp=sharing"
     },
     {
       "id": 475,
@@ -9529,7 +10003,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/12qH1WA9gaKcik3L9um_7u-4xoOU9FgGc/view?usp=sharing"
     },
     {
       "id": 476,
@@ -9549,7 +10024,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1G-5MSpW1UWXr2QkgCOtIXCs9Xq1iQtgZ/view?usp=sharing"
     },
     {
       "id": 477,
@@ -9569,7 +10045,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ihiNZVTTtZamVNaAwCfHFDHCXXM6_Nmw/view?usp=sharing"
     },
     {
       "id": 478,
@@ -9589,7 +10066,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ANutKezfwmWOpJv6AqTitPKqeis0lLIa/view?usp=sharing"
     },
     {
       "id": 479,
@@ -9609,7 +10087,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xxChq3XNq0W3ywHLEHN_P55LGorgxWJ-/view?usp=sharing"
     },
     {
       "id": 480,
@@ -9629,7 +10108,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dSB4_nXppcwGy0FXVapJhUerVeAMkeHJ/view?usp=sharing"
     },
     {
       "id": 481,
@@ -9649,7 +10129,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/15khtyX7du_huP9PF_SAJGxhLdVHCDM6n/view?usp=sharing"
     },
     {
       "id": 482,
@@ -9669,7 +10150,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1j1CdTfXlsLb-6ACIMfMGU-IOxhfKocwJ/view?usp=sharing"
     },
     {
       "id": 483,
@@ -9689,7 +10171,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-kXFZe-Bz-4UUKgcOas54Yjo1ViM7_5U/view?usp=sharing"
     },
     {
       "id": 484,
@@ -9709,7 +10192,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1D9P2vdI8i2jvN5hfaQszE49gT5sisAQx/view?usp=sharing"
     },
     {
       "id": 485,
@@ -9729,7 +10213,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1VlhayqSMOVXe9eLbeLh_K0xUb4hXkhw9/view?usp=sharing"
     },
     {
       "id": 486,
@@ -9749,7 +10234,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NDCKiyfa4IaWqb7L7YO0Di8UgSlrg2aJ/view?usp=sharing"
     },
     {
       "id": 487,
@@ -9769,7 +10255,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DI_mtUVk9pjGOLOkdLYg7HoINgkf8WR9/view?usp=sharing"
     },
     {
       "id": 488,
@@ -9789,7 +10276,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BMehZzsKdI7I3gjVuO_Z_Kkxg063yniV/view?usp=sharing"
     },
     {
       "id": 489,
@@ -9809,7 +10297,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/various/capacity-market/houkatsutekikensyo/report/youryou_2025_houkatsutekikensyo_report.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Up9mHe-Q3KC4HcsAtJ8eePfrDI_OcXX6/view?usp=sharing"
     },
     {
       "id": 490,
@@ -9829,7 +10318,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1UhmYyC5q2kPkr_mIxJsNrGHJFp1VceQG/view?usp=sharing"
     },
     {
       "id": 491,
@@ -9849,7 +10339,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BLxIp0ff1UH5wU2nNcWOVeadpuXkP-SP/view?usp=sharing"
     },
     {
       "id": 492,
@@ -9869,7 +10360,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ixF7xal3vTzjxdlmfAIu4jkliJvj2sFY/view?usp=sharing"
     },
     {
       "id": 493,
@@ -9889,7 +10381,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Kuk160hsaI7vBUsyL0IewXdJMgo9X5th/view?usp=sharing"
     },
     {
       "id": 494,
@@ -9909,7 +10402,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1hj-fumK16SBKFPq0xX-BTSuV4f5zA26S/view?usp=sharing"
     },
     {
       "id": 495,
@@ -9929,7 +10423,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cVcnbTHLIOxUYhOhG00HuHFPAsoiW1G5/view?usp=sharing"
     },
     {
       "id": 496,
@@ -9949,7 +10444,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NsemVf_yWNFL84BQlkijlKBy6E_xqpBs/view?usp=sharing"
     },
     {
       "id": 497,
@@ -9969,7 +10465,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1bOKMW_vR0oxsSLZFE1XdL2HcjCXB3S_n/view?usp=sharing"
     },
     {
       "id": 498,
@@ -9989,7 +10486,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ZZ4yxG4l-p54n883erMZgGhXiQsgJ7AP/view?usp=sharing"
     },
     {
       "id": 499,
@@ -10009,7 +10507,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WH0VsjqMvEN35EkGGgW4sO0AjGRNVGDc/view?usp=sharing"
     },
     {
       "id": 500,
@@ -10029,7 +10528,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BI0H3By80nW1yTS19_rY0-JZLM6HaIgu/view?usp=sharing"
     },
     {
       "id": 501,
@@ -10049,7 +10549,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1gs9E8aeTcCCKPfDPu11nMoyurefUgM8s/view?usp=sharing"
     },
     {
       "id": 502,
@@ -10069,7 +10570,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CKbaBUGjtQOEb-Ny2U91f1dCj7GVqx-a/view?usp=sharing"
     },
     {
       "id": 503,
@@ -10089,7 +10591,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WkigkBNYQF544oB4jWZF9Ab2FRDvjThT/view?usp=sharing"
     },
     {
       "id": 504,
@@ -10109,7 +10612,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Pqgx4dbIvWZ0qRoP0-xhuwgvQjhQKkBp/view?usp=sharing"
     },
     {
       "id": 505,
@@ -10129,7 +10633,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1sHDtEiTRkX3c6i4fOGwmZ3t_dR29zLvg/view?usp=sharing"
     },
     {
       "id": 506,
@@ -10149,7 +10654,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DKMWesVOBn69dW-LmNhx3jZvPx48Ehen/view?usp=sharing"
     },
     {
       "id": 507,
@@ -10169,7 +10675,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1V4ObdlY4zToseV2-sy6UN3Kl-SY2csy3/view?usp=sharing"
     },
     {
       "id": 508,
@@ -10189,7 +10696,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1je1U-UJanVIO878fNIL3kYMhXcApso-k/view?usp=sharing"
     },
     {
       "id": 509,
@@ -10209,7 +10717,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Y5WR2etBQs1k46QG-SH9WDrCMNGuo6GL/view?usp=sharing"
     },
     {
       "id": 510,
@@ -10229,7 +10738,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/11KI-fvgwNxAD7U5SQev8TuX8byQNh6UD/view?usp=sharing"
     },
     {
       "id": 511,
@@ -10249,7 +10759,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xbgQMySi9hsRV_xqClS1CfPvqA8qw-Dd/view?usp=sharing"
     },
     {
       "id": 512,
@@ -10269,7 +10780,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1wy2z2ELi2okaPodgoaMzLdxx9OMIig85/view?usp=sharing"
     },
     {
       "id": 513,
@@ -10289,7 +10801,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NJ4pG-XJeagdJPCQl5eTBh0VJlDdi0sm/view?usp=sharing"
     },
     {
       "id": 514,
@@ -10309,7 +10822,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NWm23NzrVxhXUWq7gB43uFheorTqfJyh/view?usp=sharing"
     },
     {
       "id": 515,
@@ -10329,7 +10843,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cGX9JTQditzO9go_7DzzDBDVDpp-Kqih/view?usp=sharing"
     },
     {
       "id": 516,
@@ -10349,7 +10864,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1kVRm1PkbN9WcW-xiZy_Eatm22tOf1PuJ/view?usp=sharing"
     },
     {
       "id": 517,
@@ -10369,7 +10885,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/18wIPmPTa887mgjwlm_NqNodo8FXZZEQL/view?usp=sharing"
     },
     {
       "id": 518,
@@ -10389,7 +10906,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/13jP3eTlsq9G6JmP8NDmcPjAtpWyBplQH/view?usp=sharing"
     },
     {
       "id": 519,
@@ -10409,7 +10927,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1naTdcKdKzuN2hEgHaA50U0Q7qR6D8yWu/view?usp=sharing"
     },
     {
       "id": 520,
@@ -10429,7 +10948,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_4GssS0TDughLHlr_t6JlC1CjX8mc_-Z/view?usp=sharing"
     },
     {
       "id": 521,
@@ -10449,7 +10969,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zofV1oNWIG3V313njH9TpCol5vxLTaKO/view?usp=sharing"
     },
     {
       "id": 522,
@@ -10469,7 +10990,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/122/chousei_122_01.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1coxpUQaEKaA68fZ_wzPpFMueRKN8pPjs/view?usp=sharing"
     },
     {
       "id": 523,
@@ -10489,7 +11011,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CeBCmb4_20DwJbIZqXPdJB1Bkr3ivyuD/view?usp=sharing"
     },
     {
       "id": 524,
@@ -10509,7 +11032,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YqhG__-DaLrIGw5DG1JPnf8Z7rftIEQ7/view?usp=sharing"
     },
     {
       "id": 525,
@@ -10529,7 +11053,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1eZobDESBwV1nCe7hA_5w-wNiS5AM260i/view?usp=sharing"
     },
     {
       "id": 526,
@@ -10549,7 +11074,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1U-4Tg1ooRlGAWhatBhKcyA2_L8F7yPXB/view?usp=sharing"
     },
     {
       "id": 527,
@@ -10569,7 +11095,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YRzG3u11tz1xqP-NtdLQ6h7YbA21lGuy/view?usp=sharing"
     },
     {
       "id": 528,
@@ -10589,7 +11116,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NUwMXzQpQKIjGD2u8BnPdnjwt_z6Vk8e/view?usp=sharing"
     },
     {
       "id": 529,
@@ -10609,7 +11137,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1fXHd-Qx6xIg_nhXMvj2DKNmBx-qnE8st/view?usp=sharing"
     },
     {
       "id": 530,
@@ -10629,7 +11158,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/14raz8ZQpQfHGIDFmgZkU6Yg8jD8bb6ig/view?usp=sharing"
     },
     {
       "id": 531,
@@ -10649,7 +11179,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1LgpEFLcbRvShal1zlTxPH9OrJak9H9pK/view?usp=sharing"
     },
     {
       "id": 532,
@@ -10669,7 +11200,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1HeE0BbzCY8t3phl39Yk0h0ukHJhl-hjY/view?usp=sharing"
     },
     {
       "id": 533,
@@ -10689,7 +11221,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1IyU8cRc2onXJptb6XYYFbybK8FitXWFT/view?usp=sharing"
     },
     {
       "id": 534,
@@ -10709,7 +11242,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1yk1sufHLAnaitSNtakgHFUWt8OUX7oYv/view?usp=sharing"
     },
     {
       "id": 535,
@@ -10729,7 +11263,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1y51YBIXsn8IvSa8FMn3WaWYWUBO5-jcE/view?usp=sharing"
     },
     {
       "id": 536,
@@ -10749,7 +11284,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1brOj51-ousgBime3iUwoXnJO32uOw00A/view?usp=sharing"
     },
     {
       "id": 537,
@@ -10769,7 +11305,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/122/chousei_122_02.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/10RNsETdAQDAWz09JdrRMqaEnE7WnQwhv/view?usp=sharing"
     },
     {
       "id": 538,
@@ -10789,7 +11326,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "https://www.occto.or.jp/assets/iinkai/chousei_jukyu/117/chousei_117_04.pdf",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ls7124F1LYOOj1X4DE3NvLth3zeSP0F4/view?usp=sharing"
     },
     {
       "id": 539,
@@ -10809,7 +11347,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1pWMh9QwOBk6pEUrTko5vfwNZ6dzbFrJT/view?usp=sharing"
     },
     {
       "id": 540,
@@ -10829,7 +11368,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GsUvfdCcnRA8gOTj7zMc_yDGuQQzqRqJ/view?usp=sharing"
     },
     {
       "id": 541,
@@ -10849,7 +11389,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/ppa-market.html"
+      "related_note": "notes/ppa-market.html",
+      "drive_file_url": "https://drive.google.com/file/d/18-sbakmyn2QYfmWMSL0zDE6AUf_pVOjq/view?usp=sharing"
     },
     {
       "id": 542,
@@ -10869,7 +11410,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1mjEiLbyEVNUUb9xxLERFUXjqNuaxmIPV/view?usp=sharing"
     },
     {
       "id": 543,
@@ -10889,7 +11431,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1RxLWlcJvPKTqxyXHI3kl0wjbaTYpbUQ7/view?usp=sharing"
     },
     {
       "id": 544,
@@ -10909,7 +11452,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1DeAPNgztt3OxAt5YapXxtRY5goFR-WB3/view?usp=sharing"
     },
     {
       "id": 545,
@@ -10929,7 +11473,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xXE7HyRkNMxeR2TlLa1KaWccqC5bXwHz/view?usp=sharing"
     },
     {
       "id": 546,
@@ -10949,7 +11494,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1R_Rk3XaCF45R7y-kxbUa846tqZG1Ocj1/view?usp=sharing"
     },
     {
       "id": 547,
@@ -10969,7 +11515,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Wh_FI_l8ODpKu7eefKvXOoN6WBEwgMal/view?usp=sharing"
     },
     {
       "id": 548,
@@ -10989,7 +11536,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1MNnm5TbTngn-0MJ7gmMex03IS5CgBPGu/view?usp=sharing"
     },
     {
       "id": 549,
@@ -11009,7 +11557,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/17BL9ed3bCJsdzPMepzv8_q3ipRMmthSt/view?usp=sharing"
     },
     {
       "id": 550,
@@ -11029,7 +11578,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1_ReUUBSXG7fSfp5Qp3DBQSp3pG9rmyj3/view?usp=sharing"
     },
     {
       "id": 551,
@@ -11049,7 +11599,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Dy-RBKIdzFP3kYU0DUmxwyEZxIwCF8JM/view?usp=sharing"
     },
     {
       "id": 552,
@@ -11069,7 +11620,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1C1iNsyH801jRw1EXbkAvck16iN3CSAJK/view?usp=sharing"
     },
     {
       "id": 553,
@@ -11089,7 +11641,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1U1B3yerKSGhuNU1zoNWOebG0PqAD6z8d/view?usp=sharing"
     },
     {
       "id": 554,
@@ -11109,7 +11662,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Hv3g7nf4GlGC6Tj8JAwhq3Ony0kEyF-U/view?usp=sharing"
     },
     {
       "id": 555,
@@ -11129,7 +11683,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Fn1isRWi6y6inUAaVb9yBBcd3mZQ_-nA/view?usp=sharing"
     },
     {
       "id": 556,
@@ -11149,7 +11704,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1zYU2OhuHIbOKPTPuG83W-1xyHN_dGgGw/view?usp=sharing"
     },
     {
       "id": 557,
@@ -11169,7 +11725,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1GZmxDFB55CQ9sowNgqxxMn7XUjUXPP0z/view?usp=sharing"
     },
     {
       "id": 558,
@@ -11189,7 +11746,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1I_MPSK8omjXr3Z9CRXH9Wx_rqw1rRE-Y/view?usp=sharing"
     },
     {
       "id": 559,
@@ -11209,7 +11767,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1xIzCVgXBWuY06bd7A4tXj48HAtkaLYyH/view?usp=sharing"
     },
     {
       "id": 560,
@@ -11229,7 +11788,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cFeA1YhdJypBRJxJqcpF0QEGN-Rz64H6/view?usp=sharing"
     },
     {
       "id": 561,
@@ -11249,7 +11809,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ConqG2L32UbizEwmM3vg5Z9Uatr7csjQ/view?usp=sharing"
     },
     {
       "id": 562,
@@ -11269,7 +11830,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1f4pH58zTg1zGKaN7TDXvcknnJTtCxHuU/view?usp=sharing"
     },
     {
       "id": 563,
@@ -11289,7 +11851,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1cC8UI0232UoK7vaYKQLBO8VlpV5c0MdJ/view?usp=sharing"
     },
     {
       "id": 564,
@@ -11309,7 +11872,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1CWytYxWJSjifA69vC_6qiMP5UZcj4c6t/view?usp=sharing"
     },
     {
       "id": 565,
@@ -11329,7 +11893,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dP_1Trgq7qa2CerIhYJy5f9wq-ZIlvLc/view?usp=sharing"
     },
     {
       "id": 566,
@@ -11349,7 +11914,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1phkqSzTemVGsgaTJDdv8O9hS0BHLD6Fy/view?usp=sharing"
     },
     {
       "id": 567,
@@ -11369,7 +11935,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1foaqLxmtoywZrEYrukTUK-LOAvZHaeh_/view?usp=sharing"
     },
     {
       "id": 568,
@@ -11389,7 +11956,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1Wc3bWbYc89kPGYVg4an8MZ9Uyc-GklKK/view?usp=sharing"
     },
     {
       "id": 569,
@@ -11409,7 +11977,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1frdWHqOKFXc-6vxZZma1A9xBx92HPW58/view?usp=sharing"
     },
     {
       "id": 570,
@@ -11429,7 +11998,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1SKjrYxWcFdWXcQr-70YEKmTLE3_YJ_NZ/view?usp=sharing"
     },
     {
       "id": 571,
@@ -11449,7 +12019,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1gFtk-TRUc_PBWrG64o6O8R1Ad_Ct4xjp/view?usp=sharing"
     },
     {
       "id": 572,
@@ -11469,7 +12040,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/15sWtwp-9KA0X4TlL1Sb1QL3TKuHJQE1a/view?usp=sharing"
     },
     {
       "id": 573,
@@ -11489,7 +12061,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1-UiGOdcwPLBFyd-9AQ5-WCBcLffmBZdO/view?usp=sharing"
     },
     {
       "id": 574,
@@ -11509,7 +12082,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1YggBW5bKkiQAjXkVONcaw1h9pVUrST7h/view?usp=sharing"
     },
     {
       "id": 575,
@@ -11529,7 +12103,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ci4D1iPVGSM8sqfFWt1ZrxkdKva2wZZE/view?usp=sharing"
     },
     {
       "id": 576,
@@ -11549,7 +12124,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1g8lPXWn6vtnBJzbAr6GTo446KoyDhl82/view?usp=sharing"
     },
     {
       "id": 577,
@@ -11569,7 +12145,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1mlgZFQzb_9mcspZwaoG2_COVzrf_yz_S/view?usp=sharing"
     },
     {
       "id": 578,
@@ -11589,7 +12166,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NuU5Ide1DrrFQZ6ys6PiXeVBN63m06qa/view?usp=sharing"
     },
     {
       "id": 579,
@@ -11609,7 +12187,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1NH-6chdmkMKPeSROlPoPrxzafnMQo8Bc/view?usp=sharing"
     },
     {
       "id": 580,
@@ -11629,7 +12208,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1mBhQUMlN9hjxi-9aUHHXvAYIktGAAxAZ/view?usp=sharing"
     },
     {
       "id": 581,
@@ -11649,7 +12229,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/denken.html"
+      "related_note": "notes/denken.html",
+      "drive_file_url": "https://drive.google.com/file/d/1W6nAF6nLgD-LYiCDxQUt2oVfYQMM3Sv3/view?usp=sharing"
     },
     {
       "id": 582,
@@ -11670,7 +12251,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dqDx_jIbedNNOtJhFpPSBim1J5DDUlE-/view?usp=sharing"
     },
     {
       "id": 583,
@@ -11690,7 +12272,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/11NpPwb7qaezUmmVavmpXAQUtia_BT-BT/view?usp=sharing"
     },
     {
       "id": 584,
@@ -11710,7 +12293,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1N0mZ0qYP02T9YQkZCJbY0zatPsxetvvy/view?usp=sharing"
     },
     {
       "id": 585,
@@ -11730,7 +12314,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1UrLgR1tknhKET_tgXKM76pEJfTVtQq59/view?usp=sharing"
     },
     {
       "id": 586,
@@ -11750,7 +12335,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ea_w5QEmv9qwfxepLn_RDoNlKtAqsWv1/view?usp=sharing"
     },
     {
       "id": 587,
@@ -11770,7 +12356,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1IEGeRgHbUEdiQMOCNQwyRN1tRudPLswg/view?usp=sharing"
     },
     {
       "id": 588,
@@ -11790,7 +12377,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1ww8zmmQKHpOPALwTfbEur87LdNxfW6hq/view?usp=sharing"
     },
     {
       "id": 589,
@@ -11810,7 +12398,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1A1hhZgFiAmWZ29NQSIRQvWDiQvNZpJ54/view?usp=sharing"
     },
     {
       "id": 590,
@@ -11830,7 +12419,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1WptILboI6KtFsvL_2Kwl43WcCp8dD1dl/view?usp=sharing"
     },
     {
       "id": 591,
@@ -11850,7 +12440,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OtuLzbm5Hn9xlYxYWNnxNRjlpUbEAzcz/view?usp=sharing"
     },
     {
       "id": 592,
@@ -11870,7 +12461,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1BZaBV4eVOKcF5LmS-SZ2sknFgnzXwLgo/view?usp=sharing"
     },
     {
       "id": 593,
@@ -11890,7 +12482,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1OADmLKD0PhMn10IbizPZHZfNWyt3l9lW/view?usp=sharing"
     },
     {
       "id": 594,
@@ -11910,7 +12503,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1kY8qtO9yOXQUSEIw-oGdJHUsru2TiRDy/view?usp=sharing"
     },
     {
       "id": 595,
@@ -11930,7 +12524,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/om.html"
+      "related_note": "notes/om.html",
+      "drive_file_url": "https://drive.google.com/file/d/1lHz6PchdxoBHCaRnNNXIZoyFRB-z8rje/view?usp=sharing"
     },
     {
       "id": 596,
@@ -11950,7 +12545,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/finance.html"
+      "related_note": "notes/finance.html",
+      "drive_file_url": "https://drive.google.com/file/d/1dOlQHzXrirC3MNHSJnSRQuRay_qkV8Kb/view?usp=sharing"
     },
     {
       "id": 597,
@@ -11970,7 +12566,8 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/finance.html"
+      "related_note": "notes/finance.html",
+      "drive_file_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing"
     },
     {
       "id": 598,
@@ -11990,7 +12587,9 @@ window.SOLAR_ARCHIVE_DATA = {
       "is_featured": false,
       "direct_url": "",
       "drive_url": "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing",
-      "related_note": "notes/finance.html"
+      "related_note": "notes/finance.html",
+      "drive_file_url": "https://drive.google.com/file/d/1djgB-hHsd7n4JfrAhFQrzSqdaK8InRVi/view?usp=sharing"
     }
-  ]
+  ],
+  "spreadsheet_note": "全原本PDFの個別直接表示URL完備"
 };

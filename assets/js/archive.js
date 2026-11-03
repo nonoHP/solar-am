@@ -123,17 +123,21 @@
     document.getElementById("modal-tags").innerHTML = tagsHtml;
 
     // ボタン設定
+    // 1. 最優先: Google Driveで原本PDFを直接閲覧（個別File ID直行URL）
+    var btnDrive = document.getElementById("modal-btn-drive");
+    var directFileUrl = item.drive_file_url || item.drive_url || "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing";
+    btnDrive.href = directFileUrl;
+    btnDrive.innerHTML = '<span style="font-size:1.1rem;">🔴</span> <strong>Google Driveで原本PDFを直接開く ↗</strong> <small style="opacity:0.85;font-size:11px;margin-left:4px;">(個別ファイル直接ビューア)</small>';
+
+    // 2. 公的配信元の一次原本URL（ある場合）
     var btnDirect = document.getElementById("modal-btn-direct");
-    if (item.direct_url) {
+    if (item.direct_url && item.direct_url.startsWith("http")) {
       btnDirect.style.display = "flex";
       btnDirect.href = item.direct_url;
-      btnDirect.innerHTML = '📄 公式配信元で原本PDFを開く ↗ <small style="opacity:0.8;font-size:11px;font-weight:normal;">(公的直接リンク)</small>';
+      btnDirect.innerHTML = '🏛️ 公式配信元のPDFを開く ↗ <small style="opacity:0.85;font-size:11px;margin-left:4px;">(省庁・機関直接リンク)</small>';
     } else {
       btnDirect.style.display = "none";
     }
-
-    var btnDrive = document.getElementById("modal-btn-drive");
-    btnDrive.href = item.drive_url || "https://drive.google.com/drive/folders/1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z?usp=sharing";
 
     var btnNote = document.getElementById("modal-btn-note");
     if (item.related_note) {
