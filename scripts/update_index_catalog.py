@@ -12,7 +12,7 @@ from datetime import datetime
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-GDRIVE_BASE = r"G:\マイドライブ\太陽光"
+GDRIVE_BASE = r"G:\マイドライブ\★HP作成\太陽光"
 OUTPUT_MD = r"c:\Users\user\Antigravity\太陽光\00_資料体系インデックス.md"
 
 # 大分類カテゴリの順序と説明
@@ -133,7 +133,7 @@ def main():
     lines.append(f"> **原本アーカイブ総ファイル数: {total_files}件（PDF公的実務原本: {total_pdfs}件 / 電験・音声・スライド等: {other_files}件）**  ")
     lines.append(f"> **最終更新日時: {now_str}**  ")
     lines.append("> **Google Drive原本格納URL**: [https://drive.google.com/open?id=1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z&usp=drive_fs](https://drive.google.com/open?id=1DrJ6fb1ogmJ0mTASIJPvzN9IL0IlwR_Z&usp=drive_fs)\n")
-    lines.append("本インデックスは、Google Drive（`マイドライブ/太陽光/`）に体系的に整理・保管された、経済産業省（エネ庁・保安院）、環境省、農林水産省、林野庁、消防庁、電力広域的運営推進機関（OCCTO）、送配電網協議会（TDGC）、一般送配電事業者10社、新エネルギー・産業技術総合開発機構（NEDO）、太陽光発電協会（JPEA）等の**公的一次原本資料（PDF）**を完全網羅した実務カタログです。\n")
+    lines.append("本インデックスは、Google Drive（`マイドライブ/★HP作成/太陽光/`）に体系的に整理・保管された、経済産業省（エネ庁・保安院）、環境省、農林水産省、林野庁、消防庁、電力広域的運営推進機関（OCCTO）、送配電網協議会（TDGC）、一般送配電事業者10社、新エネルギー・産業技術総合開発機構（NEDO）、太陽光発電協会（JPEA）等の**公的一次原本資料（PDF）**を完全網羅した実務カタログです。\n")
     lines.append("---\n")
     lines.append("## 📁 大分類・体系構成サマリー\n")
     lines.append("| 分類コード | 大分類・カテゴリ名 | PDF原本数 | 主な公的発行機関・収録内容 |")
@@ -171,3 +171,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
