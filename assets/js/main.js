@@ -313,25 +313,52 @@
       var currentHomeFilter = "all";
 
       var renderHomeNews = function () {
-        var filtered = rawNewsItems.filter(function (it) {
-          if (currentHomeFilter === "all") return true;
-          if (currentHomeFilter === "日経BP メガソーラービジネス") {
-            return it.source && (it.source.indexOf("日経BP") !== -1 || it.source.indexOf("メガソーラー") !== -1);
-          }
-          if (currentHomeFilter === "SOLAR JOURNAL") {
-            return it.source && it.source.indexOf("SOLAR JOURNAL") !== -1;
-          }
-          if (currentHomeFilter === "PVeye") {
-            return it.source && it.source.indexOf("PVeye") !== -1;
-          }
-          if (currentHomeFilter === "policy_market") {
-            return it.category === "meti" || it.category === "policy" || it.category === "market";
-          }
-          return true;
-        });
+        var topItems = [];
+        if (currentHomeFilter === "all") {
+          // 「すべての新着」では、特定メディアに偏らず主要媒体各社・公的発表から満遍なく最新記事をピックアップ
+          var seenSources = {};
+          var primaryItems = [];
+          var others = [];
+          rawNewsItems.forEach(function (it) {
+            var src = it.source || "";
+            var key = src;
+            if (src.indexOf("日経BP") !== -1 || src.indexOf("メガソーラー") !== -1) key = "nikkei";
+            else if (src.indexOf("PVeye") !== -1) key = "pveye";
+            else if (src.indexOf("スマートジャパン") !== -1 || src.indexOf("ITmedia") !== -1) key = "smartjapan";
+            else if (src.indexOf("SOLAR JOURNAL") !== -1) key = "solarjournal";
+            else if (src.indexOf("経済産業省") !== -1 || src.indexOf("資源エネルギー庁") !== -1 || it.category === "meti") key = "meti";
+            else if (src.indexOf("環境ビジネス") !== -1) key = "kankyo";
 
-        // トップページは独立して最新5件を表示
-        var topItems = filtered.slice(0, 5);
+            if (!seenSources[key] && ["nikkei", "pveye", "smartjapan", "solarjournal", "meti", "kankyo"].indexOf(key) !== -1) {
+              seenSources[key] = true;
+              primaryItems.push(it);
+            } else {
+              others.push(it);
+            }
+          });
+          // 各主要媒体の最新を優先し、合計6件に満たない場合は新着順に追加
+          topItems = primaryItems.concat(others).slice(0, 6);
+        } else {
+          var filtered = rawNewsItems.filter(function (it) {
+            if (currentHomeFilter === "日経BP メガソーラービジネス") {
+              return it.source && (it.source.indexOf("日経BP") !== -1 || it.source.indexOf("メガソーラー") !== -1);
+            }
+            if (currentHomeFilter === "SOLAR JOURNAL") {
+              return it.source && it.source.indexOf("SOLAR JOURNAL") !== -1;
+            }
+            if (currentHomeFilter === "PVeye") {
+              return it.source && it.source.indexOf("PVeye") !== -1;
+            }
+            if (currentHomeFilter === "スマートジャパン") {
+              return it.source && (it.source.indexOf("スマートジャパン") !== -1 || it.source.indexOf("ITmedia") !== -1);
+            }
+            if (currentHomeFilter === "policy_market") {
+              return it.category === "meti" || it.category === "policy" || it.category === "market" || (it.source && (it.source.indexOf("経産省") !== -1 || it.source.indexOf("OCCTO") !== -1));
+            }
+            return true;
+          });
+          topItems = filtered.slice(0, 6);
+        }
         if (!topItems.length) {
           homeNewsContainer.innerHTML = '<p style="color:var(--text-sub);padding:24px;text-align:center;">該当するニュースがありません。</p>';
           return;

@@ -1862,4 +1862,71 @@ td.num, th.num { text-align: right; font-family: var(--font-mono); font-feature-
   box-shadow: 0 4px 12px rgba(247, 147, 30, 0.4);
 }
 
-
+/* 巡回参照元・モニタリング先バッジ群 */
+.news-sources-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+  margin: 14px 0 18px;
+  padding: 10px 14px;
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+}
+.news-sources-badges .sources-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--gold);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-right: 4px;
+  letter-spacing: 0.04em;
+}
+.news-sources-badges .source-pill {
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-sub);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  white-space: nowrap;
+  transition: all .15s ease;
+}
+.news-sources-badges .source-pill:hover {
+  background: rgba(247, 147, 30, 0.15);
+  border-color: rgba(247, 147, 30, 0.4);
+  color: #fff;
+}
+.home-news-footer-banner {
+  margin-top: 20px;
+  padding: 14px 18px;
+  background: rgba(56, 189, 248, 0.06);
+  border: 1px dashed rgba(56, 189, 248, 0.35);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.home-news-footer-banner p {
+  margin: 0;
+  font-size: 12.5px;
+  color: var(--text-sub);
+}
+.home-news-footer-banner p strong {
+  color: #38bdf8;
+}
+.home-news-footer-banner a {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #38bdf8;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.home-news-footer-banner a:hover {
+  text-decoration: underline;
+}
