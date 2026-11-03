@@ -47,3 +47,4 @@ git status
 git commit -m "Add: New study note <page_id>"
 git push origin main
 ```
+

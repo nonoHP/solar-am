@@ -2,7 +2,7 @@
   "safety-guardrails": {
     "PreToolUse": [
       {
-        "matcher": "run_command",
+        "matcher": "run_command|call_mcp_tool|mcp_.*",
         "hooks": [
           {
             "type": "command",
