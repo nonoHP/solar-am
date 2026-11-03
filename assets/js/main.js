@@ -73,6 +73,8 @@
             '📰 最新ニュース <span class="nav-badge-live">LIVE</span></a>';
     // 官公庁原本アーカイブ（全582件PDFをサイト上で分類閲覧）
     html += '<a href="' + root + 'archive.html"' + (current === "archive" ? ' class="active" aria-current="page"' : "") + ' aria-label="原本資料アーカイブ">📂 原本資料 (582件)</a>';
+    // AI音声解説スタジオ（原本582件を完全学習したポッドキャスト講義16本）
+    html += '<a href="' + root + 'podcast.html"' + (current === "podcast" ? ' class="active" aria-current="page"' : "") + ' aria-label="AI音声解説ポッドキャスト">🎙️ AI音声解説 (16講義)</a>';
 
     NAV_GROUPS.forEach(function (group) {
       if (group.items.length === 1) {
