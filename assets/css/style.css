@@ -2648,3 +2648,142 @@ td.num, th.num { text-align: right; font-family: var(--font-mono); font-feature-
   text-align: center;
   margin-top: 32px;
 }
+
+/* ===== Google NotebookLM 連携ハブ ===== */
+.notebooklm-hub-card {
+  margin-bottom: 32px;
+  padding: 24px 28px;
+  background: linear-gradient(145deg, rgba(30, 27, 75, 0.7) 0%, rgba(15, 23, 42, 0.95) 100%);
+  border: 1.5px solid rgba(168, 85, 247, 0.4);
+  border-radius: 16px;
+  box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.7), 0 0 30px -8px rgba(168, 85, 247, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+.notebooklm-hub-card::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #a855f7, #38bdf8, #f7931e);
+}
+.notebooklm-hub-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.notebooklm-badge {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: #c084fc;
+  background: rgba(168, 85, 247, 0.15);
+  border: 1px solid rgba(168, 85, 247, 0.35);
+  padding: 3px 10px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.notebooklm-badge::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #c084fc;
+  box-shadow: 0 0 8px #c084fc;
+}
+.notebooklm-hub-title {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.notebooklm-hub-desc {
+  font-size: 13.5px;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin: 0 0 18px;
+}
+.notebooklm-steps-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .notebooklm-steps-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.notebooklm-step-item {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+.notebooklm-step-num {
+  font-size: 11px;
+  font-weight: 800;
+  color: #c084fc;
+  margin-bottom: 4px;
+  font-family: var(--font-en);
+}
+.notebooklm-step-text {
+  font-size: 12px;
+  color: #fff;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0;
+}
+.notebooklm-hub-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+.btn-notebooklm-primary {
+  background: linear-gradient(135deg, #9333ea 0%, #7c3aed 100%);
+  color: #fff;
+  font-weight: 700;
+  font-size: 13.5px;
+  padding: 10px 20px;
+  border-radius: 999px;
+  border: 1px solid rgba(192, 132, 252, 0.4);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  box-shadow: 0 4px 16px -2px rgba(147, 51, 234, 0.4);
+  transition: all .18s;
+}
+.btn-notebooklm-primary:hover {
+  background: linear-gradient(135deg, #a855f7 0%, #9333ea 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -2px rgba(147, 51, 234, 0.55);
+}
+.btn-notebooklm-source {
+  background: rgba(255, 255, 255, 0.06);
+  color: #e2e8f0;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 10px 18px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  transition: all .15s;
+}
+.btn-notebooklm-source:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
