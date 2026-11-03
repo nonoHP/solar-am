@@ -71,6 +71,8 @@
     // 最新ニュースを最前面・独立機能ボタンとして配置（ノートとは完全独立）
     html += '<a href="' + root + 'news.html" class="nav-news-link' + (current === "news" ? ' active' : "") + '" aria-label="最新ニュース・政策動向速報">' +
             '📰 最新ニュース <span class="nav-badge-live">LIVE</span></a>';
+    // 官公庁原本アーカイブ（全582件PDFをサイト上で分類閲覧）
+    html += '<a href="' + root + 'archive.html"' + (current === "archive" ? ' class="active" aria-current="page"' : "") + ' aria-label="原本資料アーカイブ">📂 原本資料 (582件)</a>';
 
     NAV_GROUPS.forEach(function (group) {
       if (group.items.length === 1) {
