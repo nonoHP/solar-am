@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 15:57 JST",
+  "updated_at": "2026-11-05 18:54 JST",
   "total_count": 120,
   "items": [
     {
@@ -9,6 +9,30 @@
       "date": "2026-11-05",
       "source": "スマートジャパン",
       "category": "industry"
+    },
+    {
+      "title": "関電と四電が「原子力PPA」、安定した脱炭素電力を供給（ニュース）",
+      "summary": "関西電力は、既設の原子力・水力発電所を対象にしたオフサイト型PPA（電力購入契約）による電力販売を開始する。10月30日、2027年度中の供給を予定する案件を対象に、小売電気事業者向け受け付けを開始した。　同PPAは、同社が運営する既設の原子力・水力発電所の電力と環境価値を一体的に供給するもの。太陽光・風力発電と比べて",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06180/?ST=msb",
+      "date": "2026-11-05",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "カルコパイライト太陽電池の量産、県がPXPを1.6億円支援（ニュース）",
+      "summary": "フレキシブルな（柔軟性のある）次世代太陽電池の開発を手掛けるベンチャー企業のPXP（相模原市）は10月29日、相模原市南区に新設するカルコパイライト太陽電池の量産工場が、神奈川県の企業誘致施策「セレクト神奈川NEXT」における企業立地支援事業に認定されたと発表した。同認定により約1.6億円の支援を受ける予定。　同社は、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06179/?ST=msb",
+      "date": "2026-11-05",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "ツルハと東邦銀、オフサイトPPAで太陽光電力を調達（ニュース）",
+      "summary": "東北電力は、東邦銀行とツルハグループに向けて、それぞれ太陽光発電所を活用したオフサイト型PPA（電力購入契約）サービスを提供する。11月2日に発表した。　東邦銀行へのオフサイト型PPAサービスは、福島県内の太陽光発電所5カ所で発電した電力を、アグリゲーターである東芝が卸供給し、小売電気事業者である東北電力が東邦銀行の福",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06178/?ST=msb",
+      "date": "2026-11-05",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
     },
     {
       "title": "除草は年5回に増加、金属管で盗難を抑制――茨城・石岡の通信系施工拠点のメガソーラー（メガソーラー探訪）",
@@ -83,6 +107,14 @@
       "category": "policy"
     },
     {
+      "title": "茨城県鉾田市に太陽光発電所を開設",
+      "summary": "茨城県鉾田市に太陽光発電所を開設&nbsp;&nbsp;valuepress",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54cW5lbEhWem1TZEU3YVFLLWJzb2dkUE9Cd3c2OXVTSkNYaEttRU5pV1NvdWpTQl9zaXl2aHVPLTlVcmpHbGdtYUtZWVRidWJpU1pvVkN4VlJHVmZadmc?oc=5",
+      "date": "2026-11-05",
+      "source": "valuepress",
+      "category": "market"
+    },
+    {
       "title": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給",
       "summary": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給&nbsp;&nbsp;au Webポータル",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqM1poUjJkS2lpWkZFeUhtUGtDZG5lRXNOVEY3SlRvbUxDMDFmQ0k0cXFUeDJLZVZ1NFRKallPLXJiQmtFeTM5UEZMZV9NWS1ibTZvbGJkYVRFT2VndWM4SG9CVFpmMkh2cm1qd0N3?oc=5",
@@ -94,6 +126,14 @@
       "title": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始",
       "summary": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始&nbsp;&nbsp;ニコニコニュース",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2enJJN1E2Zi00dTVLTVE5blViWThONDdPcE9KclZCUjZuZ3FyNnhablhBanlwcG1lWlZtcGQ0VWU1VGFfVVI1LWxHU095M3EzMGpwRXdjVjU3Sm5qb1lkakdfWDlmMmNG?oc=5",
+      "date": "2026-11-05",
+      "source": "ニコニコニュース",
+      "category": "market"
+    },
+    {
+      "title": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化",
+      "summary": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNXpyUHc4Y2Z3VF9nM3l2NU4zXy13T01yMGdPY2tDSUZhOXkzLXNPUlQ5b29iLWs3dnNsTHBvX1Z4TDV3SWtiS3NjcDE2aFJMdlB2Y0pEVWNjX1F5SDdrQU5RY0NXWnN2?oc=5",
       "date": "2026-11-05",
       "source": "ニコニコニュース",
       "category": "market"
@@ -179,11 +219,11 @@
       "category": "policy"
     },
     {
-      "title": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4〜9月】",
-      "summary": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4〜9月】&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rQTgyZk1keGxEbmd0OEFQWndfS3pYMzlBWEY1TGVUVHBiWjJQMklBdFVsUWJzZFU5SmRYUTlWX2NZaUUyeEFLeEFMMEdLRVI3cko4SmJ3NUtBNmVpRk8wd1pOanBUdTBqbFE?oc=5",
+      "title": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4～9月】",
+      "summary": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4～9月】&nbsp;&nbsp;東奥日報社",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncUNINFlyWS1rUGhVZEZvVVJGMDQ5cEdkVGYtd0FqcFhRZm9KTlZPUmJmRXQ2blE3OVZ1d1h0M2VJZWFmQmNQUkZIblgxWXZyV2JNSFRSTlM?oc=5",
       "date": "2026-11-04",
-      "source": "PR TIMES",
+      "source": "東奥日報社",
       "category": "finance"
     },
     {
@@ -475,14 +515,6 @@
       "category": "industry"
     },
     {
-      "title": "県が控訴を見送り メガソーラー訴訟 住民側勝訴 ／静岡",
-      "summary": "県が控訴を見送り メガソーラー訴訟 住民側勝訴 ／静岡&nbsp;&nbsp;毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lWGhmdkwwOUl1Q2N0REpFTFNQczRTTWJVZ3RTQW5QbVRzaTFLdjN5bnktRmNTQXRESUhMd09VdEczTTF4dUJENmNVcVlPd3hnZnBiZV9OOWpoN3JQQ1g3WW1xaTNZT0tR?oc=5",
-      "date": "2026-10-29",
-      "source": "毎日新聞",
-      "category": "policy"
-    },
-    {
       "title": "合成メタンなどの「次世代ガス」の国際動向　国内普及に向けた新たな官民協議会も",
       "summary": "バイオガスを含む「次世代ガス」の普及を目指し、政府が新たに「次世代ガス推進官民協議会」を設置。その第1回会合では、合成メタンやバイオガス・メタンなどの国内外の動向が報告された。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/28/news031.html",
@@ -521,14 +553,6 @@
       "date": "2026-10-28",
       "source": "SOLAR JOURNAL",
       "category": "industry"
-    },
-    {
-      "title": "【メガ発調べ】中古太陽光発電所の査定依頼が前年同期比38％増、1〜9月として過去最多に 「個人保有×低圧×連系5〜8年」が中心、2022年以降連系の比較的新しい発電所も増加",
-      "summary": "【メガ発調べ】中古太陽光発電所の査定依頼が前年同期比38％増、1〜9月として過去最多に 「個人保有×低圧×連系5〜8年」が中心、2022年以降連系の比較的新しい発電所も増加&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WRVpFUVNEU1p2MTZONFFXbFpVSUlHekZtTGl4Nkx4ZV9FdXBaRHRnQ1lPMTMtS1BtV1NWZ3UxQTJ1al90VmNrSVFkSmpIQkdYVi1La0VRMGliSEFodUZHWUJVNkI5V2tDc3c?oc=5",
-      "date": "2026-10-28",
-      "source": "PR TIMES",
-      "category": "finance"
     },
     {
       "title": "リコーがペロブスカイト太陽電池を量産へ　2030年までに数百MW級の生産体制",
@@ -937,30 +961,6 @@
       "date": "2026-10-09",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
-    },
-    {
-      "title": "PPA太陽光の経済性評価、約9割が「業界共通の標準化が必要」（ニュース）",
-      "summary": "太陽光・蓄電池の経済効果診断を提供する国際航業（東京都新宿区）は10月6日、オンサイト型とオフサイト型PPA（電力購入契約）の導入企業における標準化ニーズに関する実態調査の結果を発表した。それによると、担当者の約9割が「業界共通の標準化が必要」と回答し、標準化ニーズの高さが明らかになったという。　IDEATECH（アイ",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06122/?ST=msb",
-      "date": "2026-10-09",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "東京建物、習志野市の物流施設に2.8MWのメガソーラー（ニュース）",
-      "summary": "東京建物は、千葉県習志野市にランプ型マルチテナント型物流施設「T-LOGI（ティーロジ）南船橋」を開発し、9月30日に竣工した。同社の環境配慮型物流施設「T-LOGI」シリーズのうち、竣工済み物件としては関東地方で最大規模となり、出力約2.8MWの屋根置きメガソーラー（大規模太陽光発電設備）を備える。　太陽光パネル出力",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06121/?ST=msb",
-      "date": "2026-10-09",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "太陽光発電所で銅線ケーブル窃盗 交際中の外国籍男女、生活費目当ての犯行か 4県で84件裏付け 茨城県警",
-      "summary": "太陽光発電所で銅線ケーブル窃盗 交際中の外国籍男女、生活費目当ての犯行か 4県で84件裏付け 茨城県警&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aOTN4WF9fVzZubWtDbmVLdm1oTy10Ui0tVkZ4WGdIdTVJRnpJZ3h0eVE2V1piQjhlNmRjWUtxMW1td0JCYnZ5NFhWV0gwWi1pVXVXblN4M2dCa3hZWHFUXzBhaGxKT25UVmJramRrM2hJOWJLOVJpUWlKTWZ4V00?oc=5",
-      "date": "2026-10-09",
-      "source": "Yahoo!ニュース",
-      "category": "om_tech"
     }
   ]
 }
