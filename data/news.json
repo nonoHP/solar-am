@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 12:45 JST",
+  "updated_at": "2026-11-05 15:57 JST",
   "total_count": 120,
   "items": [
     {
@@ -17,6 +17,14 @@
       "date": "2026-11-05",
       "source": "日経BP メガソーラービジネス",
       "category": "om_tech"
+    },
+    {
+      "title": "【11/5発行】支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL  vol.59』",
+      "summary": "来年度から地上設置型の事業用太陽光が、原則として、FIT/FIP制度の対象外となる。一方で、特定の分野に限っては、重点的に支援する方針が示されている。具体的に何が支援対象となるのか──。 The post 【11/5発行】支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL  vol.59』 firs",
+      "link": "https://solarjournal.jp/news/68291/",
+      "date": "2026-11-05",
+      "source": "SOLAR JOURNAL",
+      "category": "market"
     },
     {
       "title": "EVシェア倍増！CEV補助金で加速する日本の脱炭素化｜北村和也さんの再エネの達人",
@@ -76,10 +84,18 @@
     },
     {
       "title": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給",
-      "summary": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給&nbsp;&nbsp;Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhQmR1YnY3U1hsR0JsbG1DY1pERUtTWDdhWlk1d21RaUxEMEF1ZWRyRGhnR3JMVmV3NGc4dXU2ZHhlQlg2SS1NeHBia2JJMi05WlFPZWhrb20yT09Yd2VFZw?oc=5",
+      "summary": "アスソラとコスモがコーポレートPPAを締結 - 分散型電源を一元的に管理・運用、需要家に供給&nbsp;&nbsp;au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqM1poUjJkS2lpWkZFeUhtUGtDZG5lRXNOVEY3SlRvbUxDMDFmQ0k0cXFUeDJLZVZ1NFRKallPLXJiQmtFeTM5UEZMZV9NWS1ibTZvbGJkYVRFT2VndWM4SG9CVFpmMkh2cm1qd0N3?oc=5",
       "date": "2026-11-05",
-      "source": "Infoseek",
+      "source": "au Webポータル",
+      "category": "market"
+    },
+    {
+      "title": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始",
+      "summary": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2enJJN1E2Zi00dTVLTVE5blViWThONDdPcE9KclZCUjZuZ3FyNnhablhBanlwcG1lWlZtcGQ0VWU1VGFfVVI1LWxHU095M3EzMGpwRXdjVjU3Sm5qb1lkakdfWDlmMmNG?oc=5",
+      "date": "2026-11-05",
+      "source": "ニコニコニュース",
       "category": "market"
     },
     {
@@ -235,11 +251,19 @@
       "category": "industry"
     },
     {
-      "title": "【11/5発行】支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL  vol.59』",
-      "summary": "来年度から地上設置型の事業用太陽光が、原則として、FIT/FIP制度の対象外となる。一方で、特定の分野に限っては、重点的に支援する方針が示されている。具体的に何が支援対象となるのか──。 The post 【11/5発行】支援重点化は太陽光市場の”追い風”となるか『SOLAR JOURNAL  vol.59』 firs",
-      "link": "https://solarjournal.jp/news/68291/",
+      "title": "オフサイト型コーポレートPPAサービスの導入について",
+      "summary": "オフサイト型コーポレートPPAサービスの導入について&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAza1VyR01oX0ZobnJ6VDdJdXAtanhoYkN6WlkzbUxMaWF1Zlk3RHhYV2RCT2h3cUlnZEZyMkI4SmtsamprNmYybzJyNkloRk5yYzJUc3ZlS3RFTGFXdWgtNmt0ajlvMG44MkE?oc=5",
       "date": "2026-11-02",
-      "source": "SOLAR JOURNAL",
+      "source": "PR TIMES",
+      "category": "market"
+    },
+    {
+      "title": "株式会社東邦銀行によるオフサイト型コーポレートPPAサービスの導入について",
+      "summary": "株式会社東邦銀行によるオフサイト型コーポレートPPAサービスの導入について&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KTnpPenVsVThIbEVkQ2F0MjZBQmdLZlVKME9tbklFRGdkd2JlR0MwYVFyLW95N25uSV9TLXFQWmowM0RXdnk5b29DM2VqSmZiUGlxLTB0YXRlT3BhOF9HMjhyOFFIdkNoQnc?oc=5",
+      "date": "2026-11-02",
+      "source": "PR TIMES",
       "category": "market"
     },
     {
@@ -361,6 +385,14 @@
       "date": "2026-10-30",
       "source": "SOLAR JOURNAL",
       "category": "industry"
+    },
+    {
+      "title": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結",
+      "summary": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YSFhMWmRBQXRXS3Fob0x3dVQxTVhOS3ZXaGpVb3Q1YWxpU3F3ektvWVU0M0NLdGNXdmNHV0E5c1VIaVJDUkxhUWpQS0xQbHBta2lNcG92LUhKVV9iT1lJai1sNno2blc3amc?oc=5",
+      "date": "2026-10-30",
+      "source": "PR TIMES",
+      "category": "market"
     },
     {
       "title": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達",
@@ -929,38 +961,6 @@
       "date": "2026-10-09",
       "source": "Yahoo!ニュース",
       "category": "om_tech"
-    },
-    {
-      "title": "データーセンター急増の影響は？ 広域系統整備の費用便益評価を公表",
-      "summary": "2050年のカーボンニュートラル実現に向けて、地域を越えて送電網を一体的に運用・強化する「広域系統運用」の実現に向けた検討が進んでいる。「広域系統整備委員会」の第104回会合では、足元の電力需要や電源などの動向を踏まえた新たなシミュレーションを行い、広域系統整備に関する費用便益評価結果が報告された。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/08/news020.html",
-      "date": "2026-10-08",
-      "source": "スマートジャパン",
-      "category": "industry"
-    },
-    {
-      "title": "経産省、系統用蓄電池の「低圧分割」抑制へ対策（ニュース）",
-      "summary": "経済産業省が10月6日に開催した有識者会議（次世代電力系統ワーキンググループ）において、系統用蓄電池の系統連系に際し、高圧での接続を回避することを目的とした「低圧分割」を抑制する対策案が示された。　系統用蓄電池は、2026年6月末時点で系統連系済み案件が1.28GWに留まるのに対し、接続検討受付済みは211.29GW、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06120/?ST=msb",
-      "date": "2026-10-08",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "設備更新に伴う「JC-STAR」適用、経産省が猶予の条件を公表（ニュース）",
-      "summary": "経済産業省が10月6日に開催した有識者会議（次世代電力系統ワーキンググループ）において、太陽光・風力・蓄電池・燃料電池といった分散型電源の系統技術要件を改定し、2027年4月から順次、JC-STAR★1（JCスター・ラベル1）の取得を要件化に伴い、事業に影響がある場合の猶予条件について公表した。　太陽光発電設備や蓄電池",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06119/?ST=msb",
-      "date": "2026-10-08",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "今年度の出力制御、東京・関西など5エリアで当初見通しより増加（ニュース）",
-      "summary": "経済産業省が10月6日に開催した有識者会議（次世代電力系統ワーキンググループ）において、2026年度の再生可能エネルギーに対する出力制御（出力抑制）の短期見通しの更新結果が報告された。北海道、東京、中部、関西、沖縄の5エリアにおいて、当初見通しから出力制御率が上昇した。　出力制御率が当初見通しから増加したエリアは、北海",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06118/?ST=msb",
-      "date": "2026-10-08",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
     }
   ]
 }
