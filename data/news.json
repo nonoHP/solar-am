@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-05 18:54 JST",
+  "updated_at": "2026-11-06 09:05 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "排出量取引制度、上限価格への張り付き予防に「過度なバンキング」を制限へ",
+      "summary": "2026年4月からスタートした排出量取引制度（GX-ETS）の第2フェーズ。2027年秋頃に予定する「排出枠取引市場」の開設に向けて、経済産業省の「排出量取引制度小委員会」第9・10回会合では、上限価格に係る「みなし保有措置」、下限価格に係る「リバースオークション」、過度な「バンキング（繰越し）」を予防するための措置な",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/06/news034.html",
+      "date": "2026-11-06",
+      "source": "スマートジャパン",
+      "category": "market"
+    },
+    {
+      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
+      "summary": "一次調整力取引開始",
+      "link": "https://www.pveye.jp/inside_news/view/6848/",
+      "date": "2026-11-06",
+      "source": "PVeye",
+      "category": "policy"
+    },
+    {
+      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
+      "summary": "",
+      "link": "https://www.pveye.jp/inside_news/view/6851/",
+      "date": "2026-11-06",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "パシフィックコンサル、水上太陽光で実証開始",
+      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
+      "link": "https://www.pveye.jp/inside_news/view/6852/",
+      "date": "2026-11-06",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "【案内】九州経済産業局：12月1日に再エネ導入促進セミナー開催、卒FIT時代の事業展開やFIP・蓄電池活用を議論",
+      "summary": "【案内】九州経済産業局：12月1日に再エネ導入促進セミナー開催、卒FIT時代の事業展開やFIP・蓄電池活用を議論&nbsp;&nbsp;みんなの広報宣伝部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5waHFaQkdZVXllMjhYQ3RuSEl4RFZpc2RiSEV3V0VMOEowbmFBeVluaFMyWDR5NkV4ejdnNlR2aEpSYnhTaVJqTTc3Z0FQTUxHcExxS2VzUjlzSHhzYWxYbUxQNmVvQTU5YUswUnNrT2dJQQ?oc=5",
+      "date": "2026-11-06",
+      "source": "みんなの広報宣伝部",
+      "category": "policy"
+    },
     {
       "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取り　東京ガスが新サービス",
       "summary": "東京ガスは2026年11月4日、家庭用蓄電池を活用した機器制御型デマンドレスポンスサービス「蓄電池ネットワークサービス」を拡充し、蓄電池から電力系統へ放電した電力を最大70円/kWhで買い取るサービスを開始すると発表した。",
@@ -59,28 +99,12 @@
       "category": "industry"
     },
     {
-      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
-      "summary": "一次調整力取引開始",
-      "link": "https://www.pveye.jp/inside_news/view/6848/",
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
       "date": "2026-11-05",
-      "source": "PVeye",
+      "source": "Yahoo!ニュース",
       "category": "policy"
-    },
-    {
-      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
-      "summary": "",
-      "link": "https://www.pveye.jp/inside_news/view/6851/",
-      "date": "2026-11-05",
-      "source": "PVeye",
-      "category": "industry"
-    },
-    {
-      "title": "パシフィックコンサル、水上太陽光で実証開始",
-      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
-      "link": "https://www.pveye.jp/inside_news/view/6852/",
-      "date": "2026-11-05",
-      "source": "PVeye",
-      "category": "industry"
     },
     {
       "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース",
@@ -88,6 +112,14 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRWI1NmF4UnFwaWhtNURVd0E5cDNTZHNWNVF3eUJFN2ZiakE1T2lNdk9mSGZ0ZlVlaEdHZWhld3dqc0plRUR2NVI2T0lzTTlKSUJSY2dqSk83V2daU1cwZ1lJamVmQzZo?oc=5",
       "date": "2026-11-05",
       "source": "福島民友新聞社",
+      "category": "policy"
+    },
+    {
+      "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ",
+      "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ&nbsp;&nbsp;47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdnE2Y0d0dEJIR3pXSVpCbWk0UkdYMmNFdkNGZ3RQdWluRUNqdWNSc1h2THF0ek9GODVSS1I3WFBEb1FSOFNyNTN4UQ?oc=5",
+      "date": "2026-11-05",
+      "source": "47NEWS",
       "category": "policy"
     },
     {
@@ -99,11 +131,11 @@
       "category": "policy"
     },
     {
-      "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ",
-      "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ&nbsp;&nbsp;47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdnE2Y0d0dEJIR3pXSVpCbWk0UkdYMmNFdkNGZ3RQdWluRUNqdWNSc1h2THF0ek9GODVSS1I3WFBEb1FSOFNyNTN4UQ?oc=5",
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ&nbsp;&nbsp;Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Nnp0X2pKd1FjX2dreTJyc0RiZVQ0YUluSTBKOFRQUXVqMENKSEtqdHRHaDBqMlEzX2E1Z0t6cmEySl9JSS05aVhqcVRuYVJrVHI0NWVKWXFrQldVcVlETWRPMDhCUkU2cjJqYWIxM1EzQnlUMXlwSVRfbw?oc=5",
       "date": "2026-11-05",
-      "source": "47NEWS",
+      "source": "Excite エキサイト",
       "category": "policy"
     },
     {
@@ -123,6 +155,14 @@
       "category": "market"
     },
     {
+      "title": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化",
+      "summary": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNXpyUHc4Y2Z3VF9nM3l2NU4zXy13T01yMGdPY2tDSUZhOXkzLXNPUlQ5b29iLWs3dnNsTHBvX1Z4TDV3SWtiS3NjcDE2aFJMdlB2Y0pEVWNjX1F5SDdrQU5RY0NXWnN2?oc=5",
+      "date": "2026-11-05",
+      "source": "ニコニコニュース",
+      "category": "market"
+    },
+    {
       "title": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始",
       "summary": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始&nbsp;&nbsp;ニコニコニュース",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2enJJN1E2Zi00dTVLTVE5blViWThONDdPcE9KclZCUjZuZ3FyNnhablhBanlwcG1lWlZtcGQ0VWU1VGFfVVI1LWxHU095M3EzMGpwRXdjVjU3Sm5qb1lkakdfWDlmMmNG?oc=5",
@@ -131,11 +171,11 @@
       "category": "market"
     },
     {
-      "title": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化",
-      "summary": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化&nbsp;&nbsp;ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNXpyUHc4Y2Z3VF9nM3l2NU4zXy13T01yMGdPY2tDSUZhOXkzLXNPUlQ5b29iLWs3dnNsTHBvX1Z4TDV3SWtiS3NjcDE2aFJMdlB2Y0pEVWNjX1F5SDdrQU5RY0NXWnN2?oc=5",
+      "title": "ツルハHD、首都圏48店舗に東北電力のオフサイトPPA導入へ 26年11月から",
+      "summary": "ツルハHD、首都圏48店舗に東北電力のオフサイトPPA導入へ 26年11月から&nbsp;&nbsp;Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoakVFdHZVaUVlcEk3TWQ4MVR6WkM5ZDl6SHdkaTJKQ2RfbEZnc21QeFV2T3NOeDNiRU5aMWlxVTVKbXlrOEE?oc=5",
       "date": "2026-11-05",
-      "source": "ニコニコニュース",
+      "source": "Dellows News",
       "category": "market"
     },
     {
@@ -219,14 +259,6 @@
       "category": "policy"
     },
     {
-      "title": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4～9月】",
-      "summary": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4～9月】&nbsp;&nbsp;東奥日報社",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncUNINFlyWS1rUGhVZEZvVVJGMDQ5cEdkVGYtd0FqcFhRZm9KTlZPUmJmRXQ2blE3OVZ1d1h0M2VJZWFmQmNQUkZIblgxWXZyV2JNSFRSTlM?oc=5",
-      "date": "2026-11-04",
-      "source": "東奥日報社",
-      "category": "finance"
-    },
-    {
       "title": "福島市、メガソーラー規制「妥当」 27年4月施行目指す:福島ニュース",
       "summary": "福島市、メガソーラー規制「妥当」 27年4月施行目指す:福島ニュース&nbsp;&nbsp;福島民友新聞社",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91WmxpNWFITU9IeWgwMHIxWW1ZU3FTVmJDbTBxd3NPRE1DSzNLRHo4TmplSXNIRXF6cjlBYlpER2dFbnE4dUhod0RteC1DbzRVR0FWbVplTHVIal9zVWNsZHVMMlptdTNN?oc=5",
@@ -241,14 +273,6 @@
       "date": "2026-11-03",
       "source": "au Webポータル",
       "category": "policy"
-    },
-    {
-      "title": "グリーングロース、シードラウンドで約5億円の資金調達を実施",
-      "summary": "グリーングロース、シードラウンドで約5億円の資金調達を実施&nbsp;&nbsp;Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hUmxxdXloeFVEekN0TmlOSEFMelZjVzBDY0hCazlPR0VuYko1T3NxQmNiOFQzT0IxSHZCWHprUm5TNHk1c1RkVU5lcW9aNHZxa0pGU3JxTnFycEdVOGRHNWgtQ0hZZnZOZm53dnNnLWs5amV3?oc=5",
-      "date": "2026-11-03",
-      "source": "Excite エキサイト",
-      "category": "finance"
     },
     {
       "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開（ニュース）",
@@ -305,14 +329,6 @@
       "date": "2026-11-02",
       "source": "PR TIMES",
       "category": "market"
-    },
-    {
-      "title": "太陽光発電施設の銅線ケーブル窃盗容疑で４人を最終送検 松山西署など",
-      "summary": "太陽光発電施設の銅線ケーブル窃盗容疑で４人を最終送検 松山西署など&nbsp;&nbsp;愛媛新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IWlZIcXFCSnNvM1RFSkttSjR6b3VaY3NSQmxyc0FSajJfMmVhNHBpemY4ZHFCRHM3WXFmTDVsdHJXZWp6NkhWTU54MURkbkVZMF95N1BWbl9NeTRMeXNaWQ?oc=5",
-      "date": "2026-11-02",
-      "source": "愛媛新聞",
-      "category": "om_tech"
     },
     {
       "title": "経産省、FIT・FIPの支援縮小へ 公共地への導入や太陽光カーポートなどに限定か",
@@ -427,22 +443,6 @@
       "category": "industry"
     },
     {
-      "title": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結",
-      "summary": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YSFhMWmRBQXRXS3Fob0x3dVQxTVhOS3ZXaGpVb3Q1YWxpU3F3ektvWVU0M0NLdGNXdmNHV0E5c1VIaVJDUkxhUWpQS0xQbHBta2lNcG92LUhKVV9iT1lJai1sNno2blc3amc?oc=5",
-      "date": "2026-10-30",
-      "source": "PR TIMES",
-      "category": "market"
-    },
-    {
-      "title": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達",
-      "summary": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達&nbsp;&nbsp;BRIDGE（ブリッジ）",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUZQLTZlUzJVV2szM0lPaERDQTZBTnlWYTlDNGpzTmpTMmJSOVpMVzdRbnRhSy1iNnpndFdXMTRMWWo2bUs0NmtKa0gyVkJxUGZRXzFmQlloLVE3ZlZwcUM0bGFnT2RJWEh3R1JWejZmbG5RZE0yOFpONTQydTJpRg?oc=5",
-      "date": "2026-10-30",
-      "source": "BRIDGE（ブリッジ）",
-      "category": "finance"
-    },
-    {
       "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
       "summary": "サントリーとPXPがカルコパイライト太陽電池を自動販売機の電源として利用する実証実験を実施。年間で約45％の省エネルギーおよび温室効果ガス（GHG）排出量削減効果を確認できたという。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
@@ -513,6 +513,14 @@
       "date": "2026-10-29",
       "source": "SOLAR JOURNAL",
       "category": "industry"
+    },
+    {
+      "title": "卒FIT太陽光をデータセンター電源に FIP転換＋蓄電池で電力需要に対応",
+      "summary": "卒FIT太陽光をデータセンター電源に FIP転換＋蓄電池で電力需要に対応&nbsp;&nbsp;環境ビジネスオンライン",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wQTA3QnBlWTBiYmxJNzV1WS1ZSEx1R190Q1NTNS1sTUU1cDViVlFDUlA2R0RiN1ZGZENqSFV3X2ZsZ0Z6QWpCaG5xUUs5MTA0MnZTdXdkdEdzNDMzeExDenFRcGZRZGg5SzZuZnpKbW1DTmN3TV9fTUJrd3Y3cGM?oc=5",
+      "date": "2026-10-29",
+      "source": "環境ビジネスオンライン",
+      "category": "policy"
     },
     {
       "title": "合成メタンなどの「次世代ガス」の国際動向　国内普及に向けた新たな官民協議会も",
@@ -951,14 +959,6 @@
       "summary": "GMOインターネット（東京都渋谷区）、東急不動産（東京都渋谷区）、ブロードバンドタワーの3社は、再生可能エネルギー100％で運営している北海道のデータセンターを活用する。　石狩市にある「石狩再エネデータセンター第1号」において、国内AI（人工知能）開発向けGPU（グラフィックス・プロセシング・ユニット）クラウドサービス",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06124/?ST=msb",
       "date": "2026-10-13",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "メガソーラーで「生物多様性」維持、都立大が植生調査（ニュース）",
-      "summary": "東京都立大学は10月6日、森林に立地するメガソーラー（大規模太陽光発電所）の植生を調査した結果、太陽光パネルの下では森林縁辺部に類似した植物群落が自然に成立し、種多様性が維持されていることを確認したと発表した。生物多様性に貢献する自然共生型太陽光発電所の可能性を示す結果という。　メガソーラーの建設では生物多様性への悪影",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06123/?ST=msb",
-      "date": "2026-10-09",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
     }
