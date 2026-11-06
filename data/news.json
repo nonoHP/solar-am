@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 09:05 JST",
+  "updated_at": "2026-11-06 12:43 JST",
   "total_count": 120,
   "items": [
     {
@@ -9,6 +9,14 @@
       "date": "2026-11-06",
       "source": "スマートジャパン",
       "category": "market"
+    },
+    {
+      "title": "住宅用太陽光と蓄電池をどう提案するのか 「停電の夏」から「GX ZEH元年」の今、求められる住宅像とは",
+      "summary": "住宅用太陽光と蓄電池の提案は次の段階に入った。初期投資支援スキームの導入から1年が過ぎ、2027年4月には新たなZEH定義「GX ZEH」の適用も始まる。そして相次いだ停電は、非常時に電気を確保できることの価値を改めて示した。蓄電池はもはや「あれば安心」のオプションではなく、太陽光とセットで備えるべき設備になりつつある",
+      "link": "https://solarjournal.jp/policy/68207/",
+      "date": "2026-11-06",
+      "source": "SOLAR JOURNAL",
+      "category": "industry"
     },
     {
       "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
@@ -35,12 +43,28 @@
       "category": "industry"
     },
     {
+      "title": "団地内の卒FIT再エネでEVバス運行 使用電力の2倍超を調達、積水ハウス",
+      "summary": "団地内の卒FIT再エネでEVバス運行 使用電力の2倍超を調達、積水ハウス&nbsp;&nbsp;環境ビジネスオンライン",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VaE5aSjJEbDRVWjBIWFhqQ2k1VExrR2pkSWo1TXRHdVVzOEdwZV91a0sxd09weDdrdF9FMUhDQmxYZmYtcGNWZWNMcmtVdlVJQWRSZmpvWTU4YTVfelMybWhmQUlLVzhlOU5FNXE0RkdIbkpDcWV2VEFPd3Q?oc=5",
+      "date": "2026-11-06",
+      "source": "環境ビジネスオンライン",
+      "category": "policy"
+    },
+    {
       "title": "【案内】九州経済産業局：12月1日に再エネ導入促進セミナー開催、卒FIT時代の事業展開やFIP・蓄電池活用を議論",
       "summary": "【案内】九州経済産業局：12月1日に再エネ導入促進セミナー開催、卒FIT時代の事業展開やFIP・蓄電池活用を議論&nbsp;&nbsp;みんなの広報宣伝部",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5waHFaQkdZVXllMjhYQ3RuSEl4RFZpc2RiSEV3V0VMOEowbmFBeVluaFMyWDR5NkV4ejdnNlR2aEpSYnhTaVJqTTc3Z0FQTUxHcExxS2VzUjlzSHhzYWxYbUxQNmVvQTU5YUswUnNrT2dJQQ?oc=5",
       "date": "2026-11-06",
       "source": "みんなの広報宣伝部",
       "category": "policy"
+    },
+    {
+      "title": "コスモエコパワーとアスソラ、八戸市の太陽光発電所で20年間のPPA締結",
+      "summary": "コスモエコパワーとアスソラ、八戸市の太陽光発電所で20年間のPPA締結&nbsp;&nbsp;Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84V0NhaVZJVllPOURpTC0xM0RwLTFQTDVTN19YN2JadkY4OUxwOGdxZjBFVWtORC1yeHF2LS1iX3ZaT3FNUWc?oc=5",
+      "date": "2026-11-06",
+      "source": "Dellows News",
+      "category": "market"
     },
     {
       "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取り　東京ガスが新サービス",
@@ -99,19 +123,19 @@
       "category": "industry"
     },
     {
-      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
-      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
-      "date": "2026-11-05",
-      "source": "Yahoo!ニュース",
-      "category": "policy"
-    },
-    {
       "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース",
       "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース&nbsp;&nbsp;福島民友新聞社",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRWI1NmF4UnFwaWhtNURVd0E5cDNTZHNWNVF3eUJFN2ZiakE1T2lNdk9mSGZ0ZlVlaEdHZWhld3dqc0plRUR2NVI2T0lzTTlKSUJSY2dqSk83V2daU1cwZ1lJamVmQzZo?oc=5",
       "date": "2026-11-05",
       "source": "福島民友新聞社",
+      "category": "policy"
+    },
+    {
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
+      "date": "2026-11-05",
+      "source": "Yahoo!ニュース",
       "category": "policy"
     },
     {
@@ -133,7 +157,7 @@
     {
       "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ",
       "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ&nbsp;&nbsp;Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Nnp0X2pKd1FjX2dreTJyc0RiZVQ0YUluSTBKOFRQUXVqMENKSEtqdHRHaDBqMlEzX2E1Z0t6cmEySl9JSS05aVhqcVRuYVJrVHI0NWVKWXFrQldVcVlETWRPMDhCUkU2cjJqYWIxM1EzQnlUMXlwSVRfbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjd0tkVTlWMHdUWkhGelh3dlVfVFF2MGNZZFVfMzM4TVVjUTYyN1JtRDc5SzBJSlhqcnJ1dkVtNmp5ZE9FQW1NemUzc0VneEs5LWVfbVJ2ZHlQcndtQzAwdkhwdnVCUjR5TEROaHpEZEtteFlFMTZldTlB?oc=5",
       "date": "2026-11-05",
       "source": "Excite エキサイト",
       "category": "policy"
@@ -515,14 +539,6 @@
       "category": "industry"
     },
     {
-      "title": "卒FIT太陽光をデータセンター電源に FIP転換＋蓄電池で電力需要に対応",
-      "summary": "卒FIT太陽光をデータセンター電源に FIP転換＋蓄電池で電力需要に対応&nbsp;&nbsp;環境ビジネスオンライン",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wQTA3QnBlWTBiYmxJNzV1WS1ZSEx1R190Q1NTNS1sTUU1cDViVlFDUlA2R0RiN1ZGZENqSFV3X2ZsZ0Z6QWpCaG5xUUs5MTA0MnZTdXdkdEdzNDMzeExDenFRcGZRZGg5SzZuZnpKbW1DTmN3TV9fTUJrd3Y3cGM?oc=5",
-      "date": "2026-10-29",
-      "source": "環境ビジネスオンライン",
-      "category": "policy"
-    },
-    {
       "title": "合成メタンなどの「次世代ガス」の国際動向　国内普及に向けた新たな官民協議会も",
       "summary": "バイオガスを含む「次世代ガス」の普及を目指し、政府が新たに「次世代ガス推進官民協議会」を設置。その第1回会合では、合成メタンやバイオガス・メタンなどの国内外の動向が報告された。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/28/news031.html",
@@ -673,14 +689,6 @@
       "date": "2026-10-23",
       "source": "SOLAR JOURNAL",
       "category": "policy"
-    },
-    {
-      "title": "「国の導入目標設定が必要」日本における蓄電池事業拡大に向けた5つのポイント｜自然エネルギー財団",
-      "summary": "再生エネルギーが導入されるも不確実性は否めない。その不安定さを補うのが蓄電池だ。今後事業を拡大していくために論点を整理し、課題を解決する必要がある。本シンポジウムでは、（公財）自然エネルギー財団の工藤美香氏が、日本と世界の現状を踏まえて同財団が5月に公表した政策提言を紹介した。記事ではその様子をレポートする。 The ",
-      "link": "https://solarjournal.jp/news/68092/",
-      "date": "2026-10-23",
-      "source": "SOLAR JOURNAL",
-      "category": "industry"
     },
     {
       "title": "パナソニックがペロブスカイト太陽電池を本格量産へ　建材一体型で差別化を狙う",
@@ -953,14 +961,6 @@
       "date": "2026-10-13",
       "source": "日経BP メガソーラービジネス",
       "category": "finance"
-    },
-    {
-      "title": "GMOインターネット、石狩の再エネデータセンターに新拠点（ニュース）",
-      "summary": "GMOインターネット（東京都渋谷区）、東急不動産（東京都渋谷区）、ブロードバンドタワーの3社は、再生可能エネルギー100％で運営している北海道のデータセンターを活用する。　石狩市にある「石狩再エネデータセンター第1号」において、国内AI（人工知能）開発向けGPU（グラフィックス・プロセシング・ユニット）クラウドサービス",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06124/?ST=msb",
-      "date": "2026-10-13",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
     }
   ]
 }
