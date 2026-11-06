@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 12:43 JST",
+  "updated_at": "2026-11-06 15:57 JST",
   "total_count": 120,
   "items": [
     {
@@ -48,6 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VaE5aSjJEbDRVWjBIWFhqQ2k1VExrR2pkSWo1TXRHdVVzOEdwZV91a0sxd09weDdrdF9FMUhDQmxYZmYtcGNWZWNMcmtVdlVJQWRSZmpvWTU4YTVfelMybWhmQUlLVzhlOU5FNXE0RkdIbkpDcWV2VEFPd3Q?oc=5",
       "date": "2026-11-06",
       "source": "環境ビジネスオンライン",
+      "category": "policy"
+    },
+    {
+      "title": "Bluefield Energy、福岡地所の熊本県内の太陽光発電所におけるFIP転換・アグリゲーションを受託",
+      "summary": "Bluefield Energy、福岡地所の熊本県内の太陽光発電所におけるFIP転換・アグリゲーションを受託&nbsp;&nbsp;RBB TODAY",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1MzhSNkFyTlQyRGtfb0lZSEVLdXZhNkw1X1dFVnZBN29JdXNKOFg5d1BHeXVadk1lLTJqbUNoUVZBMGcwX0g1UGNTeW1QYVFSLXJQTmhZZFF1Zlo5SkI3NGVQaG9PcWVTd2lFeHpPQlJuYThUNkNHcA?oc=5",
+      "date": "2026-11-06",
+      "source": "RBB TODAY",
       "category": "policy"
     },
     {
@@ -179,17 +187,17 @@
       "category": "market"
     },
     {
-      "title": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化",
-      "summary": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化&nbsp;&nbsp;ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNXpyUHc4Y2Z3VF9nM3l2NU4zXy13T01yMGdPY2tDSUZhOXkzLXNPUlQ5b29iLWs3dnNsTHBvX1Z4TDV3SWtiS3NjcDE2aFJMdlB2Y0pEVWNjX1F5SDdrQU5RY0NXWnN2?oc=5",
+      "title": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始",
+      "summary": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2enJJN1E2Zi00dTVLTVE5blViWThONDdPcE9KclZCUjZuZ3FyNnhablhBanlwcG1lWlZtcGQ0VWU1VGFfVVI1LWxHU095M3EzMGpwRXdjVjU3Sm5qb1lkakdfWDlmMmNG?oc=5",
       "date": "2026-11-05",
       "source": "ニコニコニュース",
       "category": "market"
     },
     {
-      "title": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始",
-      "summary": "【系統用蓄電池のワンストップ提供体制を構築】用地取得から設計・施工・販売まで一貫対応を開始&nbsp;&nbsp;ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2enJJN1E2Zi00dTVLTVE5blViWThONDdPcE9KclZCUjZuZ3FyNnhablhBanlwcG1lWlZtcGQ0VWU1VGFfVVI1LWxHU095M3EzMGpwRXdjVjU3Sm5qb1lkakdfWDlmMmNG?oc=5",
+      "title": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化",
+      "summary": "候補地の地権者情報を1クリックで。再エネ用地探索ツール「エネコンパス」が登記情報の取得からリスト化までを自動化&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNXpyUHc4Y2Z3VF9nM3l2NU4zXy13T01yMGdPY2tDSUZhOXkzLXNPUlQ5b29iLWs3dnNsTHBvX1Z4TDV3SWtiS3NjcDE2aFJMdlB2Y0pEVWNjX1F5SDdrQU5RY0NXWnN2?oc=5",
       "date": "2026-11-05",
       "source": "ニコニコニュース",
       "category": "market"
@@ -953,14 +961,6 @@
       "date": "2026-10-13",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
-    },
-    {
-      "title": "高圧蓄電所で「プロファイ」、日本蓄電池が全国7カ所（ニュース）",
-      "summary": "日本蓄電池（東京都千代田区）は10月8日、リミックスポイントと共同で開発・運営する系統用蓄電所事業について、SMTBリース（東京都港区）をシニアレンダーとするノンリコース型プロジェクトファイナンス契約を締結したと発表した。　同事業は、日本蓄電池がオリジネーターとしてリミックスポイントと共同出資し、ecoプロパティーズ（",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06125/?ST=msb",
-      "date": "2026-10-13",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
     }
   ]
 }
