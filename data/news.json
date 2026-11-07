@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 09:00 JST",
+  "updated_at": "2026-11-07 12:40 JST",
   "total_count": 120,
   "items": [
     {
@@ -83,12 +83,28 @@
       "category": "policy"
     },
     {
+      "title": "Bluefield Energy、仙台オフィス開設 東北エリアでの取引拡大を受け体制を強化",
+      "summary": "Bluefield Energy、仙台オフィス開設 東北エリアでの取引拡大を受け体制を強化&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xVU1jN1VKNjBDZ3lfckYxckpGQnJJNVEtQl9oS0VWanNDeElKVHhfSjFEMDRBaHJGWmFuaDF6bFVRODlzTGdIVVlSS0YtYkFEMF9YRHpPbDlSeUZfQlNXcXQ4RlV4V3hDSkE?oc=5",
+      "date": "2026-11-06",
+      "source": "PR TIMES",
+      "category": "market"
+    },
+    {
       "title": "コスモエコパワーとアスソラ、八戸市の太陽光発電所で20年間のPPA締結",
       "summary": "コスモエコパワーとアスソラ、八戸市の太陽光発電所で20年間のPPA締結&nbsp;&nbsp;Dellows News",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84V0NhaVZJVllPOURpTC0xM0RwLTFQTDVTN19YN2JadkY4OUxwOGdxZjBFVWtORC1yeHF2LS1iX3ZaT3FNUWc?oc=5",
       "date": "2026-11-06",
       "source": "Dellows News",
       "category": "market"
+    },
+    {
+      "title": "【土砂崩れ】ソーラーパネル 崩落【台風 豪雨】太陽光発電 土砂流出 千葉県 袖ケ浦市/市原市",
+      "summary": "【土砂崩れ】ソーラーパネル 崩落【台風 豪雨】太陽光発電 土砂流出 千葉県 袖ケ浦市/市原市&nbsp;&nbsp;YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55OWZTZEhoYzMweDB6S0ptQl8xdEwtUXNRTy1WLUdwQ2F3Y054SmI2ZDZjVFVQRnBGYlpDcjdYcjdBWVBmMkJaS3hsTm1SSmJ4MXdLd3FGM0JlaFdJ?oc=5",
+      "date": "2026-11-06",
+      "source": "YouTube",
+      "category": "om_tech"
     },
     {
       "title": "「中古太陽光」の売買、査定依頼が前年比4割増に - ニュース - メガソーラービジネス plus",
@@ -945,22 +961,6 @@
       "date": "2026-10-14",
       "source": "日経BP メガソーラービジネス",
       "category": "market"
-    },
-    {
-      "title": "急増する低圧系統用蓄電池、分割設置による規制逃れ対策を強化へ",
-      "summary": "第13回「次世代電力系統ワーキンググループ」では、系統アクセス手続きが急増している系統用蓄電池について、接続検討料を見直す方針が示された。同時に低圧系統用蓄電池についても、分割設置などによる規制逃れなどへの対策を強化する方針だ。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/13/news053.html",
-      "date": "2026-10-13",
-      "source": "スマートジャパン",
-      "category": "market"
-    },
-    {
-      "title": "英・蓄電池デベロッパーが日本進出、九州で運転開始（新エネ・システム最前線）",
-      "summary": "産炭地域に新エネ設備が集積　福岡県の北部、筑豊地域は、明治以降、炭鉱で栄えたが、エネルギーの主体が石油になるにつれ衰退し、1976年にすべての炭鉱が閉山した。それから、50年。同地域は、再生可能エネルギーを主力とした、新たなエネルギー革命によって、メガソーラー（大規模太陽光発電所）や蓄電所が急増し、いまや新エネルギーの",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00024/00085/?ST=msb",
-      "date": "2026-10-13",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
     }
   ]
 }
