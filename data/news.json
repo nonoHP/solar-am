@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 12:40 JST",
+  "updated_at": "2026-11-07 15:42 JST",
   "total_count": 120,
   "items": [
     {
@@ -200,6 +200,14 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdnE2Y0d0dEJIR3pXSVpCbWk0UkdYMmNFdkNGZ3RQdWluRUNqdWNSc1h2THF0ek9GODVSS1I3WFBEb1FSOFNyNTN4UQ?oc=5",
       "date": "2026-11-05",
       "source": "47NEWS",
+      "category": "policy"
+    },
+    {
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
+      "date": "2026-11-05",
+      "source": "Yahoo!ニュース",
       "category": "policy"
     },
     {
@@ -953,14 +961,6 @@
       "date": "2026-10-14",
       "source": "日経BP メガソーラービジネス",
       "category": "policy"
-    },
-    {
-      "title": "電通グループ、9カ所の営農型太陽光とバーチャルPPA（ニュース）",
-      "summary": "日本国土開発は10月6日、同社子会社のJDCグリーンエナジー合同会社が群馬県安中市に新設した営農型太陽光発電所9カ所を対象に、電通グループを需要家、デジタルグリッドを小売電気事業者兼アグリゲーターとするバーチャルPPA（電力購入契約）を提供すると発表した。　営農型太陽光1カ所あたりの定格出力は49.5kW、合計定格出力",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06127/?ST=msb",
-      "date": "2026-10-14",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
     }
   ]
 }
