@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 12:42 JST",
+  "updated_at": "2026-11-08 15:43 JST",
   "total_count": 120,
   "items": [
     {
@@ -25,6 +25,14 @@
       "date": "2026-11-08",
       "source": "PVeye",
       "category": "industry"
+    },
+    {
+      "title": "ジャパンブランディング、系統用蓄電池とFIT・FIP解説ウェビナー開催へ",
+      "summary": "ジャパンブランディング、系統用蓄電池とFIT・FIP解説ウェビナー開催へ&nbsp;&nbsp;Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PTEpIbm9EUFY2QUlnd1ZOR0dlM0lvZk1YTFNvU1dZaldvU21GRGFVU3NkS0U1TUVFQWRMeG1UZVozV0k5cmc?oc=5",
+      "date": "2026-11-08",
+      "source": "Dellows News",
+      "category": "market"
     },
     {
       "title": "グリーングロース、太陽光発電協会主催の2026年度「ソーラーウィーク大賞」で優秀賞を共同受賞",
@@ -953,14 +961,6 @@
       "date": "2026-10-09",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
-    },
-    {
-      "title": "PPA太陽光の経済性評価、約9割が「業界共通の標準化が必要」（ニュース）",
-      "summary": "太陽光・蓄電池の経済効果診断を提供する国際航業（東京都新宿区）は10月6日、オンサイト型とオフサイト型PPA（電力購入契約）の導入企業における標準化ニーズに関する実態調査の結果を発表した。それによると、担当者の約9割が「業界共通の標準化が必要」と回答し、標準化ニーズの高さが明らかになったという。　IDEATECH（アイ",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06122/?ST=msb",
-      "date": "2026-10-09",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
     }
   ]
 }
