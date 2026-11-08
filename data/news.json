@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-11-08 18:40 JST",
+  "updated_at": "2026-11-09 08:59 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "ペロブスカイト太陽電池の国内市場、2040年度に2.9倍の982億円へ",
+      "summary": "富士経済は2026年10月30日、ペロブスカイト太陽電池の国内市場に関する調査結果を発表した。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/09/news031.html",
+      "date": "2026-11-09",
+      "source": "スマートジャパン",
+      "category": "market"
+    },
     {
       "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
       "summary": "一次調整力取引開始",
       "link": "https://www.pveye.jp/inside_news/view/6848/",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "PVeye",
       "category": "policy"
     },
@@ -14,7 +22,7 @@
       "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
       "summary": "",
       "link": "https://www.pveye.jp/inside_news/view/6851/",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "PVeye",
       "category": "industry"
     },
@@ -22,9 +30,25 @@
       "title": "パシフィックコンサル、水上太陽光で実証開始",
       "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
       "link": "https://www.pveye.jp/inside_news/view/6852/",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "PVeye",
       "category": "industry"
+    },
+    {
+      "title": "韓国政府、4兆ウォンで超大型ESS整備へ…火災対策は放置",
+      "summary": "韓国政府、4兆ウォンで超大型ESS整備へ…火災対策は放置&nbsp;&nbsp;조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzluWHBULUs4QXh4Tko5YXNKODZIRzhyUG5FOWI0VHZmalFaWmFwRVNVc0NvZVloYlNGRjJKSHFZTnJiQ3FIMzBtaHY4ZDdnU3RGamFUU1UzSGNLWEM5QXUxaTN0YS1uenNuVFZFajBiUlpiNjNnY2paSzhOTU9ubw?oc=5",
+      "date": "2026-11-09",
+      "source": "조선일보",
+      "category": "om_tech"
+    },
+    {
+      "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構",
+      "summary": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構&nbsp;&nbsp;環境金融研究機構",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5",
+      "date": "2026-11-08",
+      "source": "環境金融研究機構",
+      "category": "market"
     },
     {
       "title": "ジャパンブランディング、系統用蓄電池とFIT・FIP解説ウェビナー開催へ",
@@ -155,19 +179,11 @@
       "category": "industry"
     },
     {
-      "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ（福島民友新聞）",
-      "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ（福島民友新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54allWNzZJTHQ2VkZ2cVI1czR4TTk5ZXR6S2dsTEkxWmVVYlJLb0xRYnJyaGN4YUdTT1cxUHBFVXlTeDU3OTlNcXZ2WjJQdDBWWHdkQ05nc3JTbVgxYnBTRkNOSzJKa1ItdEptRWk0Xy1GTGZsQi1IdU1CNFpIdGc?oc=5",
+      "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース",
+      "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ:福島ニュース&nbsp;&nbsp;福島民友新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRWI1NmF4UnFwaWhtNURVd0E5cDNTZHNWNVF3eUJFN2ZiakE1T2lNdk9mSGZ0ZlVlaEdHZWhld3dqc0plRUR2NVI2T0lzTTlKSUJSY2dqSk83V2daU1cwZ1lJamVmQzZo?oc=5",
       "date": "2026-11-05",
-      "source": "Yahoo!ニュース",
-      "category": "policy"
-    },
-    {
-      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ：ニュース",
-      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ：ニュース&nbsp;&nbsp;FTV 福島テレビ",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWMWlwcElCajF4cjRaNkFhWkpWanN5WE1xZF9sMUliWXdxZUM2UHhReDg4WmtxeVI5d3laNWpFTHRveENCWGFJSHFadWpKdEZfYXA4OEFJMktPTGlkbnBHVnRIVFR3Y3FxbXlGamtnVklDZGlwc1Yxdkp3?oc=5",
-      "date": "2026-11-05",
-      "source": "FTV 福島テレビ",
+      "source": "福島民友新聞社",
       "category": "policy"
     },
     {
@@ -179,11 +195,19 @@
       "category": "policy"
     },
     {
-      "title": "カントー：政令243/2026/ND-CPは、生産に役立つ太陽光発電の開発への道を開く。",
-      "summary": "カントー：政令243/2026/ND-CPは、生産に役立つ太陽光発電の開発への道を開く。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWNtTlp2UmxqZ05kcEtra2theWhPay1YMFVMNDltYlZDYWpqdWRjVDlRN1E2d0ZpMk84elM1ZHp6QnRTYWxyQmFBbk90WHhjb2c4ZTFGaGd2QUotNXpDd2VCTXBLUkcwWldZZ3NVc2ZZY0kzd2JxNmFnRnR0cWZGUVlhSXlrTjVBZHJmOUllTHI3c0VMSG4tSnlwa0pkakQyVUllTXl6RGdrbWRkWmc?oc=5",
+      "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ",
+      "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ&nbsp;&nbsp;47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdnE2Y0d0dEJIR3pXSVpCbWk0UkdYMmNFdkNGZ3RQdWluRUNqdWNSc1h2THF0ek9GODVSS1I3WFBEb1FSOFNyNTN4UQ?oc=5",
       "date": "2026-11-05",
-      "source": "Vietnam.vn",
+      "source": "47NEWS",
+      "category": "policy"
+    },
+    {
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ&nbsp;&nbsp;FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92WDJUMVJkNHJxMnNrM0VrRnZZeVl0blRkMkRoNlNiY0FhWUU2MGVzeUdJZzZFa0U0SXpSbUtINDJKYnBNbVVTalQ3UndYQQ?oc=5",
+      "date": "2026-11-05",
+      "source": "FNNプライムオンライン",
       "category": "policy"
     },
     {
@@ -209,6 +233,14 @@
       "date": "2026-11-05",
       "source": "Newscast.jp",
       "category": "om_tech"
+    },
+    {
+      "title": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4～9月】",
+      "summary": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4～9月】&nbsp;&nbsp;Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUXJHMUdLOVFHWTlacEFEYkUzV2FSQzAwQU8xWExnRHZwUkw4OU92RERvLTJQQjE1TmhNdjJhX0RweWRacnA5RnRWU21hbzkzdi1aOXNDbWVTOUpOYnFNeWpNUXZsMmp2U0lHN2RRa01JUQ?oc=5",
+      "date": "2026-11-05",
+      "source": "Infoseek",
+      "category": "finance"
     },
     {
       "title": "太陽電池のリサイクル義務化、「50t以上」の事業用太陽電池廃棄者を対象に",
@@ -283,14 +315,6 @@
       "category": "policy"
     },
     {
-      "title": "太陽電池のリサイクル義務化、「50t以上」の事業用太陽電池廃棄者を対象に（1/4 ページ） - スマートジャパン",
-      "summary": "太陽電池のリサイクル義務化、「50t以上」の事業用太陽電池廃棄者を対象に（1/4 ページ） - スマートジャパン&nbsp;&nbsp;ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vM0s1ZFVacDd0a0VHM2czMlhiQ3FsMHVWdTZENU00N0k3dWtTWmNCM2o4TUU0RC1sY1NxTzNrQkplZ0ZLWDNOekpXTTlxVXZQMnZVZGI4Z2RSLW15eWlXTmRaWWQ3NUpfcXFUcmVGRWdMbERQ?oc=5",
-      "date": "2026-11-04",
-      "source": "ITmedia",
-      "category": "policy"
-    },
-    {
       "title": "レ・コン・ディン議員は、屋上太陽光発電の発展を促進するために、法的枠組みの改善を提案した。",
       "summary": "レ・コン・ディン議員は、屋上太陽光発電の発展を促進するために、法的枠組みの改善を提案した。&nbsp;&nbsp;Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEd1Ri0weGlXWXRZdWpnc19CNEJhRW9nS0k3c2p0Z1dTYXkwZXdTOHBwWFlZMXVZai04cHFobTNrYkt6QVBqUVd3bFROY2N2djRUTEVTb0o4TUxQejZqSzRFLTQ5T1Jqam1fTDZzaG5RTHFYenIwbWhaUVFuR3JhY0pJdFZGaUd4eFM3OXloTnp3QzNBTEM2NFVNaUVLYzJza2twOXduUUJqWTBkdVFtcDNweHRHUk9KeTFnMXFnR0RSYmZZbUNzYVZR?oc=5",
@@ -337,14 +361,6 @@
       "date": "2026-11-02",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
-    },
-    {
-      "title": "エコ革、茨城県小美玉市のコンテナ型データセンター整備計画が環境省の令和8年度補助事業に採択。コンテナ型DCへの再エネ電力の自家消費規模は日本最大級",
-      "summary": "エコ革、茨城県小美玉市のコンテナ型データセンター整備計画が環境省の令和8年度補助事業に採択。コンテナ型DCへの再エネ電力の自家消費規模は日本最大級&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52RlAyaFV4X2o3Wkg0cDZWZ095WFJWaFdCX1dtU1R5cm8taEJZakhjWXNpTHEyRWdXNzJHTFlHSDBReWh6MUpzOU83MWtRcVptRnM1dy0tbVNHZkt2SE9YR2lwcFFIVURXWmc?oc=5",
-      "date": "2026-11-02",
-      "source": "PR TIMES",
-      "category": "policy"
     },
     {
       "title": "経産省、FIT・FIPの支援縮小へ 公共地への導入や太陽光カーポートなどに限定か",
@@ -945,22 +961,6 @@
       "date": "2026-10-13",
       "source": "スマートジャパン",
       "category": "market"
-    },
-    {
-      "title": "英・蓄電池デベロッパーが日本進出、九州で運転開始（新エネ・システム最前線）",
-      "summary": "産炭地域に新エネ設備が集積　福岡県の北部、筑豊地域は、明治以降、炭鉱で栄えたが、エネルギーの主体が石油になるにつれ衰退し、1976年にすべての炭鉱が閉山した。それから、50年。同地域は、再生可能エネルギーを主力とした、新たなエネルギー革命によって、メガソーラー（大規模太陽光発電所）や蓄電所が急増し、いまや新エネルギーの",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00024/00085/?ST=msb",
-      "date": "2026-10-13",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "高圧蓄電所で「プロファイ」、日本蓄電池が全国7カ所（ニュース）",
-      "summary": "日本蓄電池（東京都千代田区）は10月8日、リミックスポイントと共同で開発・運営する系統用蓄電所事業について、SMTBリース（東京都港区）をシニアレンダーとするノンリコース型プロジェクトファイナンス契約を締結したと発表した。　同事業は、日本蓄電池がオリジネーターとしてリミックスポイントと共同出資し、ecoプロパティーズ（",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06125/?ST=msb",
-      "date": "2026-10-13",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
     }
   ]
 }
