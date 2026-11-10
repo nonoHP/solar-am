@@ -1,3 +1,8 @@
+---
+trigger: always_on
+description: "太陽光 プロジェクト固有の開発規約と制約"
+---
+
 # Solar AM Notes ☀️ プロジェクト開発ルール
 
 > [!IMPORTANT]
