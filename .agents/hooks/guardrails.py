@@ -8,6 +8,7 @@ if sys.platform.startswith("win"):
     try:
         sys.stdin.reconfigure(encoding="utf-8")
         sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
     except Exception:
         pass
 
@@ -26,7 +27,7 @@ def main():
         if tool_name == "run_command":
             cmd = args.get("CommandLine", "")
             
-            # 1. UTF-16LE 文字化け禁止パターン検知
+            # 1. UTF-16LE 文字化け禁止パターン検知 (PowerShellでのファイル書き換え)
             mojibake_patterns = [
                 r"\bSet-Content\b",
                 r"\bOut-File\b",
@@ -38,9 +39,9 @@ def main():
                     res = {
                         "decision": "deny",
                         "reason": (
-                            "【Antigravity Guardrail】PowerShellのSet-Contentやリダイレクト(>, >>)は"
-                            "UTF-16LE文字化けを引き起こすため禁止されています。"
-                            "Python (open(..., encoding='utf-8')) または AI編集ツールを使用してください。"
+                            "【Antigravity Guardrail】PowerShellの Set-Content / Out-File やリダイレクト (>, >>) は"
+                            "UTF-16LE 文字化けを引き起こすため禁止されています。"
+                            "Python (open(..., encoding='utf-8')) または AI編集ツール (edit_file / write_file) を使用してください。"
                         )
                     }
                     print(json.dumps(res, ensure_ascii=False))
@@ -58,7 +59,25 @@ def main():
                         "decision": "deny",
                         "reason": (
                             "【Antigravity Guardrail】プロジェクト直下に一時ファイルを作成することは"
-                            "共通ルールで禁止されています。"
+                            "共通ルールで禁止されています。tmp/ または archive/ 配下を使用してください。"
+                        )
+                    }
+                    print(json.dumps(res, ensure_ascii=False))
+                    return
+
+            # 3. 破滅的・不可逆コマンドの検知 (rm -rf /, git reset --hard 等)
+            destructive_patterns = [
+                r"rm\s+-rf\s+[/~]",
+                r"Remove-Item\s+.*-Recurse\s+.*[/\\]\s*$",
+                r"git\s+reset\s+--hard\s+origin"
+            ]
+            for pat in destructive_patterns:
+                if re.search(pat, cmd, re.IGNORECASE):
+                    res = {
+                        "decision": "deny",
+                        "reason": (
+                            "【Antigravity Guardrail】破壊的なコマンドが検知されました。"
+                            "安全のため実行を中断します。ユーザーに明示的に確認してください。"
                         )
                     }
                     print(json.dumps(res, ensure_ascii=False))
@@ -67,9 +86,14 @@ def main():
         # 安全な場合は実行を許可
         print(json.dumps({"decision": "allow"}))
 
-    except Exception as e:
+    except Exception:
+        # エラー時は安全側に倒しつつ動作を妨げない
         print(json.dumps({"decision": "allow"}))
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:
+        # 万一の例外発生時でもクラッシュさせず、安全に通常実行を許可する
+        print(json.dumps({"decision": "allow"}))
 

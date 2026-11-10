@@ -1,0 +1,16 @@
+{
+  "safety-guardrails": {
+    "PreToolUse": [
+      {
+        "matcher": "run_command|call_mcp_tool|mcp_.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .agents/hooks/guardrails.py",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

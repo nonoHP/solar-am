@@ -4,9 +4,9 @@
 > 本リポジトリはメガソーラーのアセットマネジメント実務を学ぶための学習ノート静的Webサイト（GitHub Pages公開）です。
 > リポジトリ: `https://github.com/nonoHP/solar-am.git` (ブランチ: `main`)
 
-## 1. 文字コードの絶対ルール（UTF-8 厳守）
-- **PowerShellのファイル書き換え禁止**: PowerShellの `Set-Content`, `Get-Content`, `>`, `>>` は UTF-16LE に変換され、日本語の文字化け（Mojibake）を引き起こすため絶対に使用しないこと。
-- **編集ツールの限定**: ファイル編集は必ず AI編集ツール（`edit_file` 等）または Python (`open(..., encoding='utf-8')`) で行うこと。
+## 1. 基本規約と文字コード
+- 全体共通ルール（日本語対話、ディレクトリ保護、UTF-8厳守、PowerShell直接編集禁止）はグローバル `~/.gemini/GEMINI.md` に完全準拠する。
+- ファイル編集は必ず AI編集ツール（`edit_file` 等）または Python (`open(..., encoding='utf-8')`) を使用すること。
 
 ## 2. ノート追加・修正とデータ整合性
 - **ノート追加時の必須ステップ**:

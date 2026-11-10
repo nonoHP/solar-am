@@ -2,3 +2,30 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+
+# Antigravity 共通追加設定
+_agents_backup_*/
+.agents_backup_*/
+*.bak
+*.backup
+tmp/
+tmp_*
+temp/
+temp_*
+diff_*.txt
+*.env
+venv/
+.venv/
+*.log
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+~$*.xlsx
+~$*.docx
+~$*.pptx
