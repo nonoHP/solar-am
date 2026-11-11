@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 08:59 JST",
+  "updated_at": "2026-11-11 12:44 JST",
   "total_count": 120,
   "items": [
     {
@@ -17,6 +17,22 @@
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "om_tech"
+    },
+    {
+      "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
+      "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
+      "summary": "売電で稼ぐ時代から、つくった電気を賢く自家消費する時代へ。太陽光発電や蓄電池の導入では、初期費用ゼロ円のPPAやリースをはじめ、FIT期間中、卒FIT、新築、既築といった各家庭の状況に応じた柔軟な提案が求められている。さらに、2027年4月から適用される新たな基準「GX ZEH」も見据え、住宅全体のエネルギー設計と蓄電",
+      "link": "https://solarjournal.jp/news/68215/",
+      "date": "2026-11-11",
+      "source": "SOLAR JOURNAL",
+      "category": "market"
     },
     {
       "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
@@ -347,14 +363,6 @@
       "category": "policy"
     },
     {
-      "title": "カントー：政令243/2026/ND-CPは、生産に役立つ太陽光発電の開発への道を開く。",
-      "summary": "カントー：政令243/2026/ND-CPは、生産に役立つ太陽光発電の開発への道を開く。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWNtTlp2UmxqZ05kcEtra2theWhPay1YMFVMNDltYlZDYWpqdWRjVDlRN1E2d0ZpMk84elM1ZHp6QnRTYWxyQmFBbk90WHhjb2c4ZTFGaGd2QUotNXpDd2VCTXBLUkcwWldZZ3NVc2ZZY0kzd2JxNmFnRnR0cWZGUVlhSXlrTjVBZHJmOUllTHI3c0VMSG4tSnlwa0pkakQyVUllTXl6RGdrbWRkWmc?oc=5",
-      "date": "2026-11-05",
-      "source": "Vietnam.vn",
-      "category": "policy"
-    },
-    {
       "title": "太陽電池のリサイクル義務化、「50t以上」の事業用太陽電池廃棄者を対象に",
       "summary": "環境省・経産省が新たに「「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会」を設置。いわゆる「太陽光パネルのリサイクル義務化法案」の施行に向けて、対象とする太陽電池の種類や重量、具体的な対象事業者の選定基準などについて検討を開始した。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/04/news035.html",
@@ -672,14 +680,6 @@
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06157/?ST=msb",
       "date": "2026-10-28",
       "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "【セキュリティー対策】経産省、分散型電源のサイバーセキュリティ対策 JC-STAR★２以上の策定に向け検討準備を進める",
-      "summary": "経済産業省は10月19日、第20回産業サイバーセキュリティ研究会を開催し、分散型電源のサイバーセキュリティ対策を議論した。2027年度にJC-STAR★１認証の取得を必須要件化するのに続いて、JC-STAR★２以上の策定に向けて情報処理推進機構（IPA）と相談しながら検討準備を進める方針だ。 The post 【セキュ",
-      "link": "https://solarjournal.jp/policy/68228/",
-      "date": "2026-10-28",
-      "source": "SOLAR JOURNAL",
       "category": "industry"
     },
     {
