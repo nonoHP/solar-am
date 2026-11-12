@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:13 JST",
+  "updated_at": "2026-11-12 12:43 JST",
   "total_count": 120,
   "items": [
     {
@@ -41,6 +41,14 @@
       "date": "2026-11-12",
       "source": "PVeye",
       "category": "industry"
+    },
+    {
+      "title": "陸上風力のバーチャルPPAが増加傾向 メガソーラー規制が追い風に",
+      "summary": "陸上風力のバーチャルPPAが増加傾向 メガソーラー規制が追い風に&nbsp;&nbsp;ウインドジャーナル",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzRU5FNEQtbUtjb2E4YUotUGl1SE93em1mbnR5M3RzYjBCQllBOEdBRFZGR3ltb21vSUVWcWY3WmJFRXF2?oc=5",
+      "date": "2026-11-12",
+      "source": "ウインドジャーナル",
+      "category": "market"
     },
     {
       "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
@@ -193,22 +201,6 @@
       "date": "2026-11-10",
       "source": "Infoseek",
       "category": "market"
-    },
-    {
-      "title": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催",
-      "summary": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催&nbsp;&nbsp;RBB TODAY",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJlYktDWkppWXp4RGRsTm1hRVJpTjdaSlFReVZudGU0OFFXSjVsS0RSdEl3SU1GamNRaEN4ZFhHbDZhNTlHdUJXWXlqbU5OeFlzT1BEUW5GLS1EaURaQy0tSlJadXl2M21fQ2ZPUGlMWVEyeW1jbQ?oc=5",
-      "date": "2026-11-10",
-      "source": "RBB TODAY",
-      "category": "om_tech"
-    },
-    {
-      "title": "【リネージ Q3 2026 決算説明会】米リネージ、ビッグベア火災と水産物不振でEBITDA見通しを1,500万ドル引き下げ 既存店NOIは4.2%減",
-      "summary": "【リネージ Q3 2026 決算説明会】米リネージ、ビッグベア火災と水産物不振でEBITDA見通しを1,500万ドル引き下げ 既存店NOIは4.2%減&nbsp;&nbsp;BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlUDFGbUpwcWRENFp6b25kMkdXMHphOEtzcnFWbWFiZGlzQ21zY3N5ZnJFWEhlZ0VpU0YxYVBBN0tFTWtFTjBHNHBpR0VYWUR6VUJxaklXVWl0ZEhx?oc=5",
-      "date": "2026-11-10",
-      "source": "BigGo ファイナンス",
-      "category": "om_tech"
     },
     {
       "title": "ペロブスカイト太陽電池の国内市場、2040年度に2.9倍の982億円へ",
@@ -456,14 +448,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YRXRacFc3aDF0c0Jic0RoNXdVenctRmY4TFZ4QnhZdFdKcXpabXU4SUR6OS04MWpjU2F5c1NMQTVKZ3M4Q19qREdUaG1nYWdqT0h6SlN3?oc=5",
       "date": "2026-11-04",
       "source": "朝日新聞",
-      "category": "policy"
-    },
-    {
-      "title": "福島市 景観条例改正でメガソーラーの規制を強化へ",
-      "summary": "福島市 景観条例改正でメガソーラーの規制を強化へ&nbsp;&nbsp;NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15anVHdTBLS3pKc3lhTVhvdnJlVDBsbEkyTzJ6bUphQjJRVjFkazhDbmM2OGZULVhPdVRaczJHVFlSWlJjOGRRMmNja1JzbXBKYXRiRTV4bjlTUlZ5RFo0?oc=5",
-      "date": "2026-11-04",
-      "source": "NHKニュース",
       "category": "policy"
     },
     {
@@ -961,6 +945,22 @@
       "date": "2026-10-19",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "運輸分野の省エネを推進　特定荷主向けにも「事業者クラス分け評価制度」を導入へ",
+      "summary": "省エネルギー小委員会「荷主判断基準ワーキンググループ」の第12回会合で、特定荷主による継続的な省エネの推進に向けた施策として、工場分野などで先行導入されている「事業者クラス分け評価制度」などを導入する案が示された。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/16/news023.html",
+      "date": "2026-10-16",
+      "source": "スマートジャパン",
+      "category": "industry"
+    },
+    {
+      "title": "次世代型地熱、2050年度の国内市場は3047億円（ニュース）",
+      "summary": "富士経済（東京都中央区）は10月14日、次世代型地熱発電システム市場に関する調査結果を発表した。それによると日本では、次世代型は早くても2030年代後半の運転開始が見込まれるが、長期的には地熱発電開発の主流技術として普及が期待されるという。　2026年度の地熱発電システムの国内市場は270億円の見込み。従来型は、202",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06136/?ST=msb",
+      "date": "2026-10-16",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
     }
   ]
 }
