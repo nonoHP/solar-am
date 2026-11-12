@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-11 18:52 JST",
+  "updated_at": "2026-11-12 09:13 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
+      "summary": "第117・118回「調達価格等算定委員会」では、バイオマス・中小水力・地熱の再エネ業界団体などに対して、現状のコスト動向や自立化に向けた取り組み、国への要望などについてヒアリングが行われた。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/12/news017.html",
+      "date": "2026-11-12",
+      "source": "スマートジャパン",
+      "category": "policy"
+    },
+    {
+      "title": "フィルム型太陽電池の施工キットで「どこでも発電所」、日揮・未来戦略室に聞く（メガソーラービジネス）",
+      "summary": "日揮が新規事業として進める「どこでも発電所」。ペロブスカイト太陽電池などフィルム型太陽電池を遮熱シートと一体化し、工場や倉庫の折板屋根に金具で挟み込んで固定する独自の「シート工法」で、大規模建築物の屋根を太陽光発電設備に変える。自らを「施工システムメーカー」と位置付け、全国の施工代理店網を通じて普及を狙う。日揮 未来戦",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00007/00202/?ST=msb",
+      "date": "2026-11-12",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
+      "summary": "一次調整力取引開始",
+      "link": "https://www.pveye.jp/inside_news/view/6848/",
+      "date": "2026-11-12",
+      "source": "PVeye",
+      "category": "policy"
+    },
+    {
+      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
+      "summary": "",
+      "link": "https://www.pveye.jp/inside_news/view/6851/",
+      "date": "2026-11-12",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "パシフィックコンサル、水上太陽光で実証開始",
+      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
+      "link": "https://www.pveye.jp/inside_news/view/6852/",
+      "date": "2026-11-12",
+      "source": "PVeye",
+      "category": "industry"
+    },
     {
       "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
       "summary": "2027年4月以降、太陽光発電・蓄電池の系統連系にはJC-STAR制度への対応が必須となる。制度運用開始まで半年を切った。対応製品が増えていく一方で、海外メーカーをめぐる審査の在り方も論点に浮上している。制度の概要と現状を改めて整理し、とりわけ影響の大きい系統用蓄電所の事業者がいまとるべき対応を前後編にわたって紹介する",
@@ -9,6 +49,38 @@
       "date": "2026-11-11",
       "source": "スマートジャパン",
       "category": "market"
+    },
+    {
+      "title": "高圧FIT太陽光の「FIP転」、九州や東北でサービス化（ニュース）",
+      "summary": "サンヴィレッジ（東京都千代田区）は11月3日、フジ発電（仙台市）が宮城県大崎市に保有する太陽光発電所において、固定価格買取制度（FIT）からフィード・イン・プレミアム（FIP）への転換に伴うアグリゲーション事業を9月から開始したと発表した。　対象となる「フジ発電太陽光発電所」は、太陽光パネルの出力が1188.7kW、連",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06195/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "policy"
+    },
+    {
+      "title": "13カ所・10MWの高圧太陽光を新設、PPAで飲料メーカーに供給（ニュース）",
+      "summary": "住友商事と四国電力が出資するSun Trinity合同会社（サントリニティ、東京都千代田区）は11月2日、最終需要家である国内大手飲料メーカー向けに、住友商事を通じて再生可能エネルギー由来の環境価値を長期間供給するバーチャルPPA（電力購入契約）を締結したと発表した。　同PPAに基づきSun Trinityは、全国13",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06194/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "finance"
+    },
+    {
+      "title": "還元材に水素100％、低品位鉄鉱石から還元鉄を製造（ニュース）",
+      "summary": "日本製鉄は11月4日、茨城県神栖市にある「波崎研究開発センター」の試験還元炉において、現行の高品位鉄鉱石（直接還元グレードペレット）よりも低品位な鉄鉱石（高炉グレードペレット）を原料とし、還元材に水素を100％使用した直接還元鉄の試験製造に成功したと発表した。　同社は、新エネルギー・産業技術総合開発機構（NEDO）のグ",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06193/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "千歳市に50MWhの蓄電所、6mの防音壁に「アート」（ニュース）",
+      "summary": "三菱HCキャピタルエナジー（東京都千代田区）は11月6日、北海道千歳市において出力25MW・容量50MWhの系統用蓄電所「上長都蓄電所」の開所式を開催した。　同社は三菱HCキャピタルグループで再生可能エネルギー発電を手掛け、今回の案件が同社初の特別高圧送電線に連系する蓄電所となった。　上長都蓄電所の運転開始は2027年",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06196/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
     },
     {
       "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
@@ -35,28 +107,12 @@
       "category": "market"
     },
     {
-      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
-      "summary": "一次調整力取引開始",
-      "link": "https://www.pveye.jp/inside_news/view/6848/",
+      "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町",
+      "summary": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町&nbsp;&nbsp;日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGEtZGd5eVdxd2tiWF81ejZNelk1M3N0cnROSXJERG9lVFZZSmNhX3hwZkYtYXBDdjhUQXVPNHpmWllCcnlrVjV2TkswVzJLSGJfc1JnWW45QUZVS1Q3LW9JOUdpSVpXUHJKWF9iS3o5RnFueFRXVXNMZF9rekRDNVVFb3NkSlE?oc=5",
       "date": "2026-11-11",
-      "source": "PVeye",
+      "source": "日テレNEWS NNN",
       "category": "policy"
-    },
-    {
-      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
-      "summary": "",
-      "link": "https://www.pveye.jp/inside_news/view/6851/",
-      "date": "2026-11-11",
-      "source": "PVeye",
-      "category": "industry"
-    },
-    {
-      "title": "パシフィックコンサル、水上太陽光で実証開始",
-      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
-      "link": "https://www.pveye.jp/inside_news/view/6852/",
-      "date": "2026-11-11",
-      "source": "PVeye",
-      "category": "industry"
     },
     {
       "title": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給",
@@ -68,11 +124,19 @@
     },
     {
       "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
-      "summary": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞&nbsp;&nbsp;産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Sd1FVMjl6Z0dka0c3X2hjQ1FaQTA1MldvU21WZWo2bGVwaGhTWHphUWYwNFhMajd2Q3Y3b1ZBWHlOMGJJRHlGMlA3d3VZUDdsdW1NNmJPZEFsU0NKRGNXOEd6MzkyRDgtRmQtYUpZSDNBV0Z6Vy10VGFfSQ?oc=5",
+      "summary": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43c3c4bUV5OTdyNjBfZWFqQm9NazZvWHdDNzZRSEMwUDBhLTBlRkMxN2ZZVi1mOFRFZmtzQTVXbURNVmFjZThzeGtKdEtLeGZFM0w3OVFYcDZ6Zko0Q2JVSVV3MGZ1dHAzN2c?oc=5",
       "date": "2026-11-11",
-      "source": "産経ニュース",
+      "source": "PR TIMES",
       "category": "market"
+    },
+    {
+      "title": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説",
+      "summary": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HNkxmcHhwU19aWVg5b1c1NnduZWJXWG5MazhUOVEzcC0xbUdNdzRQcVVfU1c1dkNTT3VRa3ZvMFJLS1dFUUd3MlplSGxZakVydVh6M2NDQ3pVeEdkemJtUFRKNmxTelR5?oc=5",
+      "date": "2026-11-11",
+      "source": "ニコニコニュース",
+      "category": "om_tech"
     },
     {
       "title": "インテレクトの親会社NAXTとBLD Power Stationsが「Rearth Energy Development」を設立",
@@ -123,22 +187,6 @@
       "category": "industry"
     },
     {
-      "title": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業 [北海道]",
-      "summary": "太陽光発電所でヒツジを放牧 北海道東部で地域と共生する再エネ事業 [北海道]&nbsp;&nbsp;朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdTdEekRrTGxfR3pWUE45VGxfWld0Rkk3UVZqdElPMnpyekpZWEpKblFlYnhjdDd1ZF93bFNUVW5HaktSM3FoZjE3TEtudlo1cldhNlJ6U0NPaGFQcV9IMUM4Ulp3RUk?oc=5",
-      "date": "2026-11-10",
-      "source": "朝日新聞",
-      "category": "policy"
-    },
-    {
-      "title": "福島市の再エネ施設設置条例改正 環境審、「妥当」と答申 １２月議会に提案 来春施行へ",
-      "summary": "福島市の再エネ施設設置条例改正 環境審、「妥当」と答申 １２月議会に提案 来春施行へ&nbsp;&nbsp;47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMTDVTMVRFcjhSbzNZQ1pMd2t6Z0lfV0pzMUtsaklKaVlvOHRjU0FkejlQR1pnNi1OaWYzQVJkb010dFNTbzN1UFhiNA?oc=5",
-      "date": "2026-11-10",
-      "source": "47NEWS",
-      "category": "policy"
-    },
-    {
       "title": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで",
       "summary": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで&nbsp;&nbsp;Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hbjRlelFUNkpVY0hZNGFjanZCMjQxNWtGUGlLOVZ1ZmEyTkxzSVVHMWZPdnZaOFMwLWxYeTA1ZG5TbjdXRjkyRkNJNGVtb1Azb2pGU0tiVEVZQWFNc1p6VQ?oc=5",
@@ -148,10 +196,10 @@
     },
     {
       "title": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催",
-      "summary": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wSkZyQ3VGeUk3N3NoSjNTY19vc3Ixa2hLbkYyWTV2Z3ZVdHZGOVdYcGN6Z29vOFBqX1JsTmVtMm5XVUdOWjNIZTRHZjdLTDN0aVNaMmpMdk5NeW5Vd05TaGtqcENCOUxic2c?oc=5",
+      "summary": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催&nbsp;&nbsp;RBB TODAY",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJlYktDWkppWXp4RGRsTm1hRVJpTjdaSlFReVZudGU0OFFXSjVsS0RSdEl3SU1GamNRaEN4ZFhHbDZhNTlHdUJXWXlqbU5OeFlzT1BEUW5GLS1EaURaQy0tSlJadXl2M21fQ2ZPUGlMWVEyeW1jbQ?oc=5",
       "date": "2026-11-10",
-      "source": "PR TIMES",
+      "source": "RBB TODAY",
       "category": "om_tech"
     },
     {
@@ -161,22 +209,6 @@
       "date": "2026-11-10",
       "source": "BigGo ファイナンス",
       "category": "om_tech"
-    },
-    {
-      "title": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催 (2026年11月10日掲載)",
-      "summary": "GoodWe「太陽光発電所向けパワコン技術説明会」第二弾を開催 (2026年11月10日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tZHlIbk52MVN2QXlnS2FlUkNHM2RMMlpxYXhBYzVLczNFVUNiUWRhaUFXVFU0OEZhQTFESDFXMnZTT0FxY3dVcG9waFlLOC1rSEM1Vnc4OVVUVmFRRmRBcFB3?oc=5",
-      "date": "2026-11-10",
-      "source": "ライブドアニュース",
-      "category": "om_tech"
-    },
-    {
-      "title": "ザライ省は、3つの再生可能エネルギープロジェクトに3兆8000億ベトナムドンを超える投資を承認した。",
-      "summary": "ザライ省は、3つの再生可能エネルギープロジェクトに3兆8000億ベトナムドンを超える投資を承認した。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWtmc3EtU0U5dGY0eFhOcTQ3T2ZrS3lGblcwV0ZaZnI4aUVWREtHT01Jak9icVJiRmJONlNNcF9IQVpvczMtd0FpZWRYaGJtVmpaLXhYbVZfR1NFUVFMdVE2Vmpld18td29sNXdBbGhtaC1tTVI2ZWtORWNTVGRkdnFUTGF2RDY0MHRFem9uRE1RMl95SzNQVkdlamY?oc=5",
-      "date": "2026-11-10",
-      "source": "Vietnam.vn",
-      "category": "finance"
     },
     {
       "title": "ペロブスカイト太陽電池の国内市場、2040年度に2.9倍の982億円へ",
@@ -283,14 +315,6 @@
       "category": "industry"
     },
     {
-      "title": "12月定例県議会議案説明～328億1300万円を千葉連続風水害からの復旧・復興へ～",
-      "summary": "12月定例県議会議案説明～328億1300万円を千葉連続風水害からの復旧・復興へ～&nbsp;&nbsp;選挙ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNC0xYktrdHhZY3h5TDUxWXo0WmJBTHFkcE93ZlMtUzhrNGNpemxSeVlGRG10RGhPRGdNTUZfbTY5b0RJUUVmellldWROZHJQOWY1WHFCNU9FOUc2anBZ?oc=5",
-      "date": "2026-11-06",
-      "source": "選挙ドットコム",
-      "category": "policy"
-    },
-    {
       "title": "【蓄電関連】イーレックス：千葉県で系統用蓄電池第2号案件が商業運転開始、2028年までに取扱電源100MWを目指す",
       "summary": "【蓄電関連】イーレックス：千葉県で系統用蓄電池第2号案件が商業運転開始、2028年までに取扱電源100MWを目指す&nbsp;&nbsp;みんなの広報宣伝部",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90T2dRNHljb2F5LWlIa0xnaWE5NW1hWjZEYkczMzFaNUN2Ym9qelc5OU9CdEFZOC1UaGZZN2h2OTl4MzRNQm0tTnpvaUtXaGljWGNKQ1ZoMUJwWHppRmtCRWpvdWpCdTNMaWRWR1hWV0lqdw?oc=5",
@@ -363,11 +387,11 @@
       "category": "policy"
     },
     {
-      "title": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ",
-      "summary": "福島市、メガソーラー規制見直し 景観悪化問題受け「まちづくり計画」改定へ&nbsp;&nbsp;47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdnE2Y0d0dEJIR3pXSVpCbWk0UkdYMmNFdkNGZ3RQdWluRUNqdWNSc1h2THF0ek9GODVSS1I3WFBEb1FSOFNyNTN4UQ?oc=5",
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
       "date": "2026-11-05",
-      "source": "47NEWS",
+      "source": "Yahoo!ニュース",
       "category": "policy"
     },
     {
@@ -425,6 +449,14 @@
       "date": "2026-11-04",
       "source": "SOLAR JOURNAL",
       "category": "industry"
+    },
+    {
+      "title": "厳格規制で普及にブレーキ？ 岐路に立つ営農型太陽光発電「農家を助ける技術なのに…」",
+      "summary": "厳格規制で普及にブレーキ？ 岐路に立つ営農型太陽光発電「農家を助ける技術なのに…」&nbsp;&nbsp;朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YRXRacFc3aDF0c0Jic0RoNXdVenctRmY4TFZ4QnhZdFdKcXpabXU4SUR6OS04MWpjU2F5c1NMQTVKZ3M4Q19qREdUaG1nYWdqT0h6SlN3?oc=5",
+      "date": "2026-11-04",
+      "source": "朝日新聞",
+      "category": "policy"
     },
     {
       "title": "福島市 景観条例改正でメガソーラーの規制を強化へ",
@@ -927,38 +959,6 @@
       "summary": "オールジャパンで蓄電池システム　JR札幌駅からクルマで北に30分足らず、石狩市と小樽市にまたがる「石狩湾新港」は、人口230万人を擁する札幌経済圏の海の玄関口になる。港に面した約3000haもの広大なエリアは、北海道を代表する工業団地と流通拠点になっており、工場のほか商業施設やホテル、データセンター、物流センターなど約",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00024/00086/?ST=msb",
       "date": "2026-10-19",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "運輸分野の省エネを推進　特定荷主向けにも「事業者クラス分け評価制度」を導入へ",
-      "summary": "省エネルギー小委員会「荷主判断基準ワーキンググループ」の第12回会合で、特定荷主による継続的な省エネの推進に向けた施策として、工場分野などで先行導入されている「事業者クラス分け評価制度」などを導入する案が示された。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/16/news023.html",
-      "date": "2026-10-16",
-      "source": "スマートジャパン",
-      "category": "industry"
-    },
-    {
-      "title": "次世代型地熱、2050年度の国内市場は3047億円（ニュース）",
-      "summary": "富士経済（東京都中央区）は10月14日、次世代型地熱発電システム市場に関する調査結果を発表した。それによると日本では、次世代型は早くても2030年代後半の運転開始が見込まれるが、長期的には地熱発電開発の主流技術として普及が期待されるという。　2026年度の地熱発電システムの国内市場は270億円の見込み。従来型は、202",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06136/?ST=msb",
-      "date": "2026-10-16",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "10MWh級の「岩石蓄熱」、東芝・中電など実証（ニュース）",
-      "summary": "東芝、中部電力、新東海製紙（静岡県島田市）の3社は、新東海製紙・島田工場に熱容量約10MWh級の岩石蓄熱とエネルギーマネジメント技術を組み合わせたプラント（岩石蓄熱エネマネ設備）を設置し、このほど本格的な実証実験を開始した。10月14日に発表した。　同施設は、島田工場内の電力需給バランスに応じて電気ヒーターを稼働させ、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06135/?ST=msb",
-      "date": "2026-10-16",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "OKI、鶏舎6棟に「超軽量フレキシブル太陽光」導入（ニュース）",
-      "summary": "沖電気工業（OKI）グループのOKIクロステック（OXT、東京都中央区）は、出雲ファーム（山口市）の既存鶏舎6棟の屋根に超軽量フレキシブル（柔軟性のある）太陽光発電システムを導入し、9月から運用を開始した。9月30日に発表した。　超軽量フレキシブル太陽光発電システムは、高耐久樹脂コーティングを施した単結晶シリコン太陽電",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06134/?ST=msb",
-      "date": "2026-10-16",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
     }
