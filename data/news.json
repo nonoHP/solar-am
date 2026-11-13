@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-13 15:56 JST",
+  "updated_at": "2026-11-13 18:52 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "中国電力の水力発電システム、「AI」で業務を改善（ニュース）",
+      "summary": "AI（人工知能）開発のエクサウィザーズのグループ会社Exa Frontier Edge（エクサフロンティアエッジ、東京都港区）は、中国電力の貯水式水力発電所の発電計画を策定する業務システムについて、AIで新たに仕様書を作成し、それに基づいて構築した新システムを検証したところ、現行システムと動作が一致したと発表した。　着",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06213/?ST=msb",
+      "date": "2026-11-13",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "「新エネ大賞」に洋上風力2件、東急のPPA太陽光も（ニュース）",
+      "summary": "新エネルギー財団は11月11日、2026年度の「新エネ大賞」の受賞者22件を発表した。 経済産業大臣賞は、地域の有機廃棄物と廃プラ、木質バイオマスを混焼し、PPA（電力供給契約）で売電する事業が受賞した。　経産大臣賞の案件は、三重県松阪市のホクト三重きのこセンターの廃菌床を中心に、地域の廃材、RPF（古紙と廃プラによる",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06212/?ST=msb",
+      "date": "2026-11-13",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "日本蓄電池、佐賀と和歌山で蓄電所、CATL採用（ニュース）",
+      "summary": "日本蓄電池（東京都千代田区）は11月6日、佐賀県唐津市に設置した系統用蓄電所「NC唐津市浜玉町浜崎蓄電所」において、需給調整市場での運用を同日開始したと発表した。　同蓄電所の定格出力は1983kW、容量は8146kWh。中国CATL製の蓄電池を組み合わせたダイヘン製の蓄電池システムを採用した。クラフティアが設計・施工を",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06210/?ST=msb",
+      "date": "2026-11-13",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
     {
       "title": "電気を”資産”に変える提案力を、工務店の武器に！ ハンファジャパン「ENERICH」が目指す住宅のGX・ZEH化",
       "summary": "家庭向けエネルギー製品・サービスを統合したトータルエネルギーソリューション「ENERICH（エネリッチ）」。それはユーザーにメリットを与えると同時に、工務店・販売施工店にとっては強力な武器になるものだという。ハンファジャパンを訪ね、ENERICHの普及に向けて陣頭指揮をとる岡田将典氏に聞いた。 The post 電気を",
@@ -33,6 +57,22 @@
       "date": "2026-11-13",
       "source": "PVeye",
       "category": "industry"
+    },
+    {
+      "title": "FIP転換済み太陽光発電所の蓄電池併設を推進",
+      "summary": "FIP転換済み太陽光発電所の蓄電池併設を推進&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02R0hBNkt3WXBSUW9UektwdU1pX2hsLVhRQk53VmxBODYwTFF3NnNXVFlaZkZaankycG84XzFCUE5TWHJ1YnB1S191d295RDFpalNjeGI1a1FYbmtSbUxOdEI3X2hkV0Q5Nnc?oc=5",
+      "date": "2026-11-13",
+      "source": "PR TIMES",
+      "category": "policy"
+    },
+    {
+      "title": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜",
+      "summary": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜&nbsp;&nbsp;NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWmdQMF9jbEtKMWc0bWc2bUdmMnlRVmsyMUk1UGF5MEgxWWM3WjU3Y2dGOVJjS1JpSnVqZUx3U2hYZGJPOTNxMFBpb2ZhYk5ZQ1hzOWNDN0Z6TmVwNnhR?oc=5",
+      "date": "2026-11-13",
+      "source": "NHKニュース",
+      "category": "om_tech"
     },
     {
       "title": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】",
@@ -211,20 +251,20 @@
       "category": "industry"
     },
     {
-      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
-      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "om_tech"
-    },
-    {
       "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
       "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
+      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "om_tech"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -243,19 +283,19 @@
       "category": "policy"
     },
     {
-      "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
-      "summary": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43c3c4bUV5OTdyNjBfZWFqQm9NazZvWHdDNzZRSEMwUDBhLTBlRkMxN2ZZVi1mOFRFZmtzQTVXbURNVmFjZThzeGtKdEtLeGZFM0w3OVFYcDZ6Zko0Q2JVSVV3MGZ1dHAzN2c?oc=5",
-      "date": "2026-11-11",
-      "source": "PR TIMES",
-      "category": "market"
-    },
-    {
       "title": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給",
       "summary": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給&nbsp;&nbsp;環境ビジネスオンライン",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LME10STFDU2FPRzd6Q0VMeWlTN0dvck5vOXQzRFZIRDNfWm05RTI2a2d6VUwzNXRVUGx0MjlMRnUzbTRza05wLWNPN3I2TXNlajFkWkFmQmNMaEVIRVI2NVlsZk5peVhFQmM5cm1md2hOQ1hUY3pCYXJ6MWM?oc=5",
       "date": "2026-11-11",
       "source": "環境ビジネスオンライン",
+      "category": "market"
+    },
+    {
+      "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
+      "summary": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43c3c4bUV5OTdyNjBfZWFqQm9NazZvWHdDNzZRSEMwUDBhLTBlRkMxN2ZZVi1mOFRFZmtzQTVXbURNVmFjZThzeGtKdEtLeGZFM0w3OVFYcDZ6Zko0Q2JVSVV3MGZ1dHAzN2c?oc=5",
+      "date": "2026-11-11",
+      "source": "PR TIMES",
       "category": "market"
     },
     {
@@ -537,14 +577,6 @@
       "date": "2026-11-04",
       "source": "SOLAR JOURNAL",
       "category": "industry"
-    },
-    {
-      "title": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus",
-      "summary": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJTnVFbEx0QV9aUmtIa0JxMVdmcEZHTWVndUxsYk9ybzF2YXI5MjRMeVJGdlpseGtzUzJVMFpFdGlLbjNTaFBJOFJMNFJDaEFoZVdjSmxjYWd1VjhGOHhCZmtQSGdpeWZTTlozYm1FeENkUlVY?oc=5",
-      "date": "2026-11-04",
-      "source": "日経BP",
-      "category": "policy"
     },
     {
       "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開（ニュース）",
@@ -929,38 +961,6 @@
       "date": "2026-10-22",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
-    },
-    {
-      "title": "J-クレジットの適用を緩和　東京都など太陽光発電の導入義務化自治体でも登録可能に",
-      "summary": "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認める方針だ。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/21/news029.html",
-      "date": "2026-10-21",
-      "source": "スマートジャパン",
-      "category": "industry"
-    },
-    {
-      "title": "ネクストエナジー、住宅太陽光事業などエンバイオに譲渡（ニュース）",
-      "summary": "ネクストエナジー・アンド・リソース（長野県駒ヶ根市）は10月16日、エンバイオ・ホールディングスとの間で、住宅用太陽光発電設備の開発・販売事業、産業用太陽光発電のEPC（設計・調達・施工）サービスとO&M（運営・保守）サービス事業、海外事業を譲渡する契約を締結したと発表した。　対象事業は、エンバイオ・ホールディングスが",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06144/?ST=msb",
-      "date": "2026-10-21",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "日本蓄電池とSBIスマートエナジー、「系統用蓄電池ファンド」組成（ニュース）",
-      "summary": "日本蓄電池（東京都千代田区）とSBIスマートエナジー（東京都港区）は、系統用蓄電池事業ファンドを共同で組成し、10月1日から運営を開始した。全国に分散配置された高圧系統用蓄電所7カ所を対象としており、2026年度中に全施設の商業運転の開始を見込む。　SPC（特別目的会社）を活用したノンリコース型のプロジェクトファイナン",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06143/?ST=msb",
-      "date": "2026-10-21",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
-    },
-    {
-      "title": "日本の地熱発電システム市場は2050年度に3500億円規模へ　次世代型が急拡大",
-      "summary": "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
-      "date": "2026-10-20",
-      "source": "スマートジャパン",
-      "category": "market"
     }
   ]
 }
