@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-11-12 18:53 JST",
+  "updated_at": "2026-11-13 09:08 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
+      "summary": "一次調整力取引開始",
+      "link": "https://www.pveye.jp/inside_news/view/6848/",
+      "date": "2026-11-13",
+      "source": "PVeye",
+      "category": "policy"
+    },
+    {
+      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
+      "summary": "",
+      "link": "https://www.pveye.jp/inside_news/view/6851/",
+      "date": "2026-11-13",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "パシフィックコンサル、水上太陽光で実証開始",
+      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
+      "link": "https://www.pveye.jp/inside_news/view/6852/",
+      "date": "2026-11-13",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "ソンサット湖太陽光発電プロジェクト用地の測量。",
+      "summary": "ソンサット湖太陽光発電プロジェクト用地の測量。&nbsp;&nbsp;Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2ludmRIamZJbFlKcFY2c0FHTHVlQ2RzWFl4cHVkLWl0a2xyQWQzTFl3aWhyc0xxZUxsYzVoQkN0dnFoeWpzR2JjSlRScER5QWpteW5sZXZMakJ1SkJFMGpiTGF0X3dFeVh2V3FMSEhRdkZjV2dnemZzWVlJcGIwaG9lTXIzSnk2WURnQw?oc=5",
+      "date": "2026-11-13",
+      "source": "Vietnam.vn",
+      "category": "policy"
+    },
     {
       "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
       "summary": "第117・118回「調達価格等算定委員会」では、バイオマス・中小水力・地熱の再エネ業界団体などに対して、現状のコスト動向や自立化に向けた取り組み、国への要望などについてヒアリングが行われた。",
@@ -9,6 +41,14 @@
       "date": "2026-11-12",
       "source": "スマートジャパン",
       "category": "policy"
+    },
+    {
+      "title": "パネル・リサイクル制度、「ガラスを回収し、ほぼ全て再資源化」（ニュース）",
+      "summary": "経済産業省と環境省は、11月11日に開催した有識者会議（「太陽電池廃棄物の再資源化等の推進に関する法律」の下位法令の策定等に係る検討会）において、太陽光パネルのリサイクル制度における認定事業者の認定基準、処理基準などについて議論した。　「太陽電池廃棄物再資源化等事業」の認定要件については、認定制度の目的が太陽光パネルの",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06203/?ST=msb",
+      "date": "2026-11-12",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
     },
     {
       "title": "51％が「1年以内にペロブスカイト太陽電池を提案」と回答（ニュース）",
@@ -56,30 +96,6 @@
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00007/00202/?ST=msb",
       "date": "2026-11-12",
       "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
-      "summary": "一次調整力取引開始",
-      "link": "https://www.pveye.jp/inside_news/view/6848/",
-      "date": "2026-11-12",
-      "source": "PVeye",
-      "category": "policy"
-    },
-    {
-      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
-      "summary": "",
-      "link": "https://www.pveye.jp/inside_news/view/6851/",
-      "date": "2026-11-12",
-      "source": "PVeye",
-      "category": "industry"
-    },
-    {
-      "title": "パシフィックコンサル、水上太陽光で実証開始",
-      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
-      "link": "https://www.pveye.jp/inside_news/view/6852/",
-      "date": "2026-11-12",
-      "source": "PVeye",
       "category": "industry"
     },
     {
@@ -131,6 +147,14 @@
       "category": "om_tech"
     },
     {
+      "title": "中国初の商用中小型・純太陽光発電無人機が初飛行に成功",
+      "summary": "中国初の商用中小型・純太陽光発電無人機が初飛行に成功&nbsp;&nbsp;AFPBB News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSG94SkFpYWtjU21fcmItaGlTM1h3YmRVaU83UUJ0Y2FJZThzcWRXaWJ6ZnlpS1JiMjZrX0QyaG1OQmlWaTk4NW5iSFU2bXdpZFHSAVRBVV95cUxPcDBJT09LcnhkaEFGN3o0VkxjSWhad0pTTmhpMjZKRUhsTHdGQVBidk1seTViMHFGUEtIeV8xM3lsQUpEbXlTRGNzQzV2cm9VSHp5aVY?oc=5",
+      "date": "2026-11-12",
+      "source": "AFPBB News",
+      "category": "om_tech"
+    },
+    {
       "title": "系統用蓄電所（４拠点）設備施工・管理のお知らせ",
       "summary": "系統用蓄電所（４拠点）設備施工・管理のお知らせ&nbsp;&nbsp;PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeEpubnRBNnZtXzVURkFDdWNaUy11R3B0OWY2OUJKc0FmdkdSUDJKaTlvSlE2S1M2SlZJU2dwU3RlWkZubzhlWUxvYnVPZ2ZYdDd3elVpb0NSZ0lyLUREdkFROXR0NXhrcGc?oc=5",
@@ -179,20 +203,20 @@
       "category": "industry"
     },
     {
-      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
-      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "om_tech"
-    },
-    {
       "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
       "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
+      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "om_tech"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -203,11 +227,11 @@
       "category": "market"
     },
     {
-      "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町",
-      "summary": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町&nbsp;&nbsp;日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGEtZGd5eVdxd2tiWF81ejZNelk1M3N0cnROSXJERG9lVFZZSmNhX3hwZkYtYXBDdjhUQXVPNHpmWllCcnlrVjV2TkswVzJLSGJfc1JnWW45QUZVS1Q3LW9JOUdpSVpXUHJKWF9iS3o5RnFueFRXVXNMZF9rekRDNVVFb3NkSlE?oc=5",
+      "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町（青森放送）",
+      "summary": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町（青森放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBocE5VTmJTQjRDZUZsRnBzTUxGRVY3SWQ3ZVlBeUFZcUlFT3JVMmtGUmVYcVVPbE1NYTVWclA0MEVQekxBTzQ2VVpZaW5xUVlxMlFSUFNqWHhJSkZkMjVRTTJNeTdoVjNfQ25sdXFKVldibWNLS09UN05uY2kzWFk?oc=5",
       "date": "2026-11-11",
-      "source": "日テレNEWS NNN",
+      "source": "Yahoo!ニュース",
       "category": "policy"
     },
     {
@@ -233,14 +257,6 @@
       "date": "2026-11-11",
       "source": "ニコニコニュース",
       "category": "om_tech"
-    },
-    {
-      "title": "インテレクトの親会社NAXTとBLD Power Stationsが「Rearth Energy Development」を設立",
-      "summary": "インテレクトの親会社NAXTとBLD Power Stationsが「Rearth Energy Development」を設立&nbsp;&nbsp;ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaUEcyN3M5SG1NbE5iaE5rbFZlVFZGaENPNW5xM0duRWJsT0xlRGF5SWtQTVNWYkx0Vl9wMU5WU29aX1RZdzc0ZlZIN1V1MWNpdWpqMjNHTVhUQm91dU0tTU16M3hRaFVkRGt1WGc1a09pd0dqbzU4QmFDMA?oc=5",
-      "date": "2026-11-11",
-      "source": "ニコニコニュース",
-      "category": "finance"
     },
     {
       "title": "燃料価格高騰による調整力費用の急増、BGによる不足インバランスの増加も要因に",
@@ -284,10 +300,10 @@
     },
     {
       "title": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで",
-      "summary": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで&nbsp;&nbsp;Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hbjRlelFUNkpVY0hZNGFjanZCMjQxNWtGUGlLOVZ1ZmEyTkxzSVVHMWZPdnZaOFMwLWxYeTA1ZG5TbjdXRjkyRkNJNGVtb1Azb2pGU0tiVEVZQWFNc1p6VQ?oc=5",
+      "summary": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで&nbsp;&nbsp;ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wRW8xdmZnV0s0N0ZfRHlmYVJGZWdJSTlEdmUzZHgySG1QZEdEQzlGR1pwUDg3Vjg3SUpEcEFNcTN0Vk1sN2YzYUtoeE5IcmxTVGpUMU9ZYjZRbkZ1X0k4MXRGLVdkTWhCeGVoOG80TkhZUDlLNWlR0gF8QVVfeXFMTTZKbU04aUVLUm1pb2RmQlhWa2pwX2NFNGJNYlJ3anBsWXdLUGxPczNrTEpsb1VaZ3lleUFDNHZJMjljMGFFSldqck1mZ2xNZXlvRnV2dDEtQnVZc2hReGEyOW5xbDNPT182VnRaWUdTVnBXNWpoZ043UHlXdA?oc=5",
       "date": "2026-11-10",
-      "source": "Infoseek",
+      "source": "ｄメニューニュース",
       "category": "market"
     },
     {
@@ -451,9 +467,9 @@
       "category": "industry"
     },
     {
-      "title": "日本で生まれた新技術「営農型太陽光発電」が岐路に 「農家を助ける技術なのに…」農林水産省が規制強化へ",
-      "summary": "日本で生まれた新技術「営農型太陽光発電」が岐路に 「農家を助ける技術なのに…」農林水産省が規制強化へ&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQTNUZGVJVXJiOXYzeGxtTWxXc3FVTjlnSlpoeHg2eWt1VGNYc2x4ZUtpblRaMzBYT1dURGtzc1hlTUlNcVFEYlVnWW82cXZWaHNQVmRVWmFIWkFhWWhRNWpMVE8zbXZqMmdqMjIzbV9ZMlhvV0x2alUxWE5mWTQ?oc=5",
+      "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
+      "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
       "date": "2026-11-05",
       "source": "Yahoo!ニュース",
       "category": "policy"
@@ -943,22 +959,6 @@
       "summary": "日本蓄電池（東京都千代田区）とSBIスマートエナジー（東京都港区）は、系統用蓄電池事業ファンドを共同で組成し、10月1日から運営を開始した。全国に分散配置された高圧系統用蓄電所7カ所を対象としており、2026年度中に全施設の商業運転の開始を見込む。　SPC（特別目的会社）を活用したノンリコース型のプロジェクトファイナン",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06143/?ST=msb",
       "date": "2026-10-21",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
-    },
-    {
-      "title": "日本の地熱発電システム市場は2050年度に3500億円規模へ　次世代型が急拡大",
-      "summary": "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
-      "date": "2026-10-20",
-      "source": "スマートジャパン",
-      "category": "market"
-    },
-    {
-      "title": "関電、FIT低圧太陽光をリパワリングして取得、300カ所目標（ニュース）",
-      "summary": "太陽光・省エネ関連事業を手掛けるアポロ（東京都渋谷区）と、関西電力および100％子会社のE-Second（イーセカンド、大阪市）の3社は10月2日、既設の固定価格買取制度（FIT）で売電する太陽光発電所のリパワリング・売却などに関する包括協定を締結した。　既設FIT太陽光発電所では、設備の経年化や維持管理、事業継承、制",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06142/?ST=msb",
-      "date": "2026-10-20",
       "source": "日経BP メガソーラービジネス",
       "category": "finance"
     }
