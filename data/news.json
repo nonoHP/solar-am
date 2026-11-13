@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:43 JST",
+  "updated_at": "2026-11-13 15:56 JST",
   "total_count": 120,
   "items": [
     {
@@ -33,14 +33,6 @@
       "date": "2026-11-13",
       "source": "PVeye",
       "category": "industry"
-    },
-    {
-      "title": "ソンサット湖太陽光発電プロジェクト用地の測量。",
-      "summary": "ソンサット湖太陽光発電プロジェクト用地の測量。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2ludmRIamZJbFlKcFY2c0FHTHVlQ2RzWFl4cHVkLWl0a2xyQWQzTFl3aWhyc0xxZUxsYzVoQkN0dnFoeWpzR2JjSlRScER5QWpteW5sZXZMakJ1SkJFMGpiTGF0X3dFeVh2V3FMSEhRdkZjV2dnemZzWVlJcGIwaG9lTXIzSnk2WURnQw?oc=5",
-      "date": "2026-11-13",
-      "source": "Vietnam.vn",
-      "category": "policy"
     },
     {
       "title": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】",
@@ -267,14 +259,6 @@
       "category": "market"
     },
     {
-      "title": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説",
-      "summary": "タイ政府EECO・Zeroboard・エネテクが登壇。タイの脱炭素政策と太陽光O&Mの最新動向を解説&nbsp;&nbsp;ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HNkxmcHhwU19aWVg5b1c1NnduZWJXWG5MazhUOVEzcC0xbUdNdzRQcVVfU1c1dkNTT3VRa3ZvMFJLS1dFUUd3MlplSGxZakVydVh6M2NDQ3pVeEdkemJtUFRKNmxTelR5?oc=5",
-      "date": "2026-11-11",
-      "source": "ニコニコニュース",
-      "category": "om_tech"
-    },
-    {
       "title": "燃料価格高騰による調整力費用の急増、BGによる不足インバランスの増加も要因に",
       "summary": "燃料費高騰などを受けて、電力会社による調整力調達費用の増加が続いている。電力・ガス取引監視等委員会の「制度設計・監視専門会合」では、足元の需給調整市場の動向と、調整力費用の詳細な増加要因について分析が行われた。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/10/news028.html",
@@ -313,6 +297,14 @@
       "date": "2026-11-10",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "【2026年11月最新】応募受付中！SOLAR JOURNALイチオシ 太陽光ビジネスイベント",
+      "summary": "FIP終了、BCP対策、投資対象としてますます注目を集める太陽光発電。SOLAR JOURNAL では、太陽光ビジネスにまつわるセミナーを複数開催! ペロブスカイトをはじめとする最新技術から、東京都の手がける助成金、そして蓄電池特化型セミナー! 再エネ業界の「今」を知り、ビジネスを加速させよう。 The post 【2",
+      "link": "https://solarjournal.jp/event/67381/",
+      "date": "2026-11-10",
+      "source": "SOLAR JOURNAL",
+      "category": "policy"
     },
     {
       "title": "北海道電力、道内のセブン約870店に太陽光発電の電力供給開始 - オフサイトPPAで",
@@ -547,6 +539,14 @@
       "category": "industry"
     },
     {
+      "title": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus",
+      "summary": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJTnVFbEx0QV9aUmtIa0JxMVdmcEZHTWVndUxsYk9ybzF2YXI5MjRMeVJGdlpseGtzUzJVMFpFdGlLbjNTaFBJOFJMNFJDaEFoZVdjSmxjYWd1VjhGOHhCZmtQSGdpeWZTTlozYm1FeENkUlVY?oc=5",
+      "date": "2026-11-04",
+      "source": "日経BP",
+      "category": "policy"
+    },
+    {
       "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開（ニュース）",
       "summary": "ニプロンは10月21、22日に兵庫県尼崎市の本社・阪神夢工場で開催した「ニプロンカーボンニュートラルフェア2026」で、独自開発したワイヤー懸架（けんか）方式による壁面太陽光の実証設備を公開した。4階建の本社ビルの南面に設置したもので、軽量タイプの結晶シリコン太陽光パネル7枚を設置した。　グラスファイバー製の懸架ワイヤ",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06172/?ST=msb",
@@ -755,14 +755,6 @@
       "category": "industry"
     },
     {
-      "title": "【12/3大阪開催】『低圧系統用蓄電池』ビジネスの全貌 〜事業者が今知るべき最新トレンドと収益モデル〜",
-      "summary": "12/3(木)大阪市内で、低圧系統用蓄電池ビジネスセミナーをリアル限定開催！　空前の盛り上がりを見せる低圧系統用蓄電池の最新トレンドや、投資家・EPC事業者が今知るべき具体的な収益モデル、運用設計をプロが徹底解説します。お食事付き懇親会でのネットワーキング機会も。ぜひご参加ください！ The post 【12/3大阪開",
-      "link": "https://solarjournal.jp/event/67700/",
-      "date": "2026-10-29",
-      "source": "SOLAR JOURNAL",
-      "category": "market"
-    },
-    {
       "title": "合成メタンなどの「次世代ガス」の国際動向　国内普及に向けた新たな官民協議会も",
       "summary": "バイオガスを含む「次世代ガス」の普及を目指し、政府が新たに「次世代ガス推進官民協議会」を設置。その第1回会合では、合成メタンやバイオガス・メタンなどの国内外の動向が報告された。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/28/news031.html",
@@ -961,6 +953,14 @@
       "date": "2026-10-21",
       "source": "日経BP メガソーラービジネス",
       "category": "finance"
+    },
+    {
+      "title": "日本の地熱発電システム市場は2050年度に3500億円規模へ　次世代型が急拡大",
+      "summary": "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
+      "date": "2026-10-20",
+      "source": "スマートジャパン",
+      "category": "market"
     }
   ]
 }
