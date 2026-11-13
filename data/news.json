@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-13 09:08 JST",
+  "updated_at": "2026-11-13 12:43 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "電気を”資産”に変える提案力を、工務店の武器に！ ハンファジャパン「ENERICH」が目指す住宅のGX・ZEH化",
+      "summary": "家庭向けエネルギー製品・サービスを統合したトータルエネルギーソリューション「ENERICH（エネリッチ）」。それはユーザーにメリットを与えると同時に、工務店・販売施工店にとっては強力な武器になるものだという。ハンファジャパンを訪ね、ENERICHの普及に向けて陣頭指揮をとる岡田将典氏に聞いた。 The post 電気を",
+      "link": "https://solarjournal.jp/product/68101/",
+      "date": "2026-11-13",
+      "source": "SOLAR JOURNAL",
+      "category": "industry"
+    },
     {
       "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
       "summary": "一次調整力取引開始",
@@ -33,6 +41,14 @@
       "date": "2026-11-13",
       "source": "Vietnam.vn",
       "category": "policy"
+    },
+    {
+      "title": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】",
+      "summary": "太陽光発電所向け「パワコン遠隔制御システム」を提供開始【旧型パワコンの出力制御を遠隔化し、現地での停止・再開作業の負担を軽減】&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oelRobS1lVFlROTlGa3A4eDNxaFhVRjdHMTJhYlR4TnFVbERpT2NjRzN0Yllwc2dWUGtSZjVOUEY1S3gzSkpiS01LR0JZakgwdmdPS1N0TWVCcEUwVmRSZEV2U2d6TFV5bG56aEFZenhMbldvRWp2SFR2TQ?oc=5",
+      "date": "2026-11-13",
+      "source": "ニコニコニュース",
+      "category": "om_tech"
     },
     {
       "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
@@ -203,20 +219,20 @@
       "category": "industry"
     },
     {
-      "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
-      "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
       "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
       "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "om_tech"
+    },
+    {
+      "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
+      "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -235,19 +251,19 @@
       "category": "policy"
     },
     {
-      "title": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給",
-      "summary": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給&nbsp;&nbsp;環境ビジネスオンライン",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LME10STFDU2FPRzd6Q0VMeWlTN0dvck5vOXQzRFZIRDNfWm05RTI2a2d6VUwzNXRVUGx0MjlMRnUzbTRza05wLWNPN3I2TXNlajFkWkFmQmNMaEVIRVI2NVlsZk5peVhFQmM5cm1md2hOQ1hUY3pCYXJ6MWM?oc=5",
-      "date": "2026-11-11",
-      "source": "環境ビジネスオンライン",
-      "category": "market"
-    },
-    {
       "title": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞",
       "summary": "コーポレートＰＰＡを活用した“追加性のある再エネ由来電力”を鉄道運行に導入する取り組みが、令和８年度 新エネ大賞「新エネルギー財団会長賞」を受賞&nbsp;&nbsp;PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43c3c4bUV5OTdyNjBfZWFqQm9NazZvWHdDNzZRSEMwUDBhLTBlRkMxN2ZZVi1mOFRFZmtzQTVXbURNVmFjZThzeGtKdEtLeGZFM0w3OVFYcDZ6Zko0Q2JVSVV3MGZ1dHAzN2c?oc=5",
       "date": "2026-11-11",
       "source": "PR TIMES",
+      "category": "market"
+    },
+    {
+      "title": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給",
+      "summary": "セブンイレブン、北海道の約870店舗にオフサイトPPAで再エネ供給&nbsp;&nbsp;環境ビジネスオンライン",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LME10STFDU2FPRzd6Q0VMeWlTN0dvck5vOXQzRFZIRDNfWm05RTI2a2d6VUwzNXRVUGx0MjlMRnUzbTRza05wLWNPN3I2TXNlajFkWkFmQmNMaEVIRVI2NVlsZk5peVhFQmM5cm1md2hOQ1hUY3pCYXJ6MWM?oc=5",
+      "date": "2026-11-11",
+      "source": "環境ビジネスオンライン",
       "category": "market"
     },
     {
@@ -363,14 +379,6 @@
       "category": "market"
     },
     {
-      "title": "ジャパンブランディング、系統用蓄電池とFIT・FIP解説ウェビナー開催へ",
-      "summary": "ジャパンブランディング、系統用蓄電池とFIT・FIP解説ウェビナー開催へ&nbsp;&nbsp;Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PTEpIbm9EUFY2QUlnd1ZOR0dlM0lvZk1YTFNvU1dZaldvU21GRGFVU3NkS0U1TUVFQWRMeG1UZVozV0k5cmc?oc=5",
-      "date": "2026-11-08",
-      "source": "Dellows News",
-      "category": "market"
-    },
-    {
       "title": "排出量取引制度、上限価格への張り付き予防に「過度なバンキング」を制限へ",
       "summary": "2026年4月からスタートした排出量取引制度（GX-ETS）の第2フェーズ。2027年秋頃に予定する「排出枠取引市場」の開設に向けて、経済産業省の「排出量取引制度小委員会」第9・10回会合では、上限価格に係る「みなし保有措置」、下限価格に係る「リバースオークション」、過度な「バンキング（繰越し）」を予防するための措置な",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/06/news034.html",
@@ -467,6 +475,14 @@
       "category": "industry"
     },
     {
+      "title": "日本で生まれた新技術「営農型太陽光発電」が岐路に 「農家を助ける技術なのに…」農林水産省が規制強化へ",
+      "summary": "日本で生まれた新技術「営農型太陽光発電」が岐路に 「農家を助ける技術なのに…」農林水産省が規制強化へ&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQTNUZGVJVXJiOXYzeGxtTWxXc3FVTjlnSlpoeHg2eWt1VGNYc2x4ZUtpblRaMzBYT1dURGtzc1hlTUlNcVFEYlVnWW82cXZWaHNQVmRVWmFIWkFhWWhRNWpMVE8zbXZqMmdqMjIzbV9ZMlhvV0x2alUxWE5mWTQ?oc=5",
+      "date": "2026-11-05",
+      "source": "Yahoo!ニュース",
+      "category": "policy"
+    },
+    {
       "title": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）",
       "summary": "福島市がメガソーラー規制強化 事業者の責任や義務を拡大 条例改正案を12月市議会に 来年4月施行へ（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbmhDajM5QWpnNXFMRjl0U3VmMDBVT2FxWHJHSlgya015YmlOYllZc1dzR1NRUHBCWndwNk5MT1RoUENnTDF3aE90b1dYMEZZWGNlUXh6b1dWSWRFVEgzRXp1WGNSZEZLcW00eTdlWm1NV092elp5SWVnU3lvMVk?oc=5",
@@ -529,14 +545,6 @@
       "date": "2026-11-04",
       "source": "SOLAR JOURNAL",
       "category": "industry"
-    },
-    {
-      "title": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus",
-      "summary": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJTnVFbEx0QV9aUmtIa0JxMVdmcEZHTWVndUxsYk9ybzF2YXI5MjRMeVJGdlpseGtzUzJVMFpFdGlLbjNTaFBJOFJMNFJDaEFoZVdjSmxjYWd1VjhGOHhCZmtQSGdpeWZTTlozYm1FeENkUlVY?oc=5",
-      "date": "2026-11-04",
-      "source": "日経BP",
-      "category": "policy"
     },
     {
       "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開（ニュース）",
@@ -753,14 +761,6 @@
       "date": "2026-10-29",
       "source": "SOLAR JOURNAL",
       "category": "market"
-    },
-    {
-      "title": "【受賞者決定！】ソーラーウィーク2026　30件を超える応募から13件が受賞！",
-      "summary": "太陽光発電協会は10月14日、2026年度ソーラーウィーク大賞の受賞者を発表した。大賞2件、優秀賞5件、特別賞6件の計13件が選ばれた。応募件数は30件を超え、昨年を上回った。大賞には2件が選ばれた。1つは栃木県・茨城県・福島県・宮城県と広域で展開する、ソーラーシェアリングを中心とした地方創生の取り組み(グリーンシステ",
-      "link": "https://solarjournal.jp/news/68244/",
-      "date": "2026-10-29",
-      "source": "SOLAR JOURNAL",
-      "category": "industry"
     },
     {
       "title": "合成メタンなどの「次世代ガス」の国際動向　国内普及に向けた新たな官民協議会も",
