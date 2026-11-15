@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 15:50 JST",
+  "updated_at": "2026-11-15 18:41 JST",
   "total_count": 120,
   "items": [
     {
@@ -25,6 +25,14 @@
       "date": "2026-11-15",
       "source": "PVeye",
       "category": "industry"
+    },
+    {
+      "title": "風力発電および太陽光発電に関する技術基準と規制の見直しを強化する。",
+      "summary": "風力発電および太陽光発電に関する技術基準と規制の見直しを強化する。&nbsp;&nbsp;Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkdoLTlhVkgzd3NrV1ZIY2EwZGZWSkNocDNGVzRyazFFRm9UeWdfbkI4NWhyRWh6akZ4VktKMVlEZjdQWXRHSWVHd3JXZ19yZEF6VEJEc295c0E4NXkwenVtajk3QnFkZEZPZ0ozOU91akxOX3FjODJqTk9iM05PTHZ6aE4wbVZWMzFWNEpLSV82dUp1b2x0anJrZkRQSDZ3VlE?oc=5",
+      "date": "2026-11-15",
+      "source": "Vietnam.vn",
+      "category": "policy"
     },
     {
       "title": "「佐賀バルーンフェスタでドローンショー開催へ」が1位に 2026年10月記事PVランキング",
@@ -952,14 +960,6 @@
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/102000231/?ST=msb",
       "date": "2026-10-22",
       "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "J-クレジットの適用を緩和　東京都など太陽光発電の導入義務化自治体でも登録可能に",
-      "summary": "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認める方針だ。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/21/news029.html",
-      "date": "2026-10-21",
-      "source": "スマートジャパン",
       "category": "industry"
     }
   ]
