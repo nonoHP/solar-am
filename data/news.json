@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 15:59 JST",
+  "updated_at": "2026-11-17 18:55 JST",
   "total_count": 120,
   "items": [
     {
@@ -17,6 +17,38 @@
       "date": "2026-11-17",
       "source": "スマートジャパン",
       "category": "market"
+    },
+    {
+      "title": "「エコめがね」情報漏洩、サービス再開は12月頃が目標（ニュース）",
+      "summary": "NTTスマイルエナジー（大阪市）は11月13日、同社が提供する太陽光発電遠隔監視サービス「エコめがね」のシステムで発生した不正アクセス事案について、今後のサービス再開見通しを発表した。外部専門機関による安全性の検証作業が完了次第、サービスを順次再開する予定で、2026年12月上旬頃を目標に復旧作業を進めているという。　",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06218/?ST=msb",
+      "date": "2026-11-17",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "2035年度の国内バイオマス発電量は486億kWhと予測（ニュース）",
+      "summary": "矢野経済研究所（東京都中野区）は11月13日、国内におけるバイオマス発電の電力量予測を発表した。近年、事故や燃料調達コストの上昇などにより稼働休止または発電事業を終了するバイオマス発電所が出る一方、固定価格買取制度（FIT）認定を受けた10MW超の大規模バイオマス発電所が順次稼働開始しており、発電量は400億kWh台で",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06217/?ST=msb",
+      "date": "2026-11-17",
+      "source": "日経BP メガソーラービジネス",
+      "category": "policy"
+    },
+    {
+      "title": "福井市の50MW陸上風力、村田製作所へオフサイトPPA供給（ニュース）",
+      "summary": "シンガポールの独立系再生可能エネルギー発電事業者であるヴィーナ・グループは、福井市で風力発電所「二枚田風力発電所」を開発し、10月1日に商業運転を開始した。発電した電力は、オフサイト型フィジカルPPA（電力購入契約）に基づき、北陸電力を通じて村田製作所へ供給される。11月13日に発表した（図1）。　合計出力50MW（単",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06216/?ST=msb",
+      "date": "2026-11-17",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "風車タワー側面にカルコパイライト太陽電池を設置（ニュース）",
+      "summary": "古河産業（東京都港区）、四電エンジニアリング（高松市）および同社100％子会社の頴娃風力発電合同会社の3社は、鹿児島県南九州市の「頴娃風力発電所」において、フィルム型カルコパイライト太陽電池を風車タワーの側面に設置する共同実証実験を11月10日から開始した。　古河産業がPXP（相模原市）製のカルコパイライト太陽電池を供",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06215/?ST=msb",
+      "date": "2026-11-17",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
     },
     {
       "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
@@ -43,12 +75,68 @@
       "category": "industry"
     },
     {
-      "title": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託",
-      "summary": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託&nbsp;&nbsp;時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rU0xjenJRSmJFRWE3dndkRzdfV0JjRWgwbmIwem40ZmRjTTFQZkFGZE5HOVJ4dnZkcjgyMlN5YmtIVDBVVmFvQXhqRjVvMmNqbDR2Y0NXZnZXbER3LWR3UVdvS3A1YktDcUNN?oc=5",
+      "title": "「太陽光発電」設置条例を提案へ、小さい施設でも説明会の開催必須に…「告知なくいきなり工事始まった」住民とのトラブル発生で（読売新聞オンライン）",
+      "summary": "「太陽光発電」設置条例を提案へ、小さい施設でも説明会の開催必須に…「告知なくいきなり工事始まった」住民とのトラブル発生で（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82N05oQzQ2WWJyNzBLZkdCLXlrR2ZHZTd3MlV5bWkxTUJ0NkMyT0lOVVZKTHcxaVNIdkl5b2FzbDJnTmM1TlRyanlLYmFPand0YjQ1Q3VnWFJicDl6di1kOXcwb2gyUjNsQjQtXzlydHdJWWVpaVZWV20xc3U2R3c?oc=5",
       "date": "2026-11-17",
-      "source": "時事ドットコム",
+      "source": "Yahoo!ニュース",
       "category": "policy"
+    },
+    {
+      "title": "メガソーラー、北海道釧路の規制条例施行1年で申請4件に減少 抑制効果も着工事業に課題",
+      "summary": "メガソーラー、北海道釧路の規制条例施行1年で申請4件に減少 抑制効果も着工事業に課題&nbsp;&nbsp;産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbDFyOGx1QmY2cnhSYnMzLUJDZTFQZkVsUjlBUVRwaXdaWHhQTmJ1UEVuZGZFZVAza20taHBJdnBfV2xVdV8wNFhuN0JQSXIyc0lkZ09FdDFJYTdHaFNLUGMwaXJrUmtaN0x3bzZyYlBWdl9sNFE?oc=5",
+      "date": "2026-11-17",
+      "source": "産経ニュース",
+      "category": "policy"
+    },
+    {
+      "title": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託",
+      "summary": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託&nbsp;&nbsp;広島経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LSGVDZDlFeUt6bEFMd0N5V1U2VGJuU2YxZGc0N3pHaXdpQTU0ZjRnUkU1bEtWWWo0Y29tNkpkOTFJQmRncDlsZjdqUHhQYjJHaUpscHNiMA?oc=5",
+      "date": "2026-11-17",
+      "source": "広島経済新聞",
+      "category": "policy"
+    },
+    {
+      "title": "PVCase、初期段階の太陽光発電用地実現可能性ツール「PVcase Concept」を発表 - ニュースと統計",
+      "summary": "PVCase、初期段階の太陽光発電用地実現可能性ツール「PVcase Concept」を発表 - ニュースと統計&nbsp;&nbsp;IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczRwQ05PZnhzaUY0X1d6VjBXMjJOVkp4UTY1QmNXNGlpaDAtVU9uYXJpeUstOUJEeE9GaWFPb0tFRjFWdENGazB1dlZKZU4tN3hOSkRWTzlyNC1XN1Z2Z05oOG9RaDZqcFpMSEhLUXlXRk9RX042QkRkTHdNVWNEOHFrTEppS01IaTF5bVJQTzA2cWNkU2VmNE1wcTcwY2lFODlnaw?oc=5",
+      "date": "2026-11-17",
+      "source": "IndexBox",
+      "category": "policy"
+    },
+    {
+      "title": "安心ひとくちメモ第8号 その点検、本当に必要ですか？太陽光発電の点検商法に注意",
+      "summary": "安心ひとくちメモ第8号 その点検、本当に必要ですか？太陽光発電の点検商法に注意&nbsp;&nbsp;大子町ホームページ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54ZmZlYVRJLVpMcVZiZXRLTG9Oc0Y3RjY3SUNKbWtSMXhOS3o3dTNwaGh6WXRjSFNwYjdvZGl6OC1RUkdwVXBlWC1JR3dhNFRPSDh5emxyeDA5TDQtU1ljOXNIU3Q?oc=5",
+      "date": "2026-11-17",
+      "source": "大子町ホームページ",
+      "category": "om_tech"
+    },
+    {
+      "title": "太陽光発電ドローンの市場規模、シェア、動向、2035年までの世界予測（MarketsandMarkets）",
+      "summary": "太陽光発電ドローンの市場規模、シェア、動向、2035年までの世界予測（MarketsandMarkets）&nbsp;&nbsp;ドリームニュース",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3emQ5Q2d4Wk1ES1dEQmMwWU5aQkdveFhpQlpiWkV6S2VlOFFfUGVSc1p5TDJCVWRHd1c1eF93WU5aZ19MVE1xdG9KcGxySzJVOG5J?oc=5",
+      "date": "2026-11-17",
+      "source": "ドリームニュース",
+      "category": "om_tech"
+    },
+    {
+      "title": "PVFire-YOLO：太陽光発電所向け深層学習による火災検知 - ニュースと統計",
+      "summary": "PVFire-YOLO：太陽光発電所向け深層学習による火災検知 - ニュースと統計&nbsp;&nbsp;IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUd6MHNyWGdnSzlsTG5vOHdoUy1sZWxpeUxlb2RmOGMxZDhSblEwZW5FZFVGd0xDdkJhSHoxc0lJakxsZXZkWmhMdm9BbUVHNjJHSmZ5MHZfYlFkUy11Y1lON09IZC1ac1VTU3c5RXdQYk45M3RMVXU5OC1KXzRweUlEV0Z1bmZQQXktdmhSbEo1YUo2c2lQU1doU3RXNkxjRUxsWVNva1RKTVBtQkJWSFFCbHB3OUN4bkpEYjlXSnR4MVNocVVmSHNBdFlsZE44NXc?oc=5",
+      "date": "2026-11-17",
+      "source": "IndexBox",
+      "category": "om_tech"
+    },
+    {
+      "title": "太陽光発電ドローンの市場規模、シェア、動向、2035年までの世界予測（MarketsandMarkets） (2026年11月17日掲載)",
+      "summary": "太陽光発電ドローンの市場規模、シェア、動向、2035年までの世界予測（MarketsandMarkets） (2026年11月17日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CdVp6dHZhMG5vU3dCU1BCdGMzaVh1MTNQQWFUS3NyUlFDdHVxOHVjQTVScEs1RmJyNmhhekxST3FOTU8xX001T3ZUa3JRc0ZReVNYcmt2MlNnQWVMdjV4eDh3?oc=5",
+      "date": "2026-11-17",
+      "source": "ライブドアニュース",
+      "category": "om_tech"
     },
     {
       "title": "中国メーカーがJC-STAR対応に苦戦する理由──太陽光・蓄電池事業者がとるべき対応は",
@@ -83,11 +171,27 @@
       "category": "om_tech"
     },
     {
-      "title": "再エネ、出力制御が増加 広島など中国地方で9、10月 太陽光拡大や島根原発再開が要因",
-      "summary": "再エネ、出力制御が増加 広島など中国地方で9、10月 太陽光拡大や島根原発再開が要因&nbsp;&nbsp;中国新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lR3NLTXUtNWVPTVhNRmdNYXp6Qk1HblZYa2Vrb21WWHV2bmtKcnFocThXVUJHOEZBUzJ0bTgxRktoWVg4amQwQjRzeFpRSkFlRVlvWDZDSEVqQQ?oc=5",
+      "title": "ACM、2027年のネットメータリング終了前にエネルギー契約の見直しを呼びかけ - ニュースと統計",
+      "summary": "ACM、2027年のネットメータリング終了前にエネルギー契約の見直しを呼びかけ - ニュースと統計&nbsp;&nbsp;IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVUNYVDhjZGNfWXZDbHFwUTdNWmNWQ1VsdHBsYURpMW9pWlJsNlVVbWt4QlJpeEJJZjd2WkhiSExSVC1aR0ttanhKNS16c3pJMmN6VERKb3QtSXpXdEw3SmVNZDRVNENxRlg5NExwNWFvZnlDVEJ2QWh1YWxrZWRqMzE4US11MXg2X1lwMlJXajhsTW9FVWpXT0JBWUlxYnF4cFRyTVZ3YnI4WHpVOXBibXlTT2Rxd0JLazdfanBteG5IQWxFT2FNMkZxNnlKWjdFSElPSXFB?oc=5",
       "date": "2026-11-16",
-      "source": "中国新聞デジタル",
+      "source": "IndexBox",
+      "category": "policy"
+    },
+    {
+      "title": "PV用裏面フィルムの世界市場（2026年～2032年）、市場規模（単層、3層）・分析レポートを発表",
+      "summary": "PV用裏面フィルムの世界市場（2026年～2032年）、市場規模（単層、3層）・分析レポートを発表&nbsp;&nbsp;アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aOS1GRVVaZ1BCVEdreC10SWlZRDUyZWo2eTg5bzJmRkcxbGdDcFZacU9oOE41WklNTFM4R2d2YVc3N29GTjBkVThDMG8wVGM?oc=5",
+      "date": "2026-11-16",
+      "source": "アットプレス",
+      "category": "market"
+    },
+    {
+      "title": "グリーン・エレクトロメタノールの世界市場（2026年～2032年）、市場規模（風力発電由来のエレクトロメタノール、太陽光発電由来のエレクトロメタノール、その他）・分析レポートを発表",
+      "summary": "グリーン・エレクトロメタノールの世界市場（2026年～2032年）、市場規模（風力発電由来のエレクトロメタノール、太陽光発電由来のエレクトロメタノール、その他）・分析レポートを発表&nbsp;&nbsp;アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bFBpWng4WHJOSllvd19pQVFUcFJNZk5hZGJqb3FLMGZhSVdLeU5ZTFotRVo3MmU0NksyS0JBRnFWalo4ZGkxa0xuOWdVYUk?oc=5",
+      "date": "2026-11-16",
+      "source": "アットプレス",
       "category": "market"
     },
     {
@@ -99,6 +203,30 @@
       "category": "finance"
     },
     {
+      "title": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現",
+      "summary": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GNGtaSHcyeU5La3l3VGYxSHBlS2N0QkpuMF96Sl95Vld3NnV3WXdIMFI5SC0zckRPRW9uUmwzSDhDaGdCVE9BNVVXaWJWbXJwWWJHWUVlQ1hjdmpjbkhLVzFPdHhXNHhCUHc?oc=5",
+      "date": "2026-11-16",
+      "source": "PR TIMES",
+      "category": "market"
+    },
+    {
+      "title": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について",
+      "summary": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について&nbsp;&nbsp;大阪ガス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qb2ZpMHA4V2dJQmQ5djlHOVFEVDV1VEtNZ3Axa292S0gtbk52djNNdkVFa1BxT2VzajJObzlGSS1QQklHZDNsN0NHczRmUXZ3dW1walhzWFhEVGpEdzF4eG5xT3p5N0d0SXNRRTNNbFBZM3Bf?oc=5",
+      "date": "2026-11-16",
+      "source": "大阪ガス",
+      "category": "finance"
+    },
+    {
+      "title": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工",
+      "summary": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工&nbsp;&nbsp;Digital PR Platform",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXYWotaDBfeGxtbTFLNkthbEVIMGtsTHh4S0lUMTJVRi12T19MbzdDM0hOQkpkZ2ZJZUtObFZPVzBMRzA?oc=5",
+      "date": "2026-11-16",
+      "source": "Digital PR Platform",
+      "category": "finance"
+    },
+    {
       "title": "サンヴィレッジが仙台の太陽光発電所で蓄電池併設工事を進める 2027年3月完工予定",
       "summary": "サンヴィレッジが仙台の太陽光発電所で蓄電池併設工事を進める 2027年3月完工予定&nbsp;&nbsp;Dellows News",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14d0sxVDhKMjVHQlFQQUpuaEZpeUpkMUplZGZuNWt1OGVZU3J6R2N2bE1NS3R0MG5OTGp4MW92eVJxbHEzTF80?oc=5",
@@ -107,12 +235,36 @@
       "category": "market"
     },
     {
+      "title": "「佐賀バルーンフェスタでドローンショー開催へ」が1位に 2026年10月記事PVランキング",
+      "summary": "「佐賀バルーンフェスタでドローンショー開催へ」が1位に 2026年10月記事PVランキング&nbsp;&nbsp;佐賀経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SU25sNFIyWXZJcC1aVkNwdmZLT0dvZmFuS3k3ZllsYnRCWGZrbW5OMnlfNUtjalRWYWtuTFM5bFl2ejRZTnVGNjBB?oc=5",
+      "date": "2026-11-15",
+      "source": "佐賀経済新聞",
+      "category": "om_tech"
+    },
+    {
       "title": "【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」",
       "summary": "FIT終了から、災害対策、そしてGX2040ビジョン。さまざまな角度でより注目を集める太陽光発電。激変する市場環境下でビジネスを加速させるの最新戦略を、業界のトップランナー企業と専門家が徹底解説する。 The post 【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」 first a",
       "link": "https://solarjournal.jp/event/67470/",
       "date": "2026-11-14",
       "source": "SOLAR JOURNAL",
       "category": "market"
+    },
+    {
+      "title": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設",
+      "summary": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設&nbsp;&nbsp;中日新聞Web",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93U1FYbXJhTThNNjdIWG5lSUVJOTJOdlg3WnkyUUdXR0R4SEpTdEN3REt4dmxGU1R4Mkh4cGZERFVIazNVSWtGYnlXSDZnZXpqOXQ4OA?oc=5",
+      "date": "2026-11-14",
+      "source": "中日新聞Web",
+      "category": "om_tech"
+    },
+    {
+      "title": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も",
+      "summary": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も&nbsp;&nbsp;岐阜新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eW1nREs1Sm9kbWc1NmItbjFBR3R3TVVJcHBCQ2Z0RUNyeF9ZUWtBcjluSlJ5b2ZFZlFGU1JZckhrQ3g3OEVmNnRJZGJrQVFjZXY5TzBR?oc=5",
+      "date": "2026-11-14",
+      "source": "岐阜新聞デジタル",
+      "category": "om_tech"
     },
     {
       "title": "中国電力の水力発電システム、「AI」で業務を改善（ニュース）",
@@ -153,6 +305,14 @@
       "date": "2026-11-13",
       "source": "PR TIMES",
       "category": "policy"
+    },
+    {
+      "title": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜",
+      "summary": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜&nbsp;&nbsp;NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWmdQMF9jbEtKMWc0bWc2bUdmMnlRVmsyMUk1UGF5MEgxWWM3WjU3Y2dGOVJjS1JpSnVqZUx3U2hYZGJPOTNxMFBpb2ZhYk5ZQ1hzOWNDN0Z6TmVwNnhR?oc=5",
+      "date": "2026-11-13",
+      "source": "NHKニュース",
+      "category": "om_tech"
     },
     {
       "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
@@ -219,6 +379,22 @@
       "category": "industry"
     },
     {
+      "title": "陸上風力のバーチャルPPAが増加傾向 メガソーラー規制が追い風に",
+      "summary": "陸上風力のバーチャルPPAが増加傾向 メガソーラー規制が追い風に&nbsp;&nbsp;ウインドジャーナル",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzRU5FNEQtbUtjb2E4YUotUGl1SE93em1mbnR5M3RzYjBCQllBOEdBRFZGR3ltb21vSUVWcWY3WmJFRXF2?oc=5",
+      "date": "2026-11-12",
+      "source": "ウインドジャーナル",
+      "category": "market"
+    },
+    {
+      "title": "ソーラーシェアリングの芽を摘むな／市川大悟氏（WWFジャパン地域再エネプロジェクトリーダー）（ビデオニュース・ドットコム）",
+      "summary": "ソーラーシェアリングの芽を摘むな／市川大悟氏（WWFジャパン地域再エネプロジェクトリーダー）（ビデオニュース・ドットコム）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSM3RFSTZtekN5OVdXQm82THE5ejBTRDdCOUhlS0k1RmVxTU5vbjRpUlVEbE1NOWFCRWR4SjNlM3Y3UnhGVDNMY0lGRElTdnhOYXZ2TFdSQVRUcllRSjEzd2FWN2VZbnJWVFZzQ21oMzljS1BRR0E4R0JKZjFFVFU?oc=5",
+      "date": "2026-11-12",
+      "source": "Yahoo!ニュース",
+      "category": "policy"
+    },
+    {
       "title": "太陽光は「買う」から「育てる」へ FIP×蓄電池で挑む企業の脱炭素新戦略",
       "summary": "太陽光は「買う」から「育てる」へ FIP×蓄電池で挑む企業の脱炭素新戦略&nbsp;&nbsp;環境ビジネスオンライン",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCeEdzdUZSQWJZRG1ueXZJRTQ1ODlwSUlib2JoYWo4RlgwOF80QnN3cmgyVm5BYTZNYUIxR0t4YVMtNTRRdF95TjFUWkpGYk1SaXV4amVURDBkWW9ZMmI1SzFYaFRqam5JdDR4S0dYalZudm53ZWtZcGdvXzFXM1E?oc=5",
@@ -233,6 +409,22 @@
       "date": "2026-11-12",
       "source": "PR TIMES",
       "category": "market"
+    },
+    {
+      "title": "中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功",
+      "summary": "中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功&nbsp;&nbsp;人民網日本語版",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5",
+      "date": "2026-11-12",
+      "source": "人民網日本語版",
+      "category": "om_tech"
+    },
+    {
+      "title": "系統用蓄電所（４拠点）設備施工・管理のお知らせ",
+      "summary": "系統用蓄電所（４拠点）設備施工・管理のお知らせ&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeEpubnRBNnZtXzVURkFDdWNaUy11R3B0OWY2OUJKc0FmdkdSUDJKaTlvSlE2S1M2SlZJU2dwU3RlWkZubzhlWUxvYnVPZ2ZYdDd3elVpb0NSZ0lyLUREdkFROXR0NXhrcGc?oc=5",
+      "date": "2026-11-12",
+      "source": "PR TIMES",
+      "category": "finance"
     },
     {
       "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
@@ -769,198 +961,6 @@
       "date": "2026-10-28",
       "source": "日経BP メガソーラービジネス",
       "category": "market"
-    },
-    {
-      "title": "ブラザーと東京都中央区、燃料電池を災害時に活用（ニュース）",
-      "summary": "ブラザー工業は10月20日、東京都中央区と「災害時等における水素燃料電池の利活用等に関する協定」を締結し、中央区保健所に同社製の燃料電池システムを設置したと発表した。　協定に基づき同社は、災害時などにおける電力供給を担保するため、非常用電源として燃料電池を設置するとともに、運転時やメンテナンス時に技術面で協力する。中央",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06157/?ST=msb",
-      "date": "2026-10-28",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "リコーがペロブスカイト太陽電池を量産へ　2030年までに数百MW級の生産体制",
-      "summary": "リコーはペロブスカイト太陽電池の量産化に向けて、2030年までに年間数百MW規模の生産体制を構築すると発表した。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/27/news071.html",
-      "date": "2026-10-27",
-      "source": "スマートジャパン",
-      "category": "industry"
-    },
-    {
-      "title": "ペロブスカイト太陽電池、パナソニックが量産を前倒し（ニュース）",
-      "summary": "パナソニック ホールディングスは10月20日、ガラス型ペロブスカイト太陽電池の本格量産時期について、当初計画の2030年度から1年前倒しし、2029年4月から本格的に量産すると発表した。また、本格量産に先立ち、2026年9月から先行量産品を販売し、事業活動を開始した。　同社は、2025年に新エネルギー・産業技術総合開発",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06156/?ST=msb",
-      "date": "2026-10-27",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "国内初の「バッチ式乾式メタン発酵」、富士宮市に稼働（ニュース）",
-      "summary": "静岡県富士宮市に乾式発酵によるバイオガス発電プラントが稼働した。10月21日に運転を開始した「富士山バイオマス乾式メタン発酵プラント」で、以下の6社、鴻池組（大阪市）、静岡ガス＆パワー（静岡県富士市）、クラフティア（福岡市）、ビーエイブル（福島県大熊町）、富士バイオテック（静岡県富士宮市）、KSバイオマスエナジー（岡山",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06155/?ST=msb",
-      "date": "2026-10-27",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
-    },
-    {
-      "title": "関電、FIP併設蓄電池・100MWをマルチユースで運用（ニュース）",
-      "summary": "関西電力と同社100％子会社のE-Flow（イーフロー、大阪市）は、太陽光発電所に併設する蓄電池をマルチユース（複数用途）で運用する。2027年以降、複数のエリア、複数の併設蓄電池の合計100MWで本格的に運用する予定。10月23日に発表した。　昼間に余剰となる太陽光発電の電力を併設蓄電池に充電し、別の時間帯で電力需給",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06154/?ST=msb",
-      "date": "2026-10-27",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "知っておきたい「電気事業法・改正」のポイント（太陽光発電事業者のための法律Q＆A）",
-      "summary": "「対策パッケージ」による規制強化が着々　国は、第7次エネルギー基本計画で、2040年度に向けて再生可能エネルギーを主力電源として最大限導入する方針を示し、太陽光発電をその中でも最大の導入量を担う電源として位置付けています。DX（デジタルトランスフォーメーション）やGX（グリーントランスフォーメーション）の進展などを背景",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00005/102600089/?ST=msb",
-      "date": "2026-10-27",
-      "source": "日経BP メガソーラービジネス",
-      "category": "policy"
-    },
-    {
-      "title": "定置用向け蓄電池の世界市場、2045年に15.8兆円規模に",
-      "summary": "富士経済は2026年10月22日、定置用蓄電システム向け蓄電池の世界市場に関する調査結果を発表した。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/26/news070.html",
-      "date": "2026-10-26",
-      "source": "スマートジャパン",
-      "category": "market"
-    },
-    {
-      "title": "ペロブスカイトで「光るミャクミャク」、大阪府が啓発（ニュース）",
-      "summary": "大阪府は、ペロブスカイト太陽電池の普及啓発の一環で、咲州庁舎フェスパに「光るミャクミャク像」を設置し、大阪・関西万博会場から移設したペロブスカイト太陽電池で発電した電気を一部利用して点灯させる。設置期間は10月26日〜2028年3月31日の予定。　咲州庁舎では、万博ヘルスケアパビリオンに設置されていた積水化学工業製のペ",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06153/?ST=msb",
-      "date": "2026-10-26",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "定置型蓄電池の世界市場、ナトリウムイオン電池が増加へ（ニュース）",
-      "summary": "富士経済（東京都中央区）は10月22日、定置用蓄電池システム（Energy Storage System ＝ESS）向け蓄電池市場の調査結果を発表した。それによると、2026年のESS向け蓄電池の世界市場は5兆4949億円の見込み。2045年には15兆782億円と3倍近くに伸びると予測する。　近年の電動車両市場の停滞に",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06152/?ST=msb",
-      "date": "2026-10-26",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "NTNが「自営線PPA」、近接屋根を賃借し太陽光設置（ニュース）",
-      "summary": "Daigasエナジー（ダイガスエナジー、大阪市）は、岡山県備前市にあるNTN岡山製作所向けに、隣接するコーワン（岡山県備前市）の物流施設の屋根を活用し、自営線で供給するオンサイト型PPA（電力購入契約）サービスを提供する。10月20日に発表した。　3社は屋根賃貸契約を締結し、NTN岡山製作所に近接するコーワン第三物流セ",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06151/?ST=msb",
-      "date": "2026-10-26",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "JPEAソーラーウィーク大賞、13件中7件が営農型関連に（ニュース）",
-      "summary": "太陽光発電協会は10月14日、太陽光発電事業を含む地域に貢献する事業・取り組み、推進に貢献した法人・組織を表彰する2026年度「ソーラーウィーク大賞」の審査結果を発表した。学識経験者による審査委員会において大賞2事業者、優秀賞5事業者、特別賞6事業者を決定した。授賞した13件中、7件が営農型太陽光発電（ソーラーシェアリ",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06150/?ST=msb",
-      "date": "2026-10-26",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "蓄電池のスポット市場における収益状況は？　蓄電池やDR運用の現状分析",
-      "summary": "「分散型エネルギー推進戦略ワーキンググループ」の第4回会合では、蓄電池やデマンドレスポンスの現時点の運用状況を報告するとともに、今後の対応の方向性が議論された。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/23/news032.html",
-      "date": "2026-10-23",
-      "source": "スマートジャパン",
-      "category": "market"
-    },
-    {
-      "title": "各階のバルコニーに太陽光、薄型パネルと蓄電池を設置（ニュース）",
-      "summary": "くまわ企画合同会社（広島市）、中谷設備（広島市）、ティーエスピー（TSP、広島市）は、広島市内にある6階建ての既存賃貸ビル「基ビル」において、2階〜5階の各階住戸に独立した自家消費型太陽光発電設備を導入する実証事業を10月8日から開始した。　2階と3階は屋上の手すり部分に、4階と5階はバルコニー部分に太陽光パネルを設置",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06149/?ST=msb",
-      "date": "2026-10-23",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "15MW級風車に対応した「浮体」、海事協会が承認（ニュース）",
-      "summary": "東京ガスは10月13日、同社が出資する米プリンシプル・パワー（Principle Power）が開発した15MW級風車に対応したセミサブ型浮体基礎「WindFloat TC（ウインドフロートTC）」が、日本海事協会から基本設計承認（AiP）を取得したと発表した。　今回、基本設計承認を取得したWindFloat TCは、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06148/?ST=msb",
-      "date": "2026-10-23",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
-    },
-    {
-      "title": "パナソニックがペロブスカイト太陽電池を本格量産へ　建材一体型で差別化を狙う",
-      "summary": "パナソニック ホールディングス（以下、パナソニック）は2026年10月20日、開発を進めてきたガラス型ペロブスカイト太陽電池「ENEFACE（エネフェース）」について、2029年4月から量産を開始すると発表した。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/22/news063.html",
-      "date": "2026-10-22",
-      "source": "スマートジャパン",
-      "category": "industry"
-    },
-    {
-      "title": "経産省、太陽光・蓄電池向けJC-STAR、「レベル２」以上も検討へ（ニュース）",
-      "summary": "経済産業省は10月19日、有識者会議（産業サイバーセキュリティ研究会）を開催し、分散型電源のサイバーセキュリティ対策として、JC-STAR★2（JCスター・レベル2）以上の策定や、JC-STAR★1（レベル1）要件化における対象外の機器の追加適用などについて議論した。　太陽光発電や蓄電池、風力発電、燃料電池といった分散",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06147/?ST=msb",
-      "date": "2026-10-22",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "中国GCL、ペロブスカイト太陽光を量産、日本に販売（ニュース）",
-      "summary": "自動車・半導体関連などの商社、コシダテック（東京都港区）は10月19日、中国GCLグループのKunshan GCL Optoelectronic Materials（昆山GCL光電材料）が製造するペロブスカイト太陽電池のモジュール（パネル）について、量産品の出荷が開始されたと発表した。　今回、出荷を開始したのはガラス型",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06146/?ST=msb",
-      "date": "2026-10-22",
-      "source": "日経BP メガソーラービジネス",
-      "category": "om_tech"
-    },
-    {
-      "title": "ヤマタネが営業所で太陽光を自家消費、FIPで余剰売電（ニュース）",
-      "summary": "物流倉庫・食品卸業などを展開するヤマタネは、横浜市にある本牧埠頭営業所において、オリックスが提供するフィード・イン・プレミアム（FIP）を組み合わせたオンサイト型PPA（電力購入契約）サービスを導入し、9月から稼働した。10月15日に発表した。　オリックスが同営業所の屋根に太陽光パネル1280枚を設置し、発電事業者とし",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06145/?ST=msb",
-      "date": "2026-10-22",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "1MW未満の小規模太陽光、10年間で発電量が5倍に（現地レポート アメリカ太陽光発電の最前線）",
-      "summary": "急拡大も伸び率は鈍化　米国の住宅や商業施設などに設置された小規模太陽光発電設備による発電量が、過去10年間で約5倍に急拡大した。米エネルギー情報局（EIA）が2026年10月16日に発表した統計によると、設備容量1MW未満の小規模太陽光発電設備による年間発電量は、2016年の188億kWhから2025年には約930億k",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/102000231/?ST=msb",
-      "date": "2026-10-22",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "J-クレジットの適用を緩和　東京都など太陽光発電の導入義務化自治体でも登録可能に",
-      "summary": "東京都など一部の自治体で太陽光発電設備の設置を義務化する動きが広がっている。しかしこれらの義務履行のために導入された設備は、J-クレジット制度では登録ができなかった。J-クレジット制度運営委員会ではこの制度を見直し、義務量を超える発電設備については、J-クレジット制度の適用を認める方針だ。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/21/news029.html",
-      "date": "2026-10-21",
-      "source": "スマートジャパン",
-      "category": "industry"
-    },
-    {
-      "title": "ネクストエナジー、住宅太陽光事業などエンバイオに譲渡（ニュース）",
-      "summary": "ネクストエナジー・アンド・リソース（長野県駒ヶ根市）は10月16日、エンバイオ・ホールディングスとの間で、住宅用太陽光発電設備の開発・販売事業、産業用太陽光発電のEPC（設計・調達・施工）サービスとO&M（運営・保守）サービス事業、海外事業を譲渡する契約を締結したと発表した。　対象事業は、エンバイオ・ホールディングスが",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06144/?ST=msb",
-      "date": "2026-10-21",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "日本蓄電池とSBIスマートエナジー、「系統用蓄電池ファンド」組成（ニュース）",
-      "summary": "日本蓄電池（東京都千代田区）とSBIスマートエナジー（東京都港区）は、系統用蓄電池事業ファンドを共同で組成し、10月1日から運営を開始した。全国に分散配置された高圧系統用蓄電所7カ所を対象としており、2026年度中に全施設の商業運転の開始を見込む。　SPC（特別目的会社）を活用したノンリコース型のプロジェクトファイナン",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06143/?ST=msb",
-      "date": "2026-10-21",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
-    },
-    {
-      "title": "日本の地熱発電システム市場は2050年度に3500億円規模へ　次世代型が急拡大",
-      "summary": "富士経済は2026年10月14日、日本における地熱発電システム市場に関する調査結果を発表した。2030年代以降に次世代型のシステムがけん引し、2050年度は2025年度比で15.2倍の3524億円に拡大する予測している。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/20/news036.html",
-      "date": "2026-10-20",
-      "source": "スマートジャパン",
-      "category": "market"
-    },
-    {
-      "title": "関電、FIT低圧太陽光をリパワリングして取得、300カ所目標（ニュース）",
-      "summary": "太陽光・省エネ関連事業を手掛けるアポロ（東京都渋谷区）と、関西電力および100％子会社のE-Second（イーセカンド、大阪市）の3社は10月2日、既設の固定価格買取制度（FIT）で売電する太陽光発電所のリパワリング・売却などに関する包括協定を締結した。　既設FIT太陽光発電所では、設備の経年化や維持管理、事業継承、制",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06142/?ST=msb",
-      "date": "2026-10-20",
-      "source": "日経BP メガソーラービジネス",
-      "category": "finance"
     }
   ]
 }
