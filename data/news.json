@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-17 09:09 JST",
+  "updated_at": "2026-11-17 12:45 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "電気事業法ってなに？",
+      "summary": "電気事業法とは 私たちの暮らしや産業活動に電気はなくてはならないものです。電気を安定して届けることや、発電設備や送電線などを安全に利用することが重要です。こうしたルールを定めているのが「電気事業法」です。 電気事業法では… The post 電気事業法ってなに？ first appeared on 経済産業省 METI",
+      "link": "https://journal.meti.go.jp/keizaiword/48409/",
+      "date": "2026-11-17",
+      "source": "経済産業省 METI Journal",
+      "category": "meti"
+    },
     {
       "title": "国内のバイオマス発電量は微増で推移か　2025年度は430億kWhに",
       "summary": "矢野経済研究所は2026年11月13日、国内のバイオマスエネルギー市場に関する調査結果を発表した。それによると、2035年度の国内バイオマス発電量は486億kWhと予測している。",
@@ -51,11 +59,27 @@
       "category": "policy"
     },
     {
+      "title": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託",
+      "summary": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40cjQ0ZDVZUlR1d1JhWGRZbjFJcmlUcGkwa1JpcEh5YlMwRlNYWm1aLXFZanFEdUJhRE41djY4czBQekwyX0doR0ZSWVdqZ2V2MkgtUUFteXpIcnZnWDYyQjhOYlpkemhpR2c?oc=5",
+      "date": "2026-11-17",
+      "source": "PR TIMES",
+      "category": "policy"
+    },
+    {
       "title": "PVFire-YOLO：太陽光発電所向け深層学習による火災検知 - ニュースと統計",
       "summary": "PVFire-YOLO：太陽光発電所向け深層学習による火災検知 - ニュースと統計&nbsp;&nbsp;IndexBox",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUd6MHNyWGdnSzlsTG5vOHdoUy1sZWxpeUxlb2RmOGMxZDhSblEwZW5FZFVGd0xDdkJhSHoxc0lJakxsZXZkWmhMdm9BbUVHNjJHSmZ5MHZfYlFkUy11Y1lON09IZC1ac1VTU3c5RXdQYk45M3RMVXU5OC1KXzRweUlEV0Z1bmZQQXktdmhSbEo1YUo2c2lQU1doU3RXNkxjRUxsWVNva1RKTVBtQkJWSFFCbHB3OUN4bkpEYjlXSnR4MVNocVVmSHNBdFlsZE44NXc?oc=5",
       "date": "2026-11-17",
       "source": "IndexBox",
+      "category": "om_tech"
+    },
+    {
+      "title": "太陽光発電ドローンの市場規模、シェア、動向、2035年までの世界予測（MarketsandMarkets）",
+      "summary": "太陽光発電ドローンの市場規模、シェア、動向、2035年までの世界予測（MarketsandMarkets）&nbsp;&nbsp;ドリームニュース",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3emQ5Q2d4Wk1ES1dEQmMwWU5aQkdveFhpQlpiWkV6S2VlOFFfUGVSc1p5TDJCVWRHd1c1eF93WU5aZ19MVE1xdG9KcGxySzJVOG5J?oc=5",
+      "date": "2026-11-17",
+      "source": "ドリームニュース",
       "category": "om_tech"
     },
     {
@@ -107,6 +131,14 @@
       "category": "market"
     },
     {
+      "title": "北海道八雲町に「地域共生再エネ」、町が主導し出資も - 特集 - メガソーラービジネス plus",
+      "summary": "北海道八雲町に「地域共生再エネ」、町が主導し出資も - 特集 - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IM1hlbmhoeEFabjhESDNvU0FJcjFsVlcyZlBKa1B3Vm5DM1QtNzlYUzhfaWxudnE2a1hWSl9Zbi1xMjFaV0JObl84cWRyQkFEanhUY2tiZWoweGo3VUJsSUl6QlVCRGJlTHR6TXFIVllNdUU0UDMzag?oc=5",
+      "date": "2026-11-16",
+      "source": "日経BP",
+      "category": "finance"
+    },
+    {
       "title": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について",
       "summary": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について&nbsp;&nbsp;大阪ガス",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qb2ZpMHA4V2dJQmQ5djlHOVFEVDV1VEtNZ3Axa292S0gtbk52djNNdkVFa1BxT2VzajJObzlGSS1QQklHZDNsN0NHczRmUXZ3dW1walhzWFhEVGpEdzF4eG5xT3p5N0d0SXNRRTNNbFBZM3Bf?oc=5",
@@ -129,14 +161,6 @@
       "date": "2026-11-15",
       "source": "Dellows News",
       "category": "market"
-    },
-    {
-      "title": "「佐賀バルーンフェスタでドローンショー開催へ」が1位に 2026年10月記事PVランキング",
-      "summary": "「佐賀バルーンフェスタでドローンショー開催へ」が1位に 2026年10月記事PVランキング&nbsp;&nbsp;佐賀経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SU25sNFIyWXZJcC1aVkNwdmZLT0dvZmFuS3k3ZllsYnRCWGZrbW5OMnlfNUtjalRWYWtuTFM5bFl2ejRZTnVGNjBB?oc=5",
-      "date": "2026-11-15",
-      "source": "佐賀経済新聞",
-      "category": "om_tech"
     },
     {
       "title": "【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」",
@@ -299,14 +323,6 @@
       "category": "market"
     },
     {
-      "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町（青森放送）",
-      "summary": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町（青森放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBocE5VTmJTQjRDZUZsRnBzTUxGRVY3SWQ3ZVlBeUFZcUlFT3JVMmtGUmVYcVVPbE1NYTVWclA0MEVQekxBTzQ2VVpZaW5xUVlxMlFSUFNqWHhJSkZkMjVRTTJNeTdoVjNfQ25sdXFKVldibWNLS09UN05uY2kzWFk?oc=5",
-      "date": "2026-11-12",
-      "source": "Yahoo!ニュース",
-      "category": "policy"
-    },
-    {
       "title": "環境省、釧路の生息地を保護区へ　サンショウウオを保全",
       "summary": "環境省、釧路の生息地を保護区へ　サンショウウオを保全&nbsp;&nbsp;Infoseek",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuOUlySnQzd3ZaVzROSVJEUHJ4YXF5UG8yYk51d0RodkM0WG5rZHpwelZKcWJrcE5ISTBEcnRnZ2liRC1QQks1UTFmVlUxMldDaVBBWXlpRVBia0xZcGUwY1FFVWI1a3ctbE5jNVFtONIBdEFVX3lxTE1va09GMUozVWk3cTBUNEpJYnlIUTdHam5oa1ozOFU0OFkxUUNTbm8zZU5LYnpid1lqeE0wRHJwR2luRHFiODRHYlpKRFZGLVVUVFVxdllUMGxsQUVXOWpTbzJfRHVQdGJvTFNNOV9uVm5JSlBD?oc=5",
@@ -336,14 +352,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5",
       "date": "2026-11-12",
       "source": "人民網日本語版",
-      "category": "om_tech"
-    },
-    {
-      "title": "【速報】瑞穂市の公民館で未明に火災 社務所などに延焼",
-      "summary": "【速報】瑞穂市の公民館で未明に火災 社務所などに延焼&nbsp;&nbsp;岐阜新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wRi1jdHI1S2dJSHRBZUVTbzB0MWtXNXZFRFhtTnUyZmttcVpUdzhlUjZnU2NxM18wcWExUHJpbmM0QUt4T3B4Q2g3WFB1WE1acjU3d3lR?oc=5",
-      "date": "2026-11-12",
-      "source": "岐阜新聞デジタル",
       "category": "om_tech"
     },
     {
@@ -953,14 +961,6 @@
       "date": "2026-10-26",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
-    },
-    {
-      "title": "定置型蓄電池の世界市場、ナトリウムイオン電池が増加へ（ニュース）",
-      "summary": "富士経済（東京都中央区）は10月22日、定置用蓄電池システム（Energy Storage System ＝ESS）向け蓄電池市場の調査結果を発表した。それによると、2026年のESS向け蓄電池の世界市場は5兆4949億円の見込み。2045年には15兆782億円と3倍近くに伸びると予測する。　近年の電動車両市場の停滞に",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06152/?ST=msb",
-      "date": "2026-10-26",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
     }
   ]
 }
