@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:16 JST",
+  "updated_at": "2026-11-19 12:48 JST",
   "total_count": 120,
   "items": [
     {
@@ -16,6 +16,38 @@
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/19/news035.html",
       "date": "2026-11-19",
       "source": "スマートジャパン",
+      "category": "market"
+    },
+    {
+      "title": "衛星データから屋根種類や太陽光パネル設置をAIが判定（ニュース）",
+      "summary": "宇宙航空研究開発機構（JAXA）発のスタートアップ企業WHERE（東京都文京区）は11月17日、衛星データを活用した不動産探索AIツール「WHERE」に、工場や倉庫などの大規模建物の屋根の種類や太陽光パネルの設置状況をAIで判定する新機能を追加すると発表した。12月をめどに提供開始する予定。　WHEREは、衛星データか",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06224/?ST=msb",
+      "date": "2026-11-19",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "ADワークス、熊本県益城町の系統用蓄電所が需給調整市場へ参入（ニュース）",
+      "summary": "ADワークスグループは11月17日、子会社のエー・ディー・ワークス（東京都千代田区）が運営する熊本県益城町の系統用蓄電所「ADW熊本益城町蓄電所」が、需給調整市場に参入し取引を開始したと発表した。　同蓄電所の出力は約2MW、容量は約8MWh。8月31日から卸電力市場での運用を開始した。今回の需給調整市場への参入により、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06223/?ST=msb",
+      "date": "2026-11-19",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "三井不レジ、屋根上太陽光とソーラーカーポート付き戸建分譲住宅（ニュース）",
+      "summary": "三井不動産レジデンシャル（東京都中央区）は11月12日、東京都杉並区においてソーラーカーポート（駐車場型太陽光発電設備）を導入した戸建分譲プロジェクト「東京都杉並区荻窪一丁目計画（仮称）」を発表した。竣工時期は2027年6月下旬の予定（図1）。　全12区画の住宅屋根に太陽光発電設備を設置するほか、5区画にソーラーカーポ",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06222/?ST=msb",
+      "date": "2026-11-19",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "【解説】経産省が発表したFIT/FIP支援重点化４項目　太陽光市場の追い風となるか",
+      "summary": "来年度から地上設置型の事業用太陽光が、原則として、FIT/FIP制度の対象外となる。一方で、特定の分野に限っては、重点的に支援する方針が示されている。具体的に何が支援対象となるのか――。経済産業省は2026年9月30日、再生可能エネルギー主力電源化小委員会において、その内容を明らかにした。 The post 【解説】経",
+      "link": "https://solarjournal.jp/policy/68594/",
+      "date": "2026-11-19",
+      "source": "SOLAR JOURNAL",
       "category": "market"
     },
     {
@@ -49,6 +81,14 @@
       "date": "2026-11-19",
       "source": "ニコニコニュース",
       "category": "market"
+    },
+    {
+      "title": "ザライ省で、総額2兆1800億ベトナムドンを超える2つの再生可能エネルギープロジェクトの建設が開始された。",
+      "summary": "ザライ省で、総額2兆1800億ベトナムドンを超える2つの再生可能エネルギープロジェクトの建設が開始された。&nbsp;&nbsp;Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFFoQUVpWElEckExNXNFajB4bW85VHBvQ25FQjBZczRnNmhNLTQwZ0xHdlNLb3dZVEZxdXpydWtHZm9VZWU0OXdCS2VNa25vYVZ6djBaX3E4RHBFaWlDUkFRRlBPQ1FJbDRVTHNhZnM2Y1ExM0N2WXdtWFY5TXB4OE5kS0g1cnpiTmJVREFXa1JZRC05RTBrMzY3eHE?oc=5",
+      "date": "2026-11-19",
+      "source": "Vietnam.vn",
+      "category": "finance"
     },
     {
       "title": "省エネ・非化石転換法ベンチマーク制度、電力供給業の目標値を見直しへ",
@@ -104,14 +144,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94bVlLRUtjazc1Mm5wM2tmTnNmX0VROXROQ2pjX28xcnNia2xNNVA2WDB6cjRSaGFlcVo4OU5mMWs1eWtTMWhROGk3YVpqNmVINFBwWQ?oc=5",
       "date": "2026-11-18",
       "source": "https://kabu-ir.com/",
-      "category": "policy"
-    },
-    {
-      "title": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO）",
-      "summary": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV0xCRGN1Sm5EYkQwcjJ1MkxFSzVDcGc4WWtoNktud3d0czZIZG8xZi1IdV91U0p1UFBHYW9OUVB4R2Faam1wWU53US1nb2dqUEROaTRET3gzdndlNUFmOXRVVWo1blpmRTRweV9sMmw2X0QwQnFMa0ZoZkNWTTQ?oc=5",
-      "date": "2026-11-18",
-      "source": "Yahoo!ニュース",
       "category": "policy"
     },
     {
@@ -379,14 +411,6 @@
       "category": "om_tech"
     },
     {
-      "title": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も",
-      "summary": "銅線盗難、岐阜県内で相次ぐ 太陽光発電施設が標的に…１８０メートルの被害も&nbsp;&nbsp;岐阜新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eW1nREs1Sm9kbWc1NmItbjFBR3R3TVVJcHBCQ2Z0RUNyeF9ZUWtBcjluSlJ5b2ZFZlFGU1JZckhrQ3g3OEVmNnRJZGJrQVFjZXY5TzBR?oc=5",
-      "date": "2026-11-14",
-      "source": "岐阜新聞デジタル",
-      "category": "om_tech"
-    },
-    {
       "title": "中国電力の水力発電システム、「AI」で業務を改善（ニュース）",
       "summary": "AI（人工知能）開発のエクサウィザーズのグループ会社Exa Frontier Edge（エクサフロンティアエッジ、東京都港区）は、中国電力の貯水式水力発電所の発電計画を策定する業務システムについて、AIで新たに仕様書を作成し、それに基づいて構築した新システムを検証したところ、現行システムと動作が一致したと発表した。　着",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06213/?ST=msb",
@@ -425,14 +449,6 @@
       "date": "2026-11-13",
       "source": "PR TIMES",
       "category": "policy"
-    },
-    {
-      "title": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜",
-      "summary": "山県市の太陽光発電施設で銅線ケーブル盗難 岐阜&nbsp;&nbsp;NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWmdQMF9jbEtKMWc0bWc2bUdmMnlRVmsyMUk1UGF5MEgxWWM3WjU3Y2dGOVJjS1JpSnVqZUx3U2hYZGJPOTNxMFBpb2ZhYk5ZQ1hzOWNDN0Z6TmVwNnhR?oc=5",
-      "date": "2026-11-13",
-      "source": "NHKニュース",
-      "category": "om_tech"
     },
     {
       "title": "物価上昇の事業影響は？ バイオマス・小水力・地熱の最新コスト動向",
@@ -563,20 +579,20 @@
       "category": "industry"
     },
     {
-      "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
-      "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
       "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
       "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "om_tech"
+    },
+    {
+      "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
+      "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -835,14 +851,6 @@
       "category": "industry"
     },
     {
-      "title": "千葉豪雨による停電を乗り切った！スマートハウス一歩目にGoodWeの住宅用ソリューション",
-      "summary": "千葉豪雨で信頼性の高さを実感。製品力に加えて、長く付き合えるサポート体制を評価。エネルギー業界で約50年の経験を持つ青柳さんが語る、太陽光・蓄電池選びで重視すべきこととは？ The post 千葉豪雨による停電を乗り切った！スマートハウス一歩目にGoodWeの住宅用ソリューション first appeared on S",
-      "link": "https://solarjournal.jp/product/68121/",
-      "date": "2026-11-04",
-      "source": "SOLAR JOURNAL",
-      "category": "industry"
-    },
-    {
       "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開（ニュース）",
       "summary": "ニプロンは10月21、22日に兵庫県尼崎市の本社・阪神夢工場で開催した「ニプロンカーボンニュートラルフェア2026」で、独自開発したワイヤー懸架（けんか）方式による壁面太陽光の実証設備を公開した。4階建の本社ビルの南面に設置したもので、軽量タイプの結晶シリコン太陽光パネル7枚を設置した。　グラスファイバー製の懸架ワイヤ",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06172/?ST=msb",
@@ -953,14 +961,6 @@
       "date": "2026-10-30",
       "source": "日経BP メガソーラービジネス",
       "category": "om_tech"
-    },
-    {
-      "title": "「スーパー過積載＋蓄電池」、サンヴィレッジが低圧太陽光で稼働（ニュース）",
-      "summary": "サンヴィレッジ（東京都千代田区）は、栃木県足利市で、連系出力の約3.3倍の太陽光パネルを搭載した「蓄電池併設低圧スーパー過積載太陽光発電所」を開発した。10月28日、同発電所が系統連系し、運転を開始したと発表した。　連系出力49.9kW、太陽光パネルの出力163.2kWの低圧事業用太陽光で、容量253.3kWhの蓄電池",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06167/?ST=msb",
-      "date": "2026-10-30",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
     }
   ]
 }
