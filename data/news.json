@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-19 18:57 JST",
+  "updated_at": "2026-11-20 09:11 JST",
   "total_count": 120,
   "items": [
+    {
+      "title": "建築物のライフサイクルカーボン、オフサイトの再エネ活用による排出削減量を評価",
+      "summary": "2028年度から建築分野の脱炭素化促進に向けてスタートする「建築物のライフサイクルカーボン評価（LCCO2評価）制度」。敷地外（オフサイト）の再エネ活用についても、温室効果ガスの削減効果を参入可能とする方針だ。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/20/news013.html",
+      "date": "2026-11-20",
+      "source": "スマートジャパン",
+      "category": "industry"
+    },
+    {
+      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
+      "summary": "一次調整力取引開始",
+      "link": "https://www.pveye.jp/inside_news/view/6848/",
+      "date": "2026-11-20",
+      "source": "PVeye",
+      "category": "policy"
+    },
+    {
+      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
+      "summary": "",
+      "link": "https://www.pveye.jp/inside_news/view/6851/",
+      "date": "2026-11-20",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "パシフィックコンサル、水上太陽光で実証開始",
+      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
+      "link": "https://www.pveye.jp/inside_news/view/6852/",
+      "date": "2026-11-20",
+      "source": "PVeye",
+      "category": "industry"
+    },
+    {
+      "title": "【系統用蓄電池16案件を推進】東京・中部など4エリアで開発、関西電力エリアでも7件を計画",
+      "summary": "【系統用蓄電池16案件を推進】東京・中部など4エリアで開発、関西電力エリアでも7件を計画&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JYXZQdU9scHdBUWNqU2NsSU1ISFY1ejVuSmUzZDEyRThXQWYyNTNjMWFXdXJVLTlfMlV3Ymo3V0NfazlsclVFRDVmMEtNd2JsMnp1WDFybU5tR1lwWGMyX1dETjM1VWdj?oc=5",
+      "date": "2026-11-20",
+      "source": "ニコニコニュース",
+      "category": "market"
+    },
+    {
+      "title": "韓国NEPIRITY、済州のエネルギーAIコンソーシアムを率いて「スマートグリッドEXPO【関西】」に出展 風力・太陽",
+      "summary": "韓国NEPIRITY、済州のエネルギーAIコンソーシアムを率いて「スマートグリッドEXPO【関西】」に出展 風力・太陽&nbsp;&nbsp;ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oWEdQLTFJQjlwS3JCUGZsWUNScm5FMExqSlNCZ0w2eEhIY2U1TUNJOWxldk9qc2R3Nzk1T2hOVElkbElFbi1hbVo4SmJUWkFMMm8xUExITmQ0UWJmUmkxYTEzR2lDRENNZUFPV1c3dmJtTTg?oc=5",
+      "date": "2026-11-20",
+      "source": "ニコニコニュース",
+      "category": "om_tech"
+    },
     {
       "title": "風車タワーにカルコパイライト太陽電池、鹿児島県で実証",
       "summary": "古河産業、四電エンジニアリング、頴娃風力発電3社は、フィルム型カルコパイライト太陽電池を風車タワーの側面に設置するための共同実証実験を2026年11月10日から開始した。",
@@ -51,38 +99,6 @@
       "category": "market"
     },
     {
-      "title": "オムロンフィールドエンジ FIP転＋蓄電池併設支援でイーフローと協業",
-      "summary": "一次調整力取引開始",
-      "link": "https://www.pveye.jp/inside_news/view/6848/",
-      "date": "2026-11-19",
-      "source": "PVeye",
-      "category": "policy"
-    },
-    {
-      "title": "JFE商事、農業ハウス向け吊り下げ式太陽光パネルを開発",
-      "summary": "",
-      "link": "https://www.pveye.jp/inside_news/view/6851/",
-      "date": "2026-11-19",
-      "source": "PVeye",
-      "category": "industry"
-    },
-    {
-      "title": "パシフィックコンサル、水上太陽光で実証開始",
-      "summary": "ペロブスカイトなど薄膜パネルの適用性検証",
-      "link": "https://www.pveye.jp/inside_news/view/6852/",
-      "date": "2026-11-19",
-      "source": "PVeye",
-      "category": "industry"
-    },
-    {
-      "title": "太陽光パネルによる景観悪化受け福島市が「メガソーラー規制強化へ条例改正案」",
-      "summary": "太陽光パネルによる景観悪化受け福島市が「メガソーラー規制強化へ条例改正案」&nbsp;&nbsp;河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZUk0cDZxVHhRUlRKNlF0NVNFRU1VOUxMd3lCVEt1clNKc1R6aFNTd3RwVldPWTAtM0poSzhqTllzV1dCOGZIVWRuWnQ5dFRsNFhHT3B3aGtvbDA?oc=5",
-      "date": "2026-11-19",
-      "source": "河北新報オンライン",
-      "category": "policy"
-    },
-    {
       "title": "クリーンエナジーコネクトのNon-FIT太陽光発電所が3,000箇所を突破",
       "summary": "クリーンエナジーコネクトのNon-FIT太陽光発電所が3,000箇所を突破&nbsp;&nbsp;共同通信PRワイヤー",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdDFBNExDX1lhNVdoVTNMc0dxN2tNZVlyNXg4UENJNWYtYkZ0SWJHOU5VZW9pRW9kSVNhRjNBdS1qeEFHdmxHZC1BbE5WTVhrWE44VHN6elJGRVU?oc=5",
@@ -99,19 +115,19 @@
       "category": "market"
     },
     {
+      "title": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について",
+      "summary": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について&nbsp;&nbsp;AGARA 紀伊民報",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84bjRuYk1HUE5CRFlteVh1WlV6YWtmSlB6YlgydENRR2F0dzRlek1FaG1PdDBFNXloNHNvdDlpQXEwWFBpbDdSRmdVYTJHcVU?oc=5",
+      "date": "2026-11-19",
+      "source": "AGARA 紀伊民報",
+      "category": "market"
+    },
+    {
       "title": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結",
       "summary": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結&nbsp;&nbsp;時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xZTFfam4xS2tqMW1JdEtoUWlnTGZ1MHBHVlBjTnZ5cEFmUTRPN3d0c2stTnVVODJqNFdRUGc3VlM5eXdaWEE5bVV1SFZydnBUNVhCR0M4dXlPOEVJd3FOR1FfamdESXlZdnJn?oc=5",
       "date": "2026-11-19",
       "source": "時事ドットコム",
-      "category": "finance"
-    },
-    {
-      "title": "ザライ省で、総額2兆1800億ベトナムドンを超える2つの再生可能エネルギープロジェクトの建設が開始された。",
-      "summary": "ザライ省で、総額2兆1800億ベトナムドンを超える2つの再生可能エネルギープロジェクトの建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFFoQUVpWElEckExNXNFajB4bW85VHBvQ25FQjBZczRnNmhNLTQwZ0xHdlNLb3dZVEZxdXpydWtHZm9VZWU0OXdCS2VNa25vYVZ6djBaX3E4RHBFaWlDUkFRRlBPQ1FJbDRVTHNhZnM2Y1ExM0N2WXdtWFY5TXB4OE5kS0g1cnpiTmJVREFXa1JZRC05RTBrMzY3eHE?oc=5",
-      "date": "2026-11-19",
-      "source": "Vietnam.vn",
       "category": "finance"
     },
     {
@@ -139,38 +155,6 @@
       "category": "finance"
     },
     {
-      "title": "無許可のメガソーラーに罰金最大50万円 千葉県条例案を提出へ",
-      "summary": "無許可のメガソーラーに罰金最大50万円 千葉県条例案を提出へ&nbsp;&nbsp;毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWFNBTDB6dnN3djN1QTRWVmlqamlGQ09lRk5wMEdKaHpnVUhOcUt4dHBTcUVrbVlUVmtmZ1pkUTBBTU9HRl9UVXJDY3VIRjNfSnBQSmdFUUZxakRaME53cHo4Z1NEZl9O?oc=5",
-      "date": "2026-11-18",
-      "source": "毎日新聞",
-      "category": "policy"
-    },
-    {
-      "title": "釧路湿原のメガソーラー、環境に配慮した工法採用 希少種増加、環境省が「自然共生」認定",
-      "summary": "釧路湿原のメガソーラー、環境に配慮した工法採用 希少種増加、環境省が「自然共生」認定&nbsp;&nbsp;北海道新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QU1pQXzItV3V3Vlg4N25xa3hSME1IeFhMSnozVWFhRUdhRFRBa0g3RG5zbEx0enE0dHdjNWRjaGJjQlpTS2ZXTV9HaHZnQjJFcDdoTF9JckJEdw?oc=5",
-      "date": "2026-11-18",
-      "source": "北海道新聞デジタル",
-      "category": "policy"
-    },
-    {
-      "title": "福島市、再エネ施設の維持撤去費の確保義務付け 再エネ条例案",
-      "summary": "福島市、再エネ施設の維持撤去費の確保義務付け 再エネ条例案&nbsp;&nbsp;日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeWVnMmpPSl9jUy1KbDdoY1M5cHNFYXlqdE1ZMXVHdG5zcld6WFNHaURteUc5THlEOEFoMFdXVUNEZWk0UW92aXMwMFoyY25IQVVTS09rQlZROFBjSjFrekxNR3h3c29kTVpTSQ?oc=5",
-      "date": "2026-11-18",
-      "source": "日本経済新聞",
-      "category": "policy"
-    },
-    {
-      "title": "日東工業、環境省のグリーン水素活用事業に採択、瀬戸工場に分散型エネルギーシステム構築",
-      "summary": "日東工業、環境省のグリーン水素活用事業に採択、瀬戸工場に分散型エネルギーシステム構築&nbsp;&nbsp;https://kabu-ir.com/",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94bVlLRUtjazc1Mm5wM2tmTnNmX0VROXROQ2pjX28xcnNia2xNNVA2WDB6cjRSaGFlcVo4OU5mMWs1eWtTMWhROGk3YVpqNmVINFBwWQ?oc=5",
-      "date": "2026-11-18",
-      "source": "https://kabu-ir.com/",
-      "category": "policy"
-    },
-    {
       "title": "大阪ガス、大分のメガソーラーに国内最大級30MW蓄電池併設・FIP転換",
       "summary": "大阪ガス、大分のメガソーラーに国内最大級30MW蓄電池併設・FIP転換&nbsp;&nbsp;環境ビジネスオンライン",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CamRDQzd0bkhuMnU1U0s0ejZKVHpUcS1RSTVmejc3TnJfeVFmTEp1YmNiekxELWJpV1FQekRMbVY3REZZLTM5Nmw4elZHX3Fwb0dpVDc0c1dVNGxvVUMzSTdEZ2w5UHdDaVN6ZTA3VGRrNVJVV1AxcndfemU?oc=5",
@@ -187,12 +171,12 @@
       "category": "policy"
     },
     {
-      "title": "卒FITの太陽光は昼に自分で使うと1kWhあたり「30.89円」得。1日2kWhで年約2万2550円、売電8.50円との差",
-      "summary": "卒FITの太陽光は昼に自分で使うと1kWhあたり「30.89円」得。1日2kWhで年約2万2550円、売電8.50円との差&nbsp;&nbsp;LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44eE81RFJQczJwN0tqQmM0NnRIdnJZVFlWWVI5WURkeGFlLUdEYkR6bEgtVnoyV1NYb3laNXVMa3liNDV0RkJmLWVvMFQ?oc=5",
+      "title": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注",
+      "summary": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注&nbsp;&nbsp;ZDNET Japan",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKXzdzOG5SeWpiRnNRTTdFVmRldGVMUlRSMzd0N2thTzFTRFR5bEtDRjdwY1MxSnV1LTdoRlpnckNjMkZ0WnVUQ2RJMndVSzdkNFkw?oc=5",
       "date": "2026-11-18",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "category": "policy"
+      "source": "ZDNET Japan",
+      "category": "om_tech"
     },
     {
       "title": "大分市の出力39MWのメガソーラーに容量125MWhの大規模蓄電池を併設 - ニュース - メガソーラービジネス plus",
@@ -200,30 +184,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GVUhlQ2lvb1JPdUFqZTZ3YV8yN0JMTjNYY1pZWUJaeUFYNnRYT2ZUSTQ5Qzh3R1pMNWx1MTg4N0xmWFFZSGFXN1FxQ2hreUhkTjVOMFRIZldKWjRJMVAta3FUT2lxMXJ4c05CZ2YzeURodGRm?oc=5",
       "date": "2026-11-18",
       "source": "日経BP",
-      "category": "finance"
-    },
-    {
-      "title": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。",
-      "summary": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWt4ZkNjN1pkbnRxdlRlVklUQjcxTUR2LUJoQjJ2VDNjdEtfZW8wb3E0c2RLNTduTHhReGhYZEZ2WGZEQVg3dVBIVUFpSDNkZEVBSDdGMHpER3dKYmRoUnlMRHFlMWpBY3hrNEhkeDdQMXFTcXFhR21pNEtYcUF1R25RUTdUcUNwRDJ6VW93by1LM2p5NmN4QkR0aHVwbS1jU0Z4UVpLNVJTUQ?oc=5",
-      "date": "2026-11-18",
-      "source": "Vietnam.vn",
-      "category": "finance"
-    },
-    {
-      "title": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。",
-      "summary": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGlMVEM2eV85M0VZamc3X3Y1U1lDd3YtenhxSnJrTjRRaG80N1JCVjVob0JONVlhTnlCVXNNNFNMQTRma3RNOExIM3AxbXRCUnN6cm1OcWJVcU1SRmdXemFROTR6ZHZ5bkVtZEJoNWRHaVJidlE5bWVndzRUOVlaRnNaU3lySWRLbjI5Njl6MGZSMnN5YzNodkFweGgyU0Zid3h5TkhR?oc=5",
-      "date": "2026-11-18",
-      "source": "Vietnam.vn",
-      "category": "finance"
-    },
-    {
-      "title": "ザライ省は、総額21億8000万ベトナムドンを超える2つの再生可能エネルギープロジェクトの建設を開始した。",
-      "summary": "ザライ省は、総額21億8000万ベトナムドンを超える2つの再生可能エネルギープロジェクトの建設を開始した。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2Fhc3RrMjJPeEE0OERLUks1QjhUMkZBN29YckxtSUhOaGE3MkxXbTg5cWUwd3NidWhqMG16YkhrenNrZ0QxTjdwZjY4SldKbFItbjJOa2RUWnVNNTI4WEJmbWZxS2pWSGpJNEtOdm5ickE2dXFOWnRzZUluRXVpX0VRMXozdnZCT0hHWWxSbEtnOE5lcHdmSXFR?oc=5",
-      "date": "2026-11-18",
-      "source": "Vietnam.vn",
       "category": "finance"
     },
     {
@@ -275,36 +235,12 @@
       "category": "industry"
     },
     {
-      "title": "メガソーラー、北海道釧路の規制条例施行1年で申請4件に減少 抑制効果も着工事業に課題",
-      "summary": "メガソーラー、北海道釧路の規制条例施行1年で申請4件に減少 抑制効果も着工事業に課題&nbsp;&nbsp;産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbDFyOGx1QmY2cnhSYnMzLUJDZTFQZkVsUjlBUVRwaXdaWHhQTmJ1UEVuZGZFZVAza20taHBJdnBfV2xVdV8wNFhuN0JQSXIyc0lkZ09FdDFJYTdHaFNLUGMwaXJrUmtaN0x3bzZyYlBWdl9sNFE?oc=5",
-      "date": "2026-11-17",
-      "source": "産経ニュース",
-      "category": "policy"
-    },
-    {
-      "title": "「太陽光発電」設置条例を提案へ、小さい施設でも説明会の開催必須に…「告知なくいきなり工事始まった」住民とのトラブル発生で（読売新聞オンライン）",
-      "summary": "「太陽光発電」設置条例を提案へ、小さい施設でも説明会の開催必須に…「告知なくいきなり工事始まった」住民とのトラブル発生で（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82N05oQzQ2WWJyNzBLZkdCLXlrR2ZHZTd3MlV5bWkxTUJ0NkMyT0lOVVZKTHcxaVNIdkl5b2FzbDJnTmM1TlRyanlLYmFPand0YjQ1Q3VnWFJicDl6di1kOXcwb2gyUjNsQjQtXzlydHdJWWVpaVZWV20xc3U2R3c?oc=5",
-      "date": "2026-11-17",
-      "source": "Yahoo!ニュース",
-      "category": "policy"
-    },
-    {
       "title": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託",
       "summary": "Bluefield Energy、常石商事が保有する太陽光発電所のFIP転換に伴うアグリゲーション業務を受託&nbsp;&nbsp;Infoseek",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FTXNETUZPQXYwb2Jlc09pY05kSkdtUXhlS2FEZ1ZEUGs5Y1F4UnJkZjc1YmcxQmY4S1BCYTluSkNqZGthanptbEo0MEVBd1Y3TFdtYXZGYy1EWW1icTdOa1dmUzVOOWhKZkc4WTFoS1lJUQ?oc=5",
       "date": "2026-11-17",
       "source": "Infoseek",
       "category": "policy"
-    },
-    {
-      "title": "2016年に設置した太陽光パネルの「10年間の固定買取」が終了します。これまで年間「約9万円」あった売電収入は、今後どれくらい減るのでしょうか？",
-      "summary": "2016年に設置した太陽光パネルの「10年間の固定買取」が終了します。これまで年間「約9万円」あった売電収入は、今後どれくらい減るのでしょうか？&nbsp;&nbsp;Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DSFQwZkRoYklIdlNsWjhZYWJ1LUR2NHJfRGY2cjU0MjlyMlB6c0ZhcXdOZmxzT205cnFHUGoyalRqU19ieC1aamd4X0N0VTdabHQ0Y1VKLVlRS1c1Q2k5d1hwcU5hRDgtZGc?oc=5",
-      "date": "2026-11-17",
-      "source": "Infoseek",
-      "category": "market"
     },
     {
       "title": "安心ひとくちメモ第8号 その点検、本当に必要ですか？太陽光発電の点検商法に注意",
@@ -363,22 +299,6 @@
       "category": "om_tech"
     },
     {
-      "title": "北海道八雲町に「地域共生再エネ」、町が主導し出資も - 特集 - メガソーラービジネス plus",
-      "summary": "北海道八雲町に「地域共生再エネ」、町が主導し出資も - 特集 - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IM1hlbmhoeEFabjhESDNvU0FJcjFsVlcyZlBKa1B3Vm5DM1QtNzlYUzhfaWxudnE2a1hWSl9Zbi1xMjFaV0JObl84cWRyQkFEanhUY2tiZWoweGo3VUJsSUl6QlVCRGJlTHR6TXFIVllNdUU0UDMzag?oc=5",
-      "date": "2026-11-16",
-      "source": "日経BP",
-      "category": "finance"
-    },
-    {
-      "title": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について",
-      "summary": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について&nbsp;&nbsp;大阪ガス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qb2ZpMHA4V2dJQmQ5djlHOVFEVDV1VEtNZ3Axa292S0gtbk52djNNdkVFa1BxT2VzajJObzlGSS1QQklHZDNsN0NHczRmUXZ3dW1walhzWFhEVGpEdzF4eG5xT3p5N0d0SXNRRTNNbFBZM3Bf?oc=5",
-      "date": "2026-11-16",
-      "source": "大阪ガス",
-      "category": "finance"
-    },
-    {
       "title": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工",
       "summary": "【東芝】太陽光発電所への蓄電池併設プロジェクトを初完工&nbsp;&nbsp;Digital PR Platform",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXYWotaDBfeGxtbTFLNkthbEVIMGtsTHh4S0lUMTJVRi12T19MbzdDM0hOQkpkZ2ZJZUtObFZPVzBMRzA?oc=5",
@@ -401,14 +321,6 @@
       "date": "2026-11-14",
       "source": "SOLAR JOURNAL",
       "category": "market"
-    },
-    {
-      "title": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設",
-      "summary": "銅線ケーブル窃盗、山県市の被害女性「まさか自分が」 岐阜県内で急増、狙われる太陽光発電施設&nbsp;&nbsp;中日新聞Web",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93U1FYbXJhTThNNjdIWG5lSUVJOTJOdlg3WnkyUUdXR0R4SEpTdEN3REt4dmxGU1R4Mkh4cGZERFVIazNVSWtGYnlXSDZnZXpqOXQ4OA?oc=5",
-      "date": "2026-11-14",
-      "source": "中日新聞Web",
-      "category": "om_tech"
     },
     {
       "title": "中国電力の水力発電システム、「AI」で業務を改善（ニュース）",
@@ -515,28 +427,12 @@
       "category": "industry"
     },
     {
-      "title": "【低圧系統用蓄電池の案件開発を開始】2026年10月から新たに低圧領域へ展開―太陽光100MW超の開発知見を活用",
-      "summary": "【低圧系統用蓄電池の案件開発を開始】2026年10月から新たに低圧領域へ展開―太陽光100MW超の開発知見を活用&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUC1NeXZyUHQ1bDFXSWd6WVltLVRsdFBNcUoyZkxNQUkzZUpKRlhTYUctanN5a255VFh6STZNVE1JN3lvZ19Dem9DMTRkQXZoRjN1VlpDQ0ZYVEY4ZVhoS2cybC02QnhmNlE?oc=5",
-      "date": "2026-11-12",
-      "source": "PR TIMES",
-      "category": "market"
-    },
-    {
       "title": "中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功",
       "summary": "中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功&nbsp;&nbsp;人民網日本語版",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5",
       "date": "2026-11-12",
       "source": "人民網日本語版",
       "category": "om_tech"
-    },
-    {
-      "title": "系統用蓄電所（４拠点）設備施工・管理のお知らせ",
-      "summary": "系統用蓄電所（４拠点）設備施工・管理のお知らせ&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeEpubnRBNnZtXzVURkFDdWNaUy11R3B0OWY2OUJKc0FmdkdSUDJKaTlvSlE2S1M2SlZJU2dwU3RlWkZubzhlWUxvYnVPZ2ZYdDd3elVpb0NSZ0lyLUREdkFROXR0NXhrcGc?oc=5",
-      "date": "2026-11-12",
-      "source": "PR TIMES",
-      "category": "finance"
     },
     {
       "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント",
@@ -601,14 +497,6 @@
       "date": "2026-11-11",
       "source": "SOLAR JOURNAL",
       "category": "market"
-    },
-    {
-      "title": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町（青森放送）",
-      "summary": "メガソーラー計画 青森県条例の重い税が免除される「共生区域」の指定認めず 青森・おいらせ町（青森放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBocE5VTmJTQjRDZUZsRnBzTUxGRVY3SWQ3ZVlBeUFZcUlFT3JVMmtGUmVYcVVPbE1NYTVWclA0MEVQekxBTzQ2VVpZaW5xUVlxMlFSUFNqWHhJSkZkMjVRTTJNeTdoVjNfQ25sdXFKVldibWNLS09UN05uY2kzWFk?oc=5",
-      "date": "2026-11-11",
-      "source": "Yahoo!ニュース",
-      "category": "policy"
     },
     {
       "title": "高圧FIT太陽光の「FIP転」、九州や東北でサービス化 - ニュース - メガソーラービジネス plus",
@@ -961,6 +849,118 @@
       "date": "2026-10-30",
       "source": "日経BP メガソーラービジネス",
       "category": "om_tech"
+    },
+    {
+      "title": "「スーパー過積載＋蓄電池」、サンヴィレッジが低圧太陽光で稼働（ニュース）",
+      "summary": "サンヴィレッジ（東京都千代田区）は、栃木県足利市で、連系出力の約3.3倍の太陽光パネルを搭載した「蓄電池併設低圧スーパー過積載太陽光発電所」を開発した。10月28日、同発電所が系統連系し、運転を開始したと発表した。　連系出力49.9kW、太陽光パネルの出力163.2kWの低圧事業用太陽光で、容量253.3kWhの蓄電池",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06167/?ST=msb",
+      "date": "2026-10-30",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "太陽電池搭載の飲料自販機、年間消費電力の45％賄う（ニュース）",
+      "summary": "サントリーホールディングスとPXP（相模原市）は10月28日、相模原市立相模原麻溝公園において実施した、カルコパイライト太陽電池を搭載した自動販売機の実証実験の結果を発表した。年間で約45％の省エネとCO2排出量削減の効果を確認した。　サントリーの自動販売機1台にPXPが開発したカルコパイライト太陽電池パネルを合計4枚",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06166/?ST=msb",
+      "date": "2026-10-30",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "東京ガスとGSユアサ、タイの蓄電池事業で連携（ニュース）",
+      "summary": "東京ガスエンジニアリングソリューションズ（TGES、東京都港区）は、タイに現地事業会社TGES（Thailand＝タイランド）を設立した。また、TGES Thailandは、三菱電機の現地子会社Mitsubishi Electric Consumer Products（Thailand）（MCP＝三菱電機コンシューマー",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06164/?ST=msb",
+      "date": "2026-10-30",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
+      "summary": "サントリーとPXPがカルコパイライト太陽電池を自動販売機の電源として利用する実証実験を実施。年間で約45％の省エネルギーおよび温室効果ガス（GHG）排出量削減効果を確認できたという。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
+      "date": "2026-10-29",
+      "source": "スマートジャパン",
+      "category": "industry"
+    },
+    {
+      "title": "中国がけん引するナトリウムイオン電池の世界市場、2040年に1.7兆円規模へ",
+      "summary": "富士経済は2026年10月20日、資源高騰へのリスクヘッジに加え、寒冷地での動作や急速充電などの利点で普及が期待されるナトリウムイオン電池の世界市場に関する調査結果を発表した。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news068.html",
+      "date": "2026-10-29",
+      "source": "スマートジャパン",
+      "category": "market"
+    },
+    {
+      "title": "FIPの認定量が7GW・3000件超に、 経産省が公表（ニュース）",
+      "summary": "経済産業省は、10月28日に開催した 調達価格等算定委員会で、2026年3月末時点のフィード・イン・プレミアム（FIP）認定量が、新規認定・移行認定を合わせて7266MW（7.266GW）、3076件に達したと報告した。2025年3月末時点の認定量（3795MW・1889件）から、1年間で出力は1.9倍、件数は1.6倍",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06163/?ST=msb",
+      "date": "2026-10-29",
+      "source": "日経BP メガソーラービジネス",
+      "category": "policy"
+    },
+    {
+      "title": "経産省、リコーと長州産業のペロブスカイト量産を支援（ニュース）",
+      "summary": "経済産業省は、ペロブスカイト太陽電池や浮体式洋上風力発電などGX（グリーントランスフォーメーション）分野の国内製造サプライチェーンの構築を目的とした「GXサプライチェーン構築支援事業」を推進している。10月27日、令和7年度補正におけるペロブスカイト太陽電池の採択事業者として、フィルム型にリコー、タンデム型に長州産業を",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06162/?ST=msb",
+      "date": "2026-10-29",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "小水力の電気で水を電気分解、グリーン水素を供給（ニュース）",
+      "summary": "森とみずのちから（本社：奈良県下市町）と高砂熱学工業は、小水力発電の電気を利用した水素供給事業で連携する。10月27日に「小水力発電を活用した地産地消型のグリーン水素供給事業に向けた協業に関する協定書」を締結したと発表した。　長野県、茨城県、新潟県、鹿児島県などを対象に、事業スキームに応じた特別目的会社（SPC）を設立",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06161/?ST=msb",
+      "date": "2026-10-29",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "ヘキサと中電ミライズ、オフサイトPPAで20MW開発（ニュース）",
+      "summary": "ヘキサ・エネルギーサービス（東京都千代田区）は10月27日、同社のグループ会社である地域電力（東京都港区）が、中部電力ミライズ（名古屋市）とオフサイト型PPA（電力購入契約）を締結したと発表した。　地域電力は、2027年度中を目標に、中部エリアで低圧事業用太陽光の案件を中心とした合計出力20MW規模の分散型太陽光発電所",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06160/?ST=msb",
+      "date": "2026-10-29",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "物流施設が地域のGX拠点に、プロロジスの新エネ戦略（売電だけじゃない！ 新・メガソーラー活用術）",
+      "summary": "全世界の太陽光・蓄電池で1.3GW　世界最大規模の物流不動産デベロッパー米ProLogis（プロロジス）が、再生可能エネルギー事業でも積極展開している。同社は、世界20カ国で約6000棟の物流施設を開発してきた。加えて、物流施設を利用した太陽光発電と蓄電池の設置規模は既に1.3GWに達しており、再エネのギガプレーヤーで",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00009/00016/?ST=msb",
+      "date": "2026-10-29",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "合成メタンなどの「次世代ガス」の国際動向　国内普及に向けた新たな官民協議会も",
+      "summary": "バイオガスを含む「次世代ガス」の普及を目指し、政府が新たに「次世代ガス推進官民協議会」を設置。その第1回会合では、合成メタンやバイオガス・メタンなどの国内外の動向が報告された。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/28/news031.html",
+      "date": "2026-10-28",
+      "source": "スマートジャパン",
+      "category": "industry"
+    },
+    {
+      "title": "国交省が「モビリティ・エネリンク構想」、骨子を公表（ニュース）",
+      "summary": "国土交通省は、10月13日に開催した有識者会議（エネルギー・経済安全保障小委員会）において、モビリティとインフラを活用することでエネルギーの自律性向上を目指す「モビリティ・エネリンク構想」について、基本方針の中間報告に向けた骨子案を示した。　「モビリティ・エネリンク構想」は、モビリティとインフラを活用して国のエネルギー",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06159/?ST=msb",
+      "date": "2026-10-28",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
+      "title": "アルミ大手が7MWの太陽光で「自営線PPA」、4kmを結ぶ（ニュース）",
+      "summary": "アルミニウム国内最大手のUACJ（ユーエーシージェー）と北陸電力ビズ・エナジーソリューション（北電BEST、富山市）は、福井県坂井市にある「UACJ福井製造所」において、自営線経由で再生可能エネルギー電力を供給するオフサイト型PPA（電力購入契約）を締結し、11月1日からサービス開始する。10月26日に発表した。　北電",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06158/?ST=msb",
+      "date": "2026-10-28",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "ブラザーと東京都中央区、燃料電池を災害時に活用（ニュース）",
+      "summary": "ブラザー工業は10月20日、東京都中央区と「災害時等における水素燃料電池の利活用等に関する協定」を締結し、中央区保健所に同社製の燃料電池システムを設置したと発表した。　協定に基づき同社は、災害時などにおける電力供給を担保するため、非常用電源として燃料電池を設置するとともに、運転時やメンテナンス時に技術面で協力する。中央",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06157/?ST=msb",
+      "date": "2026-10-28",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
     }
   ]
 }
