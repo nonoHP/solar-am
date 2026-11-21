@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 15:55 JST",
+  "updated_at": "2026-11-21 18:43 JST",
   "total_count": 120,
   "items": [
     {
@@ -72,6 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XcE4xV2gxQnN5R015OWFWcGtNR1dYMzM2ajZvYTNKMTJjTFBUV2lzX19NQnVWbFhTV0FsVEIyT3ZBa1ctOEpuT1BZSGNwemFReWU0TFA4ZUhoS1hjaWI0?oc=5",
       "date": "2026-11-20",
       "source": "千葉テレビ放送株式会社",
+      "category": "policy"
+    },
+    {
+      "title": "神戸市がマンション空室への課税条例案",
+      "summary": "神戸市がマンション空室への課税条例案&nbsp;&nbsp;Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vZzlkOUZ4V3lvcUZQWXZBNTBmYzR6TXp6cVpLbG9rN3pQRFJxV3o3WE9YbTloaHJXdU5xbnlCUXBrdUZJOFdwWlI3OTZvaXN1UmlaWS10LU9kbUNBM1g5VkRWV0hCZ05ZNXJfekxPQdIBdEFVX3lxTE0ya3lhRFB3Vmx5b3pIMExVZHA5Q2cwUkhfN2x0cl9OMkpod0xTLTZtVVZ5YWc2d3Nab0U1TDBfOF95VTBUYU5fcEhqZjlyQUctYjJUdmhSUDAwQUhueVRaRkw4WXc2R3hnT3V5djBuTjdvNTBN?oc=5",
+      "date": "2026-11-20",
+      "source": "Infoseek",
       "category": "policy"
     },
     {
@@ -243,14 +251,6 @@
       "category": "om_tech"
     },
     {
-      "title": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注",
-      "summary": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注&nbsp;&nbsp;ZDNET Japan",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKXzdzOG5SeWpiRnNRTTdFVmRldGVMUlRSMzd0N2thTzFTRFR5bEtDRjdwY1MxSnV1LTdoRlpnckNjMkZ0WnVUQ2RJMndVSzdkNFkw?oc=5",
-      "date": "2026-11-18",
-      "source": "ZDNET Japan",
-      "category": "om_tech"
-    },
-    {
       "title": "大分市の出力39MWのメガソーラーに容量125MWhの大規模蓄電池を併設 - ニュース - メガソーラービジネス plus",
       "summary": "大分市の出力39MWのメガソーラーに容量125MWhの大規模蓄電池を併設 - ニュース - メガソーラービジネス plus&nbsp;&nbsp;日経BP",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GVUhlQ2lvb1JPdUFqZTZ3YV8yN0JMTjNYY1pZWUJaeUFYNnRYT2ZUSTQ5Qzh3R1pMNWx1MTg4N0xmWFFZSGFXN1FxQ2hreUhkTjVOMFRIZldKWjRJMVAta3FUT2lxMXJ4c05CZ2YzeURodGRm?oc=5",
@@ -259,17 +259,17 @@
       "category": "finance"
     },
     {
-      "title": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。",
-      "summary": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWt4ZkNjN1pkbnRxdlRlVklUQjcxTUR2LUJoQjJ2VDNjdEtfZW8wb3E0c2RLNTduTHhReGhYZEZ2WGZEQVg3dVBIVUFpSDNkZEVBSDdGMHpER3dKYmRoUnlMRHFlMWpBY3hrNEhkeDdQMXFTcXFhR21pNEtYcUF1R25RUTdUcUNwRDJ6VW93by1LM2p5NmN4QkR0aHVwbS1jU0Z4UVpLNVJTUQ?oc=5",
+      "title": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。",
+      "summary": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGlMVEM2eV85M0VZamc3X3Y1U1lDd3YtenhxSnJrTjRRaG80N1JCVjVob0JONVlhTnlCVXNNNFNMQTRma3RNOExIM3AxbXRCUnN6cm1OcWJVcU1SRmdXemFROTR6ZHZ5bkVtZEJoNWRHaVJidlE5bWVndzRUOVlaRnNaU3lySWRLbjI5Njl6MGZSMnN5YzNodkFweGgyU0Zid3h5TkhR?oc=5",
       "date": "2026-11-18",
       "source": "Vietnam.vn",
       "category": "finance"
     },
     {
-      "title": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。",
-      "summary": "ザライ省：総額約2兆2000億ベトナムドン相当の風力発電所と太陽光発電所2基の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGlMVEM2eV85M0VZamc3X3Y1U1lDd3YtenhxSnJrTjRRaG80N1JCVjVob0JONVlhTnlCVXNNNFNMQTRma3RNOExIM3AxbXRCUnN6cm1OcWJVcU1SRmdXemFROTR6ZHZ5bkVtZEJoNWRHaVJidlE5bWVndzRUOVlaRnNaU3lySWRLbjI5Njl6MGZSMnN5YzNodkFweGgyU0Zid3h5TkhR?oc=5",
+      "title": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。",
+      "summary": "テイホー・チュープロン風力発電所とバウカン浮体式太陽光発電所の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWt4ZkNjN1pkbnRxdlRlVklUQjcxTUR2LUJoQjJ2VDNjdEtfZW8wb3E0c2RLNTduTHhReGhYZEZ2WGZEQVg3dVBIVUFpSDNkZEVBSDdGMHpER3dKYmRoUnlMRHFlMWpBY3hrNEhkeDdQMXFTcXFhR21pNEtYcUF1R25RUTdUcUNwRDJ6VW93by1LM2p5NmN4QkR0aHVwbS1jU0Z4UVpLNVJTUQ?oc=5",
       "date": "2026-11-18",
       "source": "Vietnam.vn",
       "category": "finance"
@@ -336,14 +336,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbDFyOGx1QmY2cnhSYnMzLUJDZTFQZkVsUjlBUVRwaXdaWHhQTmJ1UEVuZGZFZVAza20taHBJdnBfV2xVdV8wNFhuN0JQSXIyc0lkZ09FdDFJYTdHaFNLUGMwaXJrUmtaN0x3bzZyYlBWdl9sNFE?oc=5",
       "date": "2026-11-17",
       "source": "産経ニュース",
-      "category": "policy"
-    },
-    {
-      "title": "「太陽光発電」設置条例を提案へ、小さい施設でも説明会の開催必須に…「告知なくいきなり工事始まった」住民とのトラブル発生で（読売新聞オンライン）",
-      "summary": "「太陽光発電」設置条例を提案へ、小さい施設でも説明会の開催必須に…「告知なくいきなり工事始まった」住民とのトラブル発生で（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82N05oQzQ2WWJyNzBLZkdCLXlrR2ZHZTd3MlV5bWkxTUJ0NkMyT0lOVVZKTHcxaVNIdkl5b2FzbDJnTmM1TlRyanlLYmFPand0YjQ1Q3VnWFJicDl6di1kOXcwb2gyUjNsQjQtXzlydHdJWWVpaVZWV20xc3U2R3c?oc=5",
-      "date": "2026-11-17",
-      "source": "Yahoo!ニュース",
       "category": "policy"
     },
     {
@@ -961,6 +953,14 @@
       "date": "2026-10-30",
       "source": "日経BP メガソーラービジネス",
       "category": "market"
+    },
+    {
+      "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
+      "summary": "サントリーとPXPがカルコパイライト太陽電池を自動販売機の電源として利用する実証実験を実施。年間で約45％の省エネルギーおよび温室効果ガス（GHG）排出量削減効果を確認できたという。",
+      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
+      "date": "2026-10-29",
+      "source": "スマートジャパン",
+      "category": "industry"
     }
   ]
 }
