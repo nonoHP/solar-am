@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 09:04 JST",
+  "updated_at": "2026-11-22 12:45 JST",
   "total_count": 120,
   "items": [
     {
@@ -86,14 +86,6 @@
       "title": "神戸市がマンション空室への課税条例案",
       "summary": "神戸市がマンション空室への課税条例案&nbsp;&nbsp;Infoseek",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vZzlkOUZ4V3lvcUZQWXZBNTBmYzR6TXp6cVpLbG9rN3pQRFJxV3o3WE9YbTloaHJXdU5xbnlCUXBrdUZJOFdwWlI3OTZvaXN1UmlaWS10LU9kbUNBM1g5VkRWV0hCZ05ZNXJfekxPQdIBdEFVX3lxTE0ya3lhRFB3Vmx5b3pIMExVZHA5Q2cwUkhfN2x0cl9OMkpod0xTLTZtVVZ5YWc2d3Nab0U1TDBfOF95VTBUYU5fcEhqZjlyQUctYjJUdmhSUDAwQUhueVRaRkw4WXc2R3hnT3V5djBuTjdvNTBN?oc=5",
-      "date": "2026-11-20",
-      "source": "Infoseek",
-      "category": "policy"
-    },
-    {
-      "title": "千葉県が早期復旧向け残土条例一部緩和",
-      "summary": "千葉県が早期復旧向け残土条例一部緩和&nbsp;&nbsp;Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qbmdhZXNBV1ZScklfNWFGTVVuczREdkxkclFSNWFmVUQ5dnlEakhDU0lZV3F6OWRxanItUm1WT1lMZGxPc0tvT0hhY1M3ekJSaXVaUlpzWFpDenUyZm5yOWlEajE5NWIyRnpqaUdPONIBdEFVX3lxTE9pWkpsS3BabVdqN0dyLTI5dDB1anB5SmE4T2NHZ3dPc2g1cUdBUGx5NWo3NkRsVGVFeFl3aU5vUjFLRHNKSzREa0xVVWEtVkJ5bFBLVjhkMzBHT0dJaGUyYmtTT2RYVWtQNUd4bUFRU3ZfUTkw?oc=5",
       "date": "2026-11-20",
       "source": "Infoseek",
       "category": "policy"
@@ -611,20 +603,20 @@
       "category": "industry"
     },
     {
-      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
-      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "om_tech"
-    },
-    {
       "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
       "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
+      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "om_tech"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -961,6 +953,14 @@
       "date": "2026-11-01",
       "source": "PVeye",
       "category": "om_tech"
+    },
+    {
+      "title": "大日本印刷、オンサイトPPA締結",
+      "summary": "10MW級の太陽光発電設備を導入",
+      "link": "https://www.pveye.jp/inside_news/view/6945/",
+      "date": "2026-11-01",
+      "source": "PVeye",
+      "category": "market"
     }
   ]
 }
