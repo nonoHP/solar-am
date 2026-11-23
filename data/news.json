@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 16:15 JST",
+  "updated_at": "2026-11-23 19:07 JST",
   "total_count": 120,
   "items": [
     {
@@ -160,6 +160,14 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZUk0cDZxVHhRUlRKNlF0NVNFRU1VOUxMd3lCVEt1clNKc1R6aFNTd3RwVldPWTAtM0poSzhqTllzV1dCOGZIVWRuWnQ5dFRsNFhHT3B3aGtvbDA?oc=5",
       "date": "2026-11-19",
       "source": "河北新報オンライン",
+      "category": "policy"
+    },
+    {
+      "title": "屋上太陽光発電からのグリーン移行。",
+      "summary": "屋上太陽光発電からのグリーン移行。&nbsp;&nbsp;Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MRkUtbE9kdjhBeHBFekVJaWg0S0toc0hRTmZlUjVIVk9XQUpxSGxJUmN5U2NLM1dtaHVLUjBDRWQzYVRSWURDQU5iRThSSE9kQnhvZU5vNzRwR3FkN2cyREd5THowVjRCMTVwZVhuOFRFRlN1?oc=5",
+      "date": "2026-11-19",
+      "source": "Vietnam.vn",
       "category": "policy"
     },
     {
@@ -371,6 +379,14 @@
       "category": "om_tech"
     },
     {
+      "title": "太陽光発電所への蓄電池併設プロジェクトを初完工",
+      "summary": "太陽光発電所への蓄電池併設プロジェクトを初完工&nbsp;&nbsp;東芝",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKbVc2UXJsTUg5SHZkS0E5WjZsMjJGT3VxNlV3andTdzZ3ckZXeUN3SWh4dTdVdEVZdVRSM0w4bGVmVzEtYlZqRU5vckF2cXQxQTdJNmpNeXRIaDIwRkdaMk5NcmhmQjVLMC0zTlJRbENWNjI1OHl4VEl4Yw?oc=5",
+      "date": "2026-11-16",
+      "source": "東芝",
+      "category": "finance"
+    },
+    {
       "title": "【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」",
       "summary": "FIT終了から、災害対策、そしてGX2040ビジョン。さまざまな角度でより注目を集める太陽光発電。激変する市場環境下でビジネスを加速させるの最新戦略を、業界のトップランナー企業と専門家が徹底解説する。 The post 【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」 first a",
       "link": "https://solarjournal.jp/event/67470/",
@@ -523,20 +539,20 @@
       "category": "industry"
     },
     {
-      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
-      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "om_tech"
-    },
-    {
       "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
       "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
+      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "om_tech"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -633,6 +649,14 @@
       "date": "2026-11-09",
       "source": "SOLAR JOURNAL",
       "category": "market"
+    },
+    {
+      "title": "太陽光発電投資から、次の資産運用へ。新たな投資先や資産分散を検討する方に、多彩な投資商品を横断比較できる投資商品比較サイト『タイナビVISTA』、掲載商品を15件から33件に拡充し本格始動",
+      "summary": "太陽光発電投資から、次の資産運用へ。新たな投資先や資産分散を検討する方に、多彩な投資商品を横断比較できる投資商品比較サイト『タイナビVISTA』、掲載商品を15件から33件に拡充し本格始動&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMW5oZ2lMVnJYNUQxdThhNzVBODE2LVdjUmozWGVUckVlMEpCNzVBT293YWdlRDhCajJoTjk5cWVJRFZNd0NUampRNURRVFVVaVVXNlF2c1J5YWR2NHQtdFYta2hmWi02eEE?oc=5",
+      "date": "2026-11-09",
+      "source": "PR TIMES",
+      "category": "finance"
     },
     {
       "title": "排出量取引制度、上限価格への張り付き予防に「過度なバンキング」を制限へ",
@@ -779,6 +803,14 @@
       "category": "industry"
     },
     {
+      "title": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4〜9月】",
+      "summary": "グッド・エナジー、太陽光発電所の都道府県別買取契約件数ランキングを公開【2026年4〜9月】&nbsp;&nbsp;PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rQTgyZk1keGxEbmd0OEFQWndfS3pYMzlBWEY1TGVUVHBiWjJQMklBdFVsUWJzZFU5SmRYUTlWX2NZaUUyeEFLeEFMMEdLRVI3cko4SmJ3NUtBNmVpRk8wd1pOanBUdTBqbFE?oc=5",
+      "date": "2026-11-04",
+      "source": "PR TIMES",
+      "category": "finance"
+    },
+    {
       "title": "ワイヤー設置による壁面太陽光、ニプロンが実証公開（ニュース）",
       "summary": "ニプロンは10月21、22日に兵庫県尼崎市の本社・阪神夢工場で開催した「ニプロンカーボンニュートラルフェア2026」で、独自開発したワイヤー懸架（けんか）方式による壁面太陽光の実証設備を公開した。4階建の本社ビルの南面に設置したもので、軽量タイプの結晶シリコン太陽光パネル7枚を設置した。　グラスファイバー製の懸架ワイヤ",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06172/?ST=msb",
@@ -915,52 +947,20 @@
       "category": "market"
     },
     {
+      "title": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達",
+      "summary": "太陽光発電所への蓄電池併設を支援するグリーングロース、ANRIなどからの出資と借入で約5億円を調達&nbsp;&nbsp;BRIDGE（ブリッジ）",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUZQLTZlUzJVV2szM0lPaERDQTZBTnlWYTlDNGpzTmpTMmJSOVpMVzdRbnRhSy1iNnpndFdXMTRMWWo2bUs0NmtKa0gyVkJxUGZRXzFmQlloLVE3ZlZwcUM0bGFnT2RJWEh3R1JWejZmbG5RZE0yOFpONTQydTJpRg?oc=5",
+      "date": "2026-10-30",
+      "source": "BRIDGE（ブリッジ）",
+      "category": "finance"
+    },
+    {
       "title": "自動販売機にカルコパイライト太陽電池、年間45％の省エネ効果を確認",
       "summary": "サントリーとPXPがカルコパイライト太陽電池を自動販売機の電源として利用する実証実験を実施。年間で約45％の省エネルギーおよび温室効果ガス（GHG）排出量削減効果を確認できたという。",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news070.html",
       "date": "2026-10-29",
       "source": "スマートジャパン",
       "category": "industry"
-    },
-    {
-      "title": "中国がけん引するナトリウムイオン電池の世界市場、2040年に1.7兆円規模へ",
-      "summary": "富士経済は2026年10月20日、資源高騰へのリスクヘッジに加え、寒冷地での動作や急速充電などの利点で普及が期待されるナトリウムイオン電池の世界市場に関する調査結果を発表した。",
-      "link": "https://www.itmedia.co.jp/smartjapan/articles/2610/29/news068.html",
-      "date": "2026-10-29",
-      "source": "スマートジャパン",
-      "category": "market"
-    },
-    {
-      "title": "FIPの認定量が7GW・3000件超に、 経産省が公表（ニュース）",
-      "summary": "経済産業省は、10月28日に開催した 調達価格等算定委員会で、2026年3月末時点のフィード・イン・プレミアム（FIP）認定量が、新規認定・移行認定を合わせて7266MW（7.266GW）、3076件に達したと報告した。2025年3月末時点の認定量（3795MW・1889件）から、1年間で出力は1.9倍、件数は1.6倍",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06163/?ST=msb",
-      "date": "2026-10-29",
-      "source": "日経BP メガソーラービジネス",
-      "category": "policy"
-    },
-    {
-      "title": "経産省、リコーと長州産業のペロブスカイト量産を支援（ニュース）",
-      "summary": "経済産業省は、ペロブスカイト太陽電池や浮体式洋上風力発電などGX（グリーントランスフォーメーション）分野の国内製造サプライチェーンの構築を目的とした「GXサプライチェーン構築支援事業」を推進している。10月27日、令和7年度補正におけるペロブスカイト太陽電池の採択事業者として、フィルム型にリコー、タンデム型に長州産業を",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06162/?ST=msb",
-      "date": "2026-10-29",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "小水力の電気で水を電気分解、グリーン水素を供給（ニュース）",
-      "summary": "森とみずのちから（本社：奈良県下市町）と高砂熱学工業は、小水力発電の電気を利用した水素供給事業で連携する。10月27日に「小水力発電を活用した地産地消型のグリーン水素供給事業に向けた協業に関する協定書」を締結したと発表した。　長野県、茨城県、新潟県、鹿児島県などを対象に、事業スキームに応じた特別目的会社（SPC）を設立",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06161/?ST=msb",
-      "date": "2026-10-29",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "ヘキサと中電ミライズ、オフサイトPPAで20MW開発（ニュース）",
-      "summary": "ヘキサ・エネルギーサービス（東京都千代田区）は10月27日、同社のグループ会社である地域電力（東京都港区）が、中部電力ミライズ（名古屋市）とオフサイト型PPA（電力購入契約）を締結したと発表した。　地域電力は、2027年度中を目標に、中部エリアで低圧事業用太陽光の案件を中心とした合計出力20MW規模の分散型太陽光発電所",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06160/?ST=msb",
-      "date": "2026-10-29",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
     }
   ]
 }
