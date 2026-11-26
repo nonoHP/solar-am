@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:16 JST",
+  "updated_at": "2026-11-26 12:50 JST",
   "total_count": 120,
   "items": [
     {
@@ -11,12 +11,36 @@
       "category": "om_tech"
     },
     {
+      "title": "竹中工務店ら、自社太陽光活用のオフサイトPPA開始（ニュース）",
+      "summary": "竹中グループ3社（竹中工務店、竹中土木、TAKグリーンエナジー）と東京電力エナジーパートナー（東電EP）は、TAKグリーンエナジーが新規開発した太陽光発電所の電力を、竹中グループのオフィスビル4棟で活用するオフサイト型フィジカルコーポレートPPA（電力購入契約）を締結し、10月から供給開始した。11月24日に発表した。",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06238/?ST=msb",
+      "date": "2026-11-26",
+      "source": "日経BP メガソーラービジネス",
+      "category": "market"
+    },
+    {
+      "title": "JOGMEC、地熱モデル地区に弟子屈町と九重町を新たに認定（ニュース）",
+      "summary": "エネルギー・金属鉱物資源機構（JOGMEC）は11月20日、地熱発電や地熱エネルギーの多用途活用を通じた地域産業振興を支援する「地熱モデル地区」制度を拡充し、新たに北海道弟子屈町と大分県九重町を認定したと発表した。2019年に認定した3地区と合わせ、地熱モデル地区は合計5地区となる。　同制度は、地熱資源を発電のほか、農",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06237/?ST=msb",
+      "date": "2026-11-26",
+      "source": "日経BP メガソーラービジネス",
+      "category": "industry"
+    },
+    {
       "title": "解説・太陽光パネルリサイクル法、詳細設計が進展（メガソーラービジネス）",
       "summary": "太陽光パネルの大量廃棄を抑制し、資源循環へと舵を切る「太陽電池廃棄物の再資源化等の推進に関する法律」（通称：太陽光パネルリサイクル法）が2026年5月29日に成立、6月5日に公布された。施行に向け、経済産業省と環境省は「『太陽電池廃棄物の再資源化等の推進に関する法律』の下位法令の策定等に係る検討会」を立ち上げた。202",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00007/00203/?ST=msb",
       "date": "2026-11-26",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "自治体条例で再エネ設備撤去費用の積み立て義務化が広がる、確実な撤去・廃棄を担保へ",
+      "summary": "北海道旭川市は市内に設置・運用される再生可能エネルギー発電設備の撤去・廃棄費用の確保義務を定めた「（仮称）旭川市再エネ発電設備の設置等に関する条例」素案のパブリックコメントを12月2日まで実施している。ほかの自治体でも条例制定の動きが広がっている。 The post 自治体条例で再エネ設備撤去費用の積み立て義務化が広が",
+      "link": "https://solarjournal.jp/news/68644/",
+      "date": "2026-11-26",
+      "source": "SOLAR JOURNAL",
+      "category": "policy"
     },
     {
       "title": "遠隔監視システム、サイバー攻撃の標的に",
@@ -99,6 +123,22 @@
       "category": "industry"
     },
     {
+      "title": "商業・産業用PVインバーター市場は、2025年に121億米ドルと推定され、2036年までに272億2,000万米ドルに達すると予測されています。予測期間（2026年～2036年）",
+      "summary": "商業・産業用PVインバーター市場は、2025年に121億米ドルと推定され、2036年までに272億2,000万米ドルに達すると予測されています。予測期間（2026年～2036年）&nbsp;&nbsp;Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JcUtxclVVVlBhNlZ2MzRpLUotZW1pR1FuT01Kakx1WHNON0ZuUVo3WURzeFdSdlZnTGpVNEptWHoyV2VpM1AwcW82Q1ViaE0?oc=5",
+      "date": "2026-11-26",
+      "source": "Newscast.jp",
+      "category": "market"
+    },
+    {
+      "title": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認",
+      "summary": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認&nbsp;&nbsp;au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yZTV3dEpvbzAwTV8ySWNTZ2g1bnJhcUozRWViVzdCdkxJeUdLVy1BOGd1VThnRTJoMjEtTno2aU9NTmJDMU9DdUppVU5EV240MlRKZGFlN0dfQjZTYy11MDU3U00xUmw4ZFBwNXR3?oc=5",
+      "date": "2026-11-26",
+      "source": "au Webポータル",
+      "category": "policy"
+    },
+    {
       "title": "コスモ、小豆島の太陽光発電所に蓄電池を併設へ",
       "summary": "コスモ、小豆島の太陽光発電所に蓄電池を併設へ&nbsp;&nbsp;au Webポータル",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TVXB6b09MQmZuZEkxbVpOeklIQjgxQUdaNkt4MkM1dEI5LUlPZ2ZETUVDbk1ZMTZtbF9YeTVjUkZ4T1FmUFBCSXBnUmhmdTY5ZGU4UzduSDFsUGZsQXJrWGt6XzRPVXB4dlBTVktB?oc=5",
@@ -171,14 +211,6 @@
       "category": "policy"
     },
     {
-      "title": "太陽光発電の専門メディア PVeyeWEB",
-      "summary": "太陽光発電の専門メディア PVeyeWEB&nbsp;&nbsp;www.pveye.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zdjFqU1NUMWowbm1uX3BKT3NFNUE4TlpnY3hyVWJrVk9fcXhDTlgxOS10b0xPdmVyNERQbzhOeTA0RWZHa0RRVVY3Tnd0bVk?oc=5",
-      "date": "2026-11-25",
-      "source": "www.pveye.jp",
-      "category": "policy"
-    },
-    {
       "title": "千葉豪雨や台風２５号 市町村から要望受け早期復旧のための千葉県残土条例緩和",
       "summary": "千葉豪雨や台風２５号 市町村から要望受け早期復旧のための千葉県残土条例緩和&nbsp;&nbsp;Infoseek",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SSlVMN2YyNHFtcWZQRW1IUkttalFCQXhVdEFfNTNDdlgtYnR1T2N6RVJpOXF3U1JIM3lUU0NWQnpSbFVEaFc3OE5obnQxZ0FXeFNtWTBNRGV6QUVYby1pOFJGOHhlblZQR0I2eF9MaDF5dw?oc=5",
@@ -209,6 +241,14 @@
       "date": "2026-11-25",
       "source": "PR TIMES",
       "category": "policy"
+    },
+    {
+      "title": "コスモエネルギーグループ、小豆島太陽光発電所に蓄電池を併設へ",
+      "summary": "コスモエネルギーグループ、小豆島太陽光発電所に蓄電池を併設へ&nbsp;&nbsp;Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nVGdnXzZ4YXowM09ONVlEUHRGR1JsX3ZvdTRDbzNHRkhUQzJha29WRU56T3RYYzRIdDJXNnp5WVVISy0yY3Zz?oc=5",
+      "date": "2026-11-25",
+      "source": "Dellows News",
+      "category": "market"
     },
     {
       "title": "太陽光発電設備の定期点検・故障や盗難からの復旧・使用前自己確認を一つの窓口に。「太陽光あんしんナビ」を公開",
@@ -264,14 +304,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lTDhDQWZKMjRkcmk0ajdqNlFEUnhOZXlFZkJzbGdnNHdMR3RNX2JJdGdnMVVPOGFUVFJ5WFQ2WjFac2hqV2lCMWhlT0FiVWFJcS1Gd0tqeGpCRjYxalZGdHhpT2FmYzJ3a1NCZNIBckFVX3lxTFBabkprbnM5M2Q0bFRlczJNUkJrVnducnVENWZhdE5OUWJzdVhUWU5MaXc2c3FLWXhET1N2eVZwNDVDeDJ1NC15ZTJPbDRwaUtoWUY0SHF5aUh5MllESy1RRE1iWUpzU1pzM3I4YjVCWWlHdw?oc=5",
       "date": "2026-11-24",
       "source": "Infoseek",
-      "category": "policy"
-    },
-    {
-      "title": "屋上太陽光発電：",
-      "summary": "屋上太陽光発電：&nbsp;&nbsp;Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRHRkMHNndEpfTFJ3LUcxd0p1WGthazRwejdDTVJqYmRWUlRXa29hSVJmMmVrejA1Skczc2VVdHU0bGgyNVF2VVBsNGVmTUMzQUtUVUg3RVNvSGs?oc=5",
-      "date": "2026-11-24",
-      "source": "Vietnam.vn",
       "category": "policy"
     },
     {
@@ -387,11 +419,11 @@
       "category": "market"
     },
     {
-      "title": "先達山のメガソーラー問題受け福島市が規制強化へ 景観計画改定、蓄電池も対象",
-      "summary": "先達山のメガソーラー問題受け福島市が規制強化へ 景観計画改定、蓄電池も対象&nbsp;&nbsp;KFB福島放送",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zblhhX1p3cDEtbDRYcmRNcndvWnhQMEF4LWZEUnU3UkF2VmxGZzR6WE11Z1NRT3l0R1VySUFKbzdtZnV2dDB6bXFMNmNFSlhjQjVXNzZB?oc=5",
+      "title": "太陽光パネルによる景観悪化受け福島市が「メガソーラー規制強化」へ条例改正案",
+      "summary": "太陽光パネルによる景観悪化受け福島市が「メガソーラー規制強化」へ条例改正案&nbsp;&nbsp;河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZUk0cDZxVHhRUlRKNlF0NVNFRU1VOUxMd3lCVEt1clNKc1R6aFNTd3RwVldPWTAtM0poSzhqTllzV1dCOGZIVWRuWnQ5dFRsNFhHT3B3aGtvbDA?oc=5",
       "date": "2026-11-19",
-      "source": "KFB福島放送",
+      "source": "河北新報オンライン",
       "category": "policy"
     },
     {
@@ -459,6 +491,14 @@
       "category": "market"
     },
     {
+      "title": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO）",
+      "summary": "【卒FITの太陽光、売るか使うか】売電8.50円、買う電気は1kWh39.39円。昼に1日2kWhで年約2万2550円（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV0xCRGN1Sm5EYkQwcjJ1MkxFSzVDcGc4WWtoNktud3d0czZIZG8xZi1IdV91U0p1UFBHYW9OUVB4R2Faam1wWU53US1nb2dqUEROaTRET3gzdndlNUFmOXRVVWo1blpmRTRweV9sMmw2X0QwQnFMa0ZoZkNWTTQ?oc=5",
+      "date": "2026-11-18",
+      "source": "Yahoo!ニュース",
+      "category": "policy"
+    },
+    {
       "title": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注",
       "summary": "旭テクノロジー、石油資源開発向け太陽光発電所 2案件（合計約3.09MW）を受注&nbsp;&nbsp;共同通信PRワイヤー",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hdnNqT0JJZnNjRnBHRWtWYi10T2NQQk4wNGxDdi12MEtONlA2MmN4cUhQZXNHdGZ4Zk9mQlF0ZXVjQ2V1OGJEVnczQjRXUTI2Q1lZcUZuN2UwY0U?oc=5",
@@ -472,14 +512,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GVUhlQ2lvb1JPdUFqZTZ3YV8yN0JMTjNYY1pZWUJaeUFYNnRYT2ZUSTQ5Qzh3R1pMNWx1MTg4N0xmWFFZSGFXN1FxQ2hreUhkTjVOMFRIZldKWjRJMVAta3FUT2lxMXJ4c05CZ2YzeURodGRm?oc=5",
       "date": "2026-11-18",
       "source": "日経BP",
-      "category": "finance"
-    },
-    {
-      "title": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結",
-      "summary": "グッド・エナジー、兵庫県・長崎県の中古太陽光発電所の買取契約を締結&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRHVhWnFUYmdKSnpRSWRZSlg2dG1yRFlXejJtSVo4OW9SMEJwYTlETEJ0dVRINEdEQUV0RTA4MGFhNVMwb3NSVmxjZkY5aEVCM013VHFoUjhnMWRWY195TUloUEZBaGxKQUE?oc=5",
-      "date": "2026-11-18",
-      "source": "PR TIMES",
       "category": "finance"
     },
     {
@@ -577,14 +609,6 @@
       "date": "2026-11-16",
       "source": "SOLAR JOURNAL",
       "category": "om_tech"
-    },
-    {
-      "title": "太陽光発電所への蓄電池併設プロジェクトを初完工",
-      "summary": "太陽光発電所への蓄電池併設プロジェクトを初完工&nbsp;&nbsp;東芝",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKbVc2UXJsTUg5SHZkS0E5WjZsMjJGT3VxNlV3andTdzZ3ckZXeUN3SWh4dTdVdEVZdVRSM0w4bGVmVzEtYlZqRU5vckF2cXQxQTdJNmpNeXRIaDIwRkdaMk5NcmhmQjVLMC0zTlJRbENWNjI1OHl4VEl4Yw?oc=5",
-      "date": "2026-11-16",
-      "source": "東芝",
-      "category": "finance"
     },
     {
       "title": "【参加申し込み受付中！】2026年12月14日(月)「第40回PVビジネスセミナー」",
@@ -763,20 +787,20 @@
       "category": "industry"
     },
     {
-      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
-      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
-      "date": "2026-11-11",
-      "source": "日経BP メガソーラービジネス",
-      "category": "om_tech"
-    },
-    {
       "title": "日本が賭けるペロブスカイト太陽電池、期待先行で過熱も（現地レポート アメリカ太陽光発電の最前線）",
       "summary": "米調査会社SPVマーケットリサーチ（SPV Market Research）の最新レポート「Solar Flare（ソーラーフレア）」によると、2026年上半期（1～6月）の世界の太陽電池出荷量は、結晶シリコン系と薄膜系の合計で351.3GWとなり、前年同期比20％減少した（連系出力ベース）。　技術別の内訳を見ると、2",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00003/111100232/?ST=msb",
       "date": "2026-11-11",
       "source": "日経BP メガソーラービジネス",
       "category": "industry"
+    },
+    {
+      "title": "雑草によるアラートが急増――夏の高温化と多雨の影響か（メガソーラー・トラブルシューティング）",
+      "summary": "このシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&M（運用・保守）サービスを担う中で対応してきたトラブル事例を取り上げている。同社は、2007年に創業した電気設備工事会社で、太陽光発電の施工も多く担当している。  　近年に新設された太陽光発電所は、低圧配電線に連系している小規模な案件の一部を除いて、",
+      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00223/?ST=msb",
+      "date": "2026-11-11",
+      "source": "日経BP メガソーラービジネス",
+      "category": "om_tech"
     },
     {
       "title": "【工務店必見】変わる住宅太陽光の提案 各家庭の状況に合わせた4つの提案パターン",
@@ -883,14 +907,6 @@
       "category": "market"
     },
     {
-      "title": "太陽光発電投資から、次の資産運用へ。新たな投資先や資産分散を検討する方に、多彩な投資商品を横断比較できる投資商品比較サイト『タイナビVISTA』、掲載商品を15件から33件に拡充し本格始動",
-      "summary": "太陽光発電投資から、次の資産運用へ。新たな投資先や資産分散を検討する方に、多彩な投資商品を横断比較できる投資商品比較サイト『タイナビVISTA』、掲載商品を15件から33件に拡充し本格始動&nbsp;&nbsp;PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMW5oZ2lMVnJYNUQxdThhNzVBODE2LVdjUmozWGVUckVlMEpCNzVBT293YWdlRDhCajJoTjk5cWVJRFZNd0NUampRNURRVFVVaVVXNlF2c1J5YWR2NHQtdFYta2hmWi02eEE?oc=5",
-      "date": "2026-11-09",
-      "source": "PR TIMES",
-      "category": "finance"
-    },
-    {
       "title": "排出量取引制度、上限価格への張り付き予防に「過度なバンキング」を制限へ",
       "summary": "2026年4月からスタートした排出量取引制度（GX-ETS）の第2フェーズ。2027年秋頃に予定する「排出枠取引市場」の開設に向けて、経済産業省の「排出量取引制度小委員会」第9・10回会合では、上限価格に係る「みなし保有措置」、下限価格に係る「リバースオークション」、過度な「バンキング（繰越し）」を予防するための措置な",
       "link": "https://www.itmedia.co.jp/smartjapan/articles/2611/06/news034.html",
@@ -942,22 +958,6 @@
       "title": "関電と四電が「原子力PPA」、安定した脱炭素電力を供給（ニュース）",
       "summary": "関西電力は、既設の原子力・水力発電所を対象にしたオフサイト型PPA（電力購入契約）による電力販売を開始する。10月30日、2027年度中の供給を予定する案件を対象に、小売電気事業者向け受け付けを開始した。　同PPAは、同社が運営する既設の原子力・水力発電所の電力と環境価値を一体的に供給するもの。太陽光・風力発電と比べて",
       "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06180/?ST=msb",
-      "date": "2026-11-05",
-      "source": "日経BP メガソーラービジネス",
-      "category": "market"
-    },
-    {
-      "title": "カルコパイライト太陽電池の量産、県がPXPを1.6億円支援（ニュース）",
-      "summary": "フレキシブルな（柔軟性のある）次世代太陽電池の開発を手掛けるベンチャー企業のPXP（相模原市）は10月29日、相模原市南区に新設するカルコパイライト太陽電池の量産工場が、神奈川県の企業誘致施策「セレクト神奈川NEXT」における企業立地支援事業に認定されたと発表した。同認定により約1.6億円の支援を受ける予定。　同社は、",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06179/?ST=msb",
-      "date": "2026-11-05",
-      "source": "日経BP メガソーラービジネス",
-      "category": "industry"
-    },
-    {
-      "title": "ツルハと東邦銀、オフサイトPPAで太陽光電力を調達（ニュース）",
-      "summary": "東北電力は、東邦銀行とツルハグループに向けて、それぞれ太陽光発電所を活用したオフサイト型PPA（電力購入契約）サービスを提供する。11月2日に発表した。　東邦銀行へのオフサイト型PPAサービスは、福島県内の太陽光発電所5カ所で発電した電力を、アグリゲーターである東芝が卸供給し、小売電気事業者である東北電力が東邦銀行の福",
-      "link": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06178/?ST=msb",
       "date": "2026-11-05",
       "source": "日経BP メガソーラービジネス",
       "category": "market"
